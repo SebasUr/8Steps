@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Landing Page Design | Codegrid</title>
+		<link rel="stylesheet" href="styles2.css" />
+		<script src="https://unpkg.co/gsap/dist/gsap.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+
+	</head>
+	<body>
+
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+
+
+        <div id="loading-screen">
+            <div class="loading-content">
+                <img src="./logosvg.svg" alt="Logo" class="loading-logo">
+            </div>
+        </div>
+
+
+
+		<div class="wrapper">
+            <div class="site-logo">
+                <img src="./logosvg.svg" alt="Icono" class="logo-icon">
+                <span class="bold-text">8STE</span><span class="normal-text">PS</span>
+            </div>
+
+			<div class="navbar">
+				<div class="site-info">magneto</div>
+				<div class="site-menu">
+					<div class="menu-item">about</div>
+					<div class="menu-item">contact</div>
+				</div>
+			</div>
+			<div class="header">
+				<div class="header-left">
+					Descubre la ruta a<br /><span>tu trabajo ideal</span>
+					<div class="link"><a href="#">view showreel</a></div>
+				</div>
+				<div class="header-right">/dev</div>
+			</div>
+			
+            
+
+
+		</div>
+
+        <div id="video-section">
+            <div class="separator"></div>
+            
+            <video id="background-video" autoplay muted loop>
+                <source src="./video.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+ 
+	</body>
+	<script>
+
+const coords = { x: 0, y: 0 };
+const circles = document.querySelectorAll(".circle");
+
+const colors = [
+  "#ffb56b",
+  "#fdaf69",
+  "#f89d63",
+  "#f59761",
+  "#ef865e",
+  "#ec805d",
+  "#e36e5c",
+  "#df685c",
+  "#d5585c",
+  "#d1525c",
+  "#c5415d",
+  "#c03b5d",
+  "#b22c5e",
+  "#ac265e",
+  "#9c155f",
+  "#950f5f",
+  "#830060",
+  "#7c0060",
+  "#680060",
+  "#60005f",
+  "#48005f",
+  "#3d005e"
+];
+
+circles.forEach(function (circle, index) {
+  circle.x = 0;
+  circle.y = 0;
+  circle.style.backgroundColor = colors[index % colors.length];
+});
+
+window.addEventListener("mousemove", function(e){
+  coords.x = e.clientX;
+  coords.y = e.clientY;
+  
+});
+
+function animateCircles() {
+  
+  let x = coords.x;
+  let y = coords.y;
+  
+  circles.forEach(function (circle, index) {
+    circle.style.left = x - 12 + "px";
+    circle.style.top = y - 12 + "px";
+    
+    circle.style.scale = (circles.length - index) / circles.length;
+    
+    circle.x = x;
+    circle.y = y;
+
+    const nextCircle = circles[index + 1] || circles[0];
+    x += (nextCircle.x - x) * 0.3;
+    y += (nextCircle.y - y) * 0.3;
+  });
+ 
+  requestAnimationFrame(animateCircles);
+}
+
+animateCircles();
+
+
+        window.addEventListener('load', function () {
+            // Inicializa GSAP para el logo
+            const loadingScreen = document.getElementById('loading-screen');
+            const logo = document.querySelector('.loading-logo');
+            
+            // Animación del logo al centro
+            gsap.fromTo(logo, 
+                { scale: 1, opacity: 1 }, 
+                { 
+                    scale: 0.5, 
+                    opacity: 0,
+                    duration: 1.5,
+                    ease: 'power2.inOut',
+                    onComplete: () => {
+                        // Ocultar la pantalla de carga después de la animación
+                        gsap.to(loadingScreen, {
+                            opacity: 0,
+                            duration: 0.5,
+                            onComplete: () => {
+                                loadingScreen.style.display = 'none';
+                            }
+                        });
+                    }
+                }
+            );
+        });
+
+		const allcontainer = gsap.utils.toArray(".container-item");
+		const venueImageWrap = document.querySelector(".container-img-wrap");
+		const venueImage = document.querySelector(".container-img");
+
+		function initcontainer() {
+			allcontainer.forEach((link) => {
+				link.addEventListener("mouseenter", venueHover);
+				link.addEventListener("mouseleave", venueHover);
+				link.addEventListener("mousemove", moveVenueImage);
+			});
+		}
+
+		function moveVenueImage(e) {
+			// Obtener el ancho y alto de la ventana
+			let windowWidth = window.innerWidth;
+			let windowHeight = window.innerHeight;
+
+			// Calcular la posición central de la pantalla
+			let centerX = windowWidth / 2.65;
+			let centerY = windowHeight / 1.2;
+
+			const tl = gsap.timeline();
+			tl.to(venueImageWrap, {
+				x: centerX,
+				y: centerY,
+			});
+		}
+
+		function init() {
+			initcontainer();
+		}
+
+		window.addEventListener("load", function () {
+			init();
+		});
+
+		tl = new TimelineMax();
+
+		tl.from(".navbar > div", 1.6, {
+			opacity: 0,
+			y: 60,
+			ease: Expo.easeInOut,
+			delay: 0.6,
+		});
+
+		tl.from(
+			".site-logo",
+			1.6,
+			{
+				opacity: 0,
+				y: 40,
+				ease: Expo.easeInOut,
+			},
+			"-=1.6"
+		);
+
+		tl.staggerFrom(
+			".site-menu > div",
+			1,
+			{
+				opacity: 0,
+				y: 60,
+				ease: Power2.easeOut,
+			},
+			0.2
+		);
+
+		tl.staggerFrom(
+			".header > div",
+			1,
+			{
+				opacity: 0,
+				y: 60,
+				ease: Power2.easeOut,
+				delay: -1.4,
+			},
+			0.2
+		);
+
+        gsap.from(
+        ".separator, #background-video, .video-section",
+        2,
+        {
+          y: "200",
+          opacity: 0,
+          ease: Expo.easeInOut,
+          delay: 1,
+          stagger: 0.08,
+        }
+      );
+
+
+      
+	</script>
+</html>
