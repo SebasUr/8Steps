@@ -67,14 +67,33 @@
 				<div class="header-left">
 					Descubre la ruta a<br /><span>tu trabajo ideal</span>
 					<div class="link"><a href="#">view showreel</a></div>
+
+
+
+
 				</div>
 				<div class="header-right">/dev</div>
+
+                
 			</div>
+
+            <div class="search-bar">
+                <select id="optionSelector" onchange="updateSearchBar()">
+                    <option value="soy">Soy</option>
+                    <option value="quiero">Quiero trabajar como</option>
+                </select>
+                <div id="searchFields" class="search-fields">
+                    <input type="text" placeholder="Profesión o estudio actual" class="input-field" > 
+                    <input type="text" placeholder="Tu trabajo deseado, puedes añadir en donde!." class="input-field" id="input-field-soy">
+                    <span id="andText"> y quiero trabajar como</span>
+                    <input type="text" placeholder="Trabajo deseado, puedes añadir en donde!" class="input-field">
+                </div>
+            </div>    
 			
             
-
-
 		</div>
+
+        
 
         <div id="video-section">
             <div class="separator"></div>
@@ -249,6 +268,26 @@ animateCircles();
           stagger: 0.08,
         }
       );
+
+      function updateSearchBar() {
+        const selector = document.getElementById("optionSelector");
+        const andText = document.getElementById("andText");
+        const searchFields = document.getElementById("searchFields");
+        const inputFields = searchFields.getElementsByClassName("input-field");
+
+        if (selector.value === "soy") {
+            inputFields[0].style.display = "block";
+            inputFields[1].style.display = "none"
+            andText.style.display = "inline";
+            inputFields[2].style.display = "block";
+        } else {
+            inputFields[0].style.display = "none";
+            inputFields[1].style.display = "block";
+            andText.style.display = "none";
+            inputFields[2].style.display = "none";
+        }
+    }
+
 
 
       
