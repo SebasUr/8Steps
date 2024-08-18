@@ -204,7 +204,6 @@ html,body {
 	box-shadow:  0px 0px 26px -16px rgb(255, 255, 255)
 }
 
-
 .circle {
 	height: 24px;
 	width: 24px;
@@ -216,7 +215,6 @@ html,body {
 	pointer-events: none;
 	z-index: 99999999; /* so that it stays on top of all other elements */
   }
-
 
 /* Searchbar ----------------------------------------- */ 
 
