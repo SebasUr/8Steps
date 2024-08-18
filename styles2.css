@@ -1,3 +1,5 @@
+/* General Styles ----------------------------------------- */ 
+
 * {
 	margin: 0;
 	padding: 0;
@@ -8,11 +10,10 @@ html,body {
 	width: 100%;
 	height: 100vh;
 	box-sizing: border-box;
-	background: #000000;
+	background: rgba(24, 24, 24, 0.98);
 	color:aliceblue;
-	overflow: hidden;
+	overflow:hidden;
 }
-
 
 .container-items {
 	position: absolute;
@@ -22,38 +23,6 @@ html,body {
 	display: flex;
 	align-items: center;
 	cursor: pointer;
-}
-
-h3 {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	color: #000;
-}
-
-img {
-	width: 100%;
-}
-
-.container-img-wrap {
-	position: absolute;
-	top: -85rem;
-	left: -80px;
-	width: 400px;
-	height: 500px;
-	overflow: hidden;
-	pointer-events: none;
-	visibility: hidden;
-}
-
-.container-img {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	background-size: cover;
 }
 
 @media (max-width: 900px) {
@@ -88,9 +57,9 @@ img {
 }
 
 .logo-icon {
-    width: 70px; /* Ajusta el tamaño del SVG según sea necesario */
+    width: 62px; /* Ajusta el tamaño del SVG según sea necesario */
     height: auto;
-    margin-right: 2px; /* Elimina el margen entre el SVG y el texto */
+    margin-right: 3px; /* Elimina el margen entre el SVG y el texto */
     vertical-align: middle; /* Alinea el SVG al centro verticalmente con el texto */
     filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);
 }
@@ -105,17 +74,16 @@ img {
     display: inline-block;
 }
 
-
 .navbar {
-	position: fixed;
-	width: 100%;
-	height: 100px;
-	padding: 0 40px;
-	display: flex;
-	justify-content: space-between;
-	font-family: oswald, Helvetica, sans-serif;
-	text-transform: uppercase;
-	line-height: 100px;
+    position: relative; /* Usa relative si no necesitas que se quede fijo */
+    width: 80%;
+    height: 100px;
+    /* padding: 0 40px; */
+    display: flex;
+    justify-content: space-between;
+    font-family: oswald, Helvetica, sans-serif;
+    text-transform: uppercase;
+    line-height: 100px;
 }
 
 .site-menu {
@@ -127,16 +95,16 @@ img {
 }
 
 .header {
-	position: absolute;
-	width: 100%;
-	display: flex;
-	justify-content: space-between;
-	top: 20%;
-	padding: 40px;
-	text-transform: uppercase;
-	font-family: "Roboto";
-	font-size: 40px;
-	z-index: 2;
+    position: relative;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    top: 20%;
+    padding-top: 100px;
+    text-transform: uppercase;
+    font-family: "Roboto";
+    font-size: 40px;
+    z-index: 2;
 }
 
 .header-left span {
@@ -155,8 +123,35 @@ img {
 	color: #000;
 }
 
+.header-right {
+    position: relative;
+    cursor: pointer;
+}
 
-/* Estilos para la pantalla de carga */
+.hover-text {
+    display: none;
+	text-transform: none;
+	font-size: small;
+    left: 0;
+    background-color: #292929;
+    padding: 10px 15px;
+    border: 1px solid #292929;
+    border-radius: 8px;
+    white-space: nowrap;
+    opacity: 0;
+    transform: translateY(-20px) scale(0.95); /* Comienza desplazado y reducido */
+    transition: opacity 0.6s ease, transform 0.6s ease;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Sombra suave para dar profundidad */
+}
+
+.header-right:hover .hover-text {
+    display: block;
+    opacity: 1;
+    transform: translateY(0) scale(1); /* Desplaza a su lugar y expande suavemente */
+}
+
+
+/* Estilos para la pantalla de carga -----------------------------------------------------*/
 #loading-screen {
     position: fixed;
     top: 0;
@@ -167,7 +162,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    z-index: 9999; /* Asegúrate de que esté sobre todo el contenido */
+    z-index: 9999;
     transition: opacity 0.5s ease-out;
 }
 
@@ -177,7 +172,7 @@ img {
 }
 
 .loading-logo {
-    width: 150px; /* Ajusta el tamaño del logo según sea necesario */
+    width: 150px;
     animation: fadeIn 3s ease-out;
 	filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);
 
@@ -194,35 +189,21 @@ img {
 }
 
 
-/* Estilos para el video y la línea separadora */
-#video-section {
-    position: fixed; /* Asegura que esté en la parte inferior de la pantalla */
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 30vh; /* Ajusta la altura del video al 30% de la altura de la ventana */
-    overflow: hidden;
-    z-index: 1; /* Asegura que esté debajo del contenido principal */
-}
+/* Estilos para el video y la línea separadora --------------------------------------------------------*/
 
 #background-video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover; /* Mantiene la proporción del video */
+	width: 80%;
+    max-width: 100%;
+    height: auto;
+    border: 3px solid #292929;
+    border-radius: 10px;
+    background-color: black;
+    object-fit: cover;
+    margin-top: 90px;
+    height: 220px;
+	box-shadow:  0px 0px 26px -16px rgb(255, 255, 255)
 }
 
-.separator {
-    position: absolute;
-    top: 10;
-    left: 0;
-    width: 100%;
-    height: 5px; 
-    background-color: white;
-    z-index: 5; 
-}
 
 .circle {
 	height: 24px;
@@ -237,17 +218,21 @@ img {
   }
 
 
-
+/* Searchbar ----------------------------------------- */ 
 
 .search-bar {
+    position: relative; /* Cambia a relative para que se mueva con el contenido */
     display: flex;
     align-items: center;
     background-color: #ffffff;
+	padding: 10px 20px;
     border-radius: 50px;
-    padding: 10px 20px;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-	font-family: Arial;
+	box-shadow:  0px 0px 36px -16px rgb(255, 255, 255);
+    font-family: Arial;
+    margin-top: 20px; /* Ajusta el margen superior si es necesario */
+	width: 80%;
 }
+
 
 select {
     background-color: #ffffff;
@@ -265,6 +250,7 @@ select {
 .search-fields {
     display: flex;
     align-items: center;
+	width: 100%;
 }
 
 .input-field {
@@ -293,3 +279,80 @@ select {
 	text-transform: none;
 	font-weight: 250;
 }
+
+.wrapper {
+    display: flex;
+    flex-direction: column; /* Organiza los elementos verticalmente */
+    align-items: center; /* Centra horizontalmente todos los elementos */
+    padding: 10px;
+    width: 100%;
+    position: relative; /* Asegúrate de que tenga un contexto de posición relativo */
+}
+
+/* Botón */
+
+button {
+	position: relative;
+	display:block;
+	height: 45px;
+	width: 20%;
+	margin: 10px 7px;
+	margin-top: 60px;
+	padding: 5px 5px;
+	font-weight: 700;
+	font-size: 15px;
+	letter-spacing: 2px;
+	color: #ffffff;
+	border: 2px #ffffff solid;
+	border-radius: 50px;
+	box-shadow:  0px 0px 36px -16px rgb(255, 255, 255);
+	text-transform: uppercase;
+	outline: 0;
+	overflow:hidden;
+	background: none;
+	z-index: 1;
+	cursor: pointer;
+	transition:         0.08s ease-in;
+	-o-transition:      0.08s ease-in;
+	-ms-transition:     0.08s ease-in;
+	-moz-transition:    0.08s ease-in;
+	-webkit-transition: 0.08s ease-in;
+  }
+  
+  .slide:after{
+	content:"Ver trayectoria";
+	position:absolute;
+	width:100%;
+	height:100%;
+	left:0;
+	text-align:center;
+	-webkit-transition: all 400ms cubic-bezier(0.680, -0.550, 0.265, 1.550); 
+  }
+  
+  .slide:before {
+	content:"Descúbrela! →";
+	height:100%;
+	width:100%;
+	position:absolute;
+	color:#ffffff;
+	left:-100%;
+	opacity: 0;
+	-webkit-transition: all 500ms cubic-bezier(0.680, -0.550, 0.265, 1.550); 
+  }
+  
+  .slide:hover{
+	background:#ffffff;
+  }
+  
+  .slide:hover:before{
+	left:0;
+	opacity:1;
+	color:#000000;
+  }
+  .slide:hover:after{
+	left:100%;
+	opacity:0;
+  }
+  
+
+
