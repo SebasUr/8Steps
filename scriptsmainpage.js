@@ -187,3 +187,7 @@ if (selector.value === "soy") {
     inputFields[2].style.display = "none";
 }
 }
+
+function redirect() {
+    window.location.href = 'stepspage.html'; // Cambia 'nombre_del_archivo.html' por el nombre de tu archivo HTML
+}
