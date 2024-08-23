@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>8STEPS</title>
+		<link rel="stylesheet" href="../static/css/mainpage.css" />
+		<script src="https://unpkg.co/gsap/dist/gsap.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+	</head>
+	<body>
+
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+
+        <div id="loading-screen">
+            <div class="loading-content">
+                <img src="../static/media/logosvg.svg" alt="Logo" class="loading-logo">
+            </div>
+        </div>
+
+		<div class="wrapper">
+            <div class="site-logo">
+                <img src="../static/media/logosvg.svg" alt="Icono" class="logo-icon">
+                <span class="bold-text">8STE</span><span class="normal-text">PS</span>
+            </div>
+
+			<div class="navbar">
+				<div class="site-info">magneto</div>
+				<div class="site-menu">
+					<div class="menu-item">about</div>
+					<div class="menu-item">contact</div>
+				</div>
+			</div>
+			<div class="header">
+				<div class="header-left">
+					Descubre la ruta a<br /><span>tu trabajo ideal</span>
+					<div class="link"><a href="#">view showreel</a></div>
+                    </div>
+				    <div class="header-right">/dev
+                        <div class="hover-text">
+                            Tazana2<br />
+                            DavidLondo<br />
+                            SebasUr
+                        </div>
+                    </div>
+			</div>
+
+            <div class="search-bar">
+                <select id="optionSelector" onchange="updateSearchBar()">
+                    <option value="soy">Soy</option>
+                    <option value="quiero">Quiero trabajar como</option>
+                </select>
+                <div id="searchFields" class="search-fields">
+                    <input type="text" placeholder="Profesión o estudio actual" class="input-field" > 
+                    <input type="text" placeholder="Tu trabajo deseado, puedes añadir en donde!." class="input-field" id="input-field-soy">
+                    <span id="andText"> y quiero trabajar como</span>
+                    <input type="text" placeholder="Trabajo deseado, puedes añadir en donde!" class="input-field">
+                </div>
+            </div>
+
+
+            <button class="slide" onclick="redirect()">&nbsp;</button>
+            
+
+
+            <video id="background-video" autoplay muted loop>
+                <source src="../static/media/video.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            
+            
+        </div>
+
+	</body>
+<script src="../static/js/scriptsmainpage.js"> </script>
+</html>
