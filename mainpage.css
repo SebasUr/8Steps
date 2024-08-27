@@ -86,12 +86,21 @@ html,body {
     line-height: 100px;
 }
 
+.site-link {
+    text-decoration: none;
+    color: inherit; /* Mantiene el color del texto original */
+}
+
+
+
 .site-menu {
 	display: flex;
+    pointer-events: auto;
 }
 
 .menu-item {
 	margin-left: 60px;
+    cursor: pointer;
 }
 
 .header {
