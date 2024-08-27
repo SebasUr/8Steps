@@ -201,6 +201,7 @@ body {
   filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);
   cursor: pointer;
   z-index: 9999999999999999;
+  pointer-events: auto;
 }
 
 
