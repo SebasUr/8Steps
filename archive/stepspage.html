@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>horizontal scroll sections</title>
+    <link rel="stylesheet" href="stepspage.css" />
+    <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@4.0.6/dist/locomotive-scroll.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  </head>
+  <body>
+
+    
+
+
+    <div class="blocks">
+
+      <div class="navbar">
+        <div class="navbar-logo">
+            <a href="mainpage.html">
+              <img src="./media/logosvg.svg"  alt="Logo" class="logo">
+            </a>  
+        </div>
+        <ul class="navbar-menu">
+        </ul>
+    </div>
+    
+      <div class="block init" data-block-section="1" data-href="journal">
+        <div class="block__title">Step1</div>
+        <div class="block__number">01</div>
+      </div>
+      <div class="block init" data-block-section="2" data-href="collection">
+        <div class="block__title">Step2</div>
+        <div class="block__number">02</div>
+      </div>
+      <div class="block init" data-block-section="3" data-href="material">
+        <div class="block__title">Step3</div>
+        <div class="block__number">03</div>
+      </div>
+      <div class="block init" data-block-section="4" data-href="production">
+        <div class="block__title">Step4</div>
+        <div class="block__number">04</div>
+      </div>
+      <div class="block init" data-block-section="5" data-href="journal">
+        <div class="block__title">Step5</div>
+        <div class="block__number">05</div>
+      </div>
+      <div class="block init" data-block-section="6" data-href="journal">
+        <div class="block__title">Step6</div>
+        <div class="block__number">06</div>
+      </div>
+      <div class="block init" data-block-section="7" data-href="journal">
+        <div class="block__title">Step7</div>
+        <div class="block__number">07</div>
+      </div>
+      <div class="block init" data-block-section="8" data-href="journal">
+        <div class="block__title">Step8</div>
+        <div class="block__number">08</div>
+      </div>
+      <div class="block init" data-block-section="9" data-href="journal">
+        <div class="block__title">Resume</div>
+        <div class="block__number">R</div>
+      </div>
+    </div>
+    <main data-scroll-container>
+      <div class="wrap" data-scroll-section>
+        <section class="section 1" data-block-section="1" id="home">
+
+          <div class="Jobs">
+            <div class="JobsCard">
+              <h1 class="JobsCard-Title">Frontend Developer</h1>
+              <h2 class="JobsCard-Image">
+                <i class="#"></i>
+              </h2>
+              <div class="JobsCard-JobDescription">
+                 Bacon ipsum dolor amet flank chicken cupim 
+              </div>
+             <div class="Button" onClick="readMore(this)">Read more</div>
+            </div>
+
+            <div class="JobsCard">
+              <h1 class="JobsCard-Title">Full Stack Developer</h1>
+              <h2 class="JobsCard-Image">
+                <i class="#"></i>
+              </h2>
+              <div class="JobsCard-JobDescription">
+                 Bacon ipsum dolor amet flank chicken cupim 
+              </div>
+             <div class="Button" onClick="readMore(this)">Read more</div>
+            </div>
+
+            <div class="JobsCard">
+              <h1 class="JobsCard-Title">BackEnd Developer</h1>
+              <h2 class="JobsCard-Image">
+                <i class="#"></i>
+              </h2>
+              <div class="JobsCard-JobDescription">
+                 Bacon ipsum dolor amet flank chicken cupim 
+              </div>
+             <div class="Button" onClick="readMore(this)">Read more</div>
+            </div>
+          </div>
+
+        </section>
+        <section class="section 2" data-block-section="2" id="collection">
+          
+          <div class="Jobs">
+            <div class="JobsCard">
+              <h1 class="JobsCard-Title">Frontend Developer</h1>
+              <h2 class="JobsCard-Image">
+                <i class="#"></i>
+              </h2>
+              <div class="JobsCard-JobDescription">
+                 Bacon ipsum dolor amet flank chicken cupim 
+              </div>
+             <div class="Button" onClick="readMore(this)">Read more</div>
+            </div>
+
+            <div class="JobsCard">
+              <h1 class="JobsCard-Title">Full Stack Developer</h1>
+              <h2 class="JobsCard-Image">
+                <i class="#"></i>
+              </h2>
+              <div class="JobsCard-JobDescription">
+                 Bacon ipsum dolor amet flank chicken cupim 
+              </div>
+             <div class="Button" onClick="readMore(this)">Read more</div>
+            </div>
+
+            <div class="JobsCard">
+              <h1 class="JobsCard-Title">BackEnd Developer</h1>
+              <h2 class="JobsCard-Image">
+                <i class="#"></i>
+              </h2>
+              <div class="JobsCard-JobDescription">
+                 Bacon ipsum dolor amet flank chicken cupim 
+              </div>
+             <div class="Button" onClick="readMore(this)">Read more</div>
+            </div>
+          </div>
+
+        </section>
+        <section class="section 3" data-block-section="3" id="material">
+          Material Lorem Ipsum is <br />
+          simply dummy text of the <br />
+          printing and typesetting <br />industry.
+        </section>
+        <section class="section 4" data-block-section="4" id="production" >
+          Production Lorem Ipsum is <br />
+          simply dummy text of the <br />
+          printing and typesetting <br />industry.
+        </section>
+        <section class="section 5" data-block-section="5" id="journal">
+          Journal Lorem Ipsum is <br />
+          simply dummy text of the <br />
+          printing and typesetting <br />industry.
+        </section>
+        <section class="section 6" data-block-section="6" id="journal">
+          Journal Lorem Ipsum is <br />
+          simply dummy text of the <br />
+          printing and typesetting <br />industry.
+        </section>
+        <section class="section 7" data-block-section="7" id="journal">
+          Journal Lorem Ipsum is <br />
+          simply dummy text of the <br />
+          printing and typesetting <br />industry.
+        </section>
+        <section class="section 8" data-block-section="8" id="journal">
+          Journal Lorem Ipsum is <br />
+          simply dummy text of the <br />
+          printing and typesetting <br />industry.
+        </section>
+        <section class="section 9" data-block-section="9" id="journal">
+          XD <br />
+          simply dummy text of the <br />
+          printing and typesetting <br />industry.
+        </section>
+      </div>
+    </main>
+  </body>
+  <script>
+    const scroll = new LocomotiveScroll({
+      el: document.querySelector("[data-scroll-container]"),
+      smooth: true,
+      direction: "horizontal",
+    });
+
+    let blocks = document.querySelectorAll(".block[data-block-section]");
+    scroll.on("scroll", (args) => {
+      blocks.forEach((block) => {
+        let attr = block.getAttribute("data-block-section");
+        let section = document.querySelector(
+          `section[data-block-section='${attr}']`
+        );
+
+        if (section.getBoundingClientRect().left <= block.offsetWidth * 2) {
+          block.classList.add("fixed");
+          block.classList.remove("init");
+          block.classList.remove("active");
+          block.style.left = "";
+        } else if (section.getBoundingClientRect().left >= window.innerWidth - block.offsetWidth * (2)) {
+          block.classList.add("init");
+          block.classList.remove("active");
+          block.classList.remove("fixed");
+          block.style.left = "";
+        } else {
+          block.classList.add("active");
+          block.classList.remove("init");
+          block.classList.remove("fixed");
+        }
+
+        if (block.classList.contains("active")) {
+          block.style.left = section.getBoundingClientRect().left + "px";
+        }
+      });
+    });
+  </script>
+</html>
