@@ -59,8 +59,9 @@
     animation: dash 3s cubic-bezier(0.35, 0.04, 0.63, 0.95) infinite;
   }
   .loading {
-    font-family: "Orbitron", sans-serif;
-    font-size: 7px;
+    font-family: "Oswald", sans-serif;
+    font-size: 6px;
+    font-stretch: expanded;
     animation: blink 2s ease-in-out infinite alternate;
   }
   
@@ -85,10 +86,11 @@
     height: max-content;
     text-align: left;
     border-bottom: 1px solid rgb(112, 112, 112);
+    padding-bottom: 3%;
   }
   .hint-title h3 {
     font-family: "roboto";
-    font-size: 3.7vw;
+    font-size: 2.7vw;
     font-weight: bolder;
     color: rgb(255, 255, 255);
   }
@@ -98,9 +100,8 @@
     text-align: left;
   }
   .hint-description p {
-    font-size: 1.5vw;
-    font-family: "roboto";
-    font-weight: bold;
+    font-size: 1.2vw;
+    font-family:"Roboto";
     line-height: 3vw;
     color: white;
     margin-top: 2%;

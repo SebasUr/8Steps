@@ -1,225 +1,171 @@
 [
     {
         "about_work": true,
-        "title": "Desarrollador de Software",
-        "description": "Comienza tu carrera como desarrollador de software para ganar experiencia en el desarrollo de aplicaciones y entender el ciclo de vida de un proyecto. Esto te permitir\u00e1 desarrollar habilidades-valiosas como programaci\u00f3n, resoluci\u00f3n de problemas y trabajo en equipo. Busca trabajar en una empresa que tenga proyectos variados y un ambiente de aprendizaje.",
-        "position-title": "Software Developer",
-        "duration": "12-18 months",
+        "title": "Data Analyst",
+        "description": "Como Data Analyst, podr\u00e1s desarrollar habilidades en an\u00e1lisis de datos y visualizaci\u00f3n, lo que te permitir\u00e1 entender patrones y tendencias en grandes conjuntos de datos. Esto te ser\u00e1 \u00fatil para identificar oportunidades de mejora y tomar decisiones informadas en tu carrera como Machine Learning Engineer. Aseg\u00farate de aprender herramientas como Excel, Tableau o Power BI, y familiarizarte con lenguajes de programaci\u00f3n como Python o R.",
+        "position-title": "Data Analyst",
+        "duration": "6-12 meses",
         "requirements": [
-            "Conocimientos en programaci\u00f3n en lenguajes como Java, Python, C++, etc.",
-            "Experiencia con frameworks y bibliotecas de desarrollo",
-            "Conocimientos en bases de datos"
-        ],
-        "abilities": [
-            "Trabajo en equipo",
-            "Resoluci\u00f3n de problemas",
-            "Comunicaci\u00f3n efectiva"
-        ],
-        "jobs_list": [
-            {
-                "title": "Software Developer",
-                "location": "Hanover, MD",
-                "snippet": "&nbsp;...challenging problems. You will learn, grow, understand, create, <b>develop,</b> contribute, and improve innovative solutions at one of the...&nbsp;&nbsp;...Currently, ManTech is seeking motivated, career and customer-oriented  <b>Software </b>Developers at  all  levels (from interns through the most...&nbsp;",
-                "salary": "",
-                "source": "cvwallet.comHotJobs",
-                "type": "Full-time",
-                "link": "https://jooble.org/jdp/8668303166548544959",
-                "company": "ManTech",
-                "updated": "2024-09-02T00:00:00.0000000",
-                "id": 8668303166548544959
-            },
-            {
-                "title": "Software Developers",
-                "location": "Alpharetta, GA",
-                "snippet": "&nbsp;...Prominds Business Consulting Inc seeks <b>Software Developers.</b> F/T, M-F, 9-5. Brief duty: Research, design, develop comp software, specialized utility programs. Analyze user needs, update, enhance apps/softwares and maintain database working alone or with a team. Req: Bcl...&nbsp;",
-                "salary": "",
-                "source": "jobsier.com",
-                "type": "",
-                "link": "https://jooble.org/jdp/6692625476795922161",
-                "company": "Prominds Business Consulting Inc",
-                "updated": "2024-09-14T15:04:53.2628553+00:00",
-                "id": 6692625476795922161
-            },
-            {
-                "title": "Software Developers",
-                "location": "Alpharetta, GA",
-                "snippet": "&nbsp;...an Alpharetta, GA, firm, is looking to fill positions with people who have experience in the following areas: \r\n~ Job Title: <b>Software Developer.</b> Requires a Master\u2019s Degree in Computer Science, Computer Engineering, or Information Technology, and 1 year of experience in...&nbsp;",
-                "salary": "",
-                "source": "jobsier.com",
-                "type": "",
-                "link": "https://jooble.org/jdp/-4221193121568825795",
-                "company": "Logic Loops LLC",
-                "updated": "2024-09-14T15:04:53.9801532+00:00",
-                "id": -4221193121568825795
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Desarrollador de Datos",
-        "description": "En este puesto, aprender\u00e1s a trabajar con grandes cantidades de datos y a extraer insights valiosos. Esto te permitir\u00e1 desarrollar habilidades en an\u00e1lisis de datos, visualizaci\u00f3n y machine learning. Busca trabajar en una empresa que tenga un equipo de datos establecido y proyectos interesantes.",
-        "position-title": "Data Developer",
-        "duration": "18-24 months",
-        "requirements": [
-            "Conocimientos en programaci\u00f3n en lenguajes como Python, R, SQL, etc.",
-            "Experiencia con herramientas de an\u00e1lisis de datos como pandas, NumPy, etc.",
-            "Conocimientos en bases de datos"
-        ],
-        "abilities": [
-            "An\u00e1lisis cr\u00edtico",
-            "Visualizaci\u00f3n de datos",
-            "Trabajo en equipo"
-        ],
-        "courses": [
-            "Curso de an\u00e1lisis de datos en Python",
-            "Curso de visualizaci\u00f3n de datos"
-        ],
-        "jobs_list": [
-            {
-                "title": "Data Warehouse Developer",
-                "location": "Santa Fe, NM",
-                "snippet": "** Position Description**\r\n**<b>Data </b>Warehouse <b>Developer*</b>* Location **Santa Fe** Job Code **500** # of openings **1** Thornburg Investment Management is a privately owned global investment firm offering a range of solutions for investors around the world. Founded in 1982...&nbsp;",
-                "salary": "",
-                "source": "appcast.io",
-                "type": "",
-                "link": "https://jooble.org/jdp/-3468210394583308810",
-                "company": "Thornburg Investment Management, Inc.",
-                "updated": "2024-09-13T00:00:00.0000000",
-                "id": -3468210394583308810
-            },
-            {
-                "title": "Data Scientist/Developer",
-                "location": "Germantown, MD",
-                "snippet": "&nbsp;...<b>DATA DEVELOPER/</b>SCIENCE \r\n Any valid US work authorization is OK. \r\n The position is onsite 5x weekly in GAITHERSBURG \r\n IF INTERESTED REACH OUT DIRECTLY TO ****@*****.*** \r\n VERY VERY IMPORTANT *** This is not your typical Data Scientist/DEVELOPER.  This resource...&nbsp;",
-                "salary": "",
-                "source": "appcast.io",
-                "type": "",
-                "link": "https://jooble.org/jdp/5292824226333806825",
-                "company": "System One Holdings, LLC",
-                "updated": "2024-09-14T02:35:22.8581125+00:00",
-                "id": 5292824226333806825
-            },
-            {
-                "title": "Information Services Developer Senior - Enterprise Data",
-                "location": "Tyler, TX",
-                "snippet": "&nbsp;...Description \r\n Summary: \r\n The Information Services <b>Developer </b>Senior is primarily responsible for designing, developing, and implementing...&nbsp;&nbsp;...implementation of proactive processes to collect and report <b>data </b>and statistics on assigned systems \r\n Participates in the research...&nbsp;",
-                "salary": "",
-                "source": "resume-library.clickast",
-                "type": "",
-                "link": "https://jooble.org/jdp/5392858587088959569",
-                "company": "Christus Health",
-                "updated": "2024-09-14T00:00:00.0000000",
-                "id": 5392858587088959569
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Curso Maestro: Visualizaciones y An\u00e1lisis de Datos en Python",
-                "description": "An\u00e1lisis de Datos en Python desde CERO | +45 Visualizaciones de Datos | Python, Pandas, Matplotlib, Plotly y + | Tableau",
-                "link": "https://www.udemy.com/course/curso-maestro-de-visualizaciones/"
-            },
-            {
-                "title": "Experto en An\u00e1lisis y Visualizaci\u00f3n de Datos",
-                "description": "Aprende herramientas esenciales para el an\u00e1lisis de datos como Excel, SQL, R, Looker Studio y Power BI",
-                "link": "https://www.udemy.com/course/experto-en-analisis-y-visualizacion-de-datos/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Cient\u00edfico de Datos",
-        "description": "En este puesto, aprender\u00e1s a aplicar t\u00e9cnicas de machine learning y-mining para resolver problemas comerciales. Esto te permitir\u00e1 desarrollar habilidades en machine learning, estad\u00edstica y visualizaci\u00f3n de datos. Busca trabajar en una empresa que tenga un equipo de datos establecido y proyectos interesantes.",
-        "position-title": "Data Scientist",
-        "duration": "24-36 months",
-        "requirements": [
-            "Conocimientos en machine learning y-mining",
-            "Experiencia con herramientas de an\u00e1lisis de datos como scikit-learn, TensorFlow, etc.",
-            "Conocimientos en estad\u00edstica"
+            "Excel",
+            "Tableau o Power BI",
+            "Python o R",
+            "An\u00e1lisis estad\u00edstico",
+            "Visualizaci\u00f3n de datos"
         ],
         "abilities": [
             "An\u00e1lisis cr\u00edtico",
             "Comunicaci\u00f3n efectiva",
-            "Liderazgo"
+            "Trabajo en equipo"
         ],
         "courses": [
-            "Curso de machine learning en Python",
-            "Curso de estad\u00edstica para cient\u00edficos de datos"
+            "Data Analysis with Python",
+            "Data Visualization with Tableau"
         ],
         "jobs_list": [
             {
-                "title": "Data Scientist I",
-                "location": "Pembroke Pines, FL",
-                "snippet": "&nbsp;...flexibility. \r\n \r\n **Qualified candidates must reside in the state of Florida** \r\n Position Purpose:  Responsible for advanced and predictive <b>data </b>analytics using big data and data science technology for healthcare innovation. Perform analysis using data science techniques on...&nbsp;",
+                "title": "Digital Data Analyst",
+                "location": "Mebane, NC",
+                "snippet": "&nbsp;...Description:    We are seeking a highly motivated and experienced <b>Analyst,</b> Digital Analytics to join our team and play a critical role in driving <b>data-</b>driven decision making. This role will focus on leveraging advanced analytics techniques to uncover insights from transactional...&nbsp;",
                 "salary": "",
-                "source": "careerwalletgroup.com",
+                "source": "jobrapido.CPA",
                 "type": "",
-                "link": "https://jooble.org/jdp/-3261258875131694230",
-                "company": "Sunshine State Health Plan",
-                "updated": "2024-09-14T00:59:46.4605984+00:00",
-                "id": -3261258875131694230
+                "link": "https://jooble.org/jdp/4107957463036787851",
+                "company": "TEKsystems",
+                "updated": "2024-09-14T19:21:45.8870000",
+                "id": 4107957463036787851
             },
             {
-                "title": "Data Scientist I",
-                "location": "North Chicago, IL",
-                "snippet": "&nbsp;...and  LinkedIn  . \r\n Job Description \r\n Come to work each day with an inclusive and collaborative Business technology team! As an <b>Data Scientist </b>I **** in AbbVie Business Technology Solutions (BTS), you\u2019ll have opportunities to contribute to the digital transformation of...&nbsp;",
+                "title": "Data Analyst",
+                "location": "Austin, TX",
+                "snippet": "&nbsp;...that foundation of success and bringing it to the digital space - ready to join us?\r\n What's the position?\r\n We are looking for a <b>Data Analyst </b>to join our quickly growing technology team. As a Data Analyst, you will be a central to ensuring the quality of our automated...&nbsp;",
                 "salary": "",
-                "source": "wayup.com",
-                "type": "Full-time",
-                "link": "https://jooble.org/jdp/-3769203469735388298",
-                "company": "AbbVie",
-                "updated": "2024-09-13T15:40:21.1600000",
-                "id": -3769203469735388298
+                "source": "appcast.io",
+                "type": "",
+                "link": "https://jooble.org/jdp/-5263347509211027244",
+                "company": "Hard Rock Digital",
+                "updated": "2024-09-14T00:00:00.0000000",
+                "id": -5263347509211027244
             },
+            {
+                "title": "Data Analyst",
+                "location": "Washington DC",
+                "snippet": "&nbsp;...experienced in cyber security, cloud computing, virtualization, big <b>data </b>analytics, and project management! IMTS offers competitive...&nbsp;&nbsp;...customers on-site at top government agencies. \r\n Job Title:  Data <b>Analyst </b>\r\n Primary Location:  Washington, DC \r\n Clearance:  Public Trust...&nbsp;",
+                "salary": "",
+                "source": "appcast.io",
+                "type": "",
+                "link": "https://jooble.org/jdp/6135372567945712094",
+                "company": "Innovative Management & Technology Services",
+                "updated": "2024-09-12T00:00:00.0000000",
+                "id": 6135372567945712094
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Data Analysis with Pandas and Python",
+                "description": "Analyze data quickly and easily with Python's powerful pandas library! All datasets included --- beginners welcome!",
+                "link": "https://www.udemy.com/course/data-analysis-with-pandas/"
+            },
+            {
+                "title": "2024 Tableau Certified Data Analyst Training",
+                "description": "(+40 Hours of Content) Tableau Public, Desktop, Prep, Online, Server, Bridge, Certifications",
+                "link": "https://www.udemy.com/course/tableau-for-beginners/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Data Scientist",
+        "description": "Como Data Scientist, podr\u00e1s aplicar tus habilidades en an\u00e1lisis de datos para resolver problemas complejos. Esto te permitir\u00e1 desarrollar modelos predictivos y habilidades en machine learning. Aseg\u00farate de aprender bibliotecas como scikit-learn, TensorFlow o PyTorch, y familiarizarte con t\u00e9cnicas defeature engineering y selecci\u00f3n de caracter\u00edsticas.",
+        "position-title": "Data Scientist",
+        "duration": "1-2 a\u00f1os",
+        "requirements": [
+            "Python",
+            "scikit-learn",
+            "TensorFlow o PyTorch",
+            "An\u00e1lisis estad\u00edstico",
+            "Machine learning"
+        ],
+        "abilities": [
+            "Resoluci\u00f3n de problemas",
+            "Aprendizaje autodidacta",
+            "Comunicaci\u00f3n efectiva"
+        ],
+        "courses": [
+            "Machine Learning with Python",
+            "Deep Learning with TensorFlow"
+        ],
+        "jobs_list": [
             {
                 "title": "DATA SCIENTIST",
-                "location": "Independence, MO",
+                "location": "Bellevue, NE",
                 "snippet": "&nbsp;...Major Duties \r\n Serves as a Senior <b>Data Scientist </b>and leads teams for the most complex projects and may also serve as a team participant or an independent analyst on professional data science teams. \r\n Applies the rigors of the data science discipline to data analysis...&nbsp;",
                 "salary": "",
                 "source": "wayup.com",
                 "type": "Full-time",
-                "link": "https://jooble.org/jdp/2246770037459748294",
+                "link": "https://jooble.org/jdp/-4991266781183571161",
                 "company": "U.S. Army Cyber Command",
                 "updated": "2024-09-13T07:31:17.5530000",
-                "id": 2246770037459748294
+                "id": -4991266781183571161
+            },
+            {
+                "title": "Data Scientist",
+                "location": "Chicago, IL",
+                "snippet": "Education & Experience Required: \r\n\r\n- Bachelor''s Degree (<b>Data </b>Science, Analytics, Computer Science, Engineering or related field)...&nbsp;&nbsp;...effectively. \r\n\r\n Position\u2019s Contributions to Work Group: \r\n\r\n-Data <b>Scientist </b>role to develop and deliver analytics models for client''s...&nbsp;",
+                "salary": "",
+                "source": "appcast.io",
+                "type": "",
+                "link": "https://jooble.org/jdp/7459328540045928085",
+                "company": "Rose International",
+                "updated": "2024-09-14T00:00:00.0000000",
+                "id": 7459328540045928085
+            },
+            {
+                "title": "Data Scientist",
+                "location": "Los Angeles, CA",
+                "snippet": "&nbsp;...Capgemini Government Solutions (CGS) LLC is seeking a highly motivated <b>data scientist </b>to develop Computer Vision and Machine Learning algorithms to build solutions. The successful candidate will have the opportunity to conceive and deliver innovative data science solutions...&nbsp;",
+                "salary": "",
+                "source": "appcast.io",
+                "type": "",
+                "link": "https://jooble.org/jdp/8867871793060443124",
+                "company": "Capgemini Government Solutions",
+                "updated": "2024-09-15T00:00:00.0000000",
+                "id": 8867871793060443124
             }
         ],
         "courses_list": [
             {
-                "title": "Machine Learning y Data Science: Curso Completo con Python",
-                "description": "Aprende Machine Learning y Data Science con Python, \u00a1convi\u00e9rtete en un experto en Machine Learning con Python!",
-                "link": "https://www.udemy.com/course/machine-learning-desde-cero/"
+                "title": "Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]",
+                "description": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+                "link": "https://www.udemy.com/course/machinelearning/"
             },
             {
-                "title": "Curso completo de Estad\u00edstica a nivel universitario",
-                "description": "Estad\u00edstica descriptiva, probabilidades, regresi\u00f3n, distribuciones, estimaci\u00f3n, inferencia y contrastes de hip\u00f3tesis.",
-                "link": "https://www.udemy.com/course/curso-completo-de-estadistica-a-nivel-universitario/"
+                "title": "TensorFlow for Deep Learning Bootcamp",
+                "description": "Learn TensorFlow by Google. Become an AI, Machine Learning, and Deep Learning expert!",
+                "link": "https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/"
             }
         ]
     },
     {
-        "about_work": false,
-        "title": "Participa en competencias de machine learning",
-        "description": "Participa en competencias de machine learning como Kaggle para desarrollar habilidades en modelado y evaluaci\u00f3n de modelos. Esto te permitir\u00e1 desarrollar habilidades valiosas como an\u00e1lisis cr\u00edtico y resoluci\u00f3n de problemas. Aseg\u00farate de participar en competencias que te permitan trabajar con datasets variados."
-    },
-    {
         "about_work": true,
-        "title": "Ingeniero de Aprendizaje Autom\u00e1tico",
-        "description": "En este puesto, aprender\u00e1s a dise\u00f1ar y desarrollar modelos de-machine learning para resolver problemas comerciales. Esto te permitir\u00e1 desarrollar habilidades en dise\u00f1o de modelos, implementaci\u00f3n y deploy de modelos. Busca trabajar en una empresa que tenga un equipo de aprendizaje autom\u00e1tico establecido y proyectos interesantes.",
+        "title": "Machine Learning Engineer",
+        "description": "Como Machine Learning Engineer en una empresa l\u00edder en tecnolog\u00eda, podr\u00e1s aplicar tus habilidades en machine learning para resolver problemas complejos. Esto te permitir\u00e1 desarrollar modelos de machine learning escalables y eficientes. Aseg\u00farate de aprender tecnolog\u00edas como Kubernetes, Docker o Apache Spark, y familiarizarte con dise\u00f1o de sistemas distribuidos.",
         "position-title": "Machine Learning Engineer",
-        "duration": "24-36 months",
+        "duration": "2-3 a\u00f1os",
         "requirements": [
-            "Conocimientos en machine learning y-mining",
-            "Experiencia con herramientas de aprendizaje autom\u00e1tico como TensorFlow, PyTorch, etc.",
-            "Conocimientos en dise\u00f1o de software"
+            "Python",
+            "scikit-learn",
+            "TensorFlow o PyTorch",
+            "Kubernetes",
+            "Docker o Apache Spark"
         ],
         "abilities": [
-            "An\u00e1lisis cr\u00edtico",
-            "Comunicaci\u00f3n efectiva",
-            "Liderazgo"
+            "Dise\u00f1o de sistemas",
+            "Resoluci\u00f3n de problemas",
+            "Trabajo en equipo"
         ],
         "courses": [
-            "Curso de dise\u00f1o de software para aprendizaje autom\u00e1tico",
-            "Curso de implementaci\u00f3n de modelos de machine learning"
+            "Scalable Machine Learning with Apache Spark",
+            "Distributed Systems with Kubernetes"
         ],
         "jobs_list": [
             {
@@ -248,55 +194,147 @@
             },
             {
                 "title": "Machine Learning Engineer",
-                "location": "San Francisco, CA",
-                "snippet": " Job Description \r\n Job Description  Requirements \r\n~ Robotics product experience, full cycle from inception to launch \r\n~ Minimum of a BS in Computer Science, Robotics, Data Science, AI or related field \r\n~7 - 15+ years experience in software development shipping high-...",
+                "location": "New York, NY",
+                "snippet": "&nbsp;...to be the future!\r\n If you are craving to <b>learn </b>something new every day while working at...&nbsp;&nbsp;...looking for a stellar & highly ambitious ML <b>engineer </b>as core employees to help build complex...&nbsp;&nbsp;...experience developing architectures with <b>machine </b>learning frameworks such as PyTorch   \r\n~...&nbsp;",
                 "salary": "",
-                "source": "ziprecruiter.com",
+                "source": "appcast.io",
                 "type": "",
-                "link": "https://jooble.org/away/823253690010897649",
-                "company": "Arbeit Consulting",
-                "updated": "2024-08-29T00:00:00.0000000",
-                "id": 823253690010897649
+                "link": "https://jooble.org/jdp/-2353345110891430160",
+                "company": "Verneek",
+                "updated": "2024-09-15T03:15:08.4809760+00:00",
+                "id": -2353345110891430160
             }
         ],
         "courses_list": [
             {
-                "title": "Patrones de Dise\u00f1o de Software en C# - Curso Pr\u00e1ctico",
-                "description": "Aprende y practica Patrones de Dise\u00f1o como nunca antes, paso a paso y con ejemplos reales",
-                "link": "https://www.udemy.com/course/patrones-de-diseno-de-software-en-c/"
+                "title": "Building Recommender Systems with Machine Learning and AI",
+                "description": "How to create machine learning recommendation systems with deep learning, collaborative filtering, and Python.",
+                "link": "https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/"
             },
             {
-                "title": "Business Analytics con Python y ChatGPT: De Cero a Experto",
-                "description": "Anal\u00edtica de Negocios, An\u00e1lisis de Datos, Ciencia de Datos, Data Science, Business Intelligence, Machine Learning, IA",
-                "link": "https://www.udemy.com/course/business-analytics-con-python-y-chatgpt-de-cero-a-experto/"
+                "title": "Distributed Systems & Cloud Computing with Java",
+                "description": "Learn Distributed Java Applications at Scale, Parallel Programming, Distributed Computing & Cloud Software Architecture",
+                "link": "https://www.udemy.com/course/distributed-systems-cloud-computing-with-java/"
+            }
+        ]
+    },
+    {
+        "about_work": false,
+        "title": "Participaci\u00f3n en competencias de machine learning",
+        "description": "Participa en competencias de machine learning en plataformas como Kaggle o Google AI Challenge. Esto te permitir\u00e1 desarrollar habilidades en machine learning y resolver problemas complejos. Aseg\u00farate de aprender t\u00e9cnicas de feature engineering, selecci\u00f3n de caracter\u00edsticas y t\u00e9cnicas de ensayo-error.",
+        "courses": [
+            "Kaggle Competitions",
+            "Machine Learning Challenges"
+        ],
+        "courses_list": [
+            {
+                "title": "How to enter a Kaggle competition",
+                "description": "and get on the Leaderboard",
+                "link": "https://www.udemy.com/course/enter-a-kaggle-competition/"
+            },
+            {
+                "title": "Machine Learning Practical: 6 Real-World Applications",
+                "description": "Machine Learning - Get Your Hands Dirty by Solving Real Industry Challenges with Python",
+                "link": "https://www.udemy.com/course/machine-learning-practical/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Ingeniero de Aprendizaje Autom\u00e1tico Senior",
-        "description": "En este puesto, liderar\u00e1s equipos de aprendizaje autom\u00e1tico y dise\u00f1ar\u00e1s arquitecturas de-machine learning para resolver problemas comerciales. Esto te permitir\u00e1 desarrollar habilidades en liderazgo, dise\u00f1o de software y comunicaci\u00f3n efectiva. Busca trabajar en una empresa que tenga un equipo de aprendizaje autom\u00e1tico establecido y proyectos interesantes.",
-        "position-title": "Senior Machine Learning Engineer",
-        "duration": "36-48 months",
+        "title": "L\u00edder de equipo de machine learning",
+        "description": "Como L\u00edder de equipo de machine learning, podr\u00e1s liderar un equipo de cient\u00edficos de datos y ingenieros de machine learning para resolver problemas complejos. Esto te permitir\u00e1 desarrollar habilidades en liderazgo, comunicaci\u00f3n y gesti\u00f3n de proyectos. Aseg\u00farate de aprender t\u00e9cnicas de liderazgo efectivo y gesti\u00f3n de conflictos.",
+        "position-title": "Machine Learning Team Lead",
+        "duration": "3-5 a\u00f1os",
         "requirements": [
-            "Conocimientos en machine learning y-mining",
-            "Experiencia con herramientas de aprendizaje autom\u00e1tico como TensorFlow, PyTorch, etc.",
-            "Conocimientos en dise\u00f1o de software y liderazgo"
+            "Experiencia como Machine Learning Engineer",
+            "Liderazgo efectivo",
+            "Gesti\u00f3n de proyectos"
         ],
         "abilities": [
             "Liderazgo",
             "Comunicaci\u00f3n efectiva",
-            "An\u00e1lisis cr\u00edtico"
+            "Gesti\u00f3n de conflictos"
         ],
         "courses": [
-            "Curso de liderazgo para ingenieros",
-            "Curso de dise\u00f1o de software para aprendizaje autom\u00e1tico"
+            "Effective Leadership",
+            "Project Management"
+        ],
+        "jobs_list": [
+            {
+                "title": "Machine Learning Engineer",
+                "location": "Saint Louis, MO",
+                "snippet": "&nbsp;...simple solutions to complex problems as a <b>Machine Learning </b>Engineer at GDIT. Here, you'll tailor...&nbsp;&nbsp;...cleared Machine Learning Engineer joining our <b>team </b>to support our intelligence customer in...&nbsp;&nbsp;...across 30 countries worldwide, offering <b>leading </b>capabilities in digital modernization,...&nbsp;",
+                "salary": "",
+                "source": "resume-library.clickast",
+                "type": "Full-time",
+                "link": "https://jooble.org/jdp/-7550315071245954805",
+                "company": "General Dynamics Information Technology",
+                "updated": "2024-09-13T00:00:00.0000000",
+                "id": -7550315071245954805
+            },
+            {
+                "title": "Senior Lead Software Engineer - Machine Learning Center of Excellence",
+                "location": "Jersey City, NJ",
+                "snippet": "&nbsp;...Job Description  JOB DESCRIPTION \r\n\r\n Bring your Senior <b>Lead </b>Software Engineering experience to the next level and join The <b>Machine Learning </b>Center of Excellence (MLCOE) <b>Team.</b>\u00a0\r\n The Machine Learning Center of Excellence (MLCOE) team partners across the firm to create...&nbsp;",
+                "salary": "",
+                "source": "resume-library.clickast",
+                "type": "",
+                "link": "https://jooble.org/jdp/7215266998711852487",
+                "company": "JPMorgan Chase & Co",
+                "updated": "2024-09-11T00:00:00.0000000",
+                "id": 7215266998711852487
+            },
+            {
+                "title": "Machine Learning Research Scientist",
+                "location": "Laurel, MD",
+                "snippet": "&nbsp;...Description \r\n\r\n Are you interested in performing cutting-edge applied <b>machine learning </b>research?\r\n\u00a0\r\n We seek a research scientist to research,...&nbsp;&nbsp;...in defense and healthcare. We are a hardworking and dedicated <b>team </b>of engineers and scientists creating solutions that make AI...&nbsp;",
+                "salary": "",
+                "source": "resume-library.clickast",
+                "type": "",
+                "link": "https://jooble.org/jdp/-6697301520826227278",
+                "company": "Johns Hopkins Applied Physics Laboratory (APL)",
+                "updated": "2024-09-11T00:00:00.0000000",
+                "id": -6697301520826227278
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "5 Basic Leadership Styles + 5 Essential Management Skills",
+                "description": "Master 5 Effective Leadership Styles + Performance Improvement Plans (PIP), Coaching, Gap Analysis, PESTLE, and more..",
+                "link": "https://www.udemy.com/course/leadership-for-new-managers/"
+            },
+            {
+                "title": "The Project Management Course: Beginner to PROject Manager",
+                "description": "The Complete Course For Becoming A Successful Project Manager",
+                "link": "https://www.udemy.com/course/the-project-management-course-beginner-to-project-manager/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Consultor de machine learning",
+        "description": "Como Consultor de machine learning, podr\u00e1s asesorar a empresas sobre c\u00f3mo implementar soluciones de machine learning efectivas. Esto te permitir\u00e1 desarrollar habilidades en comunicaci\u00f3n y consultor\u00eda. Aseg\u00farate de aprender t\u00e9cnicas de presentaci\u00f3n efectiva y gesti\u00f3n de clientes.",
+        "position-title": "Machine Learning Consultant",
+        "duration": "4-6 a\u00f1os",
+        "requirements": [
+            "Experiencia como Machine Learning Engineer",
+            "Comunicaci\u00f3n efectiva",
+            "Gesti\u00f3n de clientes"
+        ],
+        "abilities": [
+            "Comunicaci\u00f3n efectiva",
+            "Gesti\u00f3n de clientes",
+            "Negociaci\u00f3n efectiva"
+        ],
+        "courses": [
+            "Effective Communication",
+            "Client Management"
         ],
         "jobs_list": [
             {
                 "title": "Machine Learning Engineering Consultant or Senior Consultant",
                 "location": "Saint Paul, MN",
-                "snippet": "&nbsp;...Financial the internal title for this position is Consultant or <b>Senior </b>Consultant. The title and salary will be determined based...&nbsp;&nbsp;...experience and applied skills. \r\n Overview: \r\n The Senior <b>Machine Learning Engineer </b>will be responsible for leading the design, development,...&nbsp;",
+                "snippet": "&nbsp;...Securian Financial the internal title for this position is <b>Consultant </b>or Senior Consultant. The title and salary will be determined...&nbsp;&nbsp;...on experience and applied skills. \r\n Overview: \r\n The Senior <b>Machine Learning </b>Engineer will be responsible for leading the design,...&nbsp;",
                 "salary": "",
                 "source": "careerwalletgroup.com",
                 "type": "",
@@ -306,67 +344,83 @@
                 "id": -3190187812918128510
             },
             {
-                "title": "Senior Machine Learning Operations Engineer",
-                "location": "New York, NY",
-                "snippet": "&nbsp;...Job Description \r\n Job Description 100% REMOTE <b>Senior </b>ML Ops <b>Engineer </b>/ Lead <b>Machine Learning </b>Engineer Needed for Growing Subsidiary of a Large Public Company!\r\n This Jobot Job is hosted by: Reed Kellick \r\n Are you a fit? Easy Apply now by clicking the \"Apply Now\" buttonand...&nbsp;",
+                "title": "Machine Learning Engineer",
+                "location": "Saint Louis, MO",
+                "snippet": "&nbsp;...Description: \r\n\r\n\u200bDeliver simple solutions to complex problems as a <b>Machine Learning </b>Engineer at GDIT. Here, you'll tailor cutting-edge solutions...&nbsp;&nbsp;...technology and professional services company that delivers <b>consulting,</b> technology and mission services to every major agency...&nbsp;",
                 "salary": "",
-                "source": "ziprecruiter.com",
-                "type": "",
-                "link": "https://jooble.org/away/4029510029480095551",
-                "company": "Jobot",
-                "updated": "2024-09-11T00:00:00.0000000",
-                "id": 4029510029480095551
+                "source": "resume-library.clickast",
+                "type": "Full-time",
+                "link": "https://jooble.org/jdp/-7550315071245954805",
+                "company": "General Dynamics Information Technology",
+                "updated": "2024-09-13T00:00:00.0000000",
+                "id": -7550315071245954805
             },
             {
-                "title": "Senior Machine Learning Engineer",
-                "location": "San Francisco, CA",
-                "snippet": "&nbsp;...connect their homes. \r\n Are you an ML <b>Engineer </b>experienced in developing AI-driven software...&nbsp;&nbsp;...You Get: \r\n Design and implement <b>machine learning </b>models to build personalized features and...&nbsp;&nbsp;...where you will regularly engage with our <b>senior </b>leadership \r\n Competitive compensation...&nbsp;",
+                "title": "Machine Learning Research Scientist",
+                "location": "Arlington, VA",
+                "snippet": "&nbsp;...Description    The Leidos Innovations Center is looking for a Research Scientist in the area of <b>Machine Learning </b>(ML) who has a proven track record in developing technology-based approaches that yield novel, innovative capabilities while advancing the state of the art...&nbsp;",
                 "salary": "",
-                "source": "ziprecruiter.com",
-                "type": "",
-                "link": "https://jooble.org/away/7751347914365165082",
-                "company": "IFTTT",
-                "updated": "2024-09-07T00:00:00.0000000",
-                "id": 7751347914365165082
+                "source": "resume-library.clickast",
+                "type": "Full-time",
+                "link": "https://jooble.org/jdp/4982788666175892917",
+                "company": "Leidos",
+                "updated": "2024-09-14T00:00:00.0000000",
+                "id": 4982788666175892917
             }
         ],
         "courses_list": [
             {
-                "title": "Curso de ventas para ingenieros",
-                "description": "Generando valor en las ventas",
-                "link": "https://www.udemy.com/course/cursodeventasparaingenieros/"
+                "title": "Effective Communication in the Workplace",
+                "description": "Business Communication Training",
+                "link": "https://www.udemy.com/course/effective-communication-in-the-workplace/"
             },
             {
-                "title": "Patrones de Dise\u00f1o de Software en C# - Curso Pr\u00e1ctico",
-                "description": "Aprende y practica Patrones de Dise\u00f1o como nunca antes, paso a paso y con ejemplos reales",
-                "link": "https://www.udemy.com/course/patrones-de-diseno-de-software-en-c/"
+                "title": "Become a Master of Client and Account Management",
+                "description": "Learn how to effectively manage, retain and grow clients",
+                "link": "https://www.udemy.com/course/client-and-account-management/"
             }
         ]
     },
     {
         "about_work": false,
-        "title": "Desarrolla un proyecto personal de machine learning",
-        "description": "Desarrolla un proyecto personal de machine learning para aplicar tus habilidades y conocimientos en un proyecto real. Esto te permitir\u00e1 desarrollar habilidades valiosas como dise\u00f1o de modelos, implementaci\u00f3n y deploy de modelos. Aseg\u00farate de documentar tu proyecto y compartirlo en plataformas como GitHub."
+        "title": "Certificaci\u00f3n en machine learning",
+        "description": "Obt\u00e9n certificaciones en machine learning como el Certified Data Scientist de Data Science Council of America o el Certified Machine Learning Engineer de International Association for Machine Learning and Artificial Intelligence. Esto te permitir\u00e1 demostrar tus habilidades en machine learning.",
+        "courses": [
+            "Certified Data Scientist",
+            "Certified Machine Learning Engineer"
+        ],
+        "courses_list": [
+            {
+                "title": "The Data Science Course: Complete Data Science Bootcamp 2024",
+                "description": "Complete Data Science Training: Math, Statistics, Python, Advanced Statistics in Python, Machine and Deep Learning",
+                "link": "https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/"
+            },
+            {
+                "title": "AWS Certified Machine Learning Engineer Associate: Hands On!",
+                "description": "Practice exam included! Master MLA-C01 / ME1-C01 AWS Machine Learning Engineer Exam: SageMaker, Bedrock, and AI Skills.",
+                "link": "https://www.udemy.com/course/aws-certified-machine-learning-engineer-associate-mla-c01/"
+            }
+        ]
     },
     {
         "about_work": true,
         "title": "Machine Learning Engineer en Google",
-        "description": "Finalmente, has llegado a tu objetivo. En este puesto, trabajar\u00e1s en equipo con otros expertos en machine learning para desarrollar modelos y soluciones innovadoras. Aseg\u00farate de tener habilidades valiosas como dise\u00f1o de modelos, implementaci\u00f3n y deploy de modelos, y comunicaci\u00f3n efectiva.",
+        "description": "Como Machine Learning Engineer en Google, podr\u00e1s trabajar en proyectos de vanguardia y resolver problemas complejos con machine learning. Esto te permitir\u00e1 desarrollar habilidades en liderazgo, innovaci\u00f3n y trabajo en equipo. Aseg\u00farate de aprender t\u00e9cnicas de liderazgo efectivo y gesti\u00f3n de conflictos.",
         "position-title": "Machine Learning Engineer",
-        "duration": " indefinido",
+        "duration": "5+ a\u00f1os",
         "requirements": [
-            "Conocimientos en machine learning y-mining",
-            "Experiencia con herramientas de aprendizaje autom\u00e1tico como TensorFlow, PyTorch, etc.",
-            "Conocimientos en dise\u00f1o de software y liderazgo"
+            "Experiencia como Machine Learning Engineer",
+            "Liderazgo efectivo",
+            "Gesti\u00f3n de conflictos"
         ],
         "abilities": [
             "Liderazgo",
-            "Comunicaci\u00f3n efectiva",
-            "An\u00e1lisis cr\u00edtico"
+            "Innovaci\u00f3n",
+            "Trabajo en equipo"
         ],
         "courses": [
-            "Curso de dise\u00f1o de software para aprendizaje autom\u00e1tico",
-            "Curso de implementaci\u00f3n de modelos de machine learning"
+            "Effective Leadership",
+            "Innovation and Creativity"
         ],
         "jobs_list": [
             {
@@ -395,27 +449,27 @@
             },
             {
                 "title": "Machine Learning Engineer",
-                "location": "San Francisco, CA",
-                "snippet": " Job Description \r\n Job Description  Requirements \r\n~ Robotics product experience, full cycle from inception to launch \r\n~ Minimum of a BS in Computer Science, Robotics, Data Science, AI or related field \r\n~7 - 15+ years experience in software development shipping high-...",
+                "location": "New York, NY",
+                "snippet": "&nbsp;...to be the future!\r\n If you are craving to <b>learn </b>something new every day while working at...&nbsp;&nbsp;...looking for a stellar & highly ambitious ML <b>engineer </b>as core employees to help build complex...&nbsp;&nbsp;...experience developing architectures with <b>machine </b>learning frameworks such as PyTorch   \r\n~...&nbsp;",
                 "salary": "",
-                "source": "ziprecruiter.com",
+                "source": "appcast.io",
                 "type": "",
-                "link": "https://jooble.org/away/823253690010897649",
-                "company": "Arbeit Consulting",
-                "updated": "2024-08-29T00:00:00.0000000",
-                "id": 823253690010897649
+                "link": "https://jooble.org/jdp/-2353345110891430160",
+                "company": "Verneek",
+                "updated": "2024-09-15T03:15:08.4809760+00:00",
+                "id": -2353345110891430160
             }
         ],
         "courses_list": [
             {
-                "title": "Patrones de Dise\u00f1o de Software en C# - Curso Pr\u00e1ctico",
-                "description": "Aprende y practica Patrones de Dise\u00f1o como nunca antes, paso a paso y con ejemplos reales",
-                "link": "https://www.udemy.com/course/patrones-de-diseno-de-software-en-c/"
+                "title": "5 Basic Leadership Styles + 5 Essential Management Skills",
+                "description": "Master 5 Effective Leadership Styles + Performance Improvement Plans (PIP), Coaching, Gap Analysis, PESTLE, and more..",
+                "link": "https://www.udemy.com/course/leadership-for-new-managers/"
             },
             {
-                "title": "Business Analytics con Python y ChatGPT: De Cero a Experto",
-                "description": "Anal\u00edtica de Negocios, An\u00e1lisis de Datos, Ciencia de Datos, Data Science, Business Intelligence, Machine Learning, IA",
-                "link": "https://www.udemy.com/course/business-analytics-con-python-y-chatgpt-de-cero-a-experto/"
+                "title": "Creativity, Design Thinking, and Innovation for Business",
+                "description": "Creativity that Create an Innovative Corporate Culture Using Design Thinking & Problem Solving for the Workplace",
+                "link": "https://www.udemy.com/course/creativity-and-innovation-for-business/"
             }
         ]
     }

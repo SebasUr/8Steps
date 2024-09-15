@@ -88,22 +88,69 @@ function Steps() {
             </div>
 
             <main data-scroll-container ref={scrollContainerRef}>
-                <div className="wrap" data-scroll-section>
-                    {jobs.map((job, index) => (
-                        <section
-                            key={index}
-                            className={`section ${index}`}
-                            data-block-section={index + 1}
-                            id="home"
-                        >
-                            <div><b>{job.title}</b></div> <br></br>
-                            <div>{job.description}</div>
-                            {job.about_work && <p>ES DE TRABAJO</p>}  <br></br>
-                            {job.courses && <p> HAY CURSOS </p>}
-                        </section>
-                    ))}
+    <div className="wrap" data-scroll-section>
+        {jobs.map((job, index) => (
+            <section
+                key={index}
+                className={`section ${index}`}
+                data-block-section={index + 1}
+                id="home"
+            >
+                <div className="main-section-container"> 
+                    <div><b>{job.title}</b></div> <br></br>
+                    
+                    {job.duration && <p>Duración: {job.duration}</p>}
+                    <div>{job.description}</div>
+                    <div>Requisitos: {job.requirements}</div>
+
+                   
+                    
+                    {job.jobs_list && (
+                        <>
+                        <div className="job-card-container">
+                            <p>Trabajos recomendados</p>
+                            {job.jobs_list.map((job, jobIndex) => (
+                                <a 
+                                    key={jobIndex} 
+                                    href={job.link} 
+                                    className="job-card"
+                                >
+                                    <div className="job-title">{job.title}</div>
+                                    <div className="job-company">{job.company}</div>
+                                    <div className="job-description">{job.snipet}</div>
+                                    <div className="job-location">{job.location}</div>
+                                </a>
+                            ))}
+                        </div>
+                        </>
+                    )}
+
+                    
+
+                    {job.courses_list && (
+                        <>
+                        <p>Cursos recomendados</p>
+                        <div className="course-card-container">
+                            {job.courses_list.map((course, courseIndex) => (
+                                <a
+                                    key={courseIndex}
+                                    href={course.link}
+                                    className="course-card"
+                                >
+                                    <div className="course-title">{course.title}</div>
+                                    <div className="course-description">{course.description}</div>
+                                    </a>
+                            ))}
+                        </div>
+                        </>
+                    )}
+
                 </div>
-            </main>
+            </section>
+        ))}
+    </div>
+</main>
+
         </>
     )
 }

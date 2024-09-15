@@ -64,7 +64,7 @@ section {
   left: -200px;
 }
 
-.section div {
+.main-section-container {
   width: 60%;
   margin-left: 8%;
 }
@@ -238,4 +238,103 @@ section {
 .content {
   margin-right: 4rem; /* Para evitar que el contenido se superponga a la navbar-steps */
   padding: 2rem;
+}
+
+
+/* Job card Styles */ 
+
+.job-card-container {
+  display: flex;
+  gap: 20px; /* Espacio entre las tarjetas */
+  overflow-x: auto; /* Permite scroll horizontal si hay muchas tarjetas */
+}
+
+.job-card {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background-color: #1a1a1a;
+  color: #ffffff;
+  border-radius: 8px;
+  padding: 20px;
+  width: 300px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  text-decoration: none;
+  display: block;
+}
+.job-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+.job-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #4CAF50;
+}
+.job-company {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #BBBBBB;
+}
+.job-description {
+  font-size: 14px;
+  margin-bottom: 15px;
+  line-height: 1.4;
+}
+.job-location {
+  font-size: 14px;
+  color: #BBBBBB;
+  display: flex;
+  align-items: center;
+}
+.job-location::before {
+  content: "📍";
+  margin-right: 5px;
+}
+
+/* course card */ 
+
+.course-card-container {
+  display: flex;
+  gap: 20px; /* Espacio entre las tarjetas */
+  overflow-x: auto; /* Permite scroll horizontal si hay muchas tarjetas */
+}
+
+.course-card {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  border-radius: 8px;
+  padding: 20px;
+  width: 60%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+}
+.course-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+.course-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #4CAF50;
+}
+.course-description {
+  font-size: 12px;
+  line-height: 1.4;
+  flex-grow: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
 }

@@ -29,7 +29,7 @@ const LoadingIndicator = () => {
                     strokeWidth="1"
                   ></polygon>
                   <text className="loading" fill="#fff" x="0" y="45">
-                    &nbsp;&nbsp;Loading
+                    &nbsp;&nbsp;Cargando
                   </text>
                 </svg>
               </div>
@@ -42,28 +42,27 @@ const LoadingIndicator = () => {
               <div className="loader-hints">
                 <div className="hints">
                   <div className="hint-title">
-                    <h3>Hints</h3>
+                    <h3>Estamos preparando tu ruta</h3>
                   </div>
                   <div className="hint-description">
                     <p
                       className={`hint-text ${hintCounter === 1 ? 'visible' : ''}`}
-                    >
-                      For getting better performance experience add your browser in the GPU control setting.
+                    > El mercado laboral está cambiando...
                     </p>
                     <p
                       className={`hint-text ${hintCounter === 2 ? 'visible' : ''}`}
                     >
-                      Chrome (83+) and Opera GX (68+) are highly recommended for getting best experience.
+                      ¿Sabías que la mayoría de los puestos de trabajo del futuro aún no existen? Se estima que el 85% de los empleos de 2030 todavía no han sido inventados.
                     </p>
                     <p
                       className={`hint-text ${hintCounter === 3 ? 'visible' : ''}`}
                     >
-                      You can use the sound button (on the top left) to mute or unmute the music.
+                      ¿Sabías que las habilidades blandas, como la empatía y la comunicación, son cada vez más valoradas? En el futuro, estas habilidades serán clave en muchos empleos.
                     </p>
                     <p
                       className={`hint-text ${hintCounter === 4 ? 'visible' : ''}`}
                     >
-                      If there was any problem feel free to contact me, I'm always available and listening to you.
+                      ¿Sabías que el salario no es el principal factor de satisfacción laboral? Según varias encuestas, los empleados valoran más el equilibrio entre trabajo y vida personal que el salario.
                     </p>
                   </div>
                 </div>
