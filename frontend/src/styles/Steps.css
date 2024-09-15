@@ -24,7 +24,7 @@ main {
 
 section {
   width: 120vw;
-  font-size: 36px;
+  font-size: 28px;
   line-height: 1em;
   background: rgba(24, 24, 24, 0.98);;
   font-family: "Roboto";
@@ -58,9 +58,15 @@ section {
   height: 100%;
   position: relative;
   display: flex;
+  flex-direction: column; /* Alinea los elementos en columna */
   align-items: center;
   justify-content: center;
   left: -200px;
+}
+
+.section div {
+  width: 60%;
+  margin-left: 8%;
 }
 
 .blocks {

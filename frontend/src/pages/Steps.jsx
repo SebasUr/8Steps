@@ -3,15 +3,23 @@ import React, { useEffect, useState, useRef } from "react"
 import LocomotiveScroll from "locomotive-scroll"
 import LoadingIndicator from "../components/LoadingIndicator"
 import "../styles/Steps.css"
-import results from "../../../archive/resultado.json"
+// import results from "../../../archive/resultado.json"
 
 function Steps() {
     const [jobs, setJobs] = useState([])
     const scrollContainerRef = useRef(null)
     const navigate = useNavigate()
     
+    // useEffect(() => {
+    //     setJobs(results)
+    // }, [])
+
     useEffect(() => {
-        setJobs(results)
+        // Realiza la solicitud al backend para obtener los trabajos
+        fetch("http://localhost:8000/steps/")
+            .then((response) => response.json())
+            .then((data) => setJobs(data))
+            .catch((error) => console.error("Error fetching jobs:", error))
     }, [])
     
     useEffect(() => {
@@ -88,8 +96,10 @@ function Steps() {
                             data-block-section={index + 1}
                             id="home"
                         >
-                            {job.title} - {job.description}
-                            {job.about_work && <p>ES DE TRABAJO</p>}
+                            <div><b>{job.title}</b></div> <br></br>
+                            <div>{job.description}</div>
+                            {job.about_work && <p>ES DE TRABAJO</p>}  <br></br>
+                            {job.courses && <p> HAY CURSOS </p>}
                         </section>
                     ))}
                 </div>

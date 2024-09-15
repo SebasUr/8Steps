@@ -1,5 +1,5 @@
 from groq import Groq
-from adzuna import generate_jobs
+# from adzuna import generate_jobs
 from jooble import generate_jobs_jooble
 from udemy import search_courses
 import requests
@@ -66,14 +66,14 @@ for item in json_result:
         courses_list = search_courses(item['courses'])
         item['courses_list'] = courses_list
 
-print(json_result)
+# print(json_result)
 
-def save_json_to_file(data, filename):
-    try:
-        with open(filename, 'w') as json_file:
-            json.dump(data, json_file, indent=4)  # 'indent=4' es para que sea legible (con formato)
-        print(f"Archivo {filename} guardado exitosamente.")
-    except Exception as e:
-        print(f"Ocurrió un error al guardar el archivo: {e}")
+# def save_json_to_file(data, filename):
+#     try:
+#         with open(filename, 'w') as json_file:
+#             json.dump(data, json_file, indent=4)  # 'indent=4' es para que sea legible (con formato)
+#         print(f"Archivo {filename} guardado exitosamente.")
+#     except Exception as e:
+#         print(f"Ocurrió un error al guardar el archivo: {e}")
 
-save_json_to_file(json_result, 'results_data.json')
+# save_json_to_file(json_result, 'results_data.json')
