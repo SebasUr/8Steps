@@ -1,0 +1,432 @@
+[
+    {
+        "about_work": true,
+        "title": "Data Analyst",
+        "position-title": "Data Analyst",
+        "description": "Este paso es fundamental para entender el lado pr\u00e1ctico de la toma de decisiones con datos. Como Data Analyst, aprender\u00e1s a extraer insights valiosos de grandes conjuntos de datos y a comunicar tus hallazgos a trav\u00e9s de informes y visualizaciones. Esto te ayudar\u00e1 a desarrollar habilidades en el an\u00e1lisis de datos y la presentaci\u00f3n de resultados, habilidades fundamentales para un Machine Learning Engineer.",
+        "duration": "1-2 a\u00f1os",
+        "requirements": [
+            "SQL",
+            "Excel",
+            "Statistical knowledge",
+            "Data visualization tools"
+        ],
+        "abilities": [
+            "Communication",
+            "Analytical thinking",
+            "Problem-solving"
+        ],
+        "courses": [
+            "Data Analysis with Python",
+            "Data Visualization with Tableau"
+        ],
+        "jobs_list": [
+            {
+                "title": "Data Analyst",
+                "location": "Richmond, VA",
+                "snippet": "&nbsp;...Apex Systems is hiring for multiple <b>Data Analysts </b>here in Richmond, VA! \r\n Contract: 6 months \r\n Location: Onsite required in Richmond, VA at least 2x a week (this could go up to 3x)\r\n Experience:  mid level 5+ years \r\n- Writing formulas in google and excel \r\n- QA experience...&nbsp;",
+                "salary": "",
+                "source": "appcast.io",
+                "type": "",
+                "link": "https://jooble.org/jdp/-374773494200324930",
+                "company": "Saxon Global",
+                "updated": "2024-09-16T00:00:00.0000000",
+                "id": -374773494200324930
+            },
+            {
+                "title": "Data Analyst",
+                "location": "Raleigh, NC",
+                "snippet": "&nbsp;...strategic thinking must be paired with strong analytical skills. As an <b>Analyst </b>on Lucid's Strategy & Analytics team, you will be expected to be...&nbsp;&nbsp;...problem solving - from identifying opportunities to analyzing <b>data,</b> presenting results, and driving change. This role is designed...&nbsp;",
+                "salary": "",
+                "source": "appcast.io",
+                "type": "",
+                "link": "https://jooble.org/jdp/-6550560655137356692",
+                "company": "Lucid Software",
+                "updated": "2024-09-16T00:00:00.0000000",
+                "id": -6550560655137356692
+            },
+            {
+                "title": "Data Analyst",
+                "location": "Chicago, IL",
+                "snippet": "&nbsp;...education resources to CPS schools so that every child is provided with the services outlined by a student's IEP. \r\n Job Summary: The <b>Data Analyst </b>will support OSD units in the collection, analysis, reporting, and interpretation of data to facilitate informed decision-making...&nbsp;",
+                "salary": "",
+                "source": "appcast.io",
+                "type": "",
+                "link": "https://jooble.org/jdp/-5217041792287264245",
+                "company": "Chicago Public Schools",
+                "updated": "2024-09-16T00:00:00.0000000",
+                "id": -5217041792287264245
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Data Analysis with Pandas and Python",
+                "description": "Analyze data quickly and easily with Python's powerful pandas library! All datasets included --- beginners welcome!",
+                "link": "https://www.udemy.com/course/data-analysis-with-pandas/"
+            },
+            {
+                "title": "2024 Tableau Certified Data Analyst Training",
+                "description": "(+40 Hours of Content) Tableau Public, Desktop, Prep, Online, Server, Bridge, Certifications",
+                "link": "https://www.udemy.com/course/tableau-for-beginners/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Junior Data Scientist",
+        "position-title": "Junior Data Scientist",
+        "description": "En este puesto, aplicar\u00e1s tus habilidades en an\u00e1lisis de datos para desarrollar modelos predictivos simples y mejorar la toma de decisiones en la empresa. Aprender\u00e1s a trabajar con grandes conjuntos de datos y a desarrollar modelos que puedan ser utilizados en producci\u00f3n. Esto te ayudar\u00e1 a desarrollar habilidades en programaci\u00f3n y modelado estad\u00edstico.",
+        "duration": "1-2 a\u00f1os",
+        "requirements": [
+            "Python",
+            "R",
+            "Statistical modeling",
+            "Machine learning libraries"
+        ],
+        "abilities": [
+            "Collaboration",
+            "Creativity",
+            "Adaptability"
+        ],
+        "courses": [
+            "Python for Data Science",
+            "Machine Learning with R"
+        ],
+        "jobs_list": [
+            {
+                "title": "Junior Data Scientist",
+                "location": "Columbus, OH",
+                "snippet": "&nbsp;...Cloud world /Oracle Java one (Las vegas) -2023/2022 and at Gartner <b>Data </b>Analytics Summit (Florida)-2023\r\n \r\n \r\n \r\n \r\n All Positions are...&nbsp;&nbsp;...stack developers, Python/Java developers, Data analysts/ Data <b>Scientists,</b> Data Engineers, Machine Learning engineers  for full time...&nbsp;",
+                "salary": "",
+                "source": "appcast.io",
+                "type": "",
+                "link": "https://jooble.org/jdp/-8904985365060134157",
+                "company": "SynergisticIT",
+                "updated": "2024-09-16T00:00:00.0000000",
+                "id": -8904985365060134157
+            },
+            {
+                "title": "Junior Data Scientist",
+                "location": "Iowa",
+                "snippet": "&nbsp;...experience   \r\n Excellent written and verbal communication skills \r\n For <b>data </b>Science/Machine learning \r\n REQUIRED SKILLS  \r\n Bachelors degree...&nbsp;&nbsp;...skills are required by clients for selection even if its <b>Junior </b>or entry level position each additional Technical skill helps a...&nbsp;",
+                "salary": "",
+                "source": "appcast.io",
+                "type": "",
+                "link": "https://jooble.org/jdp/3517234358479807832",
+                "company": "SynergisticIT",
+                "updated": "2024-09-13T00:00:00.0000000",
+                "id": 3517234358479807832
+            },
+            {
+                "title": "Junior Data Scientist",
+                "location": "New York, NY",
+                "snippet": "&nbsp;...About Openmesh and Xnode: \r\n <b>Data </b>and IT infrastructure are the most valuable commodities in the world. Today, four to five...&nbsp;&nbsp;...prizes from our mini-hackathon series. \r\n About the Role \r\n As a <b>Junior </b>Data <b>Scientist </b>for Xnode, you will contribute to the analysis and...&nbsp;",
+                "salary": "",
+                "source": "appcast.io",
+                "type": "",
+                "link": "https://jooble.org/jdp/-2626083338862462760",
+                "company": "Openmesh Network",
+                "updated": "2024-09-15T00:00:00.0000000",
+                "id": -2626083338862462760
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Python for Data Science and Machine Learning Bootcamp",
+                "description": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!",
+                "link": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"
+            },
+            {
+                "title": "Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]",
+                "description": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+                "link": "https://www.udemy.com/course/machinelearning/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Senior Data Scientist",
+        "position-title": "Senior Data Scientist",
+        "description": "En este puesto, liderar\u00e1s proyectos de an\u00e1lisis de datos y desarrollo de modelos avanzados. Aprender\u00e1s a trabajar con conjuntos de datos m\u00e1s grandes y complejos, y a desarrollar modelos que puedan ser escalados. Esto te ayudar\u00e1 a desarrollar habilidades en liderazgo y gesti\u00f3n de proyectos.",
+        "duration": "2-3 a\u00f1os",
+        "requirements": [
+            "Deep learning",
+            "Cloud computing",
+            "Project management",
+            "Team leadership"
+        ],
+        "abilities": [
+            "Leadership",
+            "Communication",
+            "Strategic thinking"
+        ],
+        "courses": [
+            "Deep Learning with TensorFlow",
+            "Cloud Computing with AWS"
+        ],
+        "jobs_list": [
+            {
+                "title": "Senior Data Scientist",
+                "location": "Irvine, CA",
+                "snippet": "&nbsp;...difference and the fulfillment that comes with living the #NetworkLife. \r\n*What you'll be doing\u2026*\r\n The Artificial Intelligence and <b>Data </b>Network Enablement team is responsible for new AI use cases for the Verizon network, creating new models that improve the customer experience...&nbsp;",
+                "salary": "",
+                "source": "wayup.com",
+                "type": "Full-time",
+                "link": "https://jooble.org/jdp/7437010582830912240",
+                "company": "Verizon",
+                "updated": "2024-09-15T00:00:00.0000000",
+                "id": 7437010582830912240
+            },
+            {
+                "title": "Senior Data Scientist - Navigation Systems",
+                "location": "Laurel, MD",
+                "snippet": "&nbsp;...Description \r\n\r\n Do you enjoy manipulating and analyzing <b>data </b>to find data-driven solutions to complex problems?\r\n\r\n Do you...&nbsp;&nbsp;...in the Force Projection Sector at JHU/APL. We are seeking a <b>senior </b>data <b>scientist </b>to provide technical direction and develop data science solutions...&nbsp;",
+                "salary": "",
+                "source": "resume-library.CPA",
+                "type": "Internship",
+                "link": "https://jooble.org/jdp/41686975516359707",
+                "company": "Johns Hopkins Applied Physics Laboratory (APL)",
+                "updated": "2024-09-14T00:00:00.0000000",
+                "id": 41686975516359707
+            },
+            {
+                "title": "Senior Data Scientist",
+                "location": "Sterling, VA",
+                "snippet": "&nbsp;...mission partner of CBP, seeks capable, qualified, and versatile  <b>Data Scientists </b> to help lead the development and delivery of high-quality...&nbsp;&nbsp;...to both technical and non-technical audiences including <b>senior </b>government stakeholders throughout the model development/ project...&nbsp;",
+                "salary": "",
+                "source": "appcast.io",
+                "type": "",
+                "link": "https://jooble.org/jdp/-6831231884174592312",
+                "company": "ManTech International Corporation",
+                "updated": "2024-09-16T00:00:00.0000000",
+                "id": -6831231884174592312
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "TensorFlow for Deep Learning Bootcamp",
+                "description": "Learn TensorFlow by Google. Become an AI, Machine Learning, and Deep Learning expert!",
+                "link": "https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/"
+            },
+            {
+                "title": "Introduction to Cloud Computing on AWS for Beginners [2024]",
+                "description": "Learn Cloud Computing Concepts and AWS Basics | Master AWS Fundamentals and Hands-on Skills on Amazon Web Services (AWS)",
+                "link": "https://www.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Machine Learning Engineer",
+        "position-title": "Machine Learning Engineer",
+        "description": "En este puesto, aplicar\u00e1s tus habilidades en desarrollo de modelos y an\u00e1lisis de datos para desarrollar sistemas de aprendizaje autom\u00e1tico escalables. Aprender\u00e1s a trabajar con modelos de aprendizaje profundo y a desarrollar sistemas que puedan ser integrados en producci\u00f3n.",
+        "duration": "2-3 a\u00f1os",
+        "requirements": [
+            "TensorFlow",
+            "PyTorch",
+            "Cloud computing",
+            "Containerization"
+        ],
+        "abilities": [
+            "Problem-solving",
+            "Collaboration",
+            "Adaptability"
+        ],
+        "courses": [
+            "TensorFlow for Machine Learning",
+            "PyTorch for Deep Learning"
+        ],
+        "jobs_list": [
+            {
+                "title": "Machine Learning Engineering Consultant or Senior Consultant",
+                "location": "Hastings, NE",
+                "snippet": "&nbsp;...Senior Consultant. The title and salary will be determined based on experience and applied skills. \r\n Overview: \r\n The Senior <b>Machine Learning Engineer </b>will be responsible for leading the design, development, deployment, and monitoring of ML pipelines for advanced AI...&nbsp;",
+                "salary": "",
+                "source": "careerwalletgroup.com",
+                "type": "",
+                "link": "https://jooble.org/jdp/426805009189158498",
+                "company": "Securian Financial Group",
+                "updated": "2024-09-16T13:20:36.1537019+00:00",
+                "id": 426805009189158498
+            },
+            {
+                "title": "Machine Learning Engineer",
+                "location": "San Diego, CA",
+                "snippet": "An up-and-coming Medical Device Company is seeking a <b>Machine Learning Engineer </b>to join their growing team in San Diego. In this position, you will be an individual contributor with a strong problem-solving mindset. You will be responsible for developing and implementing...&nbsp;",
+                "salary": "",
+                "source": "appcast.io",
+                "type": "",
+                "link": "https://jooble.org/jdp/7628796504598582370",
+                "company": "Insight Global",
+                "updated": "2024-09-16T00:00:00.0000000",
+                "id": 7628796504598582370
+            },
+            {
+                "title": "Machine Learning Engineer",
+                "location": "Lehi, UT",
+                "snippet": "&nbsp;...world to live in. \r\n Are you passionate about advancing the frontier of artificial intelligence and <b>machine learning?</b> Entrata is seeking a skilled Machine Learning <b>Engineer </b>to be a pivotal part of our dynamic team. As a ML Engineer at Entrata, you'll play a crucial role...&nbsp;",
+                "salary": "",
+                "source": "appcast.io",
+                "type": "",
+                "link": "https://jooble.org/jdp/3631449933222892265",
+                "company": "Entrata",
+                "updated": "2024-09-16T15:29:34.4966426+00:00",
+                "id": 3631449933222892265
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "TensorFlow for Deep Learning Bootcamp",
+                "description": "Learn TensorFlow by Google. Become an AI, Machine Learning, and Deep Learning expert!",
+                "link": "https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/"
+            },
+            {
+                "title": "PyTorch for Deep Learning Bootcamp",
+                "description": "Learn PyTorch. Become a Deep Learning Engineer. Get Hired.",
+                "link": "https://www.udemy.com/course/pytorch-for-deep-learning/"
+            }
+        ]
+    },
+    {
+        "about_work": false,
+        "title": "Open-source contributions",
+        "description": "Contribuir a proyectos de c\u00f3digo abierto en GitHub o GitLab te ayudar\u00e1 a desarrollar habilidades en programaci\u00f3n y a aprender de otros desarrolladores. Esto te ayudar\u00e1 a construir un portfolio de proyectos y a demostrar tus habilidades a posibles empleadores.",
+        "courses": [
+            "Contributing to Open-source Projects",
+            "GitHub for Developers"
+        ],
+        "courses_list": [
+            {
+                "title": "Secure Networking - A Company Network Project on Open-Source",
+                "description": "Build a network project, learn network security, Linux, nftables cluster, NAC, pfSense, Pentest, Kali, Wireshark hacking",
+                "link": "https://www.udemy.com/course/secure-networking-a-company-network-project-on-open-source/"
+            },
+            {
+                "title": "The Git & Github Bootcamp",
+                "description": "Master the essentials and the tricky bits: rebasing, squashing, stashing, reflogs, blobs, trees, & more!",
+                "link": "https://www.udemy.com/course/git-and-github-bootcamp/"
+            }
+        ]
+    },
+    {
+        "about_work": false,
+        "title": "Networking",
+        "description": "Asistir a conferencias y eventos de inteligencia artificial y machine learning te ayudar\u00e1 a conexiones con otros profesionales en el campo. Esto te ayudar\u00e1 a aprender de otros expertos y a mantenerse actualizado con las \u00faltimas tendencias.",
+        "courses": [
+            "Networking for Developers",
+            "AI Conferences"
+        ],
+        "courses_list": [
+            {
+                "title": "Introduction to Computer Networks for Non-Techies",
+                "description": "Learn the Fundamentals of Computer Networking for Non-Techies",
+                "link": "https://www.udemy.com/course/introduction-to-computer-networks/"
+            },
+            {
+                "title": "Video Conferencing Zoom Skype WebEX Tech Presentation Skills",
+                "description": "Improve your presentation skills and tech skills for all your online video meetings, conferences, and webinars",
+                "link": "https://www.udemy.com/course/best-practices-for-video-conferencing-zoom-skype-webex/"
+            }
+        ]
+    },
+    {
+        "about_work": false,
+        "title": "Personal projects",
+        "description": "Desarrollar proyectos personales de machine learning te ayudar\u00e1 a desarrollar habilidades pr\u00e1cticas y a construir un portfolio de proyectos. Esto te ayudar\u00e1 a demostrar tus habilidades a posibles empleadores.",
+        "courses": [
+            "Building a Machine Learning Project",
+            "Personal Project Development"
+        ],
+        "courses_list": [
+            {
+                "title": "Machine Learning & Deep Learning Projects with Python",
+                "description": "Hands-on Course Focusing on Building Diverse Python Artificial Intelligence Projects to Solve Real-World Issues",
+                "link": "https://www.udemy.com/course/machine-learning-projects-with-python3/"
+            },
+            {
+                "title": "Strategic Planning, Project Management, Personal Development",
+                "description": "Empower Your Career with Expertise in Strategic Planning, Project Planning, Project Management, and Personal Development",
+                "link": "https://www.udemy.com/course/strategic-planning-project-management-personal-development/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Machine Learning Engineer at Google",
+        "position-title": "Machine Learning Engineer",
+        "description": "Finalmente, con todos los pasos previos, estar\u00e1s listo para aplicar a trabajar como Machine Learning Engineer en Google. Aprender\u00e1s a trabajar con los mejores expertos en el campo y a desarrollar sistemas de aprendizaje autom\u00e1tico avanzados.",
+        "duration": "varies",
+        "requirements": [
+            "TensorFlow",
+            "PyTorch",
+            "Cloud computing",
+            "Containerization",
+            "Google Cloud Platform"
+        ],
+        "abilities": [
+            "Communication",
+            "Collaboration",
+            "Problem-solving"
+        ],
+        "courses": [
+            "TensorFlow for Machine Learning",
+            "PyTorch for Deep Learning",
+            "Google Cloud Platform for Machine Learning"
+        ],
+        "jobs_list": [
+            {
+                "title": "Machine Learning Engineering Consultant or Senior Consultant",
+                "location": "Hastings, NE",
+                "snippet": "&nbsp;...Senior Consultant. The title and salary will be determined based on experience and applied skills. \r\n Overview: \r\n The Senior <b>Machine Learning Engineer </b>will be responsible for leading the design, development, deployment, and monitoring of ML pipelines for advanced AI...&nbsp;",
+                "salary": "",
+                "source": "careerwalletgroup.com",
+                "type": "",
+                "link": "https://jooble.org/jdp/426805009189158498",
+                "company": "Securian Financial Group",
+                "updated": "2024-09-16T13:20:36.1537019+00:00",
+                "id": 426805009189158498
+            },
+            {
+                "title": "Machine Learning Engineer",
+                "location": "San Diego, CA",
+                "snippet": "An up-and-coming Medical Device Company is seeking a <b>Machine Learning Engineer </b>to join their growing team in San Diego. In this position, you will be an individual contributor with a strong problem-solving mindset. You will be responsible for developing and implementing...&nbsp;",
+                "salary": "",
+                "source": "appcast.io",
+                "type": "",
+                "link": "https://jooble.org/jdp/7628796504598582370",
+                "company": "Insight Global",
+                "updated": "2024-09-16T00:00:00.0000000",
+                "id": 7628796504598582370
+            },
+            {
+                "title": "Machine Learning Engineer",
+                "location": "Lehi, UT",
+                "snippet": "&nbsp;...world to live in. \r\n Are you passionate about advancing the frontier of artificial intelligence and <b>machine learning?</b> Entrata is seeking a skilled Machine Learning <b>Engineer </b>to be a pivotal part of our dynamic team. As a ML Engineer at Entrata, you'll play a crucial role...&nbsp;",
+                "salary": "",
+                "source": "appcast.io",
+                "type": "",
+                "link": "https://jooble.org/jdp/3631449933222892265",
+                "company": "Entrata",
+                "updated": "2024-09-16T15:29:34.4966426+00:00",
+                "id": 3631449933222892265
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "TensorFlow for Deep Learning Bootcamp",
+                "description": "Learn TensorFlow by Google. Become an AI, Machine Learning, and Deep Learning expert!",
+                "link": "https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/"
+            },
+            {
+                "title": "PyTorch for Deep Learning Bootcamp",
+                "description": "Learn PyTorch. Become a Deep Learning Engineer. Get Hired.",
+                "link": "https://www.udemy.com/course/pytorch-for-deep-learning/"
+            },
+            {
+                "title": "GCP Professional Cloud Architect: Google Cloud Certification",
+                "description": "Become a GCP Cloud Architect. Architect Google Cloud Platform (GCP) Solutions. Includes 4 New Case Studies.",
+                "link": "https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/"
+            }
+        ]
+    }
+]
