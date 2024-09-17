@@ -69,14 +69,15 @@ def generate_route(userIn):
             item['courses_list'] = courses_list
     print("Jobs and courses have been generated")
 
-    def save_json_to_file(data, filename):
-        try:
-            with open(filename, 'w') as json_file:
-                json.dump(data, json_file, indent=4)  # 'indent=4' es para que sea legible (con formato)
-            print(f"Archivo {filename} guardado exitosamente.")
-        except Exception as e:
-            print(f"Ocurrió un error al guardar el archivo: {e}")
+    # I don't know if this is necessary
+    # def save_json_to_file(data, filename):
+    #     try:
+    #         with open(filename, 'w') as json_file:
+    #             json.dump(data, json_file, indent=4)  # 'indent=4' es para que sea legible (con formato)
+    #         print(f"Archivo {filename} guardado exitosamente.")
+    #     except Exception as e:
+    #         print(f"Ocurrió un error al guardar el archivo: {e}")
 
-    save_json_to_file(json_result, 'results_data.json')
+    # save_json_to_file(json_result, 'results_data.json')
 
     return json_result
