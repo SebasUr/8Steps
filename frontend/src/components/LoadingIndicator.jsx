@@ -4,11 +4,20 @@ import "../styles/components/LoadingIndicator.css"
 
 const LoadingIndicator = () => {
   const [hintCounter, setHintCounter] = useState(1);
+  const [dotsCounter, setDotsCounter] = useState(0);
 
   useEffect(() => {
     const intervalId = setInterval(() => {
       setHintCounter((prevCounter) => (prevCounter === 4 ? 1 : prevCounter + 1));
     }, 6000);
+
+    return () => clearInterval(intervalId); // Cleanup on unmount
+  }, []);
+
+  useEffect(() => {
+    const intervalId = setInterval(() => {
+      setDotsCounter((prevCounter) => (prevCounter === 4 ? 1 : prevCounter + 1));
+    }, 500);
 
     return () => clearInterval(intervalId); // Cleanup on unmount
   }, []);
@@ -29,7 +38,7 @@ const LoadingIndicator = () => {
                     strokeWidth="1"
                   ></polygon>
                   <text className="loading" fill="#fff" x="0" y="45">
-                    &nbsp;&nbsp;Cargando
+                    &nbsp;&nbsp;Cargando{ ".".repeat(dotsCounter) }
                   </text>
                 </svg>
               </div>

@@ -3,35 +3,38 @@ import React, { useEffect, useState, useRef } from "react"
 import LocomotiveScroll from "locomotive-scroll"
 import LoadingIndicator from "../components/LoadingIndicator"
 import "../styles/Steps.css"
-// import results from "../../../archive/resultado.json"
 
 function Steps() {
     const [jobs, setJobs] = useState([])
     const scrollContainerRef = useRef(null)
+    const scrollInstance = useRef(null)
+    const [loading, setLoading] = useState(true)
     const navigate = useNavigate()
-    
-    // useEffect(() => {
-    //     setJobs(results)
-    // }, [])
 
     useEffect(() => {
-        // Realiza la solicitud al backend para obtener los trabajos
+        setLoading(true); // Iniciar el estado de carga
         fetch("http://localhost:8000/steps/")
             .then((response) => response.json())
-            .then((data) => setJobs(data))
-            .catch((error) => console.error("Error fetching jobs:", error))
+            .then((data) => {
+                setJobs(data)
+                setLoading(false)
+            })
+            .catch((error) => {
+                console.error("Error fetching jobs:", error);
+                setLoading(false)
+            })
     }, [])
-    
+
     useEffect(() => {
-        if (scrollContainerRef.current) {
-            const scroll = new LocomotiveScroll({
+        if (scrollContainerRef.current && jobs.length) {
+            scrollInstance.current = new LocomotiveScroll({
                 el: scrollContainerRef.current,
                 smooth: true,
                 direction: "horizontal"
             })
 
             const blocks = document.querySelectorAll(".block[data-block-section]")
-            scroll.on("scroll", () => {
+            scrollInstance.current.on("scroll", () => {
                 blocks.forEach((block) => {
                     const attr = block.getAttribute("data-block-section")
                     const section = document.querySelector(`section[data-block-section="${attr}"]`)
@@ -56,14 +59,12 @@ function Steps() {
             })
 
             return () => {
-                scroll.destroy()
+                if (scrollInstance.current) scrollInstance.current.destroy()
             }
         }
     }, [jobs])
 
-    if (!jobs.length) {
-        return <LoadingIndicator />
-    }
+    if (loading) return <LoadingIndicator />
 
     return (
         <>
@@ -103,8 +104,6 @@ function Steps() {
                     <div>{job.description}</div>
                     <div>Requisitos: {job.requirements}</div>
 
-                   
-                    
                     {job.jobs_list && (
                         <>
                         <div className="job-card-container">
