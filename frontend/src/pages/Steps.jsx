@@ -1,10 +1,12 @@
-import { useNavigate } from "react-router-dom"
+import { useNavigate, useLocation } from "react-router-dom"
 import React, { useEffect, useState, useRef } from "react"
 import LocomotiveScroll from "locomotive-scroll"
 import LoadingIndicator from "../components/LoadingIndicator"
 import "../styles/Steps.css"
 
 function Steps() {
+    const location = useLocation()
+    const {  ocupation, search } = location.state || {}
     const [jobs, setJobs] = useState([])
     const scrollContainerRef = useRef(null)
     const scrollInstance = useRef(null)
@@ -12,15 +14,22 @@ function Steps() {
     const navigate = useNavigate()
 
     useEffect(() => {
-        setLoading(true); // Iniciar el estado de carga
-        fetch("http://localhost:8000/steps/")
+        setLoading(true)
+        fetch("http://localhost:8000/steps/", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ ocupation, search })
+            }
+        )
             .then((response) => response.json())
             .then((data) => {
                 setJobs(data)
                 setLoading(false)
             })
             .catch((error) => {
-                console.error("Error fetching jobs:", error);
+                console.error("Error fetching jobs:", error)
                 setLoading(false)
             })
     }, [])

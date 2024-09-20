@@ -1,47 +1,77 @@
 /* General Styles ----------------------------------------- */ 
 
 * {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-html,body {
-	width: 100%;
-	height: 100vh;
-	box-sizing: border-box;
-	background: rgba(24, 24, 24, 0.98);
-	color:aliceblue;
-	overflow:hidden;
+html,
+body {
+    background: rgba(24, 24, 24, 0.98);
+    overflow: hidden;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+}
+
+section {
+    width: 120vw;
+    font-size: 28px;
+    line-height: 1em;
+    font-family: "Roboto";
+}
+
+button {
+    position: relative;
+    display:block;
+    height: 45px;
+    width: 20%;
+    margin: 10px 7px;
+    margin-top: 60px;
+    padding: 5px 5px;
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: #ffffff;
+    border: 2px #ffffff solid;
+    border-radius: 50px;
+    box-shadow:  0px 0px 36px -16px rgb(255, 255, 255);
+    text-transform: uppercase;
+    outline: 0;
+    overflow:hidden;
+    background: none;
+    z-index: 1;
+    cursor: pointer;
+    transition:         0.08s ease-in;
+    -o-transition:      0.08s ease-in;
+    -ms-transition:     0.08s ease-in;
+    -moz-transition:    0.08s ease-in;
+    -webkit-transition: 0.08s ease-in;
+}
+
+select {
+    background-color: #ffffff;
+    border: none;
+    border-radius: 50px;
+    padding: 8px 12px;
+    margin-right: 10px;
+    font-size: 16px;
 }
 
 .container-items {
-	position: absolute;
-	bottom: 0;
-	width: 100%;
-	height: 300px;
-	display: flex;
-	align-items: center;
-	cursor: pointer;
-}
-
-@media (max-width: 900px) {
-	.container-items {
-		height: 100px;
-	}
-	.item {
-		font-size: 20px;
-	}
-	.item:hover {
-		flex-grow: 1;
-		font-size: 20px;
-	}
-	.container-img-wrap {
-		display: none;
-	}
-	.navbar {
-		display: none !important;
-	}
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
 }
 
 .site-logo {
@@ -87,11 +117,11 @@ html,body {
 }
 
 .site-menu {
-	display: flex;
+    display: flex;
 }
 
 .menu-item {
-	margin-left: 60px;
+    margin-left: 60px;
 }
 
 .header {
@@ -108,19 +138,19 @@ html,body {
 }
 
 .header-left span {
-	font-family: Oswald, Helvetica, sans-serif;
-	font-weight: bold;
-	font-size: 50px;
+    font-family: Oswald, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
 }
 
 .link {
-	margin: 40px 0;
+    margin: 40px 0;
 }
 
 .link a {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 16px;
-	color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #000;
 }
 
 .header-right {
@@ -130,8 +160,8 @@ html,body {
 
 .hover-text {
     display: none;
-	text-transform: none;
-	font-size: small;
+    text-transform: none;
+    font-size: small;
     left: 0;
     background-color: #292929;
     padding: 10px 15px;
@@ -174,25 +204,14 @@ html,body {
 .loading-logo {
     width: 150px;
     animation: fadeIn 3s ease-out;
-	filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);
+    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);
 
 }
-
-/* Animación para el logo */
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
-}
-
 
 /* Estilos para el video y la línea separadora --------------------------------------------------------*/
 
 #background-video {
-	width: 80%;
+    width: 80%;
     max-width: 100%;
     height: auto;
     border: 3px solid #292929;
@@ -201,19 +220,19 @@ html,body {
     object-fit: cover;
     margin-top: 90px;
     height: 220px;
-	box-shadow:  0px 0px 22px -16px rgb(255, 255, 255)
+    box-shadow:  0px 0px 22px -16px rgb(255, 255, 255)
 }
 
 .circle {
-	height: 24px;
-	width: 24px;
-	border-radius: 24px;
-	background-color: black;
-	position: fixed; 
-	top: 0;
-	left: 0;
-	pointer-events: none;
-	z-index: 99999999; /* so that it stays on top of all other elements */
+    height: 24px;
+    width: 24px;
+    border-radius: 24px;
+    background-color: black;
+    position: fixed; 
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    z-index: 99999999; /* so that it stays on top of all other elements */
     transition: transform 0.2s ease;
 
 }
@@ -221,29 +240,27 @@ html,body {
 .circle:hover {
 transform: scale(5);
 }
+
 /* Searchbar ----------------------------------------- */ 
+
+.form-search-bar {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
 
 .search-bar {
     position: relative; /* Cambia a relative para que se mueva con el contenido */
     display: flex;
     align-items: center;
     background-color: #ffffff;
-	padding: 10px 20px;
+    padding: 10px 20px;
     border-radius: 50px;
-	box-shadow:  0px 0px 36px -16px rgb(255, 255, 255);
+    box-shadow:  0px 0px 36px -16px rgb(255, 255, 255);
     font-family: Arial;
-    margin-top: 20px; /* Ajusta el margen superior si es necesario */
-	width: 80%;
-}
-
-
-select {
-    background-color: #ffffff;
-    border: none;
-    border-radius: 50px;
-    padding: 8px 12px;
-    margin-right: 10px;
-    font-size: 16px;
+    width: 80%;
 }
 
 .select:focus {
@@ -253,7 +270,7 @@ select {
 .search-fields {
     display: flex;
     align-items: center;
-	width: 100%;
+    width: 100%;
 }
 
 .input-field {
@@ -277,10 +294,10 @@ select {
 #andText {
     margin-right: 10px;
     font-size: 16px;
-	font-family: Arial, Helvetica, sans-serif;
-	color:#000;
-	text-transform: none;
-	font-weight: 250;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#000;
+    text-transform: none;
+    font-weight: 250;
 }
 
 .wrapper {
@@ -290,36 +307,6 @@ select {
     padding: 10px;
     width: 100%;
     position: relative; /* Asegúrate de que tenga un contexto de posición relativo */
-}
-
-/* Botón */
-
-button {
-	position: relative;
-	display:block;
-	height: 45px;
-	width: 20%;
-	margin: 10px 7px;
-	margin-top: 60px;
-	padding: 5px 5px;
-	font-weight: 700;
-	font-size: 15px;
-	letter-spacing: 2px;
-	color: #ffffff;
-	border: 2px #ffffff solid;
-	border-radius: 50px;
-	box-shadow:  0px 0px 36px -16px rgb(255, 255, 255);
-	text-transform: uppercase;
-	outline: 0;
-	overflow:hidden;
-	background: none;
-	z-index: 1;
-	cursor: pointer;
-	transition:         0.08s ease-in;
-	-o-transition:      0.08s ease-in;
-	-ms-transition:     0.08s ease-in;
-	-moz-transition:    0.08s ease-in;
-	-webkit-transition: 0.08s ease-in;
 }
 
 .slide:after{
@@ -346,18 +333,44 @@ button {
 }
 
 .slide:hover{
-	background:#ffffff;
+    background:#ffffff;
 }
 
 .slide:hover:before{
-	left:0;
-	opacity:1;
-	color:#000000;
+    left:0;
+    opacity:1;
+    color:#000000;
 }
 .slide:hover:after{
-	left:100%;
-	opacity:0;
+    left:100%;
+    opacity:0;
 }
 
+@media (max-width: 900px) {
+    .container-items {
+        height: 100px;
+    }
+    .item {
+        font-size: 20px;
+    }
+    .item:hover {
+        flex-grow: 1;
+        font-size: 20px;
+    }
+    .container-img-wrap {
+        display: none;
+    }
+    .navbar {
+        display: none !important;
+    }
+}
 
-
+/* Animación para el logo */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
