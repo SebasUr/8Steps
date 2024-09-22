@@ -107,21 +107,34 @@ function Steps() {
                 id="home"
             >
                 <div className="main-section-container"> 
-                    <div><b>{job.title}</b></div> <br></br>
+                    <div className="main-job-title"><b>{job.title}</b></div> <br></br>
                     
-                    {job.duration && <p>Duración: {job.duration}</p>}
-                    <div>{job.description}</div>
-                    <div>Requisitos: {job.requirements}</div>
+                    {job.duration && <p>Duración: {job.duration}</p>} <br></br>
+                    <div>{job.description}</div> <br></br>
+                    {job.requirements && (
+                        <div>
+                            <p><b>Requisitos:</b></p>
+                            <ul>
+                                {job.requirements.map((requirement, requirementIndex) => (
+                                    <p>• {requirement}</p>
+                                    
+                                ))}
+                            </ul>
+                        </div>
+                    )} <br></br>
+
 
                     {job.jobs_list && (
                         <>
+                        <p><b>Trabajos recomendados</b></p>
                         <div className="job-card-container">
-                            <p>Trabajos recomendados</p>
                             {job.jobs_list.map((job, jobIndex) => (
                                 <a 
                                     key={jobIndex} 
                                     href={job.link} 
                                     className="job-card"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
                                 >
                                     <div className="job-title">{job.title}</div>
                                     <div className="job-company">{job.company}</div>
@@ -137,13 +150,15 @@ function Steps() {
 
                     {job.courses_list && (
                         <>
-                        <p>Cursos recomendados</p>
+                        <p><b>Cursos recomendados</b></p>
                         <div className="course-card-container">
                             {job.courses_list.map((course, courseIndex) => (
                                 <a
                                     key={courseIndex}
                                     href={course.link}
                                     className="course-card"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
                                 >
                                     <div className="course-title">{course.title}</div>
                                     <div className="course-description">{course.description}</div>
