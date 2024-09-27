@@ -374,3 +374,12 @@ transform: scale(5);
         opacity: 1;
     }
 }
+
+
+a:visited, a:link, a:active {
+    text-decoration: none;
+}
+
+.circle{
+    background-color: #ffffff;    
+}

@@ -6,7 +6,7 @@ import "../styles/Steps.css"
 
 function Steps() {
     const location = useLocation()
-    const {  ocupation, search } = location.state || {}
+    const { occupation, search } = location.state || {}
     const [jobs, setJobs] = useState([])
     const scrollContainerRef = useRef(null)
     const scrollInstance = useRef(null)
@@ -20,7 +20,7 @@ function Steps() {
             headers: {
                 "Content-Type": "application/json"
             },
-            body: JSON.stringify({ ocupation, search })
+            body: JSON.stringify({ occupation, search })
             }
         )
             .then((response) => response.json())
@@ -84,17 +84,19 @@ function Steps() {
                     </div>
                     <ul className="navbar-steps-menu"></ul>
                 </div>
-                {jobs.map((job, index) => (
-                    <div
-                        key={index}
-                        className="block init"
-                        data-block-section={index + 1}
-                        data-href={job.dataHref || "journal"}
-                    >
-                        <div className="block__title">{`Step${index + 1}`}</div>
-                        <div className="block__number">{index + 1}</div>
-                    </div>
-                ))}
+                {
+                    jobs.map((job, index) => (
+                        <div
+                            key={index}
+                            className="block init"
+                            data-block-section={index + 1}
+                            data-href={job.dataHref || "journal"}
+                        >
+                            <div className="block__title">{`Step${index + 1}`}</div>
+                            <div className="block__number">{index + 1}</div>
+                        </div>
+                    ))
+                }
             </div>
 
             <main data-scroll-container ref={scrollContainerRef}>
@@ -116,7 +118,7 @@ function Steps() {
                             <p><b>Requisitos:</b></p>
                             <ul>
                                 {job.requirements.map((requirement, requirementIndex) => (
-                                    <p>• {requirement}</p>
+                                    <p key={requirementIndex}>• {requirement}</p>
                                     
                                 ))}
                             </ul>
