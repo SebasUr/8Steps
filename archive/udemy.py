@@ -8,31 +8,41 @@ CLIENT_SECRET = 'HasHRje2P2ZnZFMK1z0gtSk7e6E4oUsP0lJR17He80BwmqQiz8XLAH06LtLOW4r
 UDEMY_API_URL = "https://www.udemy.com/api-2.0/courses/"
 
 # Función para obtener la lista de cursos
-def search_courses(query, page=1, page_size=1):
-    # Parámetros de la consulta
-    params = {
-        'search': query,
-        'page': page,
-        'page_size': page_size
-    }
+def search_courses(queries, page=1, page_size=1):
+    all_courses = [] 
 
-    # Realizar la solicitud GET a la API de Udemy
-    response = requests.get(UDEMY_API_URL, params=params, auth=(CLIENT_ID, CLIENT_SECRET))
+    for query in queries:
+        params = {
+            'search': query,
+            'page': page,
+            'page_size': page_size
+        }
 
+        response = requests.get(UDEMY_API_URL, params=params, auth=(CLIENT_ID, CLIENT_SECRET))
 
-    # Verificar si la solicitud fue exitosa
-    if response.status_code == 200:
-        cursos = response.json()
-        for curso in cursos['results']:
-            print(f"Curso: {curso['title']}")
-            print(f"Descripción: {curso['headline']}\n")
-            print(f"Link: https://www.udemy.com{curso['url']}\n")
-        return cursos
+        if response.status_code == 200:
+            cursos = response.json()
+            for curso in cursos['results']:
+                course_data = {
+                    'title': curso['title'],
+                    'description': curso['headline'],
+                    'link': f"https://www.udemy.com{curso['url']}"
+                }
+                all_courses.append(course_data)  # Agregar el curso a la lista
 
+        else:
+            print(f"Error en la solicitud para query '{query}': {response.status_code}")
 
-    else:
-        print(f"Error en la solicitud: {response.status_code}")
-        return None
+    return all_courses  # Retornar la lista de todos los cursos en formato JSON
+
+# Lista de queries
+# queries_list = ["Data visualization with Python", "Machine Learning", "Web Development"]
+
+# # Llamada a la función
+# result = search_courses(queries_list)
+
+# # Mostrar los resultados en formato JSON
+# print(result)
 
 # # Ejemplo de uso
 # cursos = obtener_cursos('Arduino for robotics')

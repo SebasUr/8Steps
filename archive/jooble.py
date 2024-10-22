@@ -8,7 +8,6 @@ def generate_jobs_jooble(positionTitle):
 
     # Crear una conexión HTTP
     connection = http.client.HTTPConnection(host)
-
     # Encabezados para la solicitud
     headers = {"Content-type": "application/json"}
 
@@ -18,16 +17,9 @@ def generate_jobs_jooble(positionTitle):
         "location": ""  # Puedes cambiar la ubicación si lo deseas
     })
 
-    # Hacer la solicitud POST
     connection.request('POST', '/api/' + key, body, headers)
-
-    # Obtener la respuesta
     response = connection.getresponse()
-
-    # Mostrar el código de estado y la razón
     print(response.status, response.reason)
-
-    # Leer y procesar la respuesta
     response_data = response.read()
     data = json.loads(response_data.decode('utf-8'))
 
@@ -35,6 +27,7 @@ def generate_jobs_jooble(positionTitle):
     if 'jobs' in data:
         # Limitar el número de trabajos a 3
         jobs = data['jobs'][:3]
+        return jobs
         
         # Iterar sobre los trabajos limitados
         for i, job in enumerate(jobs):
@@ -44,14 +37,16 @@ def generate_jobs_jooble(positionTitle):
             location = job.get('location', 'No Location')
             link = job.get('link', 'No Link')
             
-            print(f"{i+1}. Title: {title}")
-            print(f"   Company: {company}")
-            print(f"   Description: {description}")
-            print(f"   Location: {location}")
-            print(f"   Link: {link}\n")
+            # print(f"{i+1}. Title: {title}")
+            # print(f"   Company: {company}")
+            # print(f"   Description: {description}")
+            # print(f"   Location: {location}")
+            # print(f"   Link: {link}\n")
     else:
         print("No jobs found or incorrect response format")
 
 
 
-#snippet
+#snippet corresponde a la descripción.
+
+# print(generate_jobs_jooble("Machine Learning Engineer"))

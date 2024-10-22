@@ -59,10 +59,21 @@ print(json_result)
 for item in json_result:
     if 'position-title' in item:
         # generate_jobs(item['position-title'])
-        generate_jobs_jooble(item['position-title'])
+        jobs_list = generate_jobs_jooble(item['position-title'])
+        item['jobs_list'] = jobs_list
 
     if 'courses' in item:
-        for courses in item['courses']:
-            print(f"Buscando {courses}")
-            search_courses(courses)
+        courses_list = search_courses(item['courses'])
+        item['courses_list'] = courses_list
 
+print(json_result)
+
+def save_json_to_file(data, filename):
+    try:
+        with open(filename, 'w') as json_file:
+            json.dump(data, json_file, indent=4)  # 'indent=4' es para que sea legible (con formato)
+        print(f"Archivo {filename} guardado exitosamente.")
+    except Exception as e:
+        print(f"Ocurrió un error al guardar el archivo: {e}")
+
+save_json_to_file(json_result, 'results_data.json')

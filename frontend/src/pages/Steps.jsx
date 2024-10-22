@@ -1,238 +1,181 @@
-import { useNavigate } from "react-router-dom"
-import React, { useEffect } from "react"
+import { useNavigate, useLocation } from "react-router-dom"
+import React, { useEffect, useState, useRef } from "react"
 import LocomotiveScroll from "locomotive-scroll"
+import LoadingIndicator from "../components/LoadingIndicator"
 import "../styles/Steps.css"
 
 function Steps() {
+    const location = useLocation()
+    const { occupation, search } = location.state || {}
+    const [jobs, setJobs] = useState([])
+    const scrollContainerRef = useRef(null)
+    const scrollInstance = useRef(null)
+    const [loading, setLoading] = useState(true)
     const navigate = useNavigate()
+
     useEffect(() => {
-        const scroll = new LocomotiveScroll({
-            el: document.querySelector("[data-scroll-container]"),
-            smooth: true,
-            direction: "horizontal"
-        })
-
-        let blocks = document.querySelectorAll(".block[data-block-section]")        
-        scroll.on("scroll", () => {
-            blocks.forEach((block) => {
-                const attr = block.getAttribute("data-block-section")
-                const section = document.querySelector(`section[data-block-section="${attr}"]`)
-
-                if (section.getBoundingClientRect().left <= block.offsetWidth * 2) {
-                    block.classList.add("fixed")
-                    block.classList.remove("init", "active")
-                    block.style.left = ""
-                } else if (section.getBoundingClientRect().left >= window.innerWidth - block.offsetWidth * 2) {
-                    block.classList.add("init")
-                    block.classList.remove("active", "fixed")
-                    block.style.left = ""
-                } else {
-                    block.classList.add("active")
-                    block.classList.remove("init", "fixed")
-                }
-
-                if (block.classList.contains("active")) {
-                    block.style.left = `${section.getBoundingClientRect().left}px`
-                }
+        setLoading(true)
+        fetch("http://localhost:8000/steps/", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ occupation, search })
+            }
+        )
+            .then((response) => response.json())
+            .then((data) => {
+                setJobs(data)
+                setLoading(false)
             })
-        })
+            .catch((error) => {
+                console.error("Error fetching jobs:", error)
+                setLoading(false)
+            })
     }, [])
+
+    useEffect(() => {
+        if (scrollContainerRef.current && jobs.length) {
+            scrollInstance.current = new LocomotiveScroll({
+                el: scrollContainerRef.current,
+                smooth: true,
+                direction: "horizontal"
+            })
+
+            const blocks = document.querySelectorAll(".block[data-block-section]")
+            scrollInstance.current.on("scroll", () => {
+                blocks.forEach((block) => {
+                    const attr = block.getAttribute("data-block-section")
+                    const section = document.querySelector(`section[data-block-section="${attr}"]`)
+                    
+                    if (section.getBoundingClientRect().left <= block.offsetWidth * 2) {
+                        block.classList.add("fixed")
+                        block.classList.remove("init", "active")
+                        block.style.left = ""
+                    } else if (section.getBoundingClientRect().left >= window.innerWidth - block.offsetWidth * 2) {
+                        block.classList.add("init")
+                        block.classList.remove("active", "fixed")
+                        block.style.left = ""
+                    } else {
+                        block.classList.add("active")
+                        block.classList.remove("init", "fixed")
+                    }
+
+                    if (block.classList.contains("active")) {
+                        block.style.left = `${section.getBoundingClientRect().left}px`
+                    }
+                })
+            })
+
+            return () => {
+                if (scrollInstance.current) scrollInstance.current.destroy()
+            }
+        }
+    }, [jobs])
+
+    if (loading) return <LoadingIndicator />
 
     return (
         <>
             <div className="blocks">
-                <div className="navbar-steps" >
-                    <div className="navbar-steps-logo" >
-                        <img src="/logosvg.svg" alt="Logo" className="logo" onClick={
-                            () => {
-                                // Does not work because of the html structure of the page
-                                // navigate("/")
-                            }
-                        }/>
+                <div className="navbar-steps">
+                    <div className="navbar-steps-logo">
+                        <img src="/logosvg.svg" alt="Logo" className="logo" onClick={() => navigate("/")} />
                     </div>
-                    <ul className="navbar-steps-menu">
-                    </ul>
+                    <ul className="navbar-steps-menu"></ul>
                 </div>
-                <div className="block init" data-block-section="1" data-href="journal">
-                    <div className="block__title">Step1</div>
-                    <div className="block__number">01</div>
-                </div>
-                <div className="block init" data-block-section="2" data-href="collection">
-                    <div className="block__title">Step2</div>
-                    <div className="block__number">02</div>
-                </div>
-                <div className="block init" data-block-section="3" data-href="material">
-                    <div className="block__title">Step3</div>
-                    <div className="block__number">03</div>
-                </div>
-                <div className="block init" data-block-section="4" data-href="production">
-                    <div className="block__title">Step4</div>
-                    <div className="block__number">04</div>
-                </div>
-                <div className="block init" data-block-section="5" data-href="journal">
-                    <div className="block__title">Step5</div>
-                    <div className="block__number">05</div>
-                </div>
-                <div className="block init" data-block-section="6" data-href="journal">
-                    <div className="block__title">Step6</div>
-                    <div className="block__number">06</div>
-                </div>
-                <div className="block init" data-block-section="7" data-href="journal">
-                    <div className="block__title">Step7</div>
-                    <div className="block__number">07</div>
-                </div>
-                <div className="block init" data-block-section="8" data-href="journal">
-                    <div className="block__title">Step8</div>
-                    <div className="block__number">08</div>
-                </div>
-                <div className="block init" data-block-section="9" data-href="journal">
-                    <div className="block__title">Resume</div>
-                    <div className="block__number">R</div>
-                </div>
+                {
+                    jobs.map((job, index) => (
+                        <div
+                            key={index}
+                            className="block init"
+                            data-block-section={index + 1}
+                            data-href={job.dataHref || "journal"}
+                        >
+                            <div className="block__title">{`Step${index + 1}`}</div>
+                            <div className="block__number">{index + 1}</div>
+                        </div>
+                    ))
+                }
             </div>
 
-            <main data-scroll-container>
-                <div className="wrap" data-scroll-section>
-                    <section className="section 1" data-block-section="1" id="home">
-                        <div className="Jobs">
-                            <div className="JobsCard">
-                                <h1 className="JobsCard-Title">Frontend Developer</h1>
-                                <h2 className="JobsCard-Image">
-                                    <i className="#"></i>
-                                </h2>
-                                <div className="JobsCard-JobDescription">
-                                    Bacon ipsum dolor amet flank chicken cupim 
-                                </div>
-                                <div className="Button" onClick={
-                                    () => {
-                                        // We should change this in the future
-                                        console.log("Read more");
-                                    }
-                                }>Read more</div>
-                            </div>
-
-                            <div className="JobsCard">
-                                <h1 className="JobsCard-Title">Full Stack Developer</h1>
-                                <h2 className="JobsCard-Image">
-                                    <i className="#"></i>
-                                </h2>
-                                <div className="JobsCard-JobDescription">
-                                    Bacon ipsum dolor amet flank chicken cupim 
-                                </div>
-                                <div className="Button" onClick={
-                                    () => {
-                                        // We should change this in the future
-                                        console.log("Read more");
-                                    }
-                                }>Read more</div>
-                            </div>
-
-                            <div className="JobsCard">
-                                <h1 className="JobsCard-Title">BackEnd Developer</h1>
-                                <h2 className="JobsCard-Image">
-                                    <i className="#"></i>
-                                </h2>
-                                <div className="JobsCard-JobDescription">
-                                    Bacon ipsum dolor amet flank chicken cupim 
-                                </div>
-                                <div className="Button" onClick={
-                                    () => {
-                                        // We should change this in the future
-                                        console.log("Read more");
-                                    }
-                                }>Read more</div>
-                            </div>
+            <main data-scroll-container ref={scrollContainerRef}>
+    <div className="wrap" data-scroll-section>
+        {jobs.map((job, index) => (
+            <section
+                key={index}
+                className={`section ${index}`}
+                data-block-section={index + 1}
+                id="home"
+            >
+                <div className="main-section-container"> 
+                    <div className="main-job-title"><b>{job.title}</b></div> <br></br>
+                    
+                    {job.duration && <p>Duración: {job.duration}</p>} <br></br>
+                    <div>{job.description}</div> <br></br>
+                    {job.requirements && (
+                        <div>
+                            <p><b>Requisitos:</b></p>
+                            <ul>
+                                {job.requirements.map((requirement, requirementIndex) => (
+                                    <p key={requirementIndex}>• {requirement}</p>
+                                    
+                                ))}
+                            </ul>
                         </div>
-                    </section>
-                    <section className="section 2" data-block-section="2" id="collection">
-                        
-                        <div className="Jobs">
-                            <div className="JobsCard">
-                                <h1 className="JobsCard-Title">Frontend Developer</h1>
-                                <h2 className="JobsCard-Image">
-                                    <i className="#"></i>
-                                </h2>
-                                <div className="JobsCard-JobDescription">
-                                    Bacon ipsum dolor amet flank chicken cupim 
-                                </div>
-                                <div className="Button" onClick={
-                                    () => {
-                                        // We should change this in the future
-                                        console.log("Read more");
-                                    }
-                                }>Read more</div>
-                            </div>
+                    )} <br></br>
 
-                            <div className="JobsCard">
-                                <h1 className="JobsCard-Title">Full Stack Developer</h1>
-                                <h2 className="JobsCard-Image">
-                                    <i className="#"></i>
-                                </h2>
-                                <div className="JobsCard-JobDescription">
-                                    Bacon ipsum dolor amet flank chicken cupim 
-                                </div>
-                                <div className="Button" onClick={
-                                    () => {
-                                        // We should change this in the future
-                                        console.log("Read more");
-                                    }
-                                }>Read more</div>
-                            </div>
 
-                            <div className="JobsCard">
-                                <h1 className="JobsCard-Title">BackEnd Developer</h1>
-                                <h2 className="JobsCard-Image">
-                                    <i className="#"></i>
-                                </h2>
-                                <div className="JobsCard-JobDescription">
-                                    Bacon ipsum dolor amet flank chicken cupim 
-                                </div>
-                                <div className="Button" onClick={
-                                    () => {
-                                        // We should change this in the future
-                                        console.log("Read more");
-                                    }
-                                }>Read more</div>
-                            </div>
+                    {job.jobs_list && (
+                        <>
+                        <p><b>Trabajos recomendados</b></p>
+                        <div className="job-card-container">
+                            {job.jobs_list.map((job, jobIndex) => (
+                                <a 
+                                    key={jobIndex} 
+                                    href={job.link} 
+                                    className="job-card"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                >
+                                    <div className="job-title">{job.title}</div>
+                                    <div className="job-company">{job.company}</div>
+                                    <div className="job-description">{job.snipet}</div>
+                                    <div className="job-location">{job.location}</div>
+                                </a>
+                            ))}
                         </div>
-                    </section>
-                    <section className="section 3" data-block-section="3" id="material">
-                        Material Lorem Ipsum is <br />
-                        simply dummy text of the <br />
-                        printing and typesetting <br />industry.
-                    </section>
-                    <section className="section 4" data-block-section="4" id="production" >
-                        Production Lorem Ipsum is <br />
-                        simply dummy text of the <br />
-                        printing and typesetting <br />industry.
-                    </section>
-                    <section className="section 5" data-block-section="5" id="journal">
-                        Journal Lorem Ipsum is <br />
-                        simply dummy text of the <br />
-                        printing and typesetting <br />industry.
-                    </section>
-                    <section className="section 6" data-block-section="6" id="journal">
-                        Journal Lorem Ipsum is <br />
-                        simply dummy text of the <br />
-                        printing and typesetting <br />industry.
-                    </section>
-                    <section className="section 7" data-block-section="7" id="journal">
-                        Journal Lorem Ipsum is <br />
-                        simply dummy text of the <br />
-                        printing and typesetting <br />industry.
-                    </section>
-                    <section className="section 8" data-block-section="8" id="journal">
-                        Journal Lorem Ipsum is <br />
-                        simply dummy text of the <br />
-                        printing and typesetting <br />industry.
-                    </section>
-                    <section className="section 9" data-block-section="9" id="journal">
-                        XD <br />
-                        simply dummy text of the <br />
-                        printing and typesetting <br />industry.
-                    </section>
+                        </>
+                    )}
+
+                    
+
+                    {job.courses_list && (
+                        <>
+                        <p><b>Cursos recomendados</b></p>
+                        <div className="course-card-container">
+                            {job.courses_list.map((course, courseIndex) => (
+                                <a
+                                    key={courseIndex}
+                                    href={course.link}
+                                    className="course-card"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                >
+                                    <div className="course-title">{course.title}</div>
+                                    <div className="course-description">{course.description}</div>
+                                    </a>
+                            ))}
+                        </div>
+                        </>
+                    )}
+
                 </div>
-            </main>
+            </section>
+        ))}
+    </div>
+</main>
+
         </>
     )
 }
