@@ -1,10 +1,15 @@
 import http.client
 import json
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+JOOBLE_API_KEY = os.getenv('JOOBLE_API_KEY')
 
 def generate_jobs_jooble(positionTitle):
     # Host y clave API
     host = 'jooble.org'
-    key = '2d57bae5-fef6-4297-9413-e0b5d3b959d9'  # Reemplaza con tu clave API
+    key = JOOBLE_API_KEY
 
     # Crear una conexión HTTP
     connection = http.client.HTTPConnection(host)

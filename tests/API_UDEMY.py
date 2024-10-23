@@ -1,8 +1,12 @@
 import requests
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
+UDEMY_API_KEY = os.getenv('UDEMY_API_KEY')
 # Datos de autenticación
 CLIENT_ID = 'EEr58ok9yozgyDTzfc3iim9RccHmrmFaBo8mpVk2'
-CLIENT_SECRET = 'HasHRje2P2ZnZFMK1z0gtSk7e6E4oUsP0lJR17He80BwmqQiz8XLAH06LtLOW4riuULEDZG5qKzy3ywVv3pkBYD90W7lPSTnv9OwMS7Cnxg0D0UcDw6zlYbk6UhgrEPy'
+CLIENT_SECRET = UDEMY_API_KEY
 
 # URL base de la API de Udemy
 UDEMY_API_URL = "https://www.udemy.com/api-2.0/courses/"
@@ -34,21 +38,3 @@ def search_courses(queries, page=1, page_size=1):
             print(f"Error en la solicitud para query '{query}': {response.status_code}")
 
     return all_courses  # Retornar la lista de todos los cursos en formato JSON
-
-# Lista de queries
-# queries_list = ["Data visualization with Python", "Machine Learning", "Web Development"]
-
-# # Llamada a la función
-# result = search_courses(queries_list)
-
-# # Mostrar los resultados en formato JSON
-# print(result)
-
-# # Ejemplo de uso
-# cursos = obtener_cursos('Arduino for robotics')
-
-# if cursos:
-#     for curso in cursos['results']:
-#         print(f"Curso: {curso['title']}")
-#         print(f"Descripción: {curso['headline']}\n")
-#         print(f"Link: https://www.udemy.com{curso['url']}\n")

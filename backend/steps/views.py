@@ -1,7 +1,7 @@
 import json
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
-from .utils.entirescriptfunc import generate_route
+from .utils.PROMPT_BACKEND import generate_route
 
 @csrf_exempt
 def get_route(request):

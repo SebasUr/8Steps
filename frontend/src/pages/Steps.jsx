@@ -148,8 +148,6 @@ function Steps() {
                         </>
                     )}
 
-                    
-
                     {job.courses_list && (
                         <>
                         <p><b>Cursos recomendados</b></p>
@@ -175,7 +173,6 @@ function Steps() {
         ))}
     </div>
 </main>
-
         </>
     )
 }

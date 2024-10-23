@@ -25,3 +25,5 @@ node_modules
 *.sw?
 *.pyc
 *.sqlite3
+
+.env

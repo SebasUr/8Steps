@@ -11,7 +11,7 @@ const LoadingIndicator = () => {
       setHintCounter((prevCounter) => (prevCounter === 4 ? 1 : prevCounter + 1));
     }, 6000);
 
-    return () => clearInterval(intervalId); // Cleanup on unmount
+    return () => clearInterval(intervalId);
   }, []);
 
   useEffect(() => {
@@ -19,7 +19,7 @@ const LoadingIndicator = () => {
       setDotsCounter((prevCounter) => (prevCounter === 4 ? 1 : prevCounter + 1));
     }, 500);
 
-    return () => clearInterval(intervalId); // Cleanup on unmount
+    return () => clearInterval(intervalId); 
   }, []);
 
   return (

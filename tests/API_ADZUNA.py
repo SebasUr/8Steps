@@ -1,4 +1,6 @@
 import requests
+from dotenv import load_dotenv
+import os
 
 API_URL = "https://api.adzuna.com/v1/api/jobs/us/search/1"
 APP_ID = "a60688b4"
