@@ -133,15 +133,16 @@ function Steps() {
                             {job.jobs_list.map((job, jobIndex) => (
                                 <a 
                                     key={jobIndex} 
-                                    href={job.link} 
+                                    href={job.redirect_url}  // Para adzuna
+                                    // href={job.link} Para Jooble
                                     className="job-card"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                 >
                                     <div className="job-title">{job.title}</div>
-                                    <div className="job-company">{job.company}</div>
+                                   {/* <div className="job-company">{job.company}</div>
                                     <div className="job-description">{job.snipet}</div>
-                                    <div className="job-location">{job.location}</div>
+                                    <div className="job-location">{job.location}</div> Para Jooble*/}
                                 </a>
                             ))}
                         </div>

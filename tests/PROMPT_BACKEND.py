@@ -1,6 +1,7 @@
 from groq import Groq
 from API_JOOBLE import generate_jobs_jooble
 from API_UDEMY import search_courses
+from API_ADZUNA import generate_jobs
 from dotenv import load_dotenv
 import os
 import json
@@ -55,8 +56,8 @@ def generate_route(userIn):
     
     for item in json_result:
         if 'position-title' in item:
-            # generate_jobs(item['position-title'])
-            jobs_list = generate_jobs_jooble(item['position-title'])
+            jobs_list = generate_jobs(item['position-title'])
+            #jobs_list = generate_jobs_jooble(item['position-title'])
             item['jobs_list'] = jobs_list
 
         if 'courses' in item:

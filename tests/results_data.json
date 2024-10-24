@@ -1,1 +1,560 @@
-"Unvalid JSON content"
+[
+    {
+        "about_work": false,
+        "title": "Desarrollo de habilidades b\u00e1sicas en programaci\u00f3n",
+        "description": "Es fundamental tener una s\u00f3lida base en programaci\u00f3n para poder aspirar a un puesto en Google. Debes dominar al menos un lenguaje de programaci\u00f3n, como Java, Python o C++. Adem\u00e1s, debes familiarizarte con conceptos como estructuras de datos, algoritmos y patrones de dise\u00f1o. Puedes buscar cursos online o recursos en l\u00ednea para aprender estos conceptos.",
+        "courses": [
+            "Introduction to Programming",
+            "Data Structures and Algorithms"
+        ],
+        "courses_list": [
+            {
+                "title": "Introduction to Programming",
+                "description": "Professional Coding Skills for Beginners",
+                "link": "https://www.udemy.com/course/introduction-to-programming-level-i/"
+            },
+            {
+                "title": "Master the Coding Interview: Data Structures + Algorithms",
+                "description": "Ultimate coding interview bootcamp. Get more job offers, negotiate a raise: Everything you need to get the job you want!",
+                "link": "https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Junior Developer",
+        "description": "Este es tu primer paso como desarrollador. En este puesto, podr\u00e1s aplicar tus conocimientos b\u00e1sicos en programaci\u00f3n y empezar a desarrollar habilidades m\u00e1s avanzadas. Debes estar dispuesto a aprender y recibir retroalimentaci\u00f3n. Este puesto te ayudar\u00e1 a construir una red de contactos en la industria y a desarrollar habilidades blandas como la comunicaci\u00f3n y el trabajo en equipo.",
+        "position-title": "Junior Software Developer",
+        "duration": "6-12 meses",
+        "requirements": [
+            "Conocimientos b\u00e1sicos en programaci\u00f3n",
+            "Experiencia con lenguajes de programaci\u00f3n",
+            "Disposici\u00f3n a aprender"
+        ],
+        "abilities": [
+            "Comunicaci\u00f3n efectiva",
+            "Trabajo en equipo",
+            "Adaptabilidad"
+        ],
+        "jobs_list": [
+            {
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "salary_max": 68735.66,
+                "id": "4909810433",
+                "latitude": 42.8849,
+                "title": "Junior Software Developer",
+                "salary_is_predicted": "1",
+                "created": "2024-10-22T01:58:17Z",
+                "description": "Since 2010 Synergisticit has helped Jobseekers get employed in the tech Job market by providing candidates the requisite skills, experience and technical competence to outperform at interviews and at clients. Here at SynergisticIT We just don't focus on getting you a tech Job we make careers. In this Job market also, our candidates are able to achieve multiple job offers and $100k  salaries. please check the below links to see success outcomes, salaries of our candidates . We regularly interact\u2026",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLUJuaDd5LVM3eEdjWll6UnRaWGhzdyIsImkiOiI0OTA5ODEwNDMzIn0.37ZSvdkAWIZJUs0DvVKEqL0pPSNWhbQ6atXD0fFoi_Y",
+                "company": {
+                    "display_name": "SynergisticIT",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 68735.66,
+                "longitude": -78.8264,
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Cheektowaga, Erie County",
+                    "area": [
+                        "US",
+                        "New York",
+                        "Erie County",
+                        "Cheektowaga"
+                    ]
+                },
+                "redirect_url": "https://www.adzuna.com/land/ad/4909810433?se=-Bnh7y-S7xGcZYzRtZXhsw&utm_medium=api&utm_source=a60688b4&v=DAAC03C19185DACDC67E87CD635B3AB5ED66CB5E"
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 64697.41,
+                "company": {
+                    "display_name": "SynergisticIT",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "redirect_url": "https://www.adzuna.com/land/ad/4892183649?se=-Bnh7y-S7xGcZYzRtZXhsw&utm_medium=api&utm_source=a60688b4&v=2E817BACF24355C6EBA5F1190798B5370C72E79E",
+                "longitude": -118.2538,
+                "location": {
+                    "area": [
+                        "US",
+                        "California",
+                        "Los Angeles County",
+                        "Textile Finance"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Textile Finance, Los Angeles County"
+                },
+                "salary_is_predicted": "1",
+                "created": "2024-10-07T07:43:20Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg5MjE4MzY0OSIsInMiOiItQm5oN3ktUzd4R2NaWXpSdFpYaHN3In0.3JXM_eGZE17VIz_TAbRquVUcRPb-oLfrrIwFuak5puo",
+                "description": "Since 2010 Synergisticit has helped Jobseekers get employed in the tech Job market by providing candidates the requisite skills, experience and technical competence to outperform at interviews and at clients. Here at SynergisticIT We just don't focus on getting you a tech Job we make careers. In this Job market also, our candidates are able to achieve multiple job offers and $100k  salaries. please check the below links to see success outcomes, salaries of our candidates . We regularly interact\u2026",
+                "salary_max": 64697.41,
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "id": "4892183649",
+                "latitude": 34.0414,
+                "title": "Junior Software Developer"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Desarrollador de aplicaciones",
+        "description": "En este puesto, podr\u00e1s desarrollar aplicaciones m\u00e1s complejas y trabajar con diferentes tecnolog\u00edas. Debes estar dispuesto a aprender nuevas tecnolog\u00edas y a resolver problemas complejos. Este puesto te ayudar\u00e1 a desarrollar habilidades m\u00e1s avanzadas y a construir una s\u00f3lida experiencia en la industria.",
+        "position-title": "Application Developer",
+        "duration": "1-2 a\u00f1os",
+        "requirements": [
+            "Experiencia como Junior Developer",
+            "Conocimientos en desarrollo de aplicaciones",
+            "Habilidades en resoluci\u00f3n de problemas"
+        ],
+        "abilities": [
+            "Resoluci\u00f3n de problemas",
+            "Trabajo aut\u00f3nomo",
+            "An\u00e1lisis cr\u00edtico"
+        ],
+        "jobs_list": [
+            {
+                "salary_is_predicted": "1",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwNDE5NTg2MyIsInMiOiJaZ2JnOEMtUzd4R2NaWXpSdFpYaHN3In0.v9YjJ7Q8uYGJqu1hjfgSv0zT8tQgetOglPwG3mw42SI",
+                "created": "2024-10-16T12:11:57Z",
+                "description": "Bachelor\u2019s degree in Information Technology, Engineering and/or related field or equivalent experience, plus 8 years of related experience or Master\u2019s degree and 6 years of related experience. CLEARANCE REQUIREMENTS: Ability to obtain a Department of Defense TS/SCI security clearance is required at time of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work pe\u2026",
+                "salary_min": 99876.55,
+                "id": "4904195863",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "General Dynamics Mission Systems"
+                },
+                "salary_max": 99876.55,
+                "title": "Web Application Developer (LAMP stack)",
+                "latitude": 29.535262,
+                "redirect_url": "https://www.adzuna.com/land/ad/4904195863?se=Zgbg8C-S7xGcZYzRtZXhsw&utm_medium=api&utm_source=a60688b4&v=0B12F84BEBD090E1500F6ABAEBCB6AA3C0964DC0",
+                "longitude": -98.490997,
+                "location": {
+                    "display_name": "Castle Hills, Bexar County",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Texas",
+                        "Bexar County",
+                        "Castle Hills"
+                    ]
+                }
+            },
+            {
+                "redirect_url": "https://www.adzuna.com/land/ad/4907382853?se=Zgbg8C-S7xGcZYzRtZXhsw&utm_medium=api&utm_source=a60688b4&v=B4619C47212B60091AB4337A2F21CC7259493C20",
+                "location": {
+                    "display_name": "Triana, Madison County",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Alabama",
+                        "Madison County",
+                        "Triana"
+                    ]
+                },
+                "longitude": -86.725397,
+                "salary_min": 125559.35,
+                "description": "Application Developer Quantico, VA TS/SCI ability to obtain SCI Poly $180K ALTA IT is seeking an Application Developer to join our team supporting the Department of Justice. Responsibilities The Application Developer will be supporting a highly capable and diverse team driving technical innovation. You will design, develop, refactor, enhance, test and evaluate, and support software applications currently hosted on-premises to be hosted within the AWS GovCloud instance compliant with government \u2026",
+                "created": "2024-10-19T07:42:29Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWmdiZzhDLVM3eEdjWll6UnRaWGhzdyIsImkiOiI0OTA3MzgyODUzIn0.juOSa9IAl8ULOZxAkE6hdGzwdJ6p1loZ3k0b1qNoNdk",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "1",
+                "latitude": 34.652001,
+                "title": "Application Developer",
+                "company": {
+                    "display_name": "ALTA IT Services",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "salary_max": 125559.35,
+                "id": "4907382853"
+            }
+        ]
+    },
+    {
+        "about_work": false,
+        "title": "Desarrollo de habilidades en dise\u00f1o de sistemas",
+        "description": "Para trabajar en Google, debes tener conocimientos en dise\u00f1o de sistemas y arquitectura de software. Debes estudiar y aprender sobre patrones de dise\u00f1o, principios de dise\u00f1o y c\u00f3mo aplicarlos en proyectos reales. Puedes buscar cursos online o recursos en l\u00ednea para aprender estos conceptos.",
+        "courses": [
+            "Software Design Patterns",
+            "System Architecture"
+        ],
+        "courses_list": [
+            {
+                "title": "Java Design Patterns & SOLID Design Principles",
+                "description": "A master guide to gang of four design patterns & SOLID design principles using Java",
+                "link": "https://www.udemy.com/course/design-patterns-in-java-concepts-hands-on-projects/"
+            },
+            {
+                "title": "Software Architecture & Design of Modern Large Scale Systems",
+                "description": "Become a Software Architect or Technical Lead by Mastering Software Architecture, System Design &amp; Big Data Processing.",
+                "link": "https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "L\u00edder de equipo de desarrollo",
+        "description": "En este puesto, podr\u00e1s liderar un equipo de desarrolladores y trabajar en proyectos m\u00e1s complejos. Debes tener habilidades para gestionar proyectos, liderar equipos y comunicarte efectivamente con stakeholders. Este puesto te ayudar\u00e1 a desarrollar habilidades de liderazgo y a construir una red de contactos m\u00e1s amplia en la industria.",
+        "position-title": "Team Lead, Software Development",
+        "duration": "2-3 a\u00f1os",
+        "requirements": [
+            "Experiencia como Desarrollador de aplicaciones",
+            "Habilidades de liderazgo",
+            "Experiencia en gesti\u00f3n de proyectos"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Comunicaci\u00f3n efectiva",
+            "Gesti\u00f3n de proyectos"
+        ],
+        "jobs_list": [
+            {
+                "description": "Job Description: We are seeking a highly skilled and experienced Team Lead - Software Developer to join our dynamic team. If you have a passion for Python, React Native, are proficient in database management and query optimization, and proven experience in Warehouse Management System (WMS) then we want to hear from you. This role is in person at our Sparks, NV facility Key Responsibilities: Lead the development of new features and enhancements for our WMS system using Python, React, and Postgre\u2026",
+                "salary_min": 80000,
+                "id": "4870311633",
+                "created": "2024-09-20T05:56:55Z",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "salary_is_predicted": "0",
+                "latitude": 39.53868,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg3MDMxMTYzMyIsInMiOiJ6aFFTOHktUzd4R29ZYUMwTFpfU29RIn0.U1LKXMt2mf5SIKIq4TcQt7MBfQ2IE9x5A7Arz0PRHHE",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Nevada",
+                        "Washoe County",
+                        "Tracy-Clark"
+                    ],
+                    "display_name": "Tracy-Clark, Washoe County"
+                },
+                "salary_max": 100000,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Tellworks Communications"
+                },
+                "redirect_url": "https://www.adzuna.com/details/4870311633?utm_medium=api&utm_source=a60688b4",
+                "title": "Team Lead - Software Developer",
+                "longitude": -119.6853
+            },
+            {
+                "description": "Develop cutting edge technology solutions for a fast-changing healthcare landscape. Our products are built on top of a cloud-based multi-tenanted environment. Develop, design, and integrate ElasticSearch, an open source full-text search engine. Develop and Implement software as specified in technical specifications/software design documentation. Maintain platform stability and performance. Troubleshoot production issues, implement short term break/fix solutions, and participate in continual imp\u2026",
+                "salary_min": 99880.55,
+                "id": "4809803033",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "created": "2024-08-04T05:44:57Z",
+                "salary_is_predicted": "1",
+                "latitude": 42.460908,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwOTgwMzAzMyIsInMiOiJ6aFFTOHktUzd4R29ZYUMwTFpfU29RIn0.t4jvPS7ULnD36HC5ikolBrmaSsEG-ghpH1Psu5tany0",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Roberts Recruiting"
+                },
+                "location": {
+                    "area": [
+                        "US",
+                        "Massachusetts",
+                        "Middlesex County",
+                        "Lexington"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Lexington, Middlesex County"
+                },
+                "salary_max": 99880.55,
+                "redirect_url": "https://www.adzuna.com/details/4809803033?utm_medium=api&utm_source=a60688b4",
+                "title": "Team Lead- Software Development",
+                "longitude": -71.222083
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Desarrollador de software especializado",
+        "description": "En este puesto, podr\u00e1s especializarte en una \u00e1rea espec\u00edfica de desarrollo de software, como la inteligencia artificial, el aprendizaje automatizado o el desarrollo de aplicaciones m\u00f3viles. Debes tener un conocimiento profundo de la tecnolog\u00eda y estar dispuesto a aprender y innovar. Este puesto te ayudar\u00e1 a desarrollar habilidades m\u00e1s avanzadas y a construir una s\u00f3lida experiencia en la industria.",
+        "position-title": "Specialized Software Developer",
+        "duration": "2-3 a\u00f1os",
+        "requirements": [
+            "Experiencia como L\u00edder de equipo de desarrollo",
+            "Conocimientos especializados en desarrollo de software",
+            "Habilidades en innovaci\u00f3n y resoluci\u00f3n de problemas"
+        ],
+        "abilities": [
+            "Innovaci\u00f3n",
+            "Resoluci\u00f3n de problemas",
+            "An\u00e1lisis cr\u00edtico"
+        ],
+        "jobs_list": [
+            {
+                "redirect_url": "https://www.adzuna.com/details/4880371210?utm_medium=api&utm_source=a60688b4",
+                "longitude": -76.7238,
+                "title": "Special-Purpose Embedded Software Platform Developer",
+                "location": {
+                    "display_name": "Hanover, Anne Arundel County",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Maryland",
+                        "Anne Arundel County",
+                        "Hanover"
+                    ]
+                },
+                "latitude": 39.192978,
+                "salary_min": 125381.3,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg4MDM3MTIxMCIsInMiOiJTbDZTOHktUzd4R29ZYUMwTFpfU29RIn0.pFCKgnWjFbjV1Ypl7BZBHCPeGyD1AOSdyrsPybUS-So",
+                "company": {
+                    "display_name": "Lockheed Martin",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_max": 125381.3,
+                "salary_is_predicted": "1",
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "Job Description This position may be eligible for a $25K sign on bonus for external hires What We\u2019re Doing: Lockheed Martin, Cyber & Intelligence invites you to step up to one of today\u2019s most daunting challenges: the use of advanced electronics to undermine our way of life. As a cyber security professional at Lockheed Martin, you\u2019ll protect the networks that our citizens and the world depend upon each minute: Financial assets. Healthcare information. Critical infrastructure. Hazardous materials\u2026",
+                "id": "4880371210",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "created": "2024-09-28T10:25:39Z"
+            },
+            {
+                "redirect_url": "https://www.adzuna.com/details/4836093133?utm_medium=api&utm_source=a60688b4",
+                "title": "Special-Purpose Embedded Software Platform Developer",
+                "longitude": -76.72138,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Lockheed Martin"
+                },
+                "location": {
+                    "display_name": "Harmans, Anne Arundel County",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Maryland",
+                        "Anne Arundel County",
+                        "Harmans"
+                    ]
+                },
+                "salary_max": 140149.2,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgzNjA5MzEzMyIsInMiOiJTbDZTOHktUzd4R29ZYUMwTFpfU29RIn0.I7ct7YGxxY6qcZs24IDCtMOyCqIQh3FbE74FB7tF33U",
+                "salary_is_predicted": "1",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "latitude": 39.157939,
+                "salary_min": 140149.2,
+                "id": "4836093133",
+                "description": "Description: This position may be eligible for a $25K sign on bonus for external hires What We're Doing: Lockheed Martin, Cyber & Intelligence invites you to step up to one of today's most daunting challenges: the use of advanced electronics to undermine our way of life. As a cyber security professional at Lockheed Martin, you'll protect the networks that our citizens and the world depend upon each minute: Financial assets. Healthcare information. Critical infrastructure. Hazardous materials. T\u2026",
+                "created": "2024-08-22T15:33:59Z",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                }
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero de software senior",
+        "description": "En este puesto, podr\u00e1s trabajar en proyectos complejos y liderar equipos de desarrolladores. Debes tener una s\u00f3lida experiencia en la industria y habilidades para liderar equipos y comunicarte efectivamente con stakeholders. Este puesto te ayudar\u00e1 a construir una red de contactos m\u00e1s amplia en la industria y a desarrollar habilidades de liderazgo m\u00e1s avanzadas.",
+        "position-title": "Senior Software Engineer",
+        "duration": "3-5 a\u00f1os",
+        "requirements": [
+            "Experiencia como Desarrollador de software especializado",
+            "Habilidades de liderazgo",
+            "Experiencia en gesti\u00f3n de proyectos y equipos"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Comunicaci\u00f3n efectiva",
+            "Gesti\u00f3n de proyectos y equipos"
+        ],
+        "jobs_list": [
+            {
+                "latitude": 38.74793,
+                "title": "Senior Software Engineer",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "General Dynamics Mission Systems"
+                },
+                "salary_max": 163279.02,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "id": "4851692474",
+                "salary_min": 163279.02,
+                "description": "Requires a Bachelor\u2019s degree in Software Engineering, or a related Science, Engineering or Mathematics field. Also requires 2 years of job-related experience or a Master's degree. Agile experience preferred. Need to have experience with C++ or Java. CLEARANCE REQUIREMENTS: Department of Defense Secret security clearance is required within a reasonable period of time. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access\u2026",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg1MTY5MjQ3NCIsInMiOiJ1dnNMOUMtUzd4R2NaWXpSdFpYaHN3In0.RiH0TrGoWzcQbCRDOJsgeAnumhKXYUSJd8lyL4RBw7c",
+                "created": "2024-09-04T11:00:13Z",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "1",
+                "location": {
+                    "area": [
+                        "US",
+                        "Virginia",
+                        "Prince William County",
+                        "Manassas"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Manassas, Prince William County"
+                },
+                "longitude": -77.47599,
+                "redirect_url": "https://www.adzuna.com/land/ad/4851692474?se=uvsL9C-S7xGcZYzRtZXhsw&utm_medium=api&utm_source=a60688b4&v=995BBA6E8212343A5FF40D620A94BA98387D6149"
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 155564.08,
+                "company": {
+                    "display_name": "Experis",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "redirect_url": "https://www.adzuna.com/land/ad/4909132460?se=uvsL9C-S7xGcZYzRtZXhsw&utm_medium=api&utm_source=a60688b4&v=BA2058158D3E4D7EA112334850A9C44FD1602901",
+                "longitude": -96.765058,
+                "location": {
+                    "display_name": "Highland Park, Dallas",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Texas",
+                        "Dallas",
+                        "Highland Park"
+                    ]
+                },
+                "salary_is_predicted": "1",
+                "description": "Our client, an industry disruptor, is seeking a Senior Engineer, Software - Oracle to join their team. As a Senior Engineer, you will be supporting the Cloud based Financial solutions team. The ideal candidate will have strong problem-solving skills, be highly analytical, and have experience in architecting and designing finance solutions in Oracle Enterprise applications. Job Title: Senior Engineer, Software - Oracle Location: Richmond, Virginia OR Dallas TX Pay Range:$135,000 - $150,000 What'\u2026",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidXZzTDlDLVM3eEdjWll6UnRaWGhzdyIsImkiOiI0OTA5MTMyNDYwIn0.smUyK2x2q8V1oErC5EiRGWI1i_Xwv3rRaTP3nFtgp_Y",
+                "created": "2024-10-21T12:13:55Z",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_max": 155564.08,
+                "id": "4909132460",
+                "latitude": 32.760168,
+                "title": "Senior Engineer, Software - Oracle"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Desarrollador de software en Google",
+        "description": "Finalmente, has alcanzado tu objetivo. En este puesto, podr\u00e1s trabajar en proyectos complejos y innovadores en una de las empresas m\u00e1s destacadas en la industria. Debes tener una s\u00f3lida experiencia en la industria y habilidades para liderar equipos y comunicarte efectivamente con stakeholders. Este puesto te ayudar\u00e1 a construir una red de contactos m\u00e1s amplia en la industria y a desarrollar habilidades de liderazgo m\u00e1s avanzadas.",
+        "position-title": "Software Engineer, Google",
+        "duration": "5+ a\u00f1os",
+        "requirements": [
+            "Experiencia como Ingeniero de software senior",
+            "Conocimientos especializados en desarrollo de software",
+            "Habilidades de liderazgo y gesti\u00f3n de proyectos y equipos"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Comunicaci\u00f3n efectiva",
+            "Gesti\u00f3n de proyectos y equipos",
+            "Innovaci\u00f3n"
+        ],
+        "jobs_list": [
+            {
+                "salary_is_predicted": "0",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg4MjAxMzc5NyIsInMiOiJ5dGwzOUMtUzd4R1FyM0l6djRqMk93In0.GysO-4WXAuGQD_LqCdKr9DhskJGPnrCgfTdpdjgOqwA",
+                "id": "4882013797",
+                "description": "Minimum qualifications: Bachelor\u2019s degree or equivalent practical experience. 2 years of experience with software development in C++, or 1 year of experience with an advanced degree. 2 years of experience with data structures or algorithms. 1 year of experience building and deploying recommendation systems models (e.g., retrieval, prediction, ranking, personalization, search quality, embedding) in production. 1 year of experience with Machine Learning (ML) infrastructure (e.g., model deployment\u2026",
+                "redirect_url": "https://www.adzuna.com/details/4882013797?utm_medium=api&utm_source=a60688b4",
+                "created": "2024-09-30T07:35:38Z",
+                "salary_max": 200000,
+                "location": {
+                    "display_name": "Mountain View, Santa Clara County",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "California",
+                        "Santa Clara County",
+                        "Mountain View"
+                    ]
+                },
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Google"
+                },
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "title": "Software Engineer, Google Search",
+                "longitude": -122.086585,
+                "salary_min": 136000,
+                "latitude": 37.378535,
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "title": "Staff Software Engineer, Google Assistant",
+                "id": "4902953987",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "created": "2024-10-15T15:50:29Z",
+                "longitude": -122.07702,
+                "redirect_url": "https://www.adzuna.com/details/4902953987?utm_medium=api&utm_source=a60688b4",
+                "description": "Minimum qualifications: - Bachelor's degree or equivalent practical experience. - 8 years of experience in software development, and with data structures/algorithms. - 5 years of experience testing, and launching software products, and 3 years of experience with software design and architecture. Preferred qualifications: - Master's degree or PhD in Engineering, Computer Science, or a related technical field. - 3 years of experience in a technical leadership role leading project teams and settin\u2026",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwMjk1Mzk4NyIsInMiOiJ5dGwzOUMtUzd4R1FyM0l6djRqMk93In0.wbIwY7rXaH719vK6XAOyE03dHRHMB6byjYrK-YOKy1A",
+                "salary_is_predicted": "1",
+                "company": {
+                    "display_name": "Google",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_min": 164906.2,
+                "salary_max": 164906.2,
+                "location": {
+                    "display_name": "Mountain View, Santa Clara County",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "California",
+                        "Santa Clara County",
+                        "Mountain View"
+                    ]
+                },
+                "latitude": 37.39308,
+                "__CLASS__": "Adzuna::API::Response::Job"
+            }
+        ]
+    }
+]

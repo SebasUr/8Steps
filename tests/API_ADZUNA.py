@@ -2,9 +2,12 @@ import requests
 from dotenv import load_dotenv
 import os
 
+load_dotenv()
+ADZUNA_API_KEY = os.getenv('ADZUNA_API_KEY')
+
 API_URL = "https://api.adzuna.com/v1/api/jobs/us/search/1"
 APP_ID = "a60688b4"
-API_KEY = "d594912cdf9b36c9bd758bdd85eac1c1"
+API_KEY = ADZUNA_API_KEY
 
 def generate_jobs(positionTitle):
 
@@ -17,6 +20,7 @@ def generate_jobs(positionTitle):
     })
 
     jobs = response.json()
+    return jobs.get('results', [])
 
     if 'results' in jobs:
         for idx, job in enumerate(jobs['results'], 1):

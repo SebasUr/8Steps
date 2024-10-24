@@ -1,1 +1,590 @@
-"No ```"
+[
+    {
+        "about_work": true,
+        "title": "Ingeniero de Sistemas de Alta Performance",
+        "description": "En este puesto, tendr\u00e1s la oportunidad de trabajar con sistemas de alta performance, lo que te permitir\u00e1 desarrollar habilidades en el dise\u00f1o y implementaci\u00f3n de soluciones escalables y eficientes. Esto te ser\u00e1 de gran ayuda para entender las necesidades de empresas como SpaceX. Aprovecha para aprender sobre tecnolog\u00edas como HPC, clusters y Grid Computing. Investiga sobre las mejores pr\u00e1cticas para la optimizaci\u00f3n del rendimiento y la escalabilidad.",
+        "position-title": "HPC System Engineer",
+        "duration": "1-2 years",
+        "requirements": [
+            "Experiencia en dise\u00f1o y desarrollo de sistemas de alta performance",
+            "Conocimientos en tecnolog\u00edas de cluster y Grid Computing",
+            "Habilidades en programaci\u00f3n en lenguajes como C, C++ o Python"
+        ],
+        "abilities": [
+            "Comunicaci\u00f3n efectiva",
+            "Trabajo en equipo",
+            "Resoluci\u00f3n de problemas"
+        ],
+        "courses": [
+            "HPC System Administration",
+            "Parallel Computing with Python",
+            "Cluster Computing with Linux"
+        ],
+        "jobs_list": [
+            {
+                "company": {
+                    "display_name": "SpaceX",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "longitude": -118.352039,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "title": "HPC Systems Engineer",
+                "latitude": 33.912781,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 120000,
+                "contract_type": "permanent",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwNTMxMDE4NSIsInMiOiJGcm8wTHpTUzd4R1FyM0l6djRqMk93In0.bv5ba6eVndsQ1FoxRQl2cQse_M6FXhn5hUwHFirOq9Y",
+                "salary_is_predicted": "0",
+                "description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. HIGH PERFORMANCE COMPUTING (HPC) SYSTEMS ENGINEER SpaceX is looking for an HPC Systems Engineer with strong knowledge and experience in a world class engineering organization. This employee will be a member of the HPC \u2026",
+                "redirect_url": "https://www.adzuna.com/details/4805310185?utm_medium=api&utm_source=a60688b4",
+                "created": "2024-08-01T10:52:21Z",
+                "id": "4805310185",
+                "location": {
+                    "area": [
+                        "US",
+                        "California",
+                        "Los Angeles County",
+                        "Hawthorne"
+                    ],
+                    "display_name": "Hawthorne, Los Angeles County",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_max": 160000
+            },
+            {
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "title": "HPC Systems Engineer",
+                "longitude": -83.919508,
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Cadre5"
+                },
+                "contract_type": "permanent",
+                "salary_min": 107185.21,
+                "latitude": 35.960508,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "4870744131",
+                "redirect_url": "https://www.adzuna.com/details/4870744131?utm_medium=api&utm_source=a60688b4",
+                "description": "HPC Systems Engineer Founded in 1999 in the beautiful Smoky Mountains of East Tennessee, Cadre5 provides innovative technical solutions to our customers locally and nationally. Our Cadre5 Lab Partners division has partnered with the Emerging Technologies & Computing (ETAC) Group in the Research Computing Support Division (RCSD) of the Information Technology Services Directorate (ITSD) at Oak Ridge National Laboratory (ORNL) to recruit a qualified HPC Systems Engineer. The Emerging Technology Co\u2026",
+                "created": "2024-09-20T10:00:19Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg3MDc0NDEzMSIsInMiOiJGcm8wTHpTUzd4R1FyM0l6djRqMk93In0.u4rorS49mIWiv2_MY6t363Ci00CnDwGWF2FCNQOhYJA",
+                "salary_is_predicted": "1",
+                "location": {
+                    "display_name": "Knoxville, Knox County",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Tennessee",
+                        "Knox County",
+                        "Knoxville"
+                    ]
+                },
+                "salary_max": 107185.21
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Software Architecture & Design of Modern Large Scale Systems",
+                "description": "Become a Software Architect or Technical Lead by Mastering Software Architecture, System Design &amp; Big Data Processing.",
+                "link": "https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/"
+            },
+            {
+                "title": "Learn Parallel Computing in Python",
+                "description": "Discover Multithreading, Multiprocessing, Concurrency & Parallel programming with practical and fun examples in Python",
+                "link": "https://www.udemy.com/course/parallel-computing-in-python/"
+            },
+            {
+                "title": "Linux High Availability Clustering",
+                "description": "Design and deploy a high availability cluster to provide active/passive or active/active services using HA Pacemaker",
+                "link": "https://www.udemy.com/course/linux-high-availability-cluster/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero de Desarrollo de Software para HPC",
+        "description": "En este puesto, desarrollar\u00e1s software para aplicaciones de alto rendimiento, lo que te permitir\u00e1 profundizar en tus habilidades en programaci\u00f3n paralela y t\u00e9cnicas de optimizaci\u00f3n. Esto te ser\u00e1 de gran ayuda para entender las necesidades de empresas como SpaceX. Aprovecha para aprender sobre tecnolog\u00edas como MPI, OpenMP y CUDA.",
+        "position-title": "HPC Software Development Engineer",
+        "duration": "1-2 years",
+        "requirements": [
+            "Experiencia en desarrollo de software para HPC",
+            "Conocimientos en programaci\u00f3n paralela y t\u00e9cnicas de optimizaci\u00f3n",
+            "Habilidades en lenguajes como C, C++ o Python"
+        ],
+        "abilities": [
+            "An\u00e1lisis de problemas",
+            "Dise\u00f1o de soluciones",
+            "Trabajo en equipo"
+        ],
+        "courses": [
+            "Parallel Programming with MPI",
+            " Optimization Techniques for HPC",
+            "CUDA Programming for HPC"
+        ],
+        "jobs_list": [
+            {
+                "redirect_url": "https://www.adzuna.com/details/4809716715?utm_medium=api&utm_source=a60688b4",
+                "longitude": -76.66818,
+                "location": {
+                    "area": [
+                        "US",
+                        "Maryland",
+                        "Anne Arundel County",
+                        "Linthicum Heights"
+                    ],
+                    "display_name": "Linthicum Heights, Anne Arundel County",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "1",
+                "salary_min": 100419.8,
+                "description": "HPC Linux staff to work on a variety of challenging issues. One area where we are in the need of talent is in HPC Linux Software Engineering. As a HPC Linux Software Engineer, you will perform tasks that include: \u2022 Perform system administration tasks \u2022 Manage HPC system life cycle: concept, design, fabrication, test, installation, operation, maintenance, and disposal \u2022 Perform HPC technical planning, system integration, verification and validation, cost and risk evaluation, and supportability a\u2026",
+                "created": "2024-08-04T05:35:00Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwOTcxNjcxNSIsInMiOiJhaVhjTVRTUzd4R2NaWXpSdFpYaHN3In0.ObpRVXGxtKAbFKEXUL-rLlUE7vtWrmXEQ97QxXIodxY",
+                "salary_max": 100419.8,
+                "company": {
+                    "display_name": "Associates Systems",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "id": "4809716715",
+                "latitude": 39.20964,
+                "title": "HPC Linux Admin - Active DOD Secret or TS"
+            },
+            {
+                "redirect_url": "https://www.adzuna.com/details/4811621833?utm_medium=api&utm_source=a60688b4",
+                "location": {
+                    "area": [
+                        "US"
+                    ],
+                    "display_name": "US",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "created": "2024-08-05T17:20:36Z",
+                "description": "Belay Technologies has been voted Baltimore Business Journal's (BBJ) Best Places to Work 2019, runner up in 2020 and a finalist in 2021 Belay Technologies is seeking a Software Engineer to join our intel team. The HPC Software Engineer designs, develops, tests, deploys, documents, maintains, and enhances complex and diverse software for HPC (high performance computing) systems based upon documented requirements. Candidates should have the following qualifications: TS/SCI Clearance with polygrap\u2026",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgxMTYyMTgzMyIsInMiOiJhaVhjTVRTUzd4R2NaWXpSdFpYaHN3In0._2w2-rQ5P4OJaZmuloUypN3sR3x4xt7X3RiL3RFRT3M",
+                "salary_min": 114663.54,
+                "salary_is_predicted": "1",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Senior Software Engineer (HPC)",
+                "id": "4811621833",
+                "company": {
+                    "display_name": "Belay Technologies",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_max": 114663.54
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Learn Parallel Computing in Python",
+                "description": "Discover Multithreading, Multiprocessing, Concurrency & Parallel programming with practical and fun examples in Python",
+                "link": "https://www.udemy.com/course/parallel-computing-in-python/"
+            },
+            {
+                "title": "100 Snowflake Cost Optimization Techniques",
+                "description": "by World-Class Snowflake Expert",
+                "link": "https://www.udemy.com/course/snowflake-cost-optimization-techniques/"
+            },
+            {
+                "title": "CUDA programming Masterclass with C++",
+                "description": "Learn parallel programming on GPU's with CUDA from basic concepts to advance algorithm implementations.",
+                "link": "https://www.udemy.com/course/cuda-programming-masterclass/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero de Investigaci\u00f3n y Desarrollo en HPC",
+        "description": "En este puesto, participar\u00e1s en proyectos de investigaci\u00f3n y desarrollo en tecnolog\u00edas de HPC, lo que te permitir\u00e1 desarrollar habilidades en dise\u00f1o y desarrollo de prototipos y productos innovadores. Esto te ser\u00e1 de gran ayuda para entender las necesidades de empresas como SpaceX. Aprovecha para aprender sobre tecnolog\u00edas como AI, ML y Deep Learning.",
+        "position-title": "HPC Research and Development Engineer",
+        "duration": "1-2 years",
+        "requirements": [
+            "Experiencia en investigaci\u00f3n y desarrollo en tecnolog\u00edas de HPC",
+            "Conocimientos en AI, ML y Deep Learning",
+            "Habilidades en lenguajes como Python, TensorFlow o PyTorch"
+        ],
+        "abilities": [
+            "Pensamiento cr\u00edtico",
+            "Creatividad",
+            "Trabajo en equipo"
+        ],
+        "courses": [
+            "Deep Learning with Python",
+            "AI and ML for HPC",
+            "Research Methods for HPC"
+        ],
+        "jobs_list": [],
+        "courses_list": [
+            {
+                "title": "A deep understanding of deep learning (with Python intro)",
+                "description": "Master deep learning in PyTorch using an experimental scientific approach, with lots of examples and practice problems.",
+                "link": "https://www.udemy.com/course/deeplearning_x/"
+            },
+            {
+                "title": "AI & ML Made Easy : A Comprehensive Guide (2024)",
+                "description": "From Understanding Intelligence to Deep Learning: Unravel AI &amp; ML in Real-World Applications for a Future-Proof Career",
+                "link": "https://www.udemy.com/course/aritificial-intelligence-machine-learning-comprehensive-guide-2024/"
+            },
+            {
+                "title": "Research Methods",
+                "description": "How science is (supposed to be) done.",
+                "link": "https://www.udemy.com/course/research-methods-q/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero Senior de HPC en Empresa de Tecnolog\u00eda",
+        "description": "En este puesto, liderar\u00e1s proyectos de HPC y trabajar\u00e1s con equipos de desarrollo para implementar soluciones escalables y eficientes. Esto te ser\u00e1 de gran ayuda para desarrollar habilidades de liderazgo y gesti\u00f3n de proyectos. Aprovecha para aprender sobre tecnolog\u00edas como Kubernetes y Containerization.",
+        "position-title": "Senior HPC Engineer",
+        "duration": "2-3 years",
+        "requirements": [
+            "Experiencia en liderazgo y gesti\u00f3n de proyectos de HPC",
+            "Conocimientos en tecnolog\u00edas como Kubernetes y Containerization",
+            "Habilidades en lenguajes como Python, Java o C++"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Gesti\u00f3n de proyectos",
+            "Comunicaci\u00f3n efectiva"
+        ],
+        "courses": [
+            "Kubernetes for HPC",
+            "Containerization with Docker",
+            "Project Management for HPC"
+        ],
+        "jobs_list": [
+            {
+                "longitude": -71.066119,
+                "title": "Senior HPC Engineer",
+                "redirect_url": "https://www.adzuna.com/land/ad/4906578195?se=sFPRNjSS7xGoYaC0LZ_SoQ&utm_medium=api&utm_source=a60688b4&v=FCD938C4B6CA316C48384CEA4C68D9D0A309E960",
+                "salary_max": 127208.16,
+                "company": {
+                    "display_name": "Selby Jennings",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "location": {
+                    "display_name": "Boston, Suffolk County",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Massachusetts",
+                        "Suffolk County",
+                        "Boston"
+                    ]
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0ZQUk5qU1M3eEdvWWFDMExaX1NvUSIsImkiOiI0OTA2NTc4MTk1In0.mC7ioFx6SLtoNFZqpG36-Hr-rqVcmUJq4jFIl7QPmhk",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "latitude": 42.354856,
+                "salary_is_predicted": "1",
+                "created": "2024-10-18T12:07:02Z",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "id": "4906578195",
+                "salary_min": 127208.16,
+                "description": "The top-performing systematic hedge fund in Boston is currently searching for a Senior level software engineer who specializes in High Performance Computing, scalability, and distributed systems. This role is 100% hands-on and will allow you to make a significant impact on the most elite team at this firm. Responsibilities Lead deep architectural discussions to ensure the deployment of an impactful product. Participate in building a data platform that can support real-time data in the size of p\u2026"
+            },
+            {
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Genentech"
+                },
+                "salary_max": 235300,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoic0ZQUk5qU1M3eEdvWWFDMExaX1NvUSIsImkiOiI0ODYzODc2ODM3In0.UfD2nzCZItgek4Kf_0MrgR0yw-Wd6vE4e5fmFXrZ87s",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
+                "salary_is_predicted": "0",
+                "created": "2024-09-14T09:19:11Z",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "id": "4863876837",
+                "description": "We advance science so that we all have more time with the people we love. Are you a High-Performance Computing (HPC) Engineer who would like to help advance new treatments for cancer and infectious diseases? The gCS Infrastructure and Architecture team (gCS I & A) is looking for a talented and motivated Senior HP Engineer to join us in supporting and building the next-generation platforms for scientific applications and workflows on our on-premises and public cloud-based HPC platforms. This opp\u2026",
+                "title": "Senior HPC Engineer - Applications",
+                "longitude": -122.418411,
+                "redirect_url": "https://www.adzuna.com/details/4863876837?utm_medium=api&utm_source=a60688b4",
+                "location": {
+                    "display_name": "South San Francisco, San Mateo County",
+                    "area": [
+                        "US",
+                        "California",
+                        "San Mateo County",
+                        "South San Francisco"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "latitude": 37.65319,
+                "salary_min": 126700
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Kubernetes Bootcamp: Conquer Kubernetes from Zero to Cloud",
+                "description": "Orchestrate Cloud Native Applications at Scale with Kubernetes!",
+                "link": "https://www.udemy.com/course/kubernetes-bootcamp-kubernetes-from-zero-to-cloud/"
+            },
+            {
+                "title": "Docker & Kubernetes: The Practical Guide [2024 Edition]",
+                "description": "Learn Docker, Docker Compose, Multi-Container Projects, Deployment and all about Kubernetes from the ground up!",
+                "link": "https://www.udemy.com/course/docker-kubernetes-the-practical-guide/"
+            },
+            {
+                "title": "The Project Management Course: Beginner to PROject Manager",
+                "description": "The Complete Course For Becoming A Successful Project Manager",
+                "link": "https://www.udemy.com/course/the-project-management-course-beginner-to-project-manager/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero de HPC en Empresa de Investigaci\u00f3n",
+        "description": "En este puesto, trabajar\u00e1s con cient\u00edficos y investigadores para desarrollar soluciones de HPC para aplicaciones espec\u00edficas. Esto te ser\u00e1 de gran ayuda para desarrollar habilidades en colaboraci\u00f3n y comunicaci\u00f3n con expertos de otros campos. Aprovecha para aprender sobre tecnolog\u00edas como Spark y Hadoop.",
+        "position-title": "HPC Engineer for Research",
+        "duration": "1-2 years",
+        "requirements": [
+            "Experiencia en desarrollo de soluciones de HPC para aplicaciones espec\u00edficas",
+            "Conocimientos en tecnolog\u00edas como Spark y Hadoop",
+            "Habilidades en lenguajes como Python, Java o C++"
+        ],
+        "abilities": [
+            "Colaboraci\u00f3n",
+            "Comunicaci\u00f3n efectiva",
+            "An\u00e1lisis de problemas"
+        ],
+        "courses": [
+            "Spark for HPC",
+            "Hadoop for Big Data",
+            "Collaboration and Communication for HPC"
+        ],
+        "jobs_list": [
+            {
+                "salary_is_predicted": "0",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg5NTQ2MTMwNCIsInMiOiJlT1NkT1RTUzd4R2NaWXpSdFpYaHN3In0.J3GK0jmhyAXWgnOVXP1wH-sFJIB3XYiUM8WWNjyzUhE",
+                "description": "Help Luma build some of the biggest & fastest AI supercomputing clusters in the world As a High-Performance Computing engineer, you\u2019ll work at the intersection of hardware and software, designing systems that deliver the maximum possible performance for running large-scale AI models. We work at the very cutting edge of speed and scale, combining the traditions of High-Performance Computing (HPC) in a modern cloud environment. For this role, it\u2019s important you understand how to combine CPU\u2019s, GP\u2026",
+                "created": "2024-10-09T07:46:38Z",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "salary_max": 220000,
+                "id": "4895461304",
+                "latitude": 37.445797,
+                "title": "Senior HPC engineer, Research infrastructure",
+                "redirect_url": "https://www.adzuna.com/details/4895461304?utm_medium=api&utm_source=a60688b4",
+                "longitude": -122.157575,
+                "location": {
+                    "display_name": "Palo Alto, Santa Clara County",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "California",
+                        "Santa Clara County",
+                        "Palo Alto"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 180000,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Luma AI"
+                },
+                "contract_time": "full_time"
+            },
+            {
+                "title": "Linux HPC Systems Engineer (Hybrid)",
+                "latitude": 36.021034,
+                "id": "4887337297",
+                "category": {
+                    "label": "Engineering Jobs",
+                    "tag": "engineering-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_max": 74372.45,
+                "company": {
+                    "display_name": "Xcel Engineering",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "created": "2024-10-03T11:39:39Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZU9TZE9UU1M3eEdjWll6UnRaWGhzdyIsImkiOiI0ODg3MzM3Mjk3In0.D7EGPO8TNfX_B8kzyPfFZvKtF5QOi8uKBTTC1hlWv9I",
+                "description": "COMPANY OVERVIEW XCEL Engineering, Inc. is an award-winning small business that provides trusted information technology, engineering, consulting and project management solutions and services to federal agencies and organizations. Originally founded in 1971 by professional engineers at the University of Tennessee, XCEL was acquired in 2003 by U.S. Army and Navy veterans and in 2023 became a MartinFed company. XCEL Engineering is a part of IT Lab Partners (ITLP) which was created to support a lea\u2026",
+                "salary_min": 74372.45,
+                "salary_is_predicted": "1",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "Oak Ridge, Anderson County",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Tennessee",
+                        "Anderson County",
+                        "Oak Ridge"
+                    ]
+                },
+                "longitude": -84.252726,
+                "redirect_url": "https://www.adzuna.com/details/4887337297?utm_medium=api&utm_source=a60688b4"
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "PySpark - Apache Spark Programming in Python for beginners",
+                "description": "Master Apache Spark Programming in Python (PySpark) Using Free Databricks Community for Beginners with Capstone Project",
+                "link": "https://www.udemy.com/course/apache-spark-programming-in-python-for-beginners/"
+            },
+            {
+                "title": "The Ultimate Hands-On Hadoop: Tame your Big Data!",
+                "description": "Data Engineering and Hadoop tutorial with MapReduce, HDFS, Spark, Flink, Hive, HBase, MongoDB, Cassandra, Kafka + more!",
+                "link": "https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/"
+            },
+            {
+                "title": "The Complete Communication Skills Master Class for Life",
+                "description": "Communication Skills for Persuasion, Assertiveness and All Business Communication Needs",
+                "link": "https://www.udemy.com/course/the-complete-communication-skills-master-class-for-life/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero Senior de HPC en Empresa de Servicios de Nube",
+        "description": "En este puesto, liderar\u00e1s equipos de desarrollo para implementar soluciones de HPC en la nube. Esto te ser\u00e1 de gran ayuda para desarrollar habilidades en gesti\u00f3n de proyectos y liderazgo. Aprovecha para aprender sobre tecnolog\u00edas como AWS, Azure y Google Cloud.",
+        "position-title": "Senior HPC Engineer for Cloud Services",
+        "duration": "2-3 years",
+        "requirements": [
+            "Experiencia en liderazgo y gesti\u00f3n de proyectos de HPC en la nube",
+            "Conocimientos en tecnolog\u00edas como AWS, Azure y Google Cloud",
+            "Habilidades en lenguajes como Python, Java o C++"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Gesti\u00f3n de proyectos",
+            "Comunicaci\u00f3n efectiva"
+        ],
+        "courses": [
+            "AWS for HPC",
+            "Azure for HPC",
+            "Google Cloud for HPC"
+        ],
+        "jobs_list": [],
+        "courses_list": [
+            {
+                "title": "Ultimate AWS Certified Solutions Architect Associate SAA-C03",
+                "description": "Full Practice Exam | Learn Cloud Computing | Pass the AWS Certified Solutions Architect Associate Certification SAA-C03!",
+                "link": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/"
+            },
+            {
+                "title": "AZ-900: Microsoft Azure Fundamentals Exam Prep - SEP 2024",
+                "description": "Learn the fundamentals of Azure, and get Azure certified, with this complete AZ-900 course, includes practice test!",
+                "link": "https://www.udemy.com/course/az900-azure/"
+            },
+            {
+                "title": "GCP Associate Cloud Engineer - Google Cloud Certification",
+                "description": "GCP ACE - Google Cloud Associate Cloud Engineer certification. Begin your Google Cloud Platform - GCP journey!",
+                "link": "https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero de HPC en Empresa de Defensa",
+        "description": "En este puesto, trabajar\u00e1s en proyectos de HPC para aplicaciones de defensa. Esto te ser\u00e1 de gran ayuda para desarrollar habilidades en seguridad y compliance. Aprovecha para aprender sobre tecnolog\u00edas como seguridad de datos y autenticaci\u00f3n.",
+        "position-title": "HPC Engineer for Defense",
+        "duration": "1-2 years",
+        "requirements": [
+            "Experiencia en desarrollo de soluciones de HPC para aplicaciones de defensa",
+            "Conocimientos en seguridad de datos y autenticaci\u00f3n",
+            "Habilidades en lenguajes como Python, Java o C++"
+        ],
+        "abilities": [
+            "Seguridad",
+            "Compliance",
+            "An\u00e1lisis de problemas"
+        ],
+        "courses": [
+            "Security for HPC",
+            "Data Encryption and Authentication",
+            "Compliance for HPC"
+        ],
+        "jobs_list": [],
+        "courses_list": [
+            {
+                "title": "Ultimate AWS Certified Security Specialty [NEW 2024] SCS-C02",
+                "description": "Become AWS Certified Security Specialty. Full Amazon Web Services Security deep-dive training for SCS-C02",
+                "link": "https://www.udemy.com/course/ultimate-aws-certified-security-specialty/"
+            },
+            {
+                "title": "Practical Encryption",
+                "description": "Learn how encryption, hashing, digital signatures, SSL/TLS and digital certificates really work!",
+                "link": "https://www.udemy.com/course/practical-encryption/"
+            },
+            {
+                "title": "Certificate in Compliance Management",
+                "description": "Learn the Fundamentals of Compliance Management in Organizations",
+                "link": "https://www.udemy.com/course/certificate-in-compliance-management/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero Senior HPC en SpaceX",
+        "description": "En este puesto, liderar\u00e1s proyectos de HPC para aplicaciones espaciales. Esto te ser\u00e1 de gran ayuda para desarrollar habilidades en liderazgo y gesti\u00f3n de proyectos en un entorno innovador y din\u00e1mico.",
+        "position-title": "Senior HPC Engineer at SpaceX",
+        "duration": "2-5 years",
+        "requirements": [
+            "Experiencia en liderazgo y gesti\u00f3n de proyectos de HPC para aplicaciones espaciales",
+            "Conocimientos en tecnolog\u00edas como AI, ML y Deep Learning",
+            "Habilidades en lenguajes como Python, Java o C++"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Gesti\u00f3n de proyectos",
+            "Innovaci\u00f3n"
+        ],
+        "courses": [
+            "HPC for Space Applications",
+            "AI and ML for Space Exploration",
+            "Innovation and Leadership for HPC"
+        ],
+        "jobs_list": [],
+        "courses_list": [
+            {
+                "title": "Python for Space Applications: Git FastAPI Machine Learning",
+                "description": "Unleash Python's Potential in Space Exploration",
+                "link": "https://www.udemy.com/course/python-for-space-applications-git-fastapi-machine-learning/"
+            },
+            {
+                "title": "The AI Engineer Course 2024: Complete AI Engineer Bootcamp",
+                "description": "Complete AI Engineer Training: Python, NLP, Transformers, LLMs, LangChain, Hugging Face, APIs",
+                "link": "https://www.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp/"
+            },
+            {
+                "title": "Leadership: Practical Leadership Skills",
+                "description": "Master leadership skills and leadership techniques with this highly practical advice and training",
+                "link": "https://www.udemy.com/course/practical-leadership/"
+            }
+        ]
+    }
+]
