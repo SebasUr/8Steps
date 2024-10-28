@@ -10,7 +10,7 @@ function Main() {
         const andText = document.getElementById("andText")
         const searchFields = document.getElementById("searchFields")
         const inputFields = searchFields.getElementsByClassName("input-field")
-        
+
         if (selector.value === "soy") {
             inputFields[0].style.display = "block"
             inputFields[1].style.display = "none"
@@ -42,43 +42,43 @@ function Main() {
     useEffect(() => {
         const coords = { x: 0, y: 0 };
         const circles = document.querySelectorAll(".circle");
-    
+
         circles.forEach(function (circle, index) {
-          circle.x = 0;
-          circle.y = 0;
+            circle.x = 0;
+            circle.y = 0;
         });
-    
+
         const handleMouseMove = (e) => {
-          coords.x = e.clientX;
-          coords.y = e.clientY;
+            coords.x = e.clientX;
+            coords.y = e.clientY;
         };
-    
+
         window.addEventListener("mousemove", handleMouseMove);
-    
+
         const animateCircles = () => {
-          let x = coords.x;
-          let y = coords.y;
-    
-          circles.forEach(function (circle, index) {
-            circle.style.left = `${x - 12}px`;
-            circle.style.top = `${y - 12}px`;
-    
-            circle.style.scale = (circles.length - index) / circles.length;
-    
-            circle.x = x;
-            circle.y = y;
-    
-            const nextCircle = circles[index + 1] || circles[0];
-            x += (nextCircle.x - x) * 0.3;
-            y += (nextCircle.y - y) * 0.3;
-          });
-          requestAnimationFrame(animateCircles);
+            let x = coords.x;
+            let y = coords.y;
+
+            circles.forEach(function (circle, index) {
+                circle.style.left = `${x - 12}px`;
+                circle.style.top = `${y - 12}px`;
+
+                circle.style.scale = (circles.length - index) / circles.length;
+
+                circle.x = x;
+                circle.y = y;
+
+                const nextCircle = circles[index + 1] || circles[0];
+                x += (nextCircle.x - x) * 0.3;
+                y += (nextCircle.y - y) * 0.3;
+            });
+            requestAnimationFrame(animateCircles);
         };
-    
+
         animateCircles();
-    
-        
-      }, []);
+
+
+    }, []);
 
     return (
         <>
@@ -87,23 +87,21 @@ function Main() {
         .map((_, i) => (
           <div key={i} className="circle"></div>
         ))}
-
+    
         <div className="wrapper">
-            <div className="site-logo">
-                <img src="/logosvg.svg" alt="Icono" className="logo-icon" />
-                <span className="bold-text">8STE</span><span className="normal-text">PS</span>
-            </div>
-
-            <div className="navbar">
-                <a href="https://www.magneto365.com/es" className="site-link" target="_blank" rel="noopener noreferrer">
-                    magneto
-                </a>
-                <div className="site-menu">
-                    <div className="menu-item">about</div>
-                    <div className="menu-item">contact</div>
+            <div class="top-box"></div>
+            <header className="navbar">
+                <div className="site-logo">
+                    <img src="/logosvg.svg" alt="Icono" className="logo-icon" />
+                    <span className="bold-text">8STE</span><span className="normal-text">PS</span>
                 </div>
-            </div>
-
+    
+                <a href="https://www.magneto365.com/es" className="site-link" target="_blank" rel="noopener noreferrer">
+                    <img src="../../public/logo-magneto.png" alt="Magneto Logo" className="magneto-logo" />
+                </a>
+                <button className="register-button">Registrarme</button>
+            </header>
+    
             <div className="header">
                 <div className="header-left">
                     Descubre la ruta a<br /><span>tu trabajo soñado</span>
@@ -118,7 +116,7 @@ function Main() {
                     </div>
                 </div>
             </div>
-
+    
             <form onSubmit={handleSubmit} className="form-search-bar">
                 <div className="search-bar">
                     <select id="optionSelector" onChange={() => { updateSearchBar() }}>
@@ -134,7 +132,7 @@ function Main() {
                 </div>
                 <button className="slide" type="submit">&nbsp;</button>
             </form>
-
+    
             <video id="background-video" autoPlay muted loop>
                 <source src="/video.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
@@ -142,6 +140,7 @@ function Main() {
         </div>
         </>
     )
+    
 }
 
 export default Main
