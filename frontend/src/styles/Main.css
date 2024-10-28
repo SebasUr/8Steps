@@ -58,7 +58,8 @@ select {
     border-radius: 50px;
     padding: 8px 12px;
     margin-right: 10px;
-    font-size: 16px;
+    font-size: 20px;
+    font-family: Oswald, Helvetica, sans-serif;
     color: #000000;
 }
 
@@ -109,12 +110,12 @@ select {
 }
 
 .navbar {
-    position: fixed; /* Cambiar a `fixed` para que se mantenga en la parte superior al hacer scroll */
-    top: 0; /* Asegurarnos que esté en la parte superior */
-    left: 0; /* Alinear a la izquierda */
-    width: 100%; /* Asegurarnos que ocupa todo el ancho */
-    height: 100px; /* Altura de la navbar */
-    padding: 0 40px; /* Ajustar padding lateral */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    padding: 0 40px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -122,9 +123,10 @@ select {
     text-transform: uppercase;
     line-height: 100px;
     background-color: #ffffff;
-    z-index: 1;
+    z-index: 999; /* Incrementa el z-index para asegurar que esté sobre otros elementos */
     box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
 }
+
 .site-menu {
     display: flex;
 }
@@ -144,15 +146,15 @@ select {
     text-transform: uppercase;
     font-family: "Roboto";
     font-size: 40px;
-    z-index: 2;
-    color: #000000;
+    z-index: 1; /* Asegura que el z-index sea menor que el de la navbar */
+    color: #090467;
 }
 
 .header-left span {
     font-family: Oswald, Helvetica, sans-serif;
     font-weight: bold;
     font-size: 50px;
-    color: #000000;
+    color: #090467; /* Cambiado a #090467 */
 }
 
 .link {
@@ -309,11 +311,10 @@ select {
 
 #andText {
     margin-right: 10px;
-    font-size: 16px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-family: Oswald, Helvetica, sans-serif;
     color:#000;
     text-transform: none;
-    font-weight: 250;
 }
 
 .wrapper {
@@ -421,7 +422,7 @@ a:visited, a:link, a:active {
     border-radius: 50px;
     font-size: 16px;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: all .3s ease-in-out;
     margin-bottom: 60px;
     text-align: center; /* Centra el texto en el botón */
     margin-right: 50px;
@@ -433,11 +434,18 @@ a:visited, a:link, a:active {
 }
 
 .magneto-logo {
-    height: 150px; /* Ajusta el tamaño adecuado para el logo */
+    height: 50px;
     width: auto;
-    margin-left: 10px;
+    margin-left: 50px;
     vertical-align: middle;
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Animación suave */
 }
+
+.magneto-logo:hover {
+    transform: scale(1.1); /* Incrementa el tamaño para simular acercamiento en el eje Z */
+    
+}
+
 
 .top-box {
     background-color: #eff8ff; /* Color de la caja */

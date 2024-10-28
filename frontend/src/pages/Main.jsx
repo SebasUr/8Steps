@@ -97,7 +97,7 @@ function Main() {
                 </div>
     
                 <a href="https://www.magneto365.com/es" className="site-link" target="_blank" rel="noopener noreferrer">
-                    <img src="../../public/logo-magneto.png" alt="Magneto Logo" className="magneto-logo" />
+                    <img src="/logo-magneto.svg" alt="Magneto Logo" className="magneto-logo" />
                 </a>
                 <button className="register-button">Registrarme</button>
             </header>
