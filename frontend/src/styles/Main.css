@@ -80,16 +80,17 @@ select {
     display: flex;
     align-items: center;
     font-family: 'Oswald', sans-serif;
-    font-size: 36px;
+    font-size: 38px;
     text-transform: uppercase;
     gap: 1px; /* Espacio entre el icono y el texto */
     color: #000000;
+    cursor: pointer;
 }
 
 .logo-icon {
-    width: 50px; /* Tamaño ajustado del logo */
+    width: 70px; /* Tamaño ajustado del logo */
     height: auto;
-    margin-right: 8px;
+    margin-right: 2px;
     vertical-align: middle;
     filter: invert(0%) sepia(0%) saturate(100%) hue-rotate(0deg) brightness(100%) contrast(100%);
 }
@@ -226,13 +227,12 @@ select {
     width: 80%;
     max-width: 100%;
     height: auto;
-    border: 3px solid #292929;
     border-radius: 10px;
     background-color: black;
     object-fit: cover;
     margin-top: 90px;
     height: 220px;
-    box-shadow:  0px 0px 22px -16px rgb(255, 255, 255);
+    box-shadow:  0px 0px 20px rgba(158, 228, 184, 0.5);
 }
 
 .circle {
@@ -269,7 +269,7 @@ select {
     background-color: #ffffff; /* Fondo del search bar */
     padding: 10px 20px;
     border-radius: 50px;
-    box-shadow: 0px 0px 20px rgba(158, 228, 184, 0.5); /* Sombra suave */
+    box-shadow: 0px 0px 20px rgba(215, 215, 215, 0.5);; /* Sombra suave */
     font-family: Arial;
     width: 80%;
     z-index: 1; /* Asegura que el search bar esté en frente */
@@ -287,7 +287,7 @@ select {
 
 .input-field {
     background-color: #ffffff; /* Fondo del campo de entrada */
-    border: 2px solid #001B38; /* Borde del campo de entrada */
+    border: none; /* Borde del campo de entrada */
     border-radius: 50px;
     padding: 8px 12px;
     margin-right: 10px;
@@ -297,8 +297,6 @@ select {
     transition: border 0.3s; /* Efecto suave al enfocar */
     position: relative; /* Para controlar el z-index */
     z-index: 0; /* Asegura que el campo de entrada esté detrás del search bar */
-    box-shadow: inset 0px 0px 8px rgba(0, 0, 0, 0.2); /* Sombra interna para simular profundidad */
-
 }
 
 #input-field-soy {
@@ -426,6 +424,10 @@ a:visited, a:link, a:active {
     margin-bottom: 60px;
     text-align: center; /* Centra el texto en el botón */
     margin-right: 50px;
+    font-family: lato;
+    text-transform: none;
+    letter-spacing: 0.7px;
+    font-weight: 600;
 }
 
 
