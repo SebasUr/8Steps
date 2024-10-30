@@ -84,7 +84,6 @@ select {
     text-transform: uppercase;
     gap: 1px; /* Espacio entre el icono y el texto */
     color: #000000;
-    cursor: pointer;
 }
 
 .logo-icon {
@@ -154,7 +153,7 @@ select {
 .header-left span {
     font-family: Oswald, Helvetica, sans-serif;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 60px;
     color: #090467; /* Cambiado a #090467 */
 }
 
@@ -232,6 +231,7 @@ select {
     object-fit: cover;
     margin-top: 90px;
     height: 220px;
+    z-index: 1;
     box-shadow:  0px 0px 20px rgba(158, 228, 184, 0.5);
 }
 
@@ -424,10 +424,9 @@ a:visited, a:link, a:active {
     margin-bottom: 60px;
     text-align: center; /* Centra el texto en el botón */
     margin-right: 50px;
-    font-family: lato;
+    font-family: Oswald, Helvetica, sans-serif;
     text-transform: none;
-    letter-spacing: 0.7px;
-    font-weight: 600;
+    letter-spacing: 0.9px;
 }
 
 
@@ -452,9 +451,24 @@ a:visited, a:link, a:active {
 .top-box {
     background-color: #eff8ff; /* Color de la caja */
     width: 100%; /* Ancho completo */
-    height: 50vh; /* Ocupa la mitad de la altura de la ventana */
-    position: absolute; /* Posición absoluta para colocarlo en la parte superior */
+    height: 480px; /* Ocupa la mitad de la altura de la ventana */
+    position: fixed; /* Posición absoluta para colocarlo en la parte superior */
     top: 0; /* Se sitúa en la parte superior del wrapper */
     left: 0; /* Alinear a la izquierda */
-    z-index: 0; /* Asegúrate de que esté detrás del contenido */
+    z-index: 1; /* Asegúrate de que esté detrás del contenido */
+    overflow: hidden;
+}
+
+.top-box::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 120%; /* Asegura que cubra el ancho */
+    height: 120%; /* Un poco más alto para que la diagonal cubra la sección */
+    background-color: #9ee4b8; /* Color de la figura diagonal */
+    z-index: 1;
+    transform: rotate(-25deg); /* Ajusta el ángulo para lograr la diagonal */
+    transform-origin: top left; /* Alinea la rotación al borde superior izquierdo */
+    clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%); /* Opcional: controla la forma */
 }
