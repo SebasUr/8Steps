@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react"
 import { BrowserRouter as Router, Route, Routes, Navigate } from "react-router-dom"
-import { Main, Steps } from "./pages"
+import { Main, Steps, Profile } from "./pages"
 import { AuthProvider } from "./contexts/AuthContext.jsx"
 import LoadingScreen from "./components/LoadingScreen.jsx" // Importa la pantalla de carga
 import LoginRegister from "./pages/LoginRegister.jsx"
@@ -28,18 +28,21 @@ function App() {
 	return (
 		<>
 			<AuthProvider>
-				{loading ? ( 
-					<LoadingScreen /> // Muestra la pantalla de carga mientras `loading` sea verdadero
-				) : (
-					<Router>
-						<Routes>
-							<Route path="/" element={<Main />} />
-							<Route path="/steps" element={<Steps />} />
-							<Route path="/login-register" element={ <RegisterAndLogout /> } />
-							<Route path="/logout" element={ <Logout />} />
-						</Routes>
-					</Router>
-				)}
+				{
+					loading ? ( 
+						<LoadingScreen /> // Muestra la pantalla de carga mientras `loading` sea verdadero
+					) : (
+						<Router>
+							<Routes>
+								<Route path="/" element={<Main />} />
+								<Route path="/user/profile" element={<Profile />} />
+								<Route path="/steps" element={<Steps />} />
+								<Route path="/login-register" element={ <RegisterAndLogout /> } />
+								<Route path="/logout" element={ <Logout />} />
+							</Routes>
+						</Router>
+					)
+				}
 			</AuthProvider>
 		</>
 	)

@@ -107,6 +107,11 @@ function Main() {
                                         navigate("/logout")
                                     }
                                 }>Bienvenido/Salir</button>
+                                <button className="register-button" onClick={
+                                    () => {
+                                        navigate("/user/profile")
+                                    }
+                                }>Mi Perfil</button>
                             </>
                             
                         ) : (
@@ -125,12 +130,7 @@ function Main() {
                         <div className="link"><a href="#">.</a></div>
                     </div>
                     <div className="header-right">
-                        /dev
-                        <div className="hover-text">
-                            Tazana2<br />
-                            DavidLondo<br />
-                            SebasUr
-                        </div>
+                        
                     </div>
                 </div>
         
