@@ -1,0 +1,16 @@
+{
+    "certifications": [
+        {
+            "title": "Certificación en Python para Ciencia de Datos",
+            "institution": "Coursera"
+        },
+        {
+            "title": "Certificación en Desarrollo Web Full Stack",
+            "institution": "Udacity"
+        },
+        {
+            "title": "Certificación en Machine Learning",
+            "institution": "edX"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "courses": [
+        {
+            "title": "Introducción a la Programación",
+            "description": "Curso básico de programación en Python para principiantes."
+        },
+        {
+            "title": "Desarrollo Web con Django",
+            "description": "Curso intermedio sobre desarrollo de aplicaciones web utilizando el framework Django."
+        },
+        {
+            "title": "Machine Learning Avanzado",
+            "description": "Curso avanzado en aprendizaje automático utilizando Python y TensorFlow."
+        }
+    ]
+}

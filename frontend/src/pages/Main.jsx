@@ -1,45 +1,13 @@
-import React, { useEffect, useContext } from "react"
+import React, { useEffect, useContext, useState } from "react"
 import { useNavigate } from "react-router-dom"
 import { AuthContext } from "../contexts/AuthContext"
+import api from "../api"
 import "../styles/Main.css"
 
 function Main() {
     const { isAuthorized, auth } = useContext(AuthContext)
     const navigate = useNavigate()
-
-    const updateSearchBar = () => {
-        const selector = document.getElementById("optionSelector")
-        const andText = document.getElementById("andText")
-        const searchFields = document.getElementById("searchFields")
-        const inputFields = searchFields.getElementsByClassName("input-field")
-
-        if (selector.value === "soy") {
-            inputFields[0].style.display = "block"
-            inputFields[1].style.display = "none"
-            andText.style.display = "inline"
-            inputFields[2].style.display = "block"
-        } else {
-            inputFields[0].style.display = "none"
-            inputFields[1].style.display = "block"
-            andText.style.display = "none"
-            inputFields[2].style.display = "none"
-        }
-    }
-
-    const handleSubmit = (e) => {
-        e.preventDefault()
-        const selector = document.getElementById("optionSelector")
-        const searchFields = document.getElementById("searchFields")
-        const inputFields = searchFields.getElementsByClassName("input-field")
-        let occupation = "", search = ""
-        if (selector.value === "soy") {
-            occupation = inputFields[0].value
-            search = inputFields[2].value
-        } else {
-            search = inputFields[1].value
-        }
-        navigate("/steps", { state: { occupation, search } })
-    }
+    const [searchType, setSearchType] = useState("soy")
 
     useEffect(() => {
         const coords = { x: 0, y: 0 };
@@ -80,6 +48,52 @@ function Main() {
         auth()
     }, [auth])
 
+    useEffect(() => {
+        const searchFields = document.getElementById("searchFields")
+        const inputFields = searchFields.getElementsByClassName("input-field")
+        if (searchType === "soy") {
+            inputFields[0].style.display = "block"
+            document.getElementById("andText").style.display = "block"
+        } else {
+            inputFields[0].style.display = "none"
+            document.getElementById("andText").style.display = "none"
+        }
+    }, [searchType])
+
+    const handleSubmit = async (e) => {
+        e.preventDefault()
+        const selector = document.getElementById("optionSelector")
+        const searchFields = document.getElementById("searchFields")
+        const inputFields = searchFields.getElementsByClassName("input-field")
+        let occupation = "", search = ""
+        if (selector.value === "soy") {
+            occupation = inputFields[0].value
+            search = inputFields[1].value
+        } else {
+            if (isAuthorized) {
+                let courses = []
+                let certifications = []
+                await api.get("/users/api/user/profile/")
+                .then((res) => res.data)
+                .then((data) => {
+                    courses = data.courses.courses
+                    certifications = data.certifications.certifications
+                })
+                .catch((err) => {
+                    console.error(err)
+                })
+                const newTextCourses = courses.map((course) => course.title).join(", ")
+                const newTextCertifications = certifications.map((certification) => certification.title).join(", ")
+
+                search = `${inputFields[1].value} ${newTextCourses == "" ? "" : `; Tengo cursos de: ${newTextCourses}`}; ${newTextCertifications == "" ? "" : `; Tengo certificaciones de: ${newTextCertifications}`}`
+            } else {
+                search = inputFields[1].value
+            }
+        }
+        
+        navigate("/steps", { state: { occupation, search } })
+    }
+
     return (
         <>
             {
@@ -102,7 +116,7 @@ function Main() {
                 </div>
         
                 <form onSubmit={handleSubmit} className="form-search-bar">
-                    <div className="search-bar">
+                    {/* <div className="search-bar">
                         <select id="optionSelector" onChange={() => { updateSearchBar() }}>
                             <option value="soy">Soy</option>
                             <option value="quiero">Quiero trabajar como</option>
@@ -112,6 +126,17 @@ function Main() {
                             <input type="text" placeholder="Trabajo deseado" className="input-field" id="input-field-soy" />
                             <span id="andText"> y quiero trabajar como</span>
                             <input type="text" placeholder="Trabajo deseado, puedes añadir en donde!" className="input-field" />
+                        </div>
+                    </div> */}
+                    <div className="search-bar">
+                        <select id="optionSelector" onChange={(e) => setSearchType(e.target.value)}>
+                            <option value="soy">Soy</option>
+                            <option value="busco">Quiero trabajar como</option>
+                        </select>
+                        <div id="searchFields" className="search-fields">
+                            <input type="text" className="input-field" placeholder="Profesión o estudio actual" />
+                            <span id="andText"> y quiero trabajar como</span>
+                            <input type="text" className="input-field" placeholder="Trabajo deseado, puedes añadir en donde!" />
                         </div>
                     </div>
                     <button className="slide" type="submit">&nbsp;</button>
