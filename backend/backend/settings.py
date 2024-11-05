@@ -27,6 +27,7 @@ SECRET_KEY = "django-insecure-j9u=xrn(=9vz3@qin3+k^d0+gb5%d6a)1$lsie8pr*h1w#xl7o
 DEBUG = True
 
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", "localhost:5173"]
+AUTH_USER_MODEL = "users.CustomUser"
 
 REST_FRAMEWORK = {
     "DEFAULT_AUTHENTICATION_CLASSES": (
@@ -53,7 +54,8 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "corsheaders",
     "rest_framework",
-    "steps"
+    "steps",
+    "users",
 ]
 
 MIDDLEWARE = [
