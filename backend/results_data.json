@@ -1,636 +1,696 @@
 [
     {
         "about_work": true,
-        "title": "Desarrollador de software",
-        "position-title": "Software Developer",
-        "description": "Como Ingeniero de Sistemas, es fundamental tener experiencia en el desarrollo de software. En este paso, debes buscar una posici\u00f3n como desarrollador de software en una empresa que te permita afinar tus habilidades en programaci\u00f3n y comprensi\u00f3n de la arquitectura de software. Debes trabajar en proyectos que te permitan desarrollar habilidades en lenguajes de programaci\u00f3n como Python, Java o C++. Tambi\u00e9n es importante que aprendas a utilizar herramientas de desarrollo como Git y Agile. Esto te permitir\u00e1 comprender c\u00f3mo se crean y se mantienen los sistemas de software, lo que es fundamental para un Ingeniero de IA en Google.",
-        "duration": "1-2 a\u00f1os",
+        "title": "Desarrollador junior de software",
+        "description": "Como estudiante de ingenier\u00eda de sistemas, es importante tener experiencia laboral en el desarrollo de software. Esto te permitir\u00e1 aplicar tus conocimientos te\u00f3ricos en un entorno real y ganar experiencia pr\u00e1ctica. Busca una empresa que te permita trabajar en proyectos peque\u00f1os o medianos y te brinde la oportunidad de aprender de otros desarrolladores m\u00e1s experimentados. Aprendizaje de Agile, Scrum, y metodolog\u00edas de desarrollo \u00e1gil ser\u00e1n beneficiosos.",
+        "position-title": "Junior Software Developer",
+        "duration": "6-12 months",
         "requirements": [
-            " kennenledge of programming languages",
-            "understanding of software architecture",
-            "experience with version control systems"
+            "Conocimientos de programaci\u00f3n en lenguajes como Java, Python o C++",
+            "Experiencia con herramientas de desarrollo como Git",
+            "Buenas habilidades de comunicaci\u00f3n y trabajo en equipo"
         ],
         "abilities": [
-            "teamwork",
-            "problem-solving",
-            "communication"
+            "Comunicaci\u00f3n efectiva",
+            "Trabajo en equipo",
+            "Aprendizaje r\u00e1pido"
         ],
         "courses": [
-            "Python for Data Science",
-            "Java Fundamentals",
-            "Agile Development"
+            "Desarrollo de software \u00e1gil",
+            "Introducci\u00f3n a Git",
+            "Programaci\u00f3n en Python"
         ],
         "jobs_list": [
             {
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkxNDUxOTc5MCIsInMiOiJndWthb0dxVzd4R1BuNlRIVXBfU29RIn0.AUsd3wIv-o7X5C9AeD5gOtELAfvv-QBMEK3Riagp84c",
-                "description": "Volt is Immediately Hiring for - ServiceNow Software Developer As a ServiceNow Software Developer \u2013 You will: Requirements (Must Haves): Clearance required : Public Trust Client is looking for a ServiceNow Developer to support ongoing ServiceNow continuous improvement projects of existing ServiceNow implementation for an enterprise. The successful candidate will be able to adapt to client needs, and to support the implementation of the ServiceNow roadmap. The ServiceNow Developer will collabora\u2026",
-                "category": {
-                    "label": "IT Jobs",
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "redirect_url": "https://www.adzuna.com/land/ad/4914519790?se=gukaoGqW7xGPn6THUp_SoQ&utm_medium=api&utm_source=a60688b4&v=655B39FBF1032401ABC01D3D892C6C297AB211F5",
+                "salary_is_predicted": "1",
+                "__CLASS__": "Adzuna::API::Response::Job",
                 "company": {
                     "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Volt"
+                    "display_name": "Horizon Resource Services"
                 },
-                "salary_is_predicted": "1",
-                "salary_max": 89121.22,
-                "salary_min": 89121.22,
-                "longitude": -77.019023,
-                "latitude": 38.912068,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
                 "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Remote, Coos County",
                     "area": [
                         "US",
-                        "Washington, D.C.",
-                        "Washington"
+                        "Oregon",
+                        "Coos County",
+                        "Remote"
                     ],
-                    "display_name": "Washington, Washington, D.C."
+                    "__CLASS__": "Adzuna::API::Response::Location"
                 },
-                "title": "Software Development - ServiceNow Software Developer",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "id": "4914519790",
-                "created": "2024-10-25T22:09:24Z"
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXFmSzF2S2I3eEdYSmZmRjRwWGhzdyIsImkiOiI0OTIwNDY4MzExIn0.UNkKza5I7lJfqgvKnRaNgiM6tecX5u0za8bK1yjyX2w",
+                "description": "Job Description Job Description TRANSFORMACTION DYNAMICS, LLC JOB DESCRIPTION - JUNIOR SOFTWARE DEVELOPER TransformAction Dynamics, LLC Our mission is to help federal, municipal, and commercial agencies and businesses courageously pursue and confidently achieve transformational change. For audacious leaders who need insights into technical and financial realities of a successful enterprise transformation, TransformAction Dynamics offers a forensic approach to transformation management. Our cons\u2026",
+                "salary_max": 85189.99,
+                "longitude": -123.884499,
+                "id": "4920468311",
+                "latitude": 43.018799,
+                "title": "Junior Software Developer",
+                "redirect_url": "https://www.adzuna.com/land/ad/4920468311?se=-qfK1vKb7xGXJffF4pXhsw&utm_medium=api&utm_source=a60688b4&v=31A48F9112E5ACFA1E33ADA8958549BD4BDEFBBF",
+                "created": "2024-10-31T23:42:11Z",
+                "salary_min": 85189.99
             },
             {
-                "created": "2024-10-29T19:47:53Z",
-                "id": "4918029467",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "title": "Principal Software Developer",
+                "description": "Talent Masters is working for a leading national non-profit on its search for a Junior Software Developer. As a Junior Software Developer, you will be an integral part of the IT team, reporting to the Recovery Resource Manager. You will work closely with the Senior Developer and Technical Staff to develop, maintain, and enhance technology solutions that cater to the needs of both internal team members and external customers. Your primary focus will be on the implementation and improvement of so\u2026",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyNjc0NTQ2OCIsInMiOiItcWZLMXZLYjd4R1hKZmZGNHBYaHN3In0.3scpXP5KBT2dTeXkx_0NyJtklKkC-OdlN2AOMo88-yw",
+                "longitude": -96.765058,
+                "salary_max": 69358.84,
+                "id": "4926745468",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "contract_type": "contract",
                 "location": {
                     "area": [
                         "US",
-                        "Alabama",
-                        "Madison County",
-                        "Triana"
+                        "Texas",
+                        "Dallas",
+                        "Highland Park"
                     ],
                     "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Triana, Madison County"
+                    "display_name": "Highland Park, Dallas"
                 },
-                "latitude": 34.652001,
-                "salary_min": 154882.53,
-                "longitude": -86.725397,
-                "salary_max": 154882.53,
+                "contract_time": "full_time",
+                "latitude": 32.760168,
                 "salary_is_predicted": "1",
-                "category": {
-                    "label": "IT Jobs",
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "redirect_url": "https://www.adzuna.com/land/ad/4918029467?se=gukaoGqW7xGPn6THUp_SoQ&utm_medium=api&utm_source=a60688b4&v=8669EBD7C88D4B14B76B98297BFF640F85E2BB28",
+                "__CLASS__": "Adzuna::API::Response::Job",
                 "company": {
                     "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Raytheon"
+                    "display_name": "Talent Masters"
                 },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ3VrYW9HcVc3eEdQbjZUSFVwX1NvUSIsImkiOiI0OTE4MDI5NDY3In0.64STPK4Pm20h0Y5ZGkZ-TmY0fWiwjNultAMDoSlAwV4",
-                "description": "Date Posted: 2024-02-22 Country: United States of America Location: AL216: 340 The Bridge St NW PKWHntsvl 340 The Bridge Street NW Suite 206, Huntsville, AL, 35806 USA Position Role Type: Hybrid You have been redirected to RTX\u2019s career page as we have recently transitioned from RTX to become a standalone company, which provides us with greater autonomy and opportunities for growth. As a prospective employee of Nightwing, you\u2019ll have the chance to contribute to our continued success and shape th\u2026"
+                "title": "Junior Software Developer",
+                "redirect_url": "https://www.adzuna.com/land/ad/4926745468?se=-qfK1vKb7xGXJffF4pXhsw&utm_medium=api&utm_source=a60688b4&v=122BA7E8119E046AE727C66D3AA042EA05389CC8",
+                "salary_min": 69358.84,
+                "created": "2024-11-05T01:23:58Z"
             }
         ],
         "courses_list": [
             {
-                "title": "Python for Data Science and Machine Learning Bootcamp",
-                "description": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!",
-                "link": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"
+                "title": "Ingenier\u00eda de Software y Arquitectura de Software",
+                "description": "Aprende Sobre Ingenier\u00eda de Software, Ingenier\u00eda de requisitos, Arquitectura de Software , Software Testing y mas!",
+                "link": "https://www.udemy.com/course/ingenieria-de-software-y-principios-de-arquitectura/"
             },
             {
-                "title": "Java 17 Masterclass: Start Coding in 2024",
-                "description": "Acquire Key Java Skills: From Basics to Advanced Programming and Certification - Start Your Dev Career",
-                "link": "https://www.udemy.com/course/java-the-complete-java-developer-course/"
+                "title": "Git y GitHub desde Cero a Experto",
+                "description": "Sistema de control de versiones Git y GitHub desde cero, de manera r\u00e1pida, bien explicada y 100% Actualizado!",
+                "link": "https://www.udemy.com/course/git-y-github-desde-cero-a-experto/"
             },
             {
-                "title": "Agile Fundamentals: Including Scrum & Kanban",
-                "description": "Master Agile principles, values, approaches, & mindset to help organizations make changes faster and with less expense",
-                "link": "https://www.udemy.com/course/agile-fundamentals-scrum-kanban-scrumban/"
+                "title": "Curso completo de Python: Programaci\u00f3n en Python desde cero",
+                "description": "Aprende a programar en Python y a resolver problemas reales utilizando clases, objetos, ficheros, bucles y mucho m\u00e1s!",
+                "link": "https://www.udemy.com/course/curso-completo-de-python-3/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Analista de datos",
-        "position-title": "Data Analyst",
-        "description": "En este paso, debes buscar una posici\u00f3n como analista de datos en una empresa que te permita trabajar con grandes conjuntos de datos y aprender a utilizar herramientas como pandas, NumPy y Matplotlib. Debes desarrollar habilidades en estad\u00edstica y machine learning, y aprender a comunicar resultados a trav\u00e9s de informes y visualizaciones. Esto te permitir\u00e1 comprender c\u00f3mo se trabajan con datos y prepararte para trabajar en proyectos de IA.",
-        "duration": "1-2 a\u00f1os",
+        "title": "Desarrollador de software",
+        "description": "Despu\u00e9s de ganar experiencia como desarrollador junior, es hora de buscar un puesto de desarrollador de software. En este papel, podr\u00e1s trabajar en proyectos m\u00e1s grandes y complejos y tener m\u00e1s responsabilidades. Aprendizaje de tecnolog\u00edas emergentes como Cloud Computing, Machine Learning o Internet de las Cosas ser\u00e1n beneficiosos.",
+        "position-title": "Software Developer",
+        "duration": "1-2 years",
         "requirements": [
-            "knowledge of statistics",
-            "experience with data analysis tools",
-            "communication skills"
+            "Experiencia en desarrollo de software",
+            "Conocimientos de al menos un lenguaje de programaci\u00f3n",
+            "Experiencia con herramientas de desarrollo como JIRA o Asana"
         ],
         "abilities": [
-            "data analysis",
-            "problem-solving",
-            "communication"
+            "Resoluci\u00f3n de problemas",
+            "An\u00e1lisis de datos",
+            "Trabajo bajo presi\u00f3n"
         ],
         "courses": [
-            "Data Analysis with Python",
-            "Statistics for Data Science",
-            "Data Visualization"
+            "Desarrollo de software en la nube",
+            "Introducci\u00f3n a Machine Learning",
+            "Desarrollo de aplicaciones m\u00f3viles"
         ],
         "jobs_list": [
             {
-                "redirect_url": "https://www.adzuna.com/land/ad/4916147628?se=lP0VomqW7xGs-DRN2ZXhsw&utm_medium=api&utm_source=a60688b4&v=C809CEAAE1078EFD8610A0F130B6A659F1406AC9",
+                "created": "2024-11-05T08:17:13Z",
                 "salary_is_predicted": "1",
-                "latitude": 40.11691,
-                "title": "Senior Data Analyst",
-                "salary_max": 97887.61,
+                "longitude": -75.16548,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyNzA1MDgzMiIsInMiOiIySmZfMlBLYjd4R3NsWGhDWFpfU29RIn0.ZwVbOMUR9moHtXNizpj5z5qHthTWJphvKskJeY0JFOc",
+                "title": "Project Lead - Software Development",
+                "id": "4927050832",
+                "contract_time": "full_time",
+                "description": "Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Suitability: No Suitability Required Public Trust/Other Required: NACLC (T3) Job Family: Systems Analysis Job Qualifications: Skills: Application Development, Business Requirements, Functional Requirements, Leading Project Teams Certifications: Experience: 8  years of related experience US Citizenship Required: Yes Job Description: Project Lead-Software Developer Transform tech\u2026",
+                "salary_min": 171995.16,
+                "redirect_url": "https://www.adzuna.com/land/ad/4927050832?se=2Jf_2PKb7xGslXhCXZ_SoQ&utm_medium=api&utm_source=a60688b4&v=33BD08F44B692A761C804BF3ACD5664F4588B5C4",
+                "company": {
+                    "display_name": "General Dynamics Information Technology",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
                 "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Feasterville, Bucks County",
+                    "display_name": "Middle East, Philadelphia County",
                     "area": [
                         "US",
                         "Pennsylvania",
-                        "Bucks County",
-                        "Feasterville"
-                    ]
+                        "Philadelphia County",
+                        "Middle East"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
                 },
-                "description": "Comcast brings together the best in media and technology. We drive innovation to create the world's best entertainment and online experiences. As a Fortune 50 leader, we set the pace in a variety of innovative and fascinating businesses and create career opportunities across a wide range of locations and disciplines. We are at the forefront of change and move at an amazing pace, thanks to our remarkable people, who bring cutting-edge products and services to life for millions of customers every\u2026",
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs",
-                    "label": "IT Jobs"
-                },
-                "id": "4916147628",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "created": "2024-10-27T23:36:48Z",
-                "longitude": -75.01428,
-                "salary_min": 97887.61,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibFAwVm9tcVc3eEdzLURSTjJaWGhzdyIsImkiOiI0OTE2MTQ3NjI4In0.YVBK0A016-nrtU9wQF6WTVco6Jg9dARGICYXKRhgw98",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Comcast Corporation"
-                },
-                "contract_time": "full_time"
+                "latitude": 39.95208,
+                "salary_max": 171995.16
             },
             {
-                "salary_max": 74436.52,
-                "title": "Data Analyst Associate",
-                "latitude": 38.97,
-                "salary_is_predicted": "1",
-                "redirect_url": "https://www.adzuna.com/land/ad/4914516593?se=lP0VomqW7xGs-DRN2ZXhsw&utm_medium=api&utm_source=a60688b4&v=CD78FE3ECFC07FF2763E2627B6DD92DB011752DB",
-                "company": {
-                    "display_name": "Genesis10",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkxNDUxNjU5MyIsInMiOiJsUDBWb21xVzd4R3MtRFJOMlpYaHN3In0.dDxJH1YMAxtIHJwAuDkPsL_mL2WGHR5U9X641nwq87M",
-                "created": "2024-10-25T22:08:45Z",
-                "salary_min": 74436.52,
-                "longitude": -77.23,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "contract_type": "contract",
-                "category": {
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs"
-                },
-                "id": "4914516593",
-                "description": "Genesis10 is seeking a Data Analyst Associate for a 3 month contract position with a mortgage loan corporation located in McLean, VA. This position is open to fully remote candidates.  Responsibilities:  Collaborate with information security teams to understand various information security tool capabilities and reporting use cases.  Analyze information security tools and reporting use cases to identify appropriate data elements.  Develop technical specifications for data ingestion and storage i\u2026",
+                "salary_max": 131672.19,
+                "latitude": 39.157939,
                 "location": {
+                    "display_name": "Harmans, Anne Arundel County",
                     "__CLASS__": "Adzuna::API::Response::Location",
                     "area": [
                         "US",
-                        "Virginia",
-                        "Fairfax County",
-                        "Mc Lean"
-                    ],
-                    "display_name": "Mc Lean, Fairfax County"
-                }
+                        "Maryland",
+                        "Anne Arundel County",
+                        "Harmans"
+                    ]
+                },
+                "redirect_url": "https://www.adzuna.com/land/ad/4927427255?se=2Jf_2PKb7xGslXhCXZ_SoQ&utm_medium=api&utm_source=a60688b4&v=F29AFFF5501063269E109346F3AA6052FDC37B74",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkpmXzJQS2I3eEdzbFhoQ1haX1NvUSIsImkiOiI0OTI3NDI3MjU1In0.E0ir-tzrPLfXBHJXohz-Mc5jj55iC1TrmC8sIjS6x3Q",
+                "company": {
+                    "display_name": "ManTech",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "Description & Requirements ManTech is currently seeking a motivated, career and customer-oriented Expert Software Developer to join our team in Hanover, MD. Responsibilities include, but are not limited to: Design and develop new hardware or software based CNO capabilities. Manage the designing, developing, documenting, testing and debugging of applications software and systems. Apply expert knowledge of security concepts and networks. Communicate status with leadership and customers. Ensure so\u2026",
+                "salary_min": 131672.19,
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "title": "Expert Software Developer",
+                "created": "2024-11-05T14:25:00Z",
+                "id": "4927427255",
+                "salary_is_predicted": "1",
+                "longitude": -76.72138
             }
         ],
         "courses_list": [
             {
-                "title": "Data Analysis with Pandas and Python",
-                "description": "Analyze data quickly and easily with Python's powerful pandas library! All datasets included --- beginners welcome!",
-                "link": "https://www.udemy.com/course/data-analysis-with-pandas/"
+                "title": "AWS Glue: Procesamiento de Datos en la Nube",
+                "description": "Descubre AWS Glue: Cataloga, Automatiza ETLs y Orquesta flujos de datos en la nube.",
+                "link": "https://www.udemy.com/course/aws-glue-procesamiento-de-datos-en-la-nube/"
             },
             {
-                "title": "Statistics for Data Science and Business Analysis",
-                "description": "Statistics you need in the office: Descriptive &amp; Inferential statistics, Hypothesis testing, Regression analysis",
-                "link": "https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/"
+                "title": "Machine Learning y Data Science: Curso Completo con Python",
+                "description": "Aprende Machine Learning y Data Science con Python, \u00a1convi\u00e9rtete en un experto en Machine Learning con Python!",
+                "link": "https://www.udemy.com/course/machine-learning-desde-cero/"
             },
             {
-                "title": "Mastering Data Visualization: Theory and Foundations",
-                "description": "Learn to design amazing charts for visualization and communication for [data] science, journalism and storytelling",
-                "link": "https://www.udemy.com/course/mastering-data-visualization/"
+                "title": "Programaci\u00f3n de Aplicaciones para Android con Kotlin",
+                "description": "Aprende desde las nociones b\u00e1sicas de kotlin hasta c\u00f3mo programar de forma profesional apps para Android con Kotlin",
+                "link": "https://www.udemy.com/course/programacion-de-aplicaciones-android-kotlin/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Ingeniero de Machine Learning",
-        "position-title": "Machine Learning Engineer",
-        "description": "En este paso, debes buscar una posici\u00f3n como Ingeniero de Machine Learning en una empresa que te permita trabajar en proyectos de IA y aprender a utilizar frameworks como TensorFlow o PyTorch. Debes desarrollar habilidades en desarrollo de modelos de ML y aprender a implementarlos en producci\u00f3n. Esto te permitir\u00e1 comprender c\u00f3mo se crean modelos de IA y prepararte para trabajar en Google.",
-        "duration": "2-3 a\u00f1os",
+        "title": "L\u00edder de equipo de desarrollo",
+        "description": "En este papel, podr\u00e1s liderar un equipo de desarrolladores y ser responsable de la planificaci\u00f3n y ejecuci\u00f3n de proyectos. Aprendizaje de habilidades de liderazgo y gesti\u00f3n de proyectos ser\u00e1n beneficiosos.",
+        "position-title": "Team Lead, Software Development",
+        "duration": "1-2 years",
         "requirements": [
-            "knowledge of machine learning algorithms",
-            "experience with deep learning frameworks",
-            "experience with cloud platforms"
+            "Experiencia en desarrollo de software",
+            "Habilidades de liderazgo y gesti\u00f3n de equipos",
+            "Experiencia con herramientas de gesti\u00f3n de proyectos como JIRA o MS Project"
         ],
         "abilities": [
-            "problem-solving",
-            "teamwork",
-            "communication"
+            "Liderazgo",
+            "Gesti\u00f3n de proyectos",
+            "Comunicaci\u00f3n efectiva"
         ],
         "courses": [
-            "Machine Learning with Python",
-            "Deep Learning with TensorFlow",
-            "Cloud Computing with AWS"
+            "Liderazgo y gesti\u00f3n de equipos",
+            "Gesti\u00f3n de proyectos \u00e1giles",
+            "Desarrollo de habilidades de liderazgo"
         ],
         "jobs_list": [
             {
-                "salary_max": 163038.47,
-                "id": "4916150978",
-                "longitude": -73.997412,
-                "salary_is_predicted": "1",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Tellworks Communications"
+                },
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.com/details/4924978420?utm_medium=api&utm_source=a60688b4",
+                "title": "Team Lead - Software Developer",
+                "created": "2024-11-03T10:03:55Z",
+                "salary_min": 80000,
+                "salary_max": 100000,
+                "longitude": -119.6853,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiekYxdzJfS2I3eEdYSmZmRjRwWGhzdyIsImkiOiI0OTI0OTc4NDIwIn0.EzrijA6ixNaYyoo52qL6AWNCyymQeoljo8_agb3EhT0",
+                "description": "Tellworks Logistics, headquartered in Atlanta, Georgia with locations throughout the United States, is a leading provider of supply chain services. Our company offers warehouse and logistics services as well as value added services and supply chain consulting for companies who depend on service excellence and require a personalized, rather than one-size-fits-all, approach to their materials management requirements. In conjunction with affiliated companies Makt-Trans Freight and AIMSPlus  Softwa\u2026",
+                "id": "4924978420",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
                 "location": {
-                    "display_name": "Prince, Manhattan",
                     "__CLASS__": "Adzuna::API::Response::Location",
                     "area": [
                         "US",
-                        "New York",
-                        "New York City",
-                        "Manhattan",
-                        "Prince"
+                        "Nevada",
+                        "Washoe County",
+                        "Tracy-Clark"
+                    ],
+                    "display_name": "Tracy-Clark, Washoe County"
+                },
+                "contract_time": "full_time",
+                "latitude": 39.53868
+            },
+            {
+                "salary_max": 122997.95,
+                "longitude": -119.7358,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkxODg1NTg1OCIsInMiOiJ6RjF3Ml9LYjd4R1hKZmZGNHBYaHN3In0.HhkdRAV9OEYUPoFJse9nc4q7ioYVkPoXa6VgZzMJ7N4",
+                "description": "Tellworks Logistics, headquartered in Atlanta, Georgia with locations throughout the United States, is a leading provider of supply chain services. Our company offers warehouse and logistics services as well as value added services and supply chain consulting for companies who depend on service excellence and require a personalized, rather than one-size-fits-all, approach to their materials management requirements. In conjunction with affiliated companies Makt-Trans Freight and AIMSPlus Softwar\u2026",
+                "id": "4918855858",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "location": {
+                    "display_name": "Sparks, Washoe County",
+                    "area": [
+                        "US",
+                        "Nevada",
+                        "Washoe County",
+                        "Sparks"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "contract_time": "full_time",
+                "latitude": 39.5565,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Tellworks Logistics"
+                },
+                "salary_is_predicted": "1",
+                "redirect_url": "https://www.adzuna.com/details/4918855858?utm_medium=api&utm_source=a60688b4",
+                "title": "Team Lead - Software Developer",
+                "salary_min": 122997.95,
+                "created": "2024-10-30T14:16:32Z"
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Liderazgo y Gesti\u00f3n de equipos | Certificaci\u00f3n",
+                "description": "Aprend\u00e9 a gestionar y liderar tu equipo de trabajo. (Incluye trabajo remoto e h\u00edbrido)",
+                "link": "https://www.udemy.com/course/liderazgo-y-gestion-de-equipos-certificacion-2018/"
+            },
+            {
+                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
+                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
+                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
+            },
+            {
+                "title": "Desarrollando Habilidades de Liderazgo",
+                "description": "De Experto T\u00e9cnico a L\u00edder: Estrategias para una Transici\u00f3n",
+                "link": "https://www.udemy.com/course/de-experto-tecnico-a-lider-estrategias-para-una-transicion/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero de software senior",
+        "description": "En este papel, podr\u00e1s trabajar en proyectos complejos y tener responsabilidades m\u00e1s elevadas. Aprendizaje de tecnolog\u00edas emergentes como Kubernetes, Docker o Servless Architecture ser\u00e1n beneficiosos.",
+        "position-title": "Senior Software Engineer",
+        "duration": "1-2 years",
+        "requirements": [
+            "Experiencia en desarrollo de software",
+            "Conocimientos de al menos un lenguaje de programaci\u00f3n",
+            "Experiencia con herramientas de desarrollo como Docker o Kubernetes"
+        ],
+        "abilities": [
+            "Resoluci\u00f3n de problemas complejos",
+            "An\u00e1lisis de datos avanzado",
+            "Trabajo bajo presi\u00f3n"
+        ],
+        "courses": [
+            "Desarrollo de software en contenedores",
+            "Introducci\u00f3n a Kubernetes",
+            "Desarrollo de aplicaciones serverless"
+        ],
+        "jobs_list": [
+            {
+                "id": "4917931721",
+                "salary_max": 138992.4,
+                "created": "2024-10-29T16:35:26Z",
+                "location": {
+                    "display_name": "Crestwood, Houston",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Texas",
+                        "Harris County",
+                        "Houston",
+                        "Crestwood"
                     ]
                 },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVFBzMXBHcVc3eEdNRTVTbTQ0ajJPdyIsImkiOiI0OTE2MTUwOTc4In0.hRk4FKMDd5QKeVswASjqTHbK1vG-GjyhgiHDyo1Zqvs",
-                "company": {
-                    "display_name": "Capital One",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "title": "Senior Machine Learning Engineer",
-                "created": "2024-10-27T23:41:40Z",
-                "redirect_url": "https://www.adzuna.com/land/ad/4916150978?se=TPs1pGqW7xGME5Sm44j2Ow&utm_medium=api&utm_source=a60688b4&v=A187AD473BCE8A48AC82BC262A68F694712E7607",
-                "description": "314 Main Street (21020), United States of America, Cambridge, Massachusetts Senior Machine Learning Engineer As a Capital One Machine Learning Engineer (MLE), you'll be part of an Agile team dedicated to productionizing machine learning applications and systems at scale. You\u2019ll participate in the detailed technical design, development, and implementation of machine learning applications using existing and emerging technology platforms. You\u2019ll focus on machine learning architectural design, deve\u2026",
+                "description": "Entity: Trading & Shipping Job Family Group: Supply & Trading Group Job Description: The Trading Data Analytics team within the Trading Analytics & Insights (TA&I) organisation in bp Trading & Shipping comprises Quantitative Analytics, Data Strategists and Core Strategists. Linked by the common themes of data, numerical algorithms and technology, the team seeks to contribute to the business by providing new models, tradable insights and agile technology solutions that empower the analyst commun\u2026",
                 "contract_time": "full_time",
-                "latitude": 40.725948,
-                "salary_min": 163038.47,
-                "contract_type": "contract",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "BP Energy"
+                },
+                "latitude": 29.75706,
+                "title": "Senior Software Engineer (Python)",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "redirect_url": "https://www.adzuna.com/land/ad/4917931721?se=hmFH3fKb7xGLDmNQ6oj2Ow&utm_medium=api&utm_source=a60688b4&v=8A52E745E981706556097B4B0C0F32B915CB081C",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaG1GSDNmS2I3eEdMRG1OUTZvajJPdyIsImkiOiI0OTE3OTMxNzIxIn0.3FfjfFtbH7vulM12DeAvtAsdILsIKMT0djVg0Yx-rd4",
+                "salary_is_predicted": "1",
+                "longitude": -95.3698,
+                "salary_min": 138992.4
+            },
+            {
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Engineering Jobs",
+                    "tag": "engineering-jobs"
+                },
+                "redirect_url": "https://www.adzuna.com/land/ad/4927048637?se=hmFH3fKb7xGLDmNQ6oj2Ow&utm_medium=api&utm_source=a60688b4&v=454507FEB14477CF515E43398E4DC2A95759F23C",
+                "title": "Senior Software Engineer/Evaluator",
+                "salary_max": 157311.23,
+                "id": "4927048637",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaG1GSDNmS2I3eEdMRG1OUTZvajJPdyIsImkiOiI0OTI3MDQ4NjM3In0.u79FFae4XqAfveWxpqIlb6_1scaHv_TAxSGFrw3XRZ0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2024-11-05T08:09:18Z",
+                "description": "Description & Requirements Become an integral part of a diverse team while working at an Industry Leading Organization, where our employees come first. At ManTech International Corporation, you\u2019ll help protect our national security while working on innovative projects that offer opportunities for advancement. Currently, ManTech is seeking a motivated, career and customer-oriented Senior Cryptographic Software Evaluator/Engineer to join our team in Linthicum Heights, Maryland. The position is pa\u2026",
+                "location": {
+                    "display_name": "Linthicum Heights, Anne Arundel County",
+                    "area": [
+                        "US",
+                        "Maryland",
+                        "Anne Arundel County",
+                        "Linthicum Heights"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "1",
+                "salary_min": 157311.23,
+                "latitude": 39.20964,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "ManTech"
+                },
+                "longitude": -76.66818
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Ingenier\u00eda de Software y Arquitectura de Software",
+                "description": "Aprende Sobre Ingenier\u00eda de Software, Ingenier\u00eda de requisitos, Arquitectura de Software , Software Testing y mas!",
+                "link": "https://www.udemy.com/course/ingenieria-de-software-y-principios-de-arquitectura/"
+            },
+            {
+                "title": "Kubernetes al completo",
+                "description": "Aprende a manejar un cluster de Kubernetes, desplegar aplicaciones y gestionar todos sus componentes.",
+                "link": "https://www.udemy.com/course/kubernetes-al-completo/"
+            },
+            {
+                "title": "API REST con Serverless Framework",
+                "description": "Desarrolla aplicaciones en la Nube de AWS f\u00e1cilmente con Serverless Framework",
+                "link": "https://www.udemy.com/course/api-rest-con-serverless-framework/"
+            }
+        ]
+    },
+    {
+        "about_work": false,
+        "title": "Crear un portfolio de proyectos",
+        "description": "Crear un portfolio de proyectos te permitir\u00e1 mostrar tus habilidades y logros a posibles empleadores. Busca proyectos que te permitan aplicar tus conocimientos y habilidades y mostrar tus logros. Un buen portfolio de proyectos te ayudar\u00e1 a destacar en el mercado laboral.",
+        "courses": [
+            "Desarrollo de aplicaciones web",
+            "Dise\u00f1o deInterfaces de usuario"
+        ],
+        "courses_list": [
+            {
+                "title": "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL",
+                "description": "Aprende Desarrollo Web con este curso 100% pr\u00e1ctico, paso a paso y sin conocimientos previo INCLUYE 4 PROYECTOS FINALES",
+                "link": "https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/"
+            },
+            {
+                "title": "Dise\u00f1o UX: experiencia de usuario UX/UI + Figma 2024",
+                "description": "Aprende, conoce y aplica t\u00e9cnicas de User Experience Design y Design Thinking - Curso UX UI Design + Dise\u00f1o Web y Mobile",
+                "link": "https://www.udemy.com/course/ux-design-disenador-ux-de-cero-a-profesional-2021/"
+            }
+        ]
+    },
+    {
+        "about_work": false,
+        "title": "Participar en eventos y conferencias de la industria",
+        "description": "Participar en eventos y conferencias de la industria te permitir\u00e1 aprender de otros profesionales y mantenerse actualizado con las \u00faltimas tendencias y tecnolog\u00edas. Adem\u00e1s, te brindar\u00e1 la oportunidad de networking y establecer contactos en la industria.",
+        "courses": [
+            "Tendencias en desarrollo de software",
+            "Introducci\u00f3n a la industria de la tecnolog\u00eda"
+        ],
+        "courses_list": [
+            {
+                "title": "Ingenier\u00eda de Software y Arquitectura de Software",
+                "description": "Aprende Sobre Ingenier\u00eda de Software, Ingenier\u00eda de requisitos, Arquitectura de Software , Software Testing y mas!",
+                "link": "https://www.udemy.com/course/ingenieria-de-software-y-principios-de-arquitectura/"
+            },
+            {
+                "title": "Introducci\u00f3n a la Industria de Petr\u00f3leo y Gas",
+                "description": "El proceso de los hidrocarburos",
+                "link": "https://www.udemy.com/course/introduccion-a-la-industria-de-petroleo-y-gas/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero de software en una empresa de tecnolog\u00eda",
+        "description": "En este papel, podr\u00e1s trabajar en una empresa de tecnolog\u00eda y tener responsabilidades m\u00e1s elevadas. Aprendizaje de tecnolog\u00edas emergentes como Artificial Intelligence o Blockchain ser\u00e1n beneficiosos.",
+        "position-title": "Software Engineer",
+        "duration": "1-2 years",
+        "requirements": [
+            "Experiencia en desarrollo de software",
+            "Conocimientos de al menos un lenguaje de programaci\u00f3n",
+            "Experiencia con herramientas de desarrollo como Agile o Scrum"
+        ],
+        "abilities": [
+            "Resoluci\u00f3n de problemas complejos",
+            "An\u00e1lisis de datos avanzado",
+            "Trabajo bajo presi\u00f3n"
+        ],
+        "courses": [
+            "Introducci\u00f3n a Artificial Intelligence",
+            "Desarrollo de aplicaciones con Blockchain",
+            "Desarrollo de software en la nube"
+        ],
+        "jobs_list": [
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "created": "2024-11-01T02:55:45Z",
+                "longitude": -80.011717,
+                "salary_is_predicted": "1",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicExpSDRmS2I3eEdzbFhoQ1haX1NvUSIsImkiOiI0OTIwNzA5MzM3In0.bjgC9l31qrqwd9hjnY2LmJn-ndcoNE334AiNBao4uqA",
+                "description": "Job ID: 667147BR Date posted: Oct. 29, 2024 Program: NCRC-CHS Description: WHY JOIN US: Relocating to Charleston offers numerous lifestyle and professional benefits. Charleston is renowned for its rich history, incredible architecture, and vibrant cultural scene. It boasts some of the best culinary experiences in the country along with beautiful beaches and outdoor activities that make it an ideal place for both relaxation and adventure. The city's charm is complemented by its warm climate and \u2026",
+                "salary_min": 132611.8,
+                "title": "Cyber Software Engineer",
+                "contract_time": "full_time",
+                "id": "4920709337",
+                "salary_max": 132611.8,
+                "location": {
+                    "display_name": "Charleston, Charleston County",
+                    "area": [
+                        "US",
+                        "South Carolina",
+                        "Charleston County",
+                        "Charleston"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "latitude": 32.92964,
+                "redirect_url": "https://www.adzuna.com/land/ad/4920709337?se=pLiH4fKb7xGslXhCXZ_SoQ&utm_medium=api&utm_source=a60688b4&v=6A336E0C461B756A1D11A04C2F7C570C76C46B44",
+                "company": {
+                    "display_name": "Lockheed Martin",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                }
+            },
+            {
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Lockheed Martin"
+                },
+                "redirect_url": "https://www.adzuna.com/land/ad/4908783025?se=pLiH4fKb7xGslXhCXZ_SoQ&utm_medium=api&utm_source=a60688b4&v=536EE35E6FCF284FBA0CEFB4D1725A2BE9D392CC",
+                "salary_max": 132311.77,
+                "location": {
+                    "display_name": "Savage, Anne Arundel County",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Maryland",
+                        "Anne Arundel County",
+                        "Savage"
+                    ]
+                },
+                "latitude": 39.13205,
+                "contract_time": "full_time",
+                "id": "4908783025",
+                "title": "Cyber Software Engineer",
+                "salary_min": 132311.77,
+                "description": "Job ID: 676022BR Date posted: Sep. 16, 2024 Program: OL Description: This position may be eligible for a $25K sign on bonus for external hires What We're Doing: Lockheed Martin, Cyber & Intelligence invites you to step up to one of today's most daunting challenges: the use of advanced electronics to undermine our way of life. As a cyber security professional at Lockheed Martin, you'll protect the networks that our citizens and the world depend upon each minute: Financial assets. Healthcare info\u2026",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwODc4MzAyNSIsInMiOiJwTGlINGZLYjd4R3NsWGhDWFpfU29RIn0.Rhf3Tk862TVqcee1rwnm36gkEHoeyygV-UTOf1-88jc",
+                "longitude": -76.799422,
+                "salary_is_predicted": "1",
+                "created": "2024-10-21T08:21:20Z",
                 "category": {
                     "__CLASS__": "Adzuna::API::Response::Category",
                     "label": "IT Jobs",
                     "tag": "it-jobs"
                 },
                 "__CLASS__": "Adzuna::API::Response::Job"
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Introducci\u00f3n a la Inteligencia Artificial",
+                "description": "Descubriendo el Futuro: Curso de Introducci\u00f3n a la Inteligencia Artificial",
+                "link": "https://www.udemy.com/course/introduccion-a-la-inteligencia-artificial-s/"
             },
             {
-                "title": "Senior Machine Learning Engineer",
-                "created": "2024-10-27T23:45:30Z",
-                "description": "11 West 19th Street (22008), United States of America, New York, New York Senior Machine Learning Engineer As a Capital One Machine Learning Engineer (MLE), you'll be part of an Agile team dedicated to productionizing machine learning applications and systems at scale. You\u2019ll participate in the detailed technical design, development, and implementation of machine learning applications using existing and emerging technology platforms. You\u2019ll focus on machine learning architectural design, develo\u2026",
-                "redirect_url": "https://www.adzuna.com/land/ad/4916154599?se=TPs1pGqW7xGME5Sm44j2Ow&utm_medium=api&utm_source=a60688b4&v=F4B1EECC00877AE5F01EAFEDBB2BD18DFCDF0A47",
-                "latitude": 40.725948,
+                "title": "Arquitectura de Aplicaciones Empresariales con .NET 8",
+                "description": "Todo lo que necesitas para dise\u00f1ar y construir Aplicaciones con una Arquitectura robusta, segura, confiable y escalable.",
+                "link": "https://www.udemy.com/course/arquitectura-aplicaciones-empresariales-con-net-core/"
+            },
+            {
+                "title": "AWS Glue: Procesamiento de Datos en la Nube",
+                "description": "Descubre AWS Glue: Cataloga, Automatiza ETLs y Orquesta flujos de datos en la nube.",
+                "link": "https://www.udemy.com/course/aws-glue-procesamiento-de-datos-en-la-nube/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero de software en Google",
+        "description": "En este papel, podr\u00e1s trabajar en uno de los l\u00edderes en tecnolog\u00eda y tener responsabilidades m\u00e1s elevadas. Aprendizaje de tecnolog\u00edas emergentes como Cloud Computing o Machine Learning ser\u00e1n beneficiosos.",
+        "position-title": "Software Engineer",
+        "duration": "1-2 years",
+        "requirements": [
+            "Experiencia en desarrollo de software",
+            "Conocimientos de al menos un lenguaje de programaci\u00f3n",
+            "Experiencia con herramientas de desarrollo como Google Cloud o Kubernetes"
+        ],
+        "abilities": [
+            "Resoluci\u00f3n de problemas complejos",
+            "An\u00e1lisis de datos avanzado",
+            "Trabajo bajo presi\u00f3n"
+        ],
+        "courses": [
+            "Desarrollo de software en Google Cloud",
+            "Introducci\u00f3n a Machine Learning con TensorFlow",
+            "Desarrollo de aplicaciones con Kubernetes"
+        ],
+        "jobs_list": [
+            {
+                "latitude": 32.92964,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Lockheed Martin"
+                },
                 "contract_time": "full_time",
-                "salary_min": 164768.48,
-                "category": {
-                    "tag": "it-jobs",
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "contract_type": "contract",
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "id": "4916154599",
-                "salary_max": 164768.48,
-                "salary_is_predicted": "1",
-                "longitude": -73.997412,
-                "company": {
-                    "display_name": "Capital One",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVFBzMXBHcVc3eEdNRTVTbTQ0ajJPdyIsImkiOiI0OTE2MTU0NTk5In0.Z89RPjzmLj1BBRAius2JB0VmIJc2m-UDCkGSmCveD5I",
+                "created": "2024-11-01T02:55:45Z",
                 "location": {
-                    "display_name": "Prince, Manhattan",
+                    "display_name": "Charleston, Charleston County",
                     "__CLASS__": "Adzuna::API::Response::Location",
                     "area": [
                         "US",
-                        "New York",
-                        "New York City",
-                        "Manhattan",
-                        "Prince"
+                        "South Carolina",
+                        "Charleston County",
+                        "Charleston"
                     ]
+                },
+                "description": "Job ID: 667147BR Date posted: Oct. 29, 2024 Program: NCRC-CHS Description: WHY JOIN US: Relocating to Charleston offers numerous lifestyle and professional benefits. Charleston is renowned for its rich history, incredible architecture, and vibrant cultural scene. It boasts some of the best culinary experiences in the country along with beautiful beaches and outdoor activities that make it an ideal place for both relaxation and adventure. The city's charm is complemented by its warm climate and \u2026",
+                "id": "4920709337",
+                "salary_max": 132611.8,
+                "salary_min": 132611.8,
+                "longitude": -80.011717,
+                "salary_is_predicted": "1",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyMDcwOTMzNyIsInMiOiJ6UDVuNF9LYjd4R0xEbU5RNm9qMk93In0.8GWzvW9ADLrXbeCNaoVK5i5gu5zVgCgEGL2AZ9qOmIg",
+                "title": "Cyber Software Engineer",
+                "redirect_url": "https://www.adzuna.com/land/ad/4920709337?se=zP5n4_Kb7xGLDmNQ6oj2Ow&utm_medium=api&utm_source=a60688b4&v=6A336E0C461B756A1D11A04C2F7C570C76C46B44",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
                 }
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]",
-                "description": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
-                "link": "https://www.udemy.com/course/machinelearning/"
             },
             {
-                "title": "TensorFlow for Deep Learning Bootcamp",
-                "description": "Learn TensorFlow by Google. Become an AI, Machine Learning, and Deep Learning expert!",
-                "link": "https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/"
-            },
-            {
-                "title": "Introduction to Cloud Computing on AWS for Beginners [2024]",
-                "description": "Learn Cloud Computing Concepts and AWS Basics | Master AWS Fundamentals and Hands-on Skills on Amazon Web Services (AWS)",
-                "link": "https://www.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/"
-            }
-        ]
-    },
-    {
-        "about_work": false,
-        "title": "Desarrollo de habilidades en Cloud Computing",
-        "description": "En este paso, debes enfocarte en desarrollar habilidades en Cloud Computing, espec\u00edficamente en Google Cloud Platform. Debes aprender a utilizar herramientas como Google Cloud Storage, Google Cloud Dataflow y Google Cloud AI Platform. Esto te permitir\u00e1 comprender c\u00f3mo se implementan proyectos de IA en la nube y prepararte para trabajar en Google.",
-        "courses": [
-            "Google Cloud Platform Fundamentals",
-            "Google Cloud Storage",
-            "Google Cloud AI Platform"
-        ],
-        "courses_list": [
-            {
-                "title": "Google Cloud Platform (GCP) Fundamentals for Beginners",
-                "description": "Learn How to Use Key GCP Services From the Ground Up Through Hands-On Demos and Detailed Use Cases!",
-                "link": "https://www.udemy.com/course/google-cloud-platform-gcp-fundamentals-for-beginners/"
-            },
-            {
-                "title": "GCP Associate Cloud Engineer - Google Cloud Certification",
-                "description": "GCP ACE - Google Cloud Associate Cloud Engineer certification. Begin your Google Cloud Platform - GCP journey!",
-                "link": "https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/"
-            },
-            {
-                "title": "Fundamentos de Google Cloud Platform con pr\u00e1cticas",
-                "description": "Aprende de forma PR\u00c1CTICA los conceptos fundamentales de Google Cloud Platform y como manejar su infraestructura",
-                "link": "https://www.udemy.com/course/fundamentos-de-google-cloud-platform/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Ingeniero de IA en startup",
-        "position-title": "AI Engineer in Startup",
-        "description": "En este paso, debes buscar una posici\u00f3n como Ingeniero de IA en una startup que te permita trabajar en proyectos de IA y aprender a resolver problemas complejos. Debes desarrollar habilidades en liderazgo y comunicaci\u00f3n, y aprender a trabajar en entornos din\u00e1micos. Esto te permitir\u00e1 comprender c\u00f3mo se trabajan en entornos de IA y prepararte para trabajar en Google.",
-        "duration": "2-3 a\u00f1os",
-        "requirements": [
-            "knowledge of AI algorithms",
-            "experience with AI frameworks",
-            "leadership skills"
-        ],
-        "abilities": [
-            "problem-solving",
-            "teamwork",
-            "communication",
-            "leadership"
-        ],
-        "courses": [
-            "AI for Startups",
-            "Leading AI Teams",
-            "AI Ethics"
-        ],
-        "jobs_list": [
-            {
-                "longitude": -120.943179,
-                "salary_min": 90111.84,
-                "title": "Endpoint Engineer - AI CyberSecurity Startup - Hybrid - $225k",
-                "latitude": 37.928543,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
                 "location": {
+                    "display_name": "Savage, Anne Arundel County",
                     "area": [
                         "US",
-                        "California"
+                        "Maryland",
+                        "Anne Arundel County",
+                        "Savage"
                     ],
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "California, US"
+                    "__CLASS__": "Adzuna::API::Response::Location"
                 },
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "created": "2024-10-28T05:27:33Z",
-                "id": "4916510989",
-                "description": "The Developer Link has partnered with a cybersecurity startup focused on preventing data leaks and enabling secure collaboration through its AI-native data leak prevention (DLP) platform. They\u2019re looking for an Endpoint Engineer who will be responsible for developing and maintaining data exfiltration prevention applications and services for MacOS or Windows. Key Responsibilities: Design and develop apps, drivers, and system extensions for data protection on MacOS or Windows. Maintain and evolve\u2026",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVXZmdXAycVc3eEdQbjZUSFVwX1NvUSIsImkiOiI0OTE2NTEwOTg5In0.YbP5Kvw9hGNKuRYR8Ybs-B7lKbl45YRv7XfuP-uiMic",
-                "redirect_url": "https://www.adzuna.com/details/4916510989?utm_medium=api&utm_source=a60688b4",
-                "category": {
-                    "label": "IT Jobs",
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
+                "description": "Job ID: 676022BR Date posted: Sep. 16, 2024 Program: OL Description: This position may be eligible for a $25K sign on bonus for external hires What We're Doing: Lockheed Martin, Cyber & Intelligence invites you to step up to one of today's most daunting challenges: the use of advanced electronics to undermine our way of life. As a cyber security professional at Lockheed Martin, you'll protect the networks that our citizens and the world depend upon each minute: Financial assets. Healthcare info\u2026",
+                "created": "2024-10-21T08:21:20Z",
+                "salary_max": 132311.77,
+                "id": "4908783025",
+                "latitude": 39.13205,
                 "company": {
-                    "display_name": "The Developer Link",
-                    "__CLASS__": "Adzuna::API::Response::Company"
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Lockheed Martin"
                 },
-                "salary_is_predicted": "1",
-                "salary_max": 90111.84
-            },
-            {
-                "salary_is_predicted": "1",
-                "salary_max": 121406.27,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVXZmdXAycVc3eEdQbjZUSFVwX1NvUSIsImkiOiI0OTA2NTA0NzI0In0.JExkpZbqO3TWqBLZQ-24fsX-_0nJOqjOn3UDx3RLaeE",
-                "description": "Sr. Full Stack Software Engineer \u2013 AI / Productivity Startup Location: San Francisco, CA (5 days/week in the office) The company's product involves AI, productivity, and no code. It can be used by businesses as well as consumers. The position is based on the company's San Francisco office. The company seeks candidates who would be enthusiastic about working in the office 5 days/week. The company has about 25 employees and 15 engineers. It has raised over $30 million in Series B funding and has \u2026",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoielA1bjRfS2I3eEdMRG1OUTZvajJPdyIsImkiOiI0OTA4NzgzMDI1In0.wbUxbQ3s63E3HP4xgx6plTpjC5u3emfCBgDsceHP0hA",
+                "redirect_url": "https://www.adzuna.com/land/ad/4908783025?se=zP5n4_Kb7xGLDmNQ6oj2Ow&utm_medium=api&utm_source=a60688b4&v=536EE35E6FCF284FBA0CEFB4D1725A2BE9D392CC",
                 "category": {
                     "__CLASS__": "Adzuna::API::Response::Category",
                     "tag": "it-jobs",
                     "label": "IT Jobs"
                 },
-                "redirect_url": "https://www.adzuna.com/details/4906504724?utm_medium=api&utm_source=a60688b4",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Skyrocket Ventures"
-                },
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "id": "4906504724",
-                "created": "2024-10-18T12:01:39Z",
-                "longitude": -122.466538,
-                "salary_min": 121406.27,
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "California",
-                        "San Francisco"
-                    ],
-                    "display_name": "San Francisco, California"
-                },
-                "latitude": 37.798085,
-                "title": "Sr. Full Stack Software Engineer \u2013 AI / Productivity Startup"
+                "title": "Cyber Software Engineer",
+                "salary_min": 132311.77,
+                "longitude": -76.799422,
+                "salary_is_predicted": "1"
             }
         ],
         "courses_list": [
             {
-                "title": "The AI Engineer Course 2024: Complete AI Engineer Bootcamp",
-                "description": "Complete AI Engineer Training: Python, NLP, Transformers, LLMs, LangChain, Hugging Face, APIs",
-                "link": "https://www.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp/"
+                "title": "Ingenier\u00eda de Software y Arquitectura de Software",
+                "description": "Aprende Sobre Ingenier\u00eda de Software, Ingenier\u00eda de requisitos, Arquitectura de Software , Software Testing y mas!",
+                "link": "https://www.udemy.com/course/ingenieria-de-software-y-principios-de-arquitectura/"
             },
             {
-                "title": "The AI Engineer Course 2024: Complete AI Engineer Bootcamp",
-                "description": "Complete AI Engineer Training: Python, NLP, Transformers, LLMs, LangChain, Hugging Face, APIs",
-                "link": "https://www.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp/"
+                "title": "Machine Learning y Data Science: Curso Completo con Python",
+                "description": "Aprende Machine Learning y Data Science con Python, \u00a1convi\u00e9rtete en un experto en Machine Learning con Python!",
+                "link": "https://www.udemy.com/course/machine-learning-desde-cero/"
             },
             {
-                "title": "ChatGPT / AI Ethics: Ethical Intelligence for 2024",
-                "description": "Making Ethical Decisions in the Age of Intelligent Machines",
-                "link": "https://www.udemy.com/course/chatgpt-ai-ethics-ethical-intelligence/"
-            }
-        ]
-    },
-    {
-        "about_work": false,
-        "title": "Desarrollo de habilidades en liderazgo",
-        "description": "En este paso, debes enfocarte en desarrollar habilidades en liderazgo y gerenciamiento de proyectos. Debes aprender a gestionar equipos y proyectos, y desarrollar habilidades en comunicaci\u00f3n efectiva. Esto te permitir\u00e1 comprender c\u00f3mo se lideran proyectos de IA y prepararte para trabajar en Google.",
-        "courses": [
-            "Leadership for AI Professionals",
-            "Project Management for AI Projects",
-            "Effective Communication"
-        ],
-        "courses_list": [
-            {
-                "title": "Certificate in AI Business Leadership",
-                "description": "Master the integration of AI into business strategy for sustainable growth and innovation",
-                "link": "https://www.udemy.com/course/certificate-in-ai-business-leadership/"
-            },
-            {
-                "title": "Project Management with ChatGPT: AI for Project Managers",
-                "description": "Master Modern Project Management with AI. A Comprehensive Guide to Use Chat GPT for Project Managers (+ 42 Prompts)",
-                "link": "https://www.udemy.com/course/project-management-with-chatgpt/"
-            },
-            {
-                "title": "Effective Communication in the Workplace",
-                "description": "Business Communication Training",
-                "link": "https://www.udemy.com/course/effective-communication-in-the-workplace/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Ingeniero de IA en empresa de tecnolog\u00eda",
-        "position-title": "AI Engineer in Tech Company",
-        "description": "En este paso, debes buscar una posici\u00f3n como Ingeniero de IA en una empresa de tecnolog\u00eda que te permita trabajar en proyectos de IA y aprender a resolver problemas complejos. Debes desarrollar habilidades en desarrollo de modelos de IA y aprender a implementarlos en producci\u00f3n. Esto te permitir\u00e1 comprender c\u00f3mo se trabajan en entornos de IA y prepararte para trabajar en Google.",
-        "duration": "2-3 a\u00f1os",
-        "requirements": [
-            "knowledge of AI algorithms",
-            "experience with AI frameworks",
-            "experience with cloud platforms"
-        ],
-        "abilities": [
-            "problem-solving",
-            "teamwork",
-            "communication"
-        ],
-        "courses": [
-            "AI for Tech Companies",
-            "Developing AI Models",
-            "AI in Production"
-        ],
-        "jobs_list": [],
-        "courses_list": [
-            {
-                "title": "2024 Bootcamp: Generative AI + LLM App Development.",
-                "description": "From zero to professional level: learn the keys to AI and build the most potential Generative AI applications.",
-                "link": "https://www.udemy.com/course/bootcamp-generative-artificial-intelligence-and-llm-app-development/"
-            },
-            {
-                "title": "The AI Engineer Course 2024: Complete AI Engineer Bootcamp",
-                "description": "Complete AI Engineer Training: Python, NLP, Transformers, LLMs, LangChain, Hugging Face, APIs",
-                "link": "https://www.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp/"
-            },
-            {
-                "title": "InVideo Mastery: Fast & Easy 100% AI Video Production.",
-                "description": "Create Videos From Idea to Video Using AI: Text-To-Video, AI Music, AI Voices, Voice Cloning, Advanced Editing and More!",
-                "link": "https://www.udemy.com/course/invideo-mastery/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Ingeniero de IA en Google",
-        "position-title": "AI Engineer in Google",
-        "description": "En este paso, has alcanzado tu objetivo de trabajar como Ingeniero de IA en Google. Debes desarrollar habilidades en desarrollo de modelos de IA y aprender a implementarlos en producci\u00f3n. Estar\u00e1s trabajando en proyectos de IA que tienen un impacto en la sociedad y debes estar listo para resolver problemas complejos.",
-        "duration": "indefinido",
-        "requirements": [
-            "knowledge of AI algorithms",
-            "experience with AI frameworks",
-            "experience with Google Cloud Platform"
-        ],
-        "abilities": [
-            "problem-solving",
-            "teamwork",
-            "communication",
-            "leadership"
-        ],
-        "courses": [
-            "Google AI Engineer Certification",
-            "AI for Social Good",
-            "AI Ethics"
-        ],
-        "jobs_list": [
-            {
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Google"
-                },
-                "redirect_url": "https://www.adzuna.com/details/4907717284?utm_medium=api&utm_source=a60688b4",
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs",
-                    "label": "IT Jobs"
-                },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwNzcxNzI4NCIsInMiOiJlc0FncldxVzd4R1BuNlRIVXBfU29RIn0.MXNl-J32dkyXrWlGSBMVp4QJL_CO2xG-xM4vUrMTXbI",
-                "description": "Minimum qualifications: - Bachelor's degree or equivalent practical experience. - 8 years of experience in software development, and with data structures/algorithms. - 5 years of experience testing, and launching software products, and 3 years of experience with software design and architecture. - 5 years of experience with one or more of the following: Speech/audio (e.g., technology duplicating and responding to the human voice), reinforcement learning (e.g., sequential decision making), ML in\u2026",
-                "salary_max": 189301.16,
-                "salary_is_predicted": "1",
-                "title": "Staff Software Engineer, AI/ML, Google Workspace",
-                "latitude": 37.376099,
-                "location": {
-                    "display_name": "Sunnyvale, Santa Clara County",
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "California",
-                        "Santa Clara County",
-                        "Sunnyvale"
-                    ]
-                },
-                "salary_min": 189301.16,
-                "longitude": -122.02194,
-                "created": "2024-10-19T15:51:12Z",
-                "id": "4907717284",
-                "__CLASS__": "Adzuna::API::Response::Job"
-            },
-            {
-                "salary_min": 193694.4,
-                "longitude": -122.07702,
-                "title": "Staff Software Engineer, AI Infrastructure, Google Home",
-                "location": {
-                    "display_name": "Mountain View, Santa Clara County",
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "California",
-                        "Santa Clara County",
-                        "Mountain View"
-                    ]
-                },
-                "latitude": 37.39308,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "created": "2024-10-23T15:54:20Z",
-                "id": "4911575933",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkxMTU3NTkzMyIsInMiOiJlc0FncldxVzd4R1BuNlRIVXBfU29RIn0.UUqRTxKitmPiE729Z2TUYZsrZ1BPxAKPhhoVrgBE2Oc",
-                "description": "Minimum qualifications: - Bachelor's degree or equivalent practical experience. - 8 years of experience in software development, and with data structures/algorithms. - 5 years of experience testing, and launching software products, and 3 years of experience with software design and architecture. - Experience building LLM or ML Infrastructure, and working with Generative AI/ML technologies or similar. Preferred qualifications: - Master's degree or PhD in Engineering, Computer Science, or a relat\u2026",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Google"
-                },
-                "redirect_url": "https://www.adzuna.com/details/4911575933?utm_medium=api&utm_source=a60688b4",
-                "category": {
-                    "label": "IT Jobs",
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "salary_is_predicted": "1",
-                "salary_max": 193694.4
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "GCP Associate Cloud Engineer - Google Cloud Certification",
-                "description": "GCP ACE - Google Cloud Associate Cloud Engineer certification. Begin your Google Cloud Platform - GCP journey!",
-                "link": "https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/"
-            },
-            {
-                "title": "The AI Engineer Course 2024: Complete AI Engineer Bootcamp",
-                "description": "Complete AI Engineer Training: Python, NLP, Transformers, LLMs, LangChain, Hugging Face, APIs",
-                "link": "https://www.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp/"
-            },
-            {
-                "title": "ChatGPT / AI Ethics: Ethical Intelligence for 2024",
-                "description": "Making Ethical Decisions in the Age of Intelligent Machines",
-                "link": "https://www.udemy.com/course/chatgpt-ai-ethics-ethical-intelligence/"
+                "title": "Arquitectura de Aplicaciones Empresariales con .NET 8",
+                "description": "Todo lo que necesitas para dise\u00f1ar y construir Aplicaciones con una Arquitectura robusta, segura, confiable y escalable.",
+                "link": "https://www.udemy.com/course/arquitectura-aplicaciones-empresariales-con-net-core/"
             }
         ]
     }

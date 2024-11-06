@@ -108,7 +108,6 @@ function Main() {
                 <div className="header">
                     <div className="header-left">
                         Descubre la ruta a<br /><span>tu trabajo soñado</span>
-                        <div className="link"><a href="#">.</a></div>
                     </div>
                     <div className="header-right">
                         

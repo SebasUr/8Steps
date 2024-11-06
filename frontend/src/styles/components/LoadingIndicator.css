@@ -17,8 +17,8 @@
     width: 100%;
     height: 100vh;
     position: fixed;
-    background-color: black;
-    z-index: 99;
+    background-color: white;
+    z-index: 9999;
     text-align: center;
   }
   .loader-parent {
@@ -42,12 +42,13 @@
   /* loader */
   
   #loader {
-    background: #000;
+    background: white;
     display: flex;
     align-items: center;
     justify-content: center;
     height: 70%;
     border-right: 2px solid rgb(68, 68, 68);
+
   }
   #loader svg {
     width: 60%;
@@ -55,15 +56,23 @@
     margin-top: 10%;
   }
   .triangle {
+    stroke: black;  /* Cambiar el color del triángulo a negro */
+    stroke-width: 1; /* Si es necesario ajustar el grosor */
     stroke-dasharray: 17;
     animation: dash 3s cubic-bezier(0.35, 0.04, 0.63, 0.95) infinite;
   }
+  
   .loading {
     font-family: "Oswald", sans-serif;
     font-size: 6px;
     font-stretch: expanded;
     animation: blink 2s ease-in-out infinite alternate;
-  }
+}
+
+#loader text.loading {
+  fill: black; /* Cambia el color del texto dentro del SVG */
+}
+
   
   #myDiv {
     display: none;
@@ -92,7 +101,7 @@
     font-family: "roboto";
     font-size: 2.7vw;
     font-weight: bolder;
-    color: rgb(255, 255, 255);
+    color: black;
   }
   .hint-description {
     width: 100%;
@@ -103,7 +112,7 @@
     font-size: 1.2vw;
     font-family:"Roboto";
     line-height: 3vw;
-    color: white;
+    color: black;
     margin-top: 2%;
     letter-spacing: 0.8px;
   }

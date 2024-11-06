@@ -1,5 +1,3 @@
-/* General Styles ----------------------------------------- */ 
-
 * {
     margin: 0;
     padding: 0;
@@ -8,8 +6,8 @@
 
 html,
 body {
-    margin: 0; /* Eliminar margen por defecto del body */
-    padding: 0; /* Eliminar padding por defecto del body */
+    margin: 0;
+    padding: 0;
     background: #ffffff;
     overflow: hidden;
     color: #000000;
@@ -19,13 +17,6 @@ main {
     height: 100vh;
     width: 100vw;
     display: flex;
-}
-
-section {
-    width: 120vw;
-    font-size: 28px;
-    line-height: 1em;
-    font-family: "Roboto";
 }
 
 button {
@@ -63,79 +54,6 @@ select {
     color: #000000;
 }
 
-.container-items {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 300px;
-    display: flex;
-    align-items: center;
-    cursor: pointer;
-}
-
-.site-logo {
-    position: absolute; /* Esto permite centrarlo en la navbar */
-    left: 50%; /* Mueve el logo al centro de la pantalla */
-    transform: translateX(-50%); /* Ajusta para que quede centrado respecto a su propio ancho */
-    display: flex;
-    align-items: center;
-    font-family: 'Oswald', sans-serif;
-    font-size: 38px;
-    text-transform: uppercase;
-    gap: 1px; /* Espacio entre el icono y el texto */
-    color: #000000;
-}
-
-.logo-icon {
-    width: 70px; /* Tamaño ajustado del logo */
-    height: auto;
-    margin-right: 2px;
-    vertical-align: middle;
-    filter: invert(0%) sepia(0%) saturate(100%) hue-rotate(0deg) brightness(100%) contrast(100%);
-}
-
-.bold-text {
-    font-weight: 700;
-    display: inline-block;
-}
-.normal-text {
-    font-weight: 400;
-    display: inline-block;
-}
-
-.site-link {
-    color: #000000;
-    text-decoration: none;
-    font-size: 18px;
-}
-
-.navbar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100px;
-    padding: 0 40px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-family: oswald, Helvetica, sans-serif;
-    text-transform: uppercase;
-    line-height: 100px;
-    background-color: #ffffff;
-    z-index: 999; /* Incrementa el z-index para asegurar que esté sobre otros elementos */
-    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
-}
-
-.site-menu {
-    display: flex;
-}
-
-.menu-item {
-    margin-left: 60px;
-    color: #000000;
-}
-
 .header {
     position: relative;
     width: 80%;
@@ -146,7 +64,7 @@ select {
     text-transform: uppercase;
     font-family: "Roboto";
     font-size: 40px;
-    z-index: 1; /* Asegura que el z-index sea menor que el de la navbar */
+    z-index: 1;
     color: #090467;
 }
 
@@ -154,73 +72,8 @@ select {
     font-family: Oswald, Helvetica, sans-serif;
     font-weight: bold;
     font-size: 60px;
-    color: #090467; /* Cambiado a #090467 */
+    color: #090467;
 }
-
-.link {
-    margin: 40px 0;
-}
-
-.link a {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
-    color: #000000;
-}
-
-.header-right {
-    position: relative;
-    cursor: pointer;
-}
-
-.hover-text {
-    display: none;
-    text-transform: none;
-    font-size: small;
-    left: 0;
-    background-color: #ffffff;
-    padding: 10px 15px;
-    border: 1px solid #000000;
-    border-radius: 8px;
-    white-space: nowrap;
-    opacity: 0;
-    transform: translateY(-20px) scale(0.95); /* Comienza desplazado y reducido */
-    transition: opacity 0.6s ease, transform 0.6s ease;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Sombra suave para dar profundidad */
-}
-
-.header-right:hover .hover-text {
-    display: block;
-    opacity: 1;
-    transform: translateY(0) scale(1); /* Desplaza a su lugar y expande suavemente */
-}
-
-/* Estilos para la pantalla de carga -----------------------------------------------------*/
-#loading-screen {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: #ffffff; /* Fondo oscuro */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 9999;
-    transition: opacity 0.5s ease-out;
-}
-
-/* Estilo para el logo de carga */
-.loading-content {
-    text-align: center;
-}
-
-.loading-logo {
-    width: 150px;
-    animation: fadeIn 3s ease-out;
-    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);
-}
-
-/* Estilos para el video y la línea separadora --------------------------------------------------------*/
 
 #background-video {
     width: 80%;
@@ -244,7 +97,7 @@ select {
     top: 0;
     left: 0;
     pointer-events: none;
-    z-index: 99999999; /* so that it stays on top of all other elements */
+    z-index: 99999999;
     transition: transform 0.2s ease;
 }
 
@@ -252,27 +105,26 @@ select {
     transform: scale(5);
 }
 
-/* Searchbar ----------------------------------------- */ 
-
 .form-search-bar {
     display: flex;
     flex-direction: column;
     width: 100%;
     justify-content: center;
     align-items: center;
+    margin-top: 110px;
 }
 
 .search-bar {
     position: relative; 
     display: flex;
     align-items: center;
-    background-color: #ffffff; /* Fondo del search bar */
+    background-color: #ffffff;
     padding: 10px 20px;
     border-radius: 50px;
-    box-shadow: 0px 0px 20px rgba(215, 215, 215, 0.5);; /* Sombra suave */
+    box-shadow: 0px 0px 20px rgba(215, 215, 215, 0.5);
     font-family: Arial;
     width: 80%;
-    z-index: 1; /* Asegura que el search bar esté en frente */
+    z-index: 1;
 }
 
 .select:focus {
@@ -286,17 +138,17 @@ select {
 }
 
 .input-field {
-    background-color: #ffffff; /* Fondo del campo de entrada */
-    border: none; /* Borde del campo de entrada */
+    background-color: #ffffff;
+    border: none;
     border-radius: 50px;
     padding: 8px 12px;
     margin-right: 10px;
     font-size: 16px;
     flex: 1;
-    color: #001B38; /* Color del texto del campo de entrada */
-    transition: border 0.3s; /* Efecto suave al enfocar */
-    position: relative; /* Para controlar el z-index */
-    z-index: 0; /* Asegura que el campo de entrada esté detrás del search bar */
+    color: #001B38;
+    transition: border 0.3s;
+    position: relative;
+    z-index: 0;
 }
 
 #input-field-soy {
@@ -317,22 +169,22 @@ select {
 
 .wrapper {
     display: flex;
-    flex-direction: column; /* Organiza los elementos verticalmente */
-    align-items: center; /* Centra horizontalmente todos los elementos */
+    flex-direction: column;
+    align-items: center;
     padding: 10px;
     width: 100%;
-    position: relative; /* Asegúrate de que tenga un contexto de posición relativo */
+    position: relative;
 }
 
 .slide {
     position: relative;
     display: inline-block;
-    height: 45px; /* Ajusta la altura según sea necesario */
-    padding: 8px 30px; /* Padding del botón */
-    background-color: #04004d; /* Color de fondo */
-    color: #ffffff; /* Color del texto */
-    border-radius: 50px; /* Bordes redondeados */
-    overflow: hidden; /* Para ocultar el texto que se mueve fuera del botón */
+    height: 45px;
+    padding: 8px 30px;
+    background-color: #04004d;
+    color: #ffffff;
+    border-radius: 50px;
+    overflow: hidden;
     cursor: pointer;
 }
 
@@ -359,18 +211,18 @@ select {
 }
 
 .slide:hover {
-    background: #ffffff; /* Cambia el fondo al pasar el mouse */
+    background: #ffffff;
 }
 
 .slide:hover:before {
     left: 0;
     opacity: 1;
-    color: #000000; /* Cambia el color del texto al pasar el mouse */
+    color: #000000;
 }
 
 .slide:hover:after {
     left: 100%;
-    opacity: 0; /* Oculta el texto "Ver trayectoria" al pasar el mouse */
+    opacity: 0;
 }
 
 @media (max-width: 900px) {
@@ -392,7 +244,6 @@ select {
     }
 }
 
-/* Animación para el logo */
 @keyframes fadeIn {
     from {
         opacity: 0;
@@ -402,60 +253,18 @@ select {
     }
 }
 
-
-a:visited, a:link, a:active {
-    text-decoration: none;
-}
-
 .circle{
     background-color: #ffffff;    
 }
 
-.register-button {
-    background-color: #9EE4B8;
-    color: #001B38;
-    padding: 10px 12px;
-    width: 200px; /* Define un ancho específico */
-    border: none;
-    border-radius: 50px;
-    font-size: 16px;
-    cursor: pointer;
-    transition: all .3s ease-in-out;
-    margin-bottom: 60px;
-    text-align: center; /* Centra el texto en el botón */
-    margin-right: 50px;
-    font-family: Oswald, Helvetica, sans-serif;
-    text-transform: none;
-    letter-spacing: 0.9px;
-}
-
-
-.register-button:hover {
-    background-color: #82c8a0; /* Un color más oscuro para el efecto hover */
-}
-
-.magneto-logo {
-    height: 50px;
-    width: auto;
-    margin-left: 50px;
-    vertical-align: middle;
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Animación suave */
-}
-
-.magneto-logo:hover {
-    transform: scale(1.1); /* Incrementa el tamaño para simular acercamiento en el eje Z */
-    
-}
-
-
 .top-box {
-    background-color: #eff8ff; /* Color de la caja */
-    width: 100%; /* Ancho completo */
-    height: 480px; /* Ocupa la mitad de la altura de la ventana */
-    position: fixed; /* Posición absoluta para colocarlo en la parte superior */
-    top: 0; /* Se sitúa en la parte superior del wrapper */
-    left: 0; /* Alinear a la izquierda */
-    z-index: 1; /* Asegúrate de que esté detrás del contenido */
+    background-color: #eff8ff;
+    width: 100%;
+    height: 480px; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
     overflow: hidden;
 }
 
@@ -464,11 +273,11 @@ a:visited, a:link, a:active {
     position: absolute;
     top: 0;
     left: 0;
-    width: 120%; /* Asegura que cubra el ancho */
-    height: 120%; /* Un poco más alto para que la diagonal cubra la sección */
-    background-color: #9ee4b8; /* Color de la figura diagonal */
+    width: 120%;
+    height: 120%;
+    background-color: #9ee4b8;
     z-index: 1;
-    transform: rotate(-25deg); /* Ajusta el ángulo para lograr la diagonal */
-    transform-origin: top left; /* Alinea la rotación al borde superior izquierdo */
-    clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%); /* Opcional: controla la forma */
+    transform: rotate(-25deg);
+    transform-origin: top left;
+    clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
 }

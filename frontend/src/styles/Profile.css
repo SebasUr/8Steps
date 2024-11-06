@@ -1,0 +1,235 @@
+/* Colores propuestos */
+:root {
+    --primary-color: #25D366;  /* Verde */
+    --dark-blue: #04004d;      /* Azul oscuro */
+    --light-green: #9EE4B8;    /* Verde suave */
+    --light-blue: #eff8ff;     /* Azul claro */
+    --light-gray: #f0f1f3;     /* Gris claro */
+}
+
+/* Asegúrate de que html y body ocupen el 100% del alto y permiten scroll */
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden; /* Evita scroll adicional en la página */
+}
+
+/* Configuración de body-profile */
+.body-profile {
+    padding-top: 290px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Cambiamos a flex-start para que el contenido comience desde arriba */
+    background-color: var(--light-blue);
+    height: 100vh; /* Ocupa el 100% del alto de la ventana */
+    overflow-y: auto; /* Scroll en body-profile */
+    overflow-x: hidden;
+    scrollbar-width: thin; /* Ajuste para navegadores Firefox */
+    scrollbar-color: var(--light-gray) var(--light-blue);
+}
+
+/* Ajuste de profile-card para permitir crecimiento */
+.profile-card {
+    width: 90%;
+    max-width: 1200px;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
+    display: flex;
+    gap: 20px;
+    /* Remover restricciones de altura y overflow */
+}
+
+/* Columnas de la tarjeta */
+.profile-card .left-column,
+.profile-card .right-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Encabezado de la tarjeta de perfil */
+.profile-header {
+    font-family: Oswald, Helvetica, sans-serif;
+    padding: 20px;
+    background-color: var(--light-green);
+    border-radius: 8px;
+    font-size: 24px;
+    color: var(--dark-blue);
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+/* Nombre y correo del usuario */
+.profile-header .username {
+    font-size: 42px;
+    font-weight: bold;
+    color: var(--dark-blue);
+    margin-bottom: 5px;
+}
+
+.profile-header .email {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #777777;
+}
+
+/* Estilo para las tarjetas de sección (trayectorias, cursos, certificaciones) */
+.section-card {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.05);
+    margin-bottom: 10px;
+}
+
+/* Títulos de las secciones (Cursos, Certificaciones) */
+.section-card h3 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 15px;
+    border-bottom: 2px solid var(--light-green);
+    padding-bottom: 5px;
+}
+
+/* Lista de trayectorias */
+.trajectory-list {
+    margin-bottom: 10px;
+}
+
+/* Card para cada trayectoria, curso o certificación */
+.item-card {
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.05);
+    margin-bottom: 10px;
+    transition: transform 0.2s ease;
+    max-width: 550px;   /* Establecer un ancho máximo */
+    word-wrap: break-word; /* Hacer que las palabras largas se ajusten en varias líneas */
+    max-height: 400px;  /* Limitar la altura */
+    overflow: hidden;   /* Evitar que el contenido se desborde */
+}
+
+.item-card:hover {
+    transform: scale(1.03);
+}
+
+/* Estilo para los cursos y certificaciones listados */
+.item-card h4 {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: var(--dark-blue);
+    margin-bottom: 5px;
+}
+
+.item-card p {
+    font-size: 1em;
+    color: #555;
+    white-space: normal; /* Asegurar que el texto se ajuste y no se quede en una línea */
+    overflow-wrap: break-word; /* Evitar desbordamientos de texto largo */
+}
+
+.item-card .description {
+    max-height: 150px;  /* Limitar la altura máxima */
+    overflow-y: auto;   /* Permitir desplazamiento si el contenido es muy largo */
+}
+
+/* Lista de elementos */
+.item-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Botón para añadir curso o certificación */
+.add-button {
+    color: black;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+    align-items: center;
+    display: flex;
+    gap: 4px;
+    width: fit-content;
+    margin-top: 20px;
+}
+
+.add-button:hover {
+    background-color: var(--light-gray);
+}
+
+.add-button .button-icon {
+    width: 20px;
+    height: 20px;
+}
+
+/* Modal */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+/* Contenido del modal */
+.modal-content {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    width: 400px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.modal-content h3 {
+    margin-top: 0;
+    font-size: 25px;
+    color: black;
+    margin-bottom: 5px;
+}
+
+.modal-content form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.modal-content label {
+    font-size: 1em;
+    color: black;
+}
+
+.modal-content input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 1em;
+    color: #555;
+}
+
+.modal-content button:hover {
+    background-color:var(--light-gray);
+}
+
+.modal-content .button-container {
+    display: flex;
+    justify-content: left; /* Alinea los botones a la derecha */
+    gap: 10px; /* Espacio entre los botones */
+}
