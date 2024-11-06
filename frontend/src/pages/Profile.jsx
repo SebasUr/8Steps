@@ -76,7 +76,7 @@ function Profile() {
                 {/* Columna izquierda con el encabezado de perfil y trayectorias */}
                 <div className="left-column">
                     <div className="profile-header section-card">
-                        <span className="username">{userData.username}</span>
+                        <span className="username"><img src="/profile1.png" className="button-icon" style={{ width: '50px', height: '50px' }} />{userData.username}</span>
                         <span className="email">{userData.email}</span>
                     </div>
                     <div className="trajectory-list section-card">
@@ -96,7 +96,7 @@ function Profile() {
                 {/* Columna derecha con cursos y certificaciones */}
                 <div className="right-column">
                     <div className="section-card">
-                        <h3>Cursos</h3>
+                        <h3><img src="/course.png" className="button-icon" /> Cursos</h3>
                         <div className="item-list">
                             {courses.length > 0 ? (
                                 courses.map((course, index) => (
@@ -115,7 +115,7 @@ function Profile() {
                     </div>
 
                     <div className="section-card">
-                        <h3>Certificaciones</h3>
+                        <h3><img src="/certificate.png" className="button-icon" />Certificaciones</h3>
                         <div className="item-list">
                             {certifications.length > 0 ? (
                                 certifications.map((cert, index) => (

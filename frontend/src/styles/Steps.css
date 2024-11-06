@@ -9,6 +9,7 @@
   white-space: nowrap;
   transform: rotate(-90deg) translate(-50%);
   text-align: right;
+  color: black;
 }
 
 .block__number,
@@ -16,7 +17,7 @@
   text-transform: uppercase;
   font-size: 2rem;
   line-height: 1.06rem;
-  color: #ffffff;
+  color: black;
   font-family: "Roboto";
 
 }
@@ -28,6 +29,7 @@
   flex-direction: column; /* Alinea los elementos en columna */
   align-items: center;
   justify-content: center;
+  background-color: #fff;
   left: -200px;
 }
 
@@ -36,10 +38,12 @@
   margin-left: 8%;
   font-family: monospace;
   font-size: 24px;
+  color: black;
 }
 
 .main-job-title{
   font-size: 32px;
+  color: black;
 }
 
 .blocks {
@@ -59,7 +63,7 @@
   left: 0;
   width: 4rem;
   height: 100%;
-  background: rgba(24, 24, 24, 0.98);;
+  background: #fff;
   z-index: 100;
   padding: 2rem 1.25rem;
 
@@ -70,8 +74,8 @@
 
   pointer-events: auto;
   cursor: pointer;
-  border-left: 0.2rem solid #ffffff;
-  box-shadow:  0px 0px 20px -16px rgb(255, 255, 255);
+  border-left: 0.2rem solid black;
+  box-shadow:  0px 0px 20px -16px rgb(0, 0, 0);
 
   font-weight: 500;
 
@@ -157,7 +161,7 @@
 .navbar-steps {
   width: 4rem;
   height: 100vh;
-  background-color: #181818;
+  background-color: #ffffff;
   position: fixed;
   right: 0;
   top: 0;
@@ -166,13 +170,14 @@
   align-items: center;
   padding: 1rem 0;
   z-index: 111;
-  box-shadow:  0px 0px 20px -16px rgb(255, 255, 255);
+  box-shadow:  0px 0px 20px -16px rgb(0, 0, 0.1);
 }
 
 .navbar-steps-logo {
   margin-bottom: 2rem;
-  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);
+  filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(0%) contrast(100%);
   cursor: pointer;
+  pointer-events: all;
   z-index: 9999999999999999;
 }
 
@@ -198,19 +203,21 @@
 
 .navbar-steps-menu li a {
   display: block;
-  color: white;
+  color: #eff8ff;
   padding: 1rem 0;
   text-decoration: none;
   font-size: 0.9rem;
 }
 
 .navbar-steps-menu li a:hover {
-  background-color: #333;
+  background-color: #25D366;
 }
 
 .content {
   margin-right: 4rem; /* Para evitar que el contenido se superponga a la navbar-steps */
   padding: 2rem;
+  background-color: #eff8ff;
+  color: #04004d;
 }
 
 
@@ -228,30 +235,31 @@
   justify-content: center;
   align-items: center;
   margin: 0;
-  background-color: #1a1a1a;
-  color: #ffffff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #fff;
+  color: #04004d;
   border-radius: 8px;
   padding: 20px;
   width: 300px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
   transition: all 0.3s ease;
   text-decoration: none;
   display: block;
 }
 .job-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  transform: translateZ(-5px);
 }
 .job-title {
   font-size: 20px;
   font-weight: bold;
   margin-bottom: 10px;
-  color: #4CAF50;
+  color: #25D366;
 }
 .job-company {
   font-size: 18px;
   margin-bottom: 10px;
-  color: #BBBBBB;
+  color: #04004d;
 }
 .job-description {
   font-size: 14px;
@@ -260,7 +268,7 @@
 }
 .job-location {
   font-size: 14px;
-  color: #BBBBBB;
+  color: #04004d;
   display: flex;
   align-items: center;
 }
@@ -278,12 +286,14 @@
 }
 
 .course-card {
-  background-color: #1a1a1a;
-  color: #ffffff;
+  background-color: #fff;
+  color: black;
   border-radius: 8px;
   padding: 20px;
   width: 60%;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
   transition: all 0.3s ease;
   text-decoration: none;
   display: flex;
@@ -292,14 +302,13 @@
   overflow: hidden;
 }
 .course-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  transform: translateZ(-5px);
 }
 .course-title {
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 10px;
-  color: #4CAF50;
+  color: #25D366;
 }
 .course-description {
   font-size: 12px;

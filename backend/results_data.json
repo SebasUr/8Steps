@@ -1,696 +1,586 @@
 [
     {
         "about_work": true,
-        "title": "Desarrollador junior de software",
-        "description": "Como estudiante de ingenier\u00eda de sistemas, es importante tener experiencia laboral en el desarrollo de software. Esto te permitir\u00e1 aplicar tus conocimientos te\u00f3ricos en un entorno real y ganar experiencia pr\u00e1ctica. Busca una empresa que te permita trabajar en proyectos peque\u00f1os o medianos y te brinde la oportunidad de aprender de otros desarrolladores m\u00e1s experimentados. Aprendizaje de Agile, Scrum, y metodolog\u00edas de desarrollo \u00e1gil ser\u00e1n beneficiosos.",
-        "position-title": "Junior Software Developer",
-        "duration": "6-12 months",
+        "title": "Ingeniero mec\u00e1nico en empresa de manufactura",
+        "position-title": "Mechanical Engineer",
+        "description": "En este puesto, podr\u00e1s aplicar tus habilidades de dise\u00f1o y an\u00e1lisis para mejorar procesos y productos en una empresa de manufactura. Debes aprender a trabajar en un equipo multidisciplinario y desarrollar habilidades de comunicaci\u00f3n efectiva. Este paso te permitir\u00e1 desarrollar habilidades pr\u00e1cticas y entender c\u00f3mo funcionan las empresas de manufactura.",
+        "duration": "1-2 a\u00f1os",
         "requirements": [
-            "Conocimientos de programaci\u00f3n en lenguajes como Java, Python o C++",
-            "Experiencia con herramientas de desarrollo como Git",
-            "Buenas habilidades de comunicaci\u00f3n y trabajo en equipo"
+            "Experiencia en dise\u00f1o y an\u00e1lisis de componentes mec\u00e1nicos",
+            "Conocimientos en CAD",
+            "Habilidades de comunicaci\u00f3n efectiva"
         ],
         "abilities": [
-            "Comunicaci\u00f3n efectiva",
             "Trabajo en equipo",
-            "Aprendizaje r\u00e1pido"
-        ],
-        "courses": [
-            "Desarrollo de software \u00e1gil",
-            "Introducci\u00f3n a Git",
-            "Programaci\u00f3n en Python"
+            "Comunicaci\u00f3n efectiva",
+            "Resoluci\u00f3n de problemas"
         ],
         "jobs_list": [
             {
                 "salary_is_predicted": "1",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Horizon Resource Services"
-                },
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs",
-                    "tag": "it-jobs"
-                },
+                "salary_max": 119408.39,
+                "latitude": 39.984926,
+                "description": "What you will do Johnson Controls has an exciting opportunity available The Principal Mechanical Engineer position is part of the Building Efficiency AirSide product engineering team based in York, PA. As a Principal Mechanical Engineer, you will have a full range of engineering responsibilities requiring application of standard techniques, procedures, and criteria in carrying out engineering tasks. This team is responsible for all aspects and execution of Air Handling Unit design and applicati\u2026",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid001SHVUeWM3eEdmSC1wZnE1WGhzdyIsImkiOiI0ODg3ODg2NzcyIn0.AUdCQPEku4MXHfKIsqIcS-A84OZGbcOYoWk_rncB1xc",
+                "longitude": -76.761165,
+                "salary_min": 119408.39,
                 "location": {
-                    "display_name": "Remote, Coos County",
-                    "area": [
-                        "US",
-                        "Oregon",
-                        "Coos County",
-                        "Remote"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLXFmSzF2S2I3eEdYSmZmRjRwWGhzdyIsImkiOiI0OTIwNDY4MzExIn0.UNkKza5I7lJfqgvKnRaNgiM6tecX5u0za8bK1yjyX2w",
-                "description": "Job Description Job Description TRANSFORMACTION DYNAMICS, LLC JOB DESCRIPTION - JUNIOR SOFTWARE DEVELOPER TransformAction Dynamics, LLC Our mission is to help federal, municipal, and commercial agencies and businesses courageously pursue and confidently achieve transformational change. For audacious leaders who need insights into technical and financial realities of a successful enterprise transformation, TransformAction Dynamics offers a forensic approach to transformation management. Our cons\u2026",
-                "salary_max": 85189.99,
-                "longitude": -123.884499,
-                "id": "4920468311",
-                "latitude": 43.018799,
-                "title": "Junior Software Developer",
-                "redirect_url": "https://www.adzuna.com/land/ad/4920468311?se=-qfK1vKb7xGXJffF4pXhsw&utm_medium=api&utm_source=a60688b4&v=31A48F9112E5ACFA1E33ADA8958549BD4BDEFBBF",
-                "created": "2024-10-31T23:42:11Z",
-                "salary_min": 85189.99
-            },
-            {
-                "description": "Talent Masters is working for a leading national non-profit on its search for a Junior Software Developer. As a Junior Software Developer, you will be an integral part of the IT team, reporting to the Recovery Resource Manager. You will work closely with the Senior Developer and Technical Staff to develop, maintain, and enhance technology solutions that cater to the needs of both internal team members and external customers. Your primary focus will be on the implementation and improvement of so\u2026",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyNjc0NTQ2OCIsInMiOiItcWZLMXZLYjd4R1hKZmZGNHBYaHN3In0.3scpXP5KBT2dTeXkx_0NyJtklKkC-OdlN2AOMo88-yw",
-                "longitude": -96.765058,
-                "salary_max": 69358.84,
-                "id": "4926745468",
-                "category": {
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs"
-                },
-                "contract_type": "contract",
-                "location": {
-                    "area": [
-                        "US",
-                        "Texas",
-                        "Dallas",
-                        "Highland Park"
-                    ],
                     "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Highland Park, Dallas"
-                },
-                "contract_time": "full_time",
-                "latitude": 32.760168,
-                "salary_is_predicted": "1",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Talent Masters"
-                },
-                "title": "Junior Software Developer",
-                "redirect_url": "https://www.adzuna.com/land/ad/4926745468?se=-qfK1vKb7xGXJffF4pXhsw&utm_medium=api&utm_source=a60688b4&v=122BA7E8119E046AE727C66D3AA042EA05389CC8",
-                "salary_min": 69358.84,
-                "created": "2024-11-05T01:23:58Z"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Ingenier\u00eda de Software y Arquitectura de Software",
-                "description": "Aprende Sobre Ingenier\u00eda de Software, Ingenier\u00eda de requisitos, Arquitectura de Software , Software Testing y mas!",
-                "link": "https://www.udemy.com/course/ingenieria-de-software-y-principios-de-arquitectura/"
-            },
-            {
-                "title": "Git y GitHub desde Cero a Experto",
-                "description": "Sistema de control de versiones Git y GitHub desde cero, de manera r\u00e1pida, bien explicada y 100% Actualizado!",
-                "link": "https://www.udemy.com/course/git-y-github-desde-cero-a-experto/"
-            },
-            {
-                "title": "Curso completo de Python: Programaci\u00f3n en Python desde cero",
-                "description": "Aprende a programar en Python y a resolver problemas reales utilizando clases, objetos, ficheros, bucles y mucho m\u00e1s!",
-                "link": "https://www.udemy.com/course/curso-completo-de-python-3/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Desarrollador de software",
-        "description": "Despu\u00e9s de ganar experiencia como desarrollador junior, es hora de buscar un puesto de desarrollador de software. En este papel, podr\u00e1s trabajar en proyectos m\u00e1s grandes y complejos y tener m\u00e1s responsabilidades. Aprendizaje de tecnolog\u00edas emergentes como Cloud Computing, Machine Learning o Internet de las Cosas ser\u00e1n beneficiosos.",
-        "position-title": "Software Developer",
-        "duration": "1-2 years",
-        "requirements": [
-            "Experiencia en desarrollo de software",
-            "Conocimientos de al menos un lenguaje de programaci\u00f3n",
-            "Experiencia con herramientas de desarrollo como JIRA o Asana"
-        ],
-        "abilities": [
-            "Resoluci\u00f3n de problemas",
-            "An\u00e1lisis de datos",
-            "Trabajo bajo presi\u00f3n"
-        ],
-        "courses": [
-            "Desarrollo de software en la nube",
-            "Introducci\u00f3n a Machine Learning",
-            "Desarrollo de aplicaciones m\u00f3viles"
-        ],
-        "jobs_list": [
-            {
-                "created": "2024-11-05T08:17:13Z",
-                "salary_is_predicted": "1",
-                "longitude": -75.16548,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "category": {
-                    "tag": "it-jobs",
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyNzA1MDgzMiIsInMiOiIySmZfMlBLYjd4R3NsWGhDWFpfU29RIn0.ZwVbOMUR9moHtXNizpj5z5qHthTWJphvKskJeY0JFOc",
-                "title": "Project Lead - Software Development",
-                "id": "4927050832",
-                "contract_time": "full_time",
-                "description": "Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Suitability: No Suitability Required Public Trust/Other Required: NACLC (T3) Job Family: Systems Analysis Job Qualifications: Skills: Application Development, Business Requirements, Functional Requirements, Leading Project Teams Certifications: Experience: 8  years of related experience US Citizenship Required: Yes Job Description: Project Lead-Software Developer Transform tech\u2026",
-                "salary_min": 171995.16,
-                "redirect_url": "https://www.adzuna.com/land/ad/4927050832?se=2Jf_2PKb7xGslXhCXZ_SoQ&utm_medium=api&utm_source=a60688b4&v=33BD08F44B692A761C804BF3ACD5664F4588B5C4",
-                "company": {
-                    "display_name": "General Dynamics Information Technology",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "location": {
-                    "display_name": "Middle East, Philadelphia County",
+                    "display_name": "Hershey Heights, York County",
                     "area": [
                         "US",
                         "Pennsylvania",
-                        "Philadelphia County",
-                        "Middle East"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "latitude": 39.95208,
-                "salary_max": 171995.16
-            },
-            {
-                "salary_max": 131672.19,
-                "latitude": 39.157939,
-                "location": {
-                    "display_name": "Harmans, Anne Arundel County",
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "Maryland",
-                        "Anne Arundel County",
-                        "Harmans"
+                        "York County",
+                        "Hershey Heights"
                     ]
                 },
-                "redirect_url": "https://www.adzuna.com/land/ad/4927427255?se=2Jf_2PKb7xGslXhCXZ_SoQ&utm_medium=api&utm_source=a60688b4&v=F29AFFF5501063269E109346F3AA6052FDC37B74",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkpmXzJQS2I3eEdzbFhoQ1haX1NvUSIsImkiOiI0OTI3NDI3MjU1In0.E0ir-tzrPLfXBHJXohz-Mc5jj55iC1TrmC8sIjS6x3Q",
-                "company": {
-                    "display_name": "ManTech",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "description": "Description & Requirements ManTech is currently seeking a motivated, career and customer-oriented Expert Software Developer to join our team in Hanover, MD. Responsibilities include, but are not limited to: Design and develop new hardware or software based CNO capabilities. Manage the designing, developing, documenting, testing and debugging of applications software and systems. Apply expert knowledge of security concepts and networks. Communicate status with leadership and customers. Ensure so\u2026",
-                "salary_min": 131672.19,
+                "redirect_url": "https://www.adzuna.com/land/ad/4887886772?se=wM5HuTyc7xGfH-pfq5Xhsw&utm_medium=api&utm_source=a60688b4&v=46F7EB2346D459167CDD9D6595F048ABB91A6AAC",
                 "category": {
-                    "tag": "it-jobs",
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
+                    "tag": "engineering-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Engineering Jobs"
                 },
-                "title": "Expert Software Developer",
-                "created": "2024-11-05T14:25:00Z",
-                "id": "4927427255",
-                "salary_is_predicted": "1",
-                "longitude": -76.72138
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "AWS Glue: Procesamiento de Datos en la Nube",
-                "description": "Descubre AWS Glue: Cataloga, Automatiza ETLs y Orquesta flujos de datos en la nube.",
-                "link": "https://www.udemy.com/course/aws-glue-procesamiento-de-datos-en-la-nube/"
-            },
-            {
-                "title": "Machine Learning y Data Science: Curso Completo con Python",
-                "description": "Aprende Machine Learning y Data Science con Python, \u00a1convi\u00e9rtete en un experto en Machine Learning con Python!",
-                "link": "https://www.udemy.com/course/machine-learning-desde-cero/"
-            },
-            {
-                "title": "Programaci\u00f3n de Aplicaciones para Android con Kotlin",
-                "description": "Aprende desde las nociones b\u00e1sicas de kotlin hasta c\u00f3mo programar de forma profesional apps para Android con Kotlin",
-                "link": "https://www.udemy.com/course/programacion-de-aplicaciones-android-kotlin/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "L\u00edder de equipo de desarrollo",
-        "description": "En este papel, podr\u00e1s liderar un equipo de desarrolladores y ser responsable de la planificaci\u00f3n y ejecuci\u00f3n de proyectos. Aprendizaje de habilidades de liderazgo y gesti\u00f3n de proyectos ser\u00e1n beneficiosos.",
-        "position-title": "Team Lead, Software Development",
-        "duration": "1-2 years",
-        "requirements": [
-            "Experiencia en desarrollo de software",
-            "Habilidades de liderazgo y gesti\u00f3n de equipos",
-            "Experiencia con herramientas de gesti\u00f3n de proyectos como JIRA o MS Project"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Gesti\u00f3n de proyectos",
-            "Comunicaci\u00f3n efectiva"
-        ],
-        "courses": [
-            "Liderazgo y gesti\u00f3n de equipos",
-            "Gesti\u00f3n de proyectos \u00e1giles",
-            "Desarrollo de habilidades de liderazgo"
-        ],
-        "jobs_list": [
-            {
-                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "4887886772",
                 "company": {
                     "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Tellworks Communications"
+                    "display_name": "Johnson Controls"
                 },
-                "salary_is_predicted": "0",
-                "redirect_url": "https://www.adzuna.com/details/4924978420?utm_medium=api&utm_source=a60688b4",
-                "title": "Team Lead - Software Developer",
-                "created": "2024-11-03T10:03:55Z",
-                "salary_min": 80000,
-                "salary_max": 100000,
-                "longitude": -119.6853,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiekYxdzJfS2I3eEdYSmZmRjRwWGhzdyIsImkiOiI0OTI0OTc4NDIwIn0.EzrijA6ixNaYyoo52qL6AWNCyymQeoljo8_agb3EhT0",
-                "description": "Tellworks Logistics, headquartered in Atlanta, Georgia with locations throughout the United States, is a leading provider of supply chain services. Our company offers warehouse and logistics services as well as value added services and supply chain consulting for companies who depend on service excellence and require a personalized, rather than one-size-fits-all, approach to their materials management requirements. In conjunction with affiliated companies Makt-Trans Freight and AIMSPlus  Softwa\u2026",
-                "id": "4924978420",
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs",
-                    "tag": "it-jobs"
-                },
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "Nevada",
-                        "Washoe County",
-                        "Tracy-Clark"
-                    ],
-                    "display_name": "Tracy-Clark, Washoe County"
-                },
-                "contract_time": "full_time",
-                "latitude": 39.53868
-            },
-            {
-                "salary_max": 122997.95,
-                "longitude": -119.7358,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkxODg1NTg1OCIsInMiOiJ6RjF3Ml9LYjd4R1hKZmZGNHBYaHN3In0.HhkdRAV9OEYUPoFJse9nc4q7ioYVkPoXa6VgZzMJ7N4",
-                "description": "Tellworks Logistics, headquartered in Atlanta, Georgia with locations throughout the United States, is a leading provider of supply chain services. Our company offers warehouse and logistics services as well as value added services and supply chain consulting for companies who depend on service excellence and require a personalized, rather than one-size-fits-all, approach to their materials management requirements. In conjunction with affiliated companies Makt-Trans Freight and AIMSPlus Softwar\u2026",
-                "id": "4918855858",
-                "category": {
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs"
-                },
-                "location": {
-                    "display_name": "Sparks, Washoe County",
-                    "area": [
-                        "US",
-                        "Nevada",
-                        "Washoe County",
-                        "Sparks"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "contract_time": "full_time",
-                "latitude": 39.5565,
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Tellworks Logistics"
-                },
+                "title": "Principal Mechanical Engineer",
+                "contract_time": "full_time",
+                "created": "2024-10-03T18:44:28Z"
+            },
+            {
+                "latitude": 39.740692,
                 "salary_is_predicted": "1",
-                "redirect_url": "https://www.adzuna.com/details/4918855858?utm_medium=api&utm_source=a60688b4",
-                "title": "Team Lead - Software Developer",
-                "salary_min": 122997.95,
-                "created": "2024-10-30T14:16:32Z"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Liderazgo y Gesti\u00f3n de equipos | Certificaci\u00f3n",
-                "description": "Aprend\u00e9 a gestionar y liderar tu equipo de trabajo. (Incluye trabajo remoto e h\u00edbrido)",
-                "link": "https://www.udemy.com/course/liderazgo-y-gestion-de-equipos-certificacion-2018/"
-            },
-            {
-                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
-                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
-                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
-            },
-            {
-                "title": "Desarrollando Habilidades de Liderazgo",
-                "description": "De Experto T\u00e9cnico a L\u00edder: Estrategias para una Transici\u00f3n",
-                "link": "https://www.udemy.com/course/de-experto-tecnico-a-lider-estrategias-para-una-transicion/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Ingeniero de software senior",
-        "description": "En este papel, podr\u00e1s trabajar en proyectos complejos y tener responsabilidades m\u00e1s elevadas. Aprendizaje de tecnolog\u00edas emergentes como Kubernetes, Docker o Servless Architecture ser\u00e1n beneficiosos.",
-        "position-title": "Senior Software Engineer",
-        "duration": "1-2 years",
-        "requirements": [
-            "Experiencia en desarrollo de software",
-            "Conocimientos de al menos un lenguaje de programaci\u00f3n",
-            "Experiencia con herramientas de desarrollo como Docker o Kubernetes"
-        ],
-        "abilities": [
-            "Resoluci\u00f3n de problemas complejos",
-            "An\u00e1lisis de datos avanzado",
-            "Trabajo bajo presi\u00f3n"
-        ],
-        "courses": [
-            "Desarrollo de software en contenedores",
-            "Introducci\u00f3n a Kubernetes",
-            "Desarrollo de aplicaciones serverless"
-        ],
-        "jobs_list": [
-            {
-                "id": "4917931721",
-                "salary_max": 138992.4,
-                "created": "2024-10-29T16:35:26Z",
+                "salary_max": 92154.6,
+                "description": "What you will do The Test Engineer will \u201cmanage\u201d a test throughout the process from test design and planning through execution to completion including preliminary analysis of data results. This individual possesses a working knowledge of HVAC/R equipment and its application. This individual has experience with component or system testing, test procedure development, and mechanical fluid or airflow system design, troubleshooting or operation. They are required to singularly manage the testing pr\u2026",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg4Nzg4Njc2NyIsInMiOiJ3TTVIdVR5Yzd4R2ZILXBmcTVYaHN3In0.3j59SB9vR-IrtW2WUnmf4RcENdNm8-FCwDjzQad0le8",
+                "longitude": -76.683501,
+                "salary_min": 92154.6,
                 "location": {
-                    "display_name": "Crestwood, Houston",
                     "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "New Freedom, York County",
                     "area": [
                         "US",
-                        "Texas",
-                        "Harris County",
-                        "Houston",
-                        "Crestwood"
+                        "Pennsylvania",
+                        "York County",
+                        "New Freedom"
                     ]
                 },
-                "description": "Entity: Trading & Shipping Job Family Group: Supply & Trading Group Job Description: The Trading Data Analytics team within the Trading Analytics & Insights (TA&I) organisation in bp Trading & Shipping comprises Quantitative Analytics, Data Strategists and Core Strategists. Linked by the common themes of data, numerical algorithms and technology, the team seeks to contribute to the business by providing new models, tradable insights and agile technology solutions that empower the analyst commun\u2026",
-                "contract_time": "full_time",
-                "__CLASS__": "Adzuna::API::Response::Job",
+                "redirect_url": "https://www.adzuna.com/land/ad/4887886767?se=wM5HuTyc7xGfH-pfq5Xhsw&utm_medium=api&utm_source=a60688b4&v=583FDF3E769246F658C512A345124C3E20C50FF0",
+                "id": "4887886767",
                 "company": {
                     "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "BP Energy"
+                    "display_name": "Johnson Controls"
                 },
-                "latitude": 29.75706,
-                "title": "Senior Software Engineer (Python)",
-                "category": {
-                    "label": "IT Jobs",
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "redirect_url": "https://www.adzuna.com/land/ad/4917931721?se=hmFH3fKb7xGLDmNQ6oj2Ow&utm_medium=api&utm_source=a60688b4&v=8A52E745E981706556097B4B0C0F32B915CB081C",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaG1GSDNmS2I3eEdMRG1OUTZvajJPdyIsImkiOiI0OTE3OTMxNzIxIn0.3FfjfFtbH7vulM12DeAvtAsdILsIKMT0djVg0Yx-rd4",
-                "salary_is_predicted": "1",
-                "longitude": -95.3698,
-                "salary_min": 138992.4
-            },
-            {
                 "category": {
                     "__CLASS__": "Adzuna::API::Response::Category",
                     "label": "Engineering Jobs",
                     "tag": "engineering-jobs"
                 },
-                "redirect_url": "https://www.adzuna.com/land/ad/4927048637?se=hmFH3fKb7xGLDmNQ6oj2Ow&utm_medium=api&utm_source=a60688b4&v=454507FEB14477CF515E43398E4DC2A95759F23C",
-                "title": "Senior Software Engineer/Evaluator",
-                "salary_max": 157311.23,
-                "id": "4927048637",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaG1GSDNmS2I3eEdMRG1OUTZvajJPdyIsImkiOiI0OTI3MDQ4NjM3In0.u79FFae4XqAfveWxpqIlb6_1scaHv_TAxSGFrw3XRZ0",
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "created": "2024-11-05T08:09:18Z",
-                "description": "Description & Requirements Become an integral part of a diverse team while working at an Industry Leading Organization, where our employees come first. At ManTech International Corporation, you\u2019ll help protect our national security while working on innovative projects that offer opportunities for advancement. Currently, ManTech is seeking a motivated, career and customer-oriented Senior Cryptographic Software Evaluator/Engineer to join our team in Linthicum Heights, Maryland. The position is pa\u2026",
-                "location": {
-                    "display_name": "Linthicum Heights, Anne Arundel County",
-                    "area": [
-                        "US",
-                        "Maryland",
-                        "Anne Arundel County",
-                        "Linthicum Heights"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "salary_is_predicted": "1",
-                "salary_min": 157311.23,
-                "latitude": 39.20964,
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "ManTech"
-                },
-                "longitude": -76.66818
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Ingenier\u00eda de Software y Arquitectura de Software",
-                "description": "Aprende Sobre Ingenier\u00eda de Software, Ingenier\u00eda de requisitos, Arquitectura de Software , Software Testing y mas!",
-                "link": "https://www.udemy.com/course/ingenieria-de-software-y-principios-de-arquitectura/"
-            },
-            {
-                "title": "Kubernetes al completo",
-                "description": "Aprende a manejar un cluster de Kubernetes, desplegar aplicaciones y gestionar todos sus componentes.",
-                "link": "https://www.udemy.com/course/kubernetes-al-completo/"
-            },
-            {
-                "title": "API REST con Serverless Framework",
-                "description": "Desarrolla aplicaciones en la Nube de AWS f\u00e1cilmente con Serverless Framework",
-                "link": "https://www.udemy.com/course/api-rest-con-serverless-framework/"
-            }
-        ]
-    },
-    {
-        "about_work": false,
-        "title": "Crear un portfolio de proyectos",
-        "description": "Crear un portfolio de proyectos te permitir\u00e1 mostrar tus habilidades y logros a posibles empleadores. Busca proyectos que te permitan aplicar tus conocimientos y habilidades y mostrar tus logros. Un buen portfolio de proyectos te ayudar\u00e1 a destacar en el mercado laboral.",
-        "courses": [
-            "Desarrollo de aplicaciones web",
-            "Dise\u00f1o deInterfaces de usuario"
-        ],
-        "courses_list": [
-            {
-                "title": "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL",
-                "description": "Aprende Desarrollo Web con este curso 100% pr\u00e1ctico, paso a paso y sin conocimientos previo INCLUYE 4 PROYECTOS FINALES",
-                "link": "https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/"
-            },
-            {
-                "title": "Dise\u00f1o UX: experiencia de usuario UX/UI + Figma 2024",
-                "description": "Aprende, conoce y aplica t\u00e9cnicas de User Experience Design y Design Thinking - Curso UX UI Design + Dise\u00f1o Web y Mobile",
-                "link": "https://www.udemy.com/course/ux-design-disenador-ux-de-cero-a-profesional-2021/"
-            }
-        ]
-    },
-    {
-        "about_work": false,
-        "title": "Participar en eventos y conferencias de la industria",
-        "description": "Participar en eventos y conferencias de la industria te permitir\u00e1 aprender de otros profesionales y mantenerse actualizado con las \u00faltimas tendencias y tecnolog\u00edas. Adem\u00e1s, te brindar\u00e1 la oportunidad de networking y establecer contactos en la industria.",
-        "courses": [
-            "Tendencias en desarrollo de software",
-            "Introducci\u00f3n a la industria de la tecnolog\u00eda"
-        ],
-        "courses_list": [
-            {
-                "title": "Ingenier\u00eda de Software y Arquitectura de Software",
-                "description": "Aprende Sobre Ingenier\u00eda de Software, Ingenier\u00eda de requisitos, Arquitectura de Software , Software Testing y mas!",
-                "link": "https://www.udemy.com/course/ingenieria-de-software-y-principios-de-arquitectura/"
-            },
-            {
-                "title": "Introducci\u00f3n a la Industria de Petr\u00f3leo y Gas",
-                "description": "El proceso de los hidrocarburos",
-                "link": "https://www.udemy.com/course/introduccion-a-la-industria-de-petroleo-y-gas/"
+                "title": "Sr Mechanical Engineer",
+                "contract_time": "full_time",
+                "created": "2024-10-03T18:44:23Z"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Ingeniero de software en una empresa de tecnolog\u00eda",
-        "description": "En este papel, podr\u00e1s trabajar en una empresa de tecnolog\u00eda y tener responsabilidades m\u00e1s elevadas. Aprendizaje de tecnolog\u00edas emergentes como Artificial Intelligence o Blockchain ser\u00e1n beneficiosos.",
-        "position-title": "Software Engineer",
-        "duration": "1-2 years",
+        "title": "Ingeniero mec\u00e1nico en empresa de energ\u00eda renovable",
+        "position-title": "Mechanical Engineer - Renewable Energy",
+        "description": "En este puesto, podr\u00e1s aplicar tus habilidades en dise\u00f1o y an\u00e1lisis para mejorar la eficiencia de sistemas de energ\u00eda renovable. Debes aprender a trabajar con tecnolog\u00edas emergentes y desarrollar habilidades de liderazgo. Este paso te permitir\u00e1 desarrollar habilidades en dise\u00f1o de sistemas complejos y entender c\u00f3mo funcionan las empresas de energ\u00eda renovable.",
+        "duration": "2-3 a\u00f1os",
         "requirements": [
-            "Experiencia en desarrollo de software",
-            "Conocimientos de al menos un lenguaje de programaci\u00f3n",
-            "Experiencia con herramientas de desarrollo como Agile o Scrum"
+            "Experiencia en dise\u00f1o y an\u00e1lisis de sistemas de energ\u00eda renovable",
+            "Conocimientos en an\u00e1lisis de ciclo de vida",
+            "Habilidades de liderazgo"
         ],
         "abilities": [
-            "Resoluci\u00f3n de problemas complejos",
-            "An\u00e1lisis de datos avanzado",
-            "Trabajo bajo presi\u00f3n"
+            "Liderazgo",
+            "Trabajo en equipo",
+            "An\u00e1lisis de sistemas complejos"
         ],
         "courses": [
-            "Introducci\u00f3n a Artificial Intelligence",
-            "Desarrollo de aplicaciones con Blockchain",
-            "Desarrollo de software en la nube"
+            "Dise\u00f1o de sistemas de energ\u00eda renovable",
+            "An\u00e1lisis de ciclo de vida"
         ],
         "jobs_list": [
             {
+                "salary_max": 140000,
+                "salary_is_predicted": "0",
                 "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "4804455614",
                 "category": {
-                    "label": "IT Jobs",
-                    "tag": "it-jobs",
+                    "tag": "engineering-jobs",
+                    "label": "Engineering Jobs",
                     "__CLASS__": "Adzuna::API::Response::Category"
                 },
-                "created": "2024-11-01T02:55:45Z",
-                "longitude": -80.011717,
-                "salary_is_predicted": "1",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicExpSDRmS2I3eEdzbFhoQ1haX1NvUSIsImkiOiI0OTIwNzA5MzM3In0.bjgC9l31qrqwd9hjnY2LmJn-ndcoNE334AiNBao4uqA",
-                "description": "Job ID: 667147BR Date posted: Oct. 29, 2024 Program: NCRC-CHS Description: WHY JOIN US: Relocating to Charleston offers numerous lifestyle and professional benefits. Charleston is renowned for its rich history, incredible architecture, and vibrant cultural scene. It boasts some of the best culinary experiences in the country along with beautiful beaches and outdoor activities that make it an ideal place for both relaxation and adventure. The city's charm is complemented by its warm climate and \u2026",
-                "salary_min": 132611.8,
-                "title": "Cyber Software Engineer",
+                "company": {
+                    "display_name": "Great River Hydro",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "Full-time Description About Us Great River Hydro (GRH) is New England\u2019s largest producer of conventional hydropower. We own and operate 13 generating stations and 3 storage-only reservoirs on the Connecticut and Deerfield Rivers. Today, our unique capabilities and operational flexibility play a vital role in our region\u2019s transition to a low carbon, reliable and secure energy future. At GRH, our most important asset is our people. The GRH team includes over 100 highly skilled professionals who m\u2026",
+                "title": "Mechanical Engineer - Renewable Energy",
                 "contract_time": "full_time",
-                "id": "4920709337",
-                "salary_max": 132611.8,
+                "salary_min": 110000,
                 "location": {
-                    "display_name": "Charleston, Charleston County",
                     "area": [
-                        "US",
-                        "South Carolina",
-                        "Charleston County",
-                        "Charleston"
+                        "US"
                     ],
+                    "display_name": "US",
                     "__CLASS__": "Adzuna::API::Response::Location"
                 },
-                "latitude": 32.92964,
-                "redirect_url": "https://www.adzuna.com/land/ad/4920709337?se=pLiH4fKb7xGslXhCXZ_SoQ&utm_medium=api&utm_source=a60688b4&v=6A336E0C461B756A1D11A04C2F7C570C76C46B44",
-                "company": {
-                    "display_name": "Lockheed Martin",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                }
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3VpcnVUeWM3eEdmSC1wZnE1WGhzdyIsImkiOiI0ODA0NDU1NjE0In0.6aZ5COC7p6vHivgI9Y9g-Soiqt86IyolmE8DgPKKbWM",
+                "created": "2024-08-01T05:09:58Z",
+                "redirect_url": "https://www.adzuna.com/details/4804455614?utm_medium=api&utm_source=a60688b4"
             },
             {
+                "title": "Construction Supervisor (CO)",
                 "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Lockheed Martin"
+                    "display_name": "Excel Engineering",
+                    "__CLASS__": "Adzuna::API::Response::Company"
                 },
-                "redirect_url": "https://www.adzuna.com/land/ad/4908783025?se=pLiH4fKb7xGslXhCXZ_SoQ&utm_medium=api&utm_source=a60688b4&v=536EE35E6FCF284FBA0CEFB4D1725A2BE9D392CC",
-                "salary_max": 132311.77,
+                "id": "4897396437",
+                "category": {
+                    "tag": "engineering-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Engineering Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2024-10-10T08:30:16Z",
+                "contract_time": "full_time",
+                "description": "Full-time, Contract Description Excel Engineering is seeking a team-oriented, highly motivated Construction Supervisor to support our Power Utility Client in Denver, CO . Excel Engineering offers Electrical and Control System Engineering and Construction Management Consulting services in the US and abroad. Primary Responsibilities Candidates for the Construction Manager role will be expected to have a strong background in Construction. Particularly related to power generation including solar, w\u2026",
+                "latitude": 39.75,
+                "salary_is_predicted": "1",
+                "salary_max": 93176.71,
+                "redirect_url": "https://www.adzuna.com/details/4897396437?utm_medium=api&utm_source=a60688b4",
+                "longitude": -104.99,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg5NzM5NjQzNyIsInMiOiJrdWlydVR5Yzd4R2ZILXBmcTVYaHN3In0.hzMWSP9rs7Jr7HjmqzJ0TgD3VdEK6mbbZiOa4DUKvzI",
                 "location": {
-                    "display_name": "Savage, Anne Arundel County",
                     "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Denver, Colorado",
                     "area": [
                         "US",
-                        "Maryland",
-                        "Anne Arundel County",
-                        "Savage"
+                        "Colorado",
+                        "Denver"
                     ]
                 },
-                "latitude": 39.13205,
-                "contract_time": "full_time",
-                "id": "4908783025",
-                "title": "Cyber Software Engineer",
-                "salary_min": 132311.77,
-                "description": "Job ID: 676022BR Date posted: Sep. 16, 2024 Program: OL Description: This position may be eligible for a $25K sign on bonus for external hires What We're Doing: Lockheed Martin, Cyber & Intelligence invites you to step up to one of today's most daunting challenges: the use of advanced electronics to undermine our way of life. As a cyber security professional at Lockheed Martin, you'll protect the networks that our citizens and the world depend upon each minute: Financial assets. Healthcare info\u2026",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwODc4MzAyNSIsInMiOiJwTGlINGZLYjd4R3NsWGhDWFpfU29RIn0.Rhf3Tk862TVqcee1rwnm36gkEHoeyygV-UTOf1-88jc",
-                "longitude": -76.799422,
-                "salary_is_predicted": "1",
-                "created": "2024-10-21T08:21:20Z",
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs",
-                    "tag": "it-jobs"
-                },
-                "__CLASS__": "Adzuna::API::Response::Job"
+                "salary_min": 93176.71
             }
         ],
         "courses_list": [
             {
-                "title": "Introducci\u00f3n a la Inteligencia Artificial",
-                "description": "Descubriendo el Futuro: Curso de Introducci\u00f3n a la Inteligencia Artificial",
-                "link": "https://www.udemy.com/course/introduccion-a-la-inteligencia-artificial-s/"
+                "title": "Dise\u00f1o de Sistemas Fotovoltaicos Residenciales y Comerciales",
+                "description": "Energ\u00eda Renovable / Energ\u00eda Solar / Energ\u00eda Solar Fotovoltaica.",
+                "link": "https://www.udemy.com/course/tumundorenovable_sistemasresidenciales/"
             },
             {
-                "title": "Arquitectura de Aplicaciones Empresariales con .NET 8",
-                "description": "Todo lo que necesitas para dise\u00f1ar y construir Aplicaciones con una Arquitectura robusta, segura, confiable y escalable.",
-                "link": "https://www.udemy.com/course/arquitectura-aplicaciones-empresariales-con-net-core/"
-            },
-            {
-                "title": "AWS Glue: Procesamiento de Datos en la Nube",
-                "description": "Descubre AWS Glue: Cataloga, Automatiza ETLs y Orquesta flujos de datos en la nube.",
-                "link": "https://www.udemy.com/course/aws-glue-procesamiento-de-datos-en-la-nube/"
+                "title": "C\u00e1lculo de huella de carbono para freelancers ambientales",
+                "description": "Aprend\u00e9 a calcular huella de carbono de organizaciones, productos y eventos - De 0 a 100",
+                "link": "https://www.udemy.com/course/calculo-de-huella-de-carbono-para-freelancers-ambientales/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Ingeniero de software en Google",
-        "description": "En este papel, podr\u00e1s trabajar en uno de los l\u00edderes en tecnolog\u00eda y tener responsabilidades m\u00e1s elevadas. Aprendizaje de tecnolog\u00edas emergentes como Cloud Computing o Machine Learning ser\u00e1n beneficiosos.",
-        "position-title": "Software Engineer",
-        "duration": "1-2 years",
+        "title": "Ingeniero mec\u00e1nico en empresa de veh\u00edculos el\u00e9ctricos",
+        "position-title": "Mechanical Engineer - Electric Vehicles",
+        "description": "En este puesto, podr\u00e1s aplicar tus habilidades en dise\u00f1o y an\u00e1lisis para mejorar la eficiencia de veh\u00edculos el\u00e9ctricos. Debes aprender a trabajar con tecnolog\u00edas emergentes y desarrollar habilidades de colaboraci\u00f3n. Este paso te permitir\u00e1 desarrollar habilidades en dise\u00f1o de sistemas de propulsi\u00f3n el\u00e9ctricos y entender c\u00f3mo funcionan las empresas de veh\u00edculos el\u00e9ctricos.",
+        "duration": "3-4 a\u00f1os",
         "requirements": [
-            "Experiencia en desarrollo de software",
-            "Conocimientos de al menos un lenguaje de programaci\u00f3n",
-            "Experiencia con herramientas de desarrollo como Google Cloud o Kubernetes"
+            "Experiencia en dise\u00f1o y an\u00e1lisis de sistemas de propulsi\u00f3n el\u00e9ctricos",
+            "Conocimientos en simulaci\u00f3n de sistemas",
+            "Habilidades de colaboraci\u00f3n"
         ],
         "abilities": [
-            "Resoluci\u00f3n de problemas complejos",
-            "An\u00e1lisis de datos avanzado",
-            "Trabajo bajo presi\u00f3n"
+            "Colaboraci\u00f3n",
+            "Trabajo en equipo",
+            "An\u00e1lisis de sistemas complejos"
         ],
         "courses": [
-            "Desarrollo de software en Google Cloud",
-            "Introducci\u00f3n a Machine Learning con TensorFlow",
-            "Desarrollo de aplicaciones con Kubernetes"
+            "Dise\u00f1o de sistemas de propulsi\u00f3n el\u00e9ctricos",
+            "Simulaci\u00f3n de sistemas"
         ],
         "jobs_list": [
             {
-                "latitude": 32.92964,
+                "id": "4871294387",
+                "title": "Mechanical Engineer - Battery Electric Vehicle",
+                "salary_max": 68943.64,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU05LYnV6eWM3eEd1bzBqZHNZajJPdyIsImkiOiI0ODcxMjk0Mzg3In0.vjvDNLaj-jyCNElgV0FsHrUgBxMEVZQHoKEGKi12YsU",
+                "category": {
+                    "tag": "engineering-jobs",
+                    "label": "Engineering Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_min": 68943.64,
+                "longitude": -97.141322,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2024-09-20T20:41:05Z",
+                "salary_is_predicted": "1",
                 "company": {
                     "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Lockheed Martin"
+                    "display_name": "PACCAR"
                 },
-                "contract_time": "full_time",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "created": "2024-11-01T02:55:45Z",
+                "description": "Company Information PACCAR is a Fortune 500 company established in 1905. PACCAR Inc is recognized as a global leader in the commercial vehicle, financial, and customer service fields with internationally recognized brands such as Kenworth, Peterbilt, and DAF trucks. PACCAR is a global technology leader in the design, manufacture and customer support of premium light-, medium- and heavy-duty trucks under the Kenworth, Peterbilt and DAF nameplates and also provides customized financial services, \u2026",
                 "location": {
-                    "display_name": "Charleston, Charleston County",
                     "__CLASS__": "Adzuna::API::Response::Location",
                     "area": [
                         "US",
-                        "South Carolina",
-                        "Charleston County",
-                        "Charleston"
-                    ]
+                        "Texas",
+                        "Denton County",
+                        "Denton"
+                    ],
+                    "display_name": "Denton, Denton County"
                 },
-                "description": "Job ID: 667147BR Date posted: Oct. 29, 2024 Program: NCRC-CHS Description: WHY JOIN US: Relocating to Charleston offers numerous lifestyle and professional benefits. Charleston is renowned for its rich history, incredible architecture, and vibrant cultural scene. It boasts some of the best culinary experiences in the country along with beautiful beaches and outdoor activities that make it an ideal place for both relaxation and adventure. The city's charm is complemented by its warm climate and \u2026",
-                "id": "4920709337",
-                "salary_max": 132611.8,
-                "salary_min": 132611.8,
-                "longitude": -80.011717,
-                "salary_is_predicted": "1",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyMDcwOTMzNyIsInMiOiJ6UDVuNF9LYjd4R0xEbU5RNm9qMk93In0.8GWzvW9ADLrXbeCNaoVK5i5gu5zVgCgEGL2AZ9qOmIg",
-                "title": "Cyber Software Engineer",
-                "redirect_url": "https://www.adzuna.com/land/ad/4920709337?se=zP5n4_Kb7xGLDmNQ6oj2Ow&utm_medium=api&utm_source=a60688b4&v=6A336E0C461B756A1D11A04C2F7C570C76C46B44",
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs",
-                    "label": "IT Jobs"
-                }
+                "redirect_url": "https://www.adzuna.com/details/4871294387?utm_medium=api&utm_source=a60688b4",
+                "latitude": 33.216723
             },
             {
+                "title": "21Pre00000 New Product Development Engineer Powertrain Mna",
+                "salary_max": 87603.58,
+                "longitude": -83.1716,
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "contract_time": "full_time",
-                "location": {
-                    "display_name": "Savage, Anne Arundel County",
-                    "area": [
-                        "US",
-                        "Maryland",
-                        "Anne Arundel County",
-                        "Savage"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "description": "Job ID: 676022BR Date posted: Sep. 16, 2024 Program: OL Description: This position may be eligible for a $25K sign on bonus for external hires What We're Doing: Lockheed Martin, Cyber & Intelligence invites you to step up to one of today's most daunting challenges: the use of advanced electronics to undermine our way of life. As a cyber security professional at Lockheed Martin, you'll protect the networks that our citizens and the world depend upon each minute: Financial assets. Healthcare info\u2026",
-                "created": "2024-10-21T08:21:20Z",
-                "salary_max": 132311.77,
-                "id": "4908783025",
-                "latitude": 39.13205,
                 "company": {
                     "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Lockheed Martin"
+                    "display_name": "Musashi"
                 },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoielA1bjRfS2I3eEdMRG1OUTZvajJPdyIsImkiOiI0OTA4NzgzMDI1In0.wbUxbQ3s63E3HP4xgx6plTpjC5u3emfCBgDsceHP0hA",
-                "redirect_url": "https://www.adzuna.com/land/ad/4908783025?se=zP5n4_Kb7xGLDmNQ6oj2Ow&utm_medium=api&utm_source=a60688b4&v=536EE35E6FCF284FBA0CEFB4D1725A2BE9D392CC",
+                "latitude": 42.5599,
+                "redirect_url": "https://www.adzuna.com/details/4809972754?utm_medium=api&utm_source=a60688b4",
+                "id": "4809972754",
                 "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs",
-                    "label": "IT Jobs"
+                    "tag": "engineering-jobs",
+                    "label": "Engineering Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
                 },
-                "title": "Cyber Software Engineer",
-                "salary_min": 132311.77,
-                "longitude": -76.799422,
-                "salary_is_predicted": "1"
+                "salary_min": 87603.58,
+                "contract_time": "full_time",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwOTk3Mjc1NCIsInMiOiJTTktidXp5Yzd4R3VvMGpkc1lqMk93In0.HMJPefEn4hhwCtp2twc95b0To70lpdgihAOvhLPkJnk",
+                "salary_is_predicted": "1",
+                "created": "2024-08-04T06:06:06Z",
+                "description": "Job Summary: A Powertrain Differential, Gears, and E-Axle New Product Development Engineer plays an essential role in designing and developing innovative components for automotive powertrains. This role is a combination of mechanical engineering, electrical engineering, and vehicle dynamics expertise. The Powertrain Differential, Gears, and E-Axle New Product Development Engineer is responsible for designing, developing, and testing new powertrain components, and ensuring the efficiency, perfor\u2026",
+                "location": {
+                    "display_name": "Clawson, Oakland County",
+                    "area": [
+                        "US",
+                        "Michigan",
+                        "Oakland County",
+                        "Clawson"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                }
             }
         ],
         "courses_list": [
             {
-                "title": "Ingenier\u00eda de Software y Arquitectura de Software",
-                "description": "Aprende Sobre Ingenier\u00eda de Software, Ingenier\u00eda de requisitos, Arquitectura de Software , Software Testing y mas!",
-                "link": "https://www.udemy.com/course/ingenieria-de-software-y-principios-de-arquitectura/"
+                "title": "L\u00f3gica cableada - Arranque y control de motores el\u00e9ctricos",
+                "description": "Dise\u00f1o y simulaci\u00f3n de diagramas de potencia y control para motores el\u00e9ctricos",
+                "link": "https://www.udemy.com/course/logica-cableada-para-motores-electricos/"
             },
             {
-                "title": "Machine Learning y Data Science: Curso Completo con Python",
-                "description": "Aprende Machine Learning y Data Science con Python, \u00a1convi\u00e9rtete en un experto en Machine Learning con Python!",
-                "link": "https://www.udemy.com/course/machine-learning-desde-cero/"
+                "title": "Control de Sistemas Din\u00e1micos",
+                "description": "\u00a1Aprende las bases de la Teor\u00eda de Control para modelar y sintonizar autom\u00e1ticamente cualquier Sistema Din\u00e1mico!",
+                "link": "https://www.udemy.com/course/control-de-sistemas-dinamicos/"
+            }
+        ]
+    },
+    {
+        "about_work": false,
+        "title": "Desarrolla habilidades en programaci\u00f3n",
+        "description": "Para trabajar en Tesla, debes desarrollar habilidades en programaci\u00f3n para poder interactuar con los sistemas de datos y desarrollar herramientas personalizadas. Aprende a programar en lenguajes como Python, MATLAB o C++.",
+        "courses": [
+            "Programaci\u00f3n en Python",
+            "Programaci\u00f3n en MATLAB",
+            "Programaci\u00f3n en C++"
+        ],
+        "courses_list": [
+            {
+                "title": "Curso completo de Python: Programaci\u00f3n en Python desde cero",
+                "description": "Aprende a programar en Python y a resolver problemas reales utilizando clases, objetos, ficheros, bucles y mucho m\u00e1s!",
+                "link": "https://www.udemy.com/course/curso-completo-de-python-3/"
             },
             {
-                "title": "Arquitectura de Aplicaciones Empresariales con .NET 8",
-                "description": "Todo lo que necesitas para dise\u00f1ar y construir Aplicaciones con una Arquitectura robusta, segura, confiable y escalable.",
-                "link": "https://www.udemy.com/course/arquitectura-aplicaciones-empresariales-con-net-core/"
+                "title": "Aprende f\u00e1cil MATLAB en 20 d\u00edas | MATLAB para Ingenier\u00edas",
+                "description": "Desarrolla tus habilidades en programaci\u00f3n y a\u00f1ade un valor agregado a tu carrera de ingenier\u00eda con MATLAB.",
+                "link": "https://www.udemy.com/course/matlab-para-ingenierias-y-ciencias/"
+            },
+            {
+                "title": "Programaci\u00f3n PROFESIONAL desde cero con C++",
+                "description": "Aprende al m\u00e1ximo y domina C++ a fondo",
+                "link": "https://www.udemy.com/course/programacion-profesional-desde-cero-con-cpp/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero mec\u00e1nico en empresa de dise\u00f1o de autom\u00f3viles",
+        "position-title": "Mechanical Engineer - Automotive Design",
+        "description": "En este puesto, podr\u00e1s aplicar tus habilidades en dise\u00f1o y an\u00e1lisis para mejorar la eficiencia de veh\u00edculos. Debes aprender a trabajar con tecnolog\u00edas emergentes y desarrollar habilidades de liderazgo. Este paso te permitir\u00e1 desarrollar habilidades en dise\u00f1o de sistemas de autom\u00f3viles y entender c\u00f3mo funcionan las empresas de dise\u00f1o de autom\u00f3viles.",
+        "duration": "4-5 a\u00f1os",
+        "requirements": [
+            "Experiencia en dise\u00f1o y an\u00e1lisis de veh\u00edculos",
+            "Conocimientos en dise\u00f1o de sistemas de autom\u00f3viles",
+            "Habilidades de liderazgo"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Trabajo en equipo",
+            "An\u00e1lisis de sistemas complejos"
+        ],
+        "courses": [
+            "Dise\u00f1o de sistemas de autom\u00f3viles",
+            "An\u00e1lisis de sistemas de autom\u00f3viles"
+        ],
+        "jobs_list": [
+            {
+                "salary_min": 106241,
+                "category": {
+                    "label": "Engineering Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "engineering-jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwOTc2MzUxMSIsInMiOiJGdGZPdnp5Yzd4R3VvMGpkc1lqMk93In0.WKRhKj6Q8G5ZfrJc4zHNCoWMgmKdFuhyH8P-fgFuCW0",
+                "contract_time": "full_time",
+                "id": "4809763511",
+                "location": {
+                    "display_name": "Auburn Hills, Oakland County",
+                    "area": [
+                        "US",
+                        "Michigan",
+                        "Oakland County",
+                        "Auburn Hills"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "description": "We are seeking an Associate Design & Release Engineer to join our team. This role involves working closely with multi-functional teams to contribute to the design, engineering, and production of Electric Drive Module Assemblies. The ideal candidate should have experience in Mechanical Engineering or Mechatronics preferably in the Automotive sector. Key Responsibilities: Collaborate closely with multi-functional teams to ensure EDM Assemblies meet performance, safety, and quality standards, whil\u2026",
+                "salary_is_predicted": "1",
+                "created": "2024-08-04T05:39:42Z",
+                "longitude": -83.234103,
+                "salary_max": 106241,
+                "title": "Mechanical & Physical Engineer - Automotive Electric Drive Module Design & Release Engineer",
+                "redirect_url": "https://www.adzuna.com/details/4809763511?utm_medium=api&utm_source=a60688b4",
+                "latitude": 42.687532,
+                "company": {
+                    "display_name": "Capgemini",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "salary_is_predicted": "1",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2024-09-23T20:03:32Z",
+                "company": {
+                    "display_name": "Aptiv",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "Join our Innovative Team Want to do more than just imagine the ways our world will move tomorrow? Join the technology company that's transforming the future of mobility today. About this Position The Connection Systems team has an exciting product engineering opportunity located in Warren, OH at our Champion Technical Center. Under the direction of a product engineering supervisor, the successful candidate will serve as a product engineer working on the next generation of high power connection \u2026",
+                "redirect_url": "https://www.adzuna.com/details/4873995660?utm_medium=api&utm_source=a60688b4",
+                "latitude": 41.23795,
+                "location": {
+                    "display_name": "Warren, Trumbull County",
+                    "area": [
+                        "US",
+                        "Ohio",
+                        "Trumbull County",
+                        "Warren"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "title": "Mechanical Product Engineer",
+                "salary_max": 86649.54,
+                "id": "4873995660",
+                "category": {
+                    "label": "Engineering Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "engineering-jobs"
+                },
+                "salary_min": 86649.54,
+                "longitude": -80.86049,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRnRmT3Z6eWM3eEd1bzBqZHNZajJPdyIsImkiOiI0ODczOTk1NjYwIn0.jRc_v9rVdP-1nWMDTiawBx50qInVM2OXfJH1-LjDZrY"
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Dise\u00f1o de Sistemas a Gran Escala y Arquitectura de Software",
+                "description": "Llega a arquitecto o a l\u00edder t\u00e9cnico aprendiendo dise\u00f1o de sistemas escalables y arquitectura de software.",
+                "link": "https://www.udemy.com/course/diseno-de-sistemas-a-gran-escala-y-arquitectura-de-software/"
+            },
+            {
+                "title": "Experto en An\u00e1lisis y Visualizaci\u00f3n de Datos",
+                "description": "Aprende herramientas esenciales para el an\u00e1lisis de datos como Excel, SQL, R, Looker Studio y Power BI",
+                "link": "https://www.udemy.com/course/experto-en-analisis-y-visualizacion-de-datos/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero mec\u00e1nico en empresa de tecnolog\u00eda de veh\u00edculos",
+        "position-title": "Mechanical Engineer - Vehicle Technology",
+        "description": "En este puesto, podr\u00e1s aplicar tus habilidades en dise\u00f1o y an\u00e1lisis para mejorar la eficiencia de veh\u00edculos. Debes aprender a trabajar con tecnolog\u00edas emergentes y desarrollar habilidades de colaboraci\u00f3n. Este paso te permitir\u00e1 desarrollar habilidades en dise\u00f1o de sistemas de autom\u00f3viles y entender c\u00f3mo funcionan las empresas de tecnolog\u00eda de veh\u00edculos.",
+        "duration": "5-6 a\u00f1os",
+        "requirements": [
+            "Experiencia en dise\u00f1o y an\u00e1lisis de veh\u00edculos",
+            "Conocimientos en tecnolog\u00edas emergentes",
+            "Habilidades de colaboraci\u00f3n"
+        ],
+        "abilities": [
+            "Colaboraci\u00f3n",
+            "Trabajo en equipo",
+            "An\u00e1lisis de sistemas complejos"
+        ],
+        "courses": [
+            "Tecnolog\u00edas emergentes en veh\u00edculos",
+            "An\u00e1lisis de sistemas de autom\u00f3viles"
+        ],
+        "jobs_list": [
+            {
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2024-08-08T09:37:39Z",
+                "description": "At American Rheinmetall Vehicles, we believe in satisfied customers and healthy, engaged employees. We listen to our customers and develop transformational technology that delivers necessary military vehicle capabilities to our Warfighters while also providing challenging and fulfilling careers to our employees. We are committed to supporting critical advancements in the United States defense industry, like the U.S. Army's XM30 Infantry Combat Vehicle (ICV) program, which will replace the Army'\u2026",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "American Rheinmetall Defense"
+                },
+                "redirect_url": "https://www.adzuna.com/details/4816831741?utm_medium=api&utm_source=a60688b4",
+                "latitude": 42.56653,
+                "location": {
+                    "area": [
+                        "US",
+                        "Michigan",
+                        "Macomb County",
+                        "Sterling Heights"
+                    ],
+                    "display_name": "Sterling Heights, Macomb County",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "title": "Program Analyst",
+                "salary_max": 85000,
+                "id": "4816831741",
+                "category": {
+                    "tag": "engineering-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Engineering Jobs"
+                },
+                "salary_min": 68000,
+                "longitude": -83.068352,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNXVHY3dUeWM3eEd1bzBqZHNZajJPdyIsImkiOiI0ODE2ODMxNzQxIn0.tcCgJpBFqxHmmsMo4qQK3uf8NIL5xNsfxKlyNoVMQxw"
+            },
+            {
+                "location": {
+                    "area": [
+                        "US",
+                        "North Carolina",
+                        "Guilford County",
+                        "Greensboro"
+                    ],
+                    "display_name": "Greensboro, Guilford County",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "1",
+                "created": "2024-09-04T06:32:29Z",
+                "description": "Primary Purpose Of Position The Department of Applied Engineering Technology at North Carolina A&T State University, College of Science and Technology, invites applications for a tenure-track faculty position in automotive engineering technology or related field, starting in August 2024. The appointment is expected to be at the assistant professor level but an appointment at a higher rank may be considered for exceptionally qualified applicants. In particular, the Department is seeking for a qu\u2026",
+                "salary_min": 107537.22,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Teaching Jobs",
+                    "tag": "teaching-jobs"
+                },
+                "contract_time": "full_time",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg1MTUyNTU5MSIsInMiOiI1dUdjd1R5Yzd4R3VvMGpkc1lqMk93In0.dLeacSkU0GJ4WnENSSpzHIu5PG0ar3O28mOusA-XeiU",
+                "id": "4851525591",
+                "redirect_url": "https://www.adzuna.com/details/4851525591?utm_medium=api&utm_source=a60688b4",
+                "latitude": 36.067604,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "NCAT"
+                },
+                "longitude": -79.756811,
+                "title": "Assistant Professor - Automotive Engineering Technology",
+                "salary_max": 107537.22
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Clean Architecture en C# .NET, un curso basado en conceptos",
+                "description": "Aprende los conceptos fundamentales de la Arquitectura de Software",
+                "link": "https://www.udemy.com/course/clean-architecture-course/"
+            },
+            {
+                "title": "Experto en An\u00e1lisis y Visualizaci\u00f3n de Datos",
+                "description": "Aprende herramientas esenciales para el an\u00e1lisis de datos como Excel, SQL, R, Looker Studio y Power BI",
+                "link": "https://www.udemy.com/course/experto-en-analisis-y-visualizacion-de-datos/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero mec\u00e1nico en Tesla",
+        "position-title": "Mechanical Engineer - Tesla",
+        "description": "En este puesto, podr\u00e1s aplicar tus habilidades en dise\u00f1o y an\u00e1lisis para mejorar la eficiencia de veh\u00edculos el\u00e9ctricos. Debes aprender a trabajar con tecnolog\u00edas emergentes y desarrollar habilidades de liderazgo. Este paso te permitir\u00e1 desenvolver habilidades en dise\u00f1o de sistemas de autom\u00f3viles y entender c\u00f3mo funcionan las empresas de veh\u00edculos el\u00e9ctricos.",
+        "duration": "+6 a\u00f1os",
+        "requirements": [
+            "Experiencia en dise\u00f1o y an\u00e1lisis de veh\u00edculos el\u00e9ctricos",
+            "Conocimientos en tecnolog\u00edas emergentes",
+            "Habilidades de liderazgo"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Trabajo en equipo",
+            "An\u00e1lisis de sistemas complejos"
+        ],
+        "courses": [
+            "Dise\u00f1o de sistemas de autom\u00f3viles el\u00e9ctricos",
+            "An\u00e1lisis de sistemas de autom\u00f3viles el\u00e9ctricos"
+        ],
+        "jobs_list": [
+            {
+                "salary_max": 77363.58,
+                "salary_is_predicted": "1",
+                "latitude": 37.564143,
+                "category": {
+                    "tag": "engineering-jobs",
+                    "label": "Engineering Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "company": {
+                    "display_name": "Tesla",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "4917683495",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "What To Expect As a Mechanical Design Engineer, Interior Engineering in Tesla\u2019s Vehicle Engineering Team, you will be responsible for design, engineer, release and launch of the complete Interior system for future Tesla vehicle product lines. You will be part of the team that pushes boundaries, innovates, and executes world-class interiors that excels in all critical attributes of an Interior System. You will utilize your expertise in one or more of these commodities and develop as a full Vehic\u2026",
+                "title": "Mechanical Design Engineer, Interiors",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkxNzY4MzQ5NSIsInMiOiJMSTFBd3p5Yzd4R2ZILXBmcTVYaHN3In0.BVBo7VoFH6kbYOlxE29KsWE6ScY75dSk8dYSXQe01PU",
+                "longitude": -122.004179,
+                "salary_min": 77363.58,
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Fremont, Alameda County",
+                    "area": [
+                        "US",
+                        "California",
+                        "Alameda County",
+                        "Fremont"
+                    ]
+                },
+                "redirect_url": "https://www.adzuna.com/details/4917683495?utm_medium=api&utm_source=a60688b4",
+                "created": "2024-10-29T12:53:52Z"
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "L\u00f3gica cableada - Arranque y control de motores el\u00e9ctricos",
+                "description": "Dise\u00f1o y simulaci\u00f3n de diagramas de potencia y control para motores el\u00e9ctricos",
+                "link": "https://www.udemy.com/course/logica-cableada-para-motores-electricos/"
+            },
+            {
+                "title": "An\u00e1lisis de Circuitos El\u00e9ctricos. Parte I",
+                "description": "Resoluci\u00f3n de Circuitos El\u00e9ctricos. Espec\u00edficamente Circuitos De corriente directa.",
+                "link": "https://www.udemy.com/course/analisis-de-circuitos-electricos-parte-i/"
             }
         ]
     }

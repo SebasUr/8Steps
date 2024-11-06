@@ -16,7 +16,7 @@ html, body {
 
 /* Configuración de body-profile */
 .body-profile {
-    padding-top: 290px;
+    padding-top: 60pxpx;
     padding-bottom: 20px;
     display: flex;
     justify-content: center;
@@ -25,8 +25,9 @@ html, body {
     height: 100vh; /* Ocupa el 100% del alto de la ventana */
     overflow-y: auto; /* Scroll en body-profile */
     overflow-x: hidden;
-    scrollbar-width: thin; /* Ajuste para navegadores Firefox */
+    scrollbar-width: thin;
     scrollbar-color: var(--light-gray) var(--light-blue);
+    min-height: calc(100vh - 60px);
 }
 
 /* Ajuste de profile-card para permitir crecimiento */
@@ -37,9 +38,10 @@ html, body {
     border-radius: 8px;
     background-color: white;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-    margin-top: 10px;
+    margin-top: 280px;
     display: flex;
     gap: 20px;
+    position: relative;
     /* Remover restricciones de altura y overflow */
 }
 
@@ -67,12 +69,13 @@ html, body {
 
 /* Nombre y correo del usuario */
 .profile-header .username {
+    display: flex;
+    align-items: center; /* Alinea verticalmente al centro */
     font-size: 42px;
     font-weight: bold;
     color: var(--dark-blue);
     margin-bottom: 5px;
 }
-
 .profile-header .email {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
@@ -85,7 +88,7 @@ html, body {
     padding: 20px;
     border-radius: 8px;
     background-color: #ffffff;
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.05);
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
     margin-bottom: 10px;
 }
 
@@ -93,7 +96,7 @@ html, body {
 .section-card h3 {
     font-size: 1.5em;
     font-weight: bold;
-    color: black;
+    color: black;;
     margin-bottom: 15px;
     border-bottom: 2px solid var(--light-green);
     padding-bottom: 5px;
