@@ -2,13 +2,16 @@ from groq import Groq
 from .API_JOOBLE import generate_jobs_jooble
 from .API_UDEMY import search_courses
 from .API_ADZUNA import generate_jobs
+from .PIPE_MAGNETO import magneto_get_jobs
 from dotenv import load_dotenv
 import os
 import json
 import re
+import deepl
 
 load_dotenv()
 LLM_API_KEY = os.getenv('LLM_API_KEY')
+DEEPL_API_KEY = '22a7531b-5bf5-4e63-a2bd-5cc4620b2abe:fx'
 
 def extract_and_parse_json(input_string):
     match = re.search(r'```(.*?)```', input_string, re.DOTALL)
@@ -53,11 +56,18 @@ def generate_route(userIn):
     promptResponse = completion.choices[0].message.content
     print("The prompt has been created")
     json_result = extract_and_parse_json(promptResponse)
+
+    translator = deepl.Translator(DEEPL_API_KEY)
     
     for item in json_result:
         if 'position-title' in item:
-            jobs_list = generate_jobs(item['position-title']) # Para Adzuna
-            #jobs_list = generate_jobs_jooble(item['position-title']) Para Jooble.
+            print(translator.translate_text(item['position-title'], target_lang="ES").text)
+            jobs_list = magneto_get_jobs(translator.translate_text(item['position-title'], target_lang="ES").text)
+            #print(f"LISTA MAGNETO: {jobs_list}")
+
+            if not jobs_list:
+                jobs_list = generate_jobs(item['position-title'])
+                #jobs_list = generate_jobs_jooble(item['position-title']) Para Jooble.
             item['jobs_list'] = jobs_list
 
         if 'courses' in item:

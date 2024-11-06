@@ -180,6 +180,7 @@ function Steps() {
                                                         rel="noopener noreferrer"
                                                     >
                                                         <div className="job-title">{job.title}</div>
+                                                        {job.city && <div className="job-location">{job.city}</div>}
                                                         {/* <div className="job-company">{job.company}</div>
                                                         <div className="job-description">{job.snipet}</div>
                                                         <div className="job-location">{job.location}</div> Para Jooble*/}

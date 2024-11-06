@@ -1,316 +1,241 @@
 [
     {
-        "about_work": false,
-        "title": "Conocer el sector de restauraci\u00f3n",
-        "description": "Antes de comenzar a trabajar en el sector de restauraci\u00f3n, es importante conocedor del sector y sus tendencias. Investiga sobre los diferentes tipos de restaurantes, los servicios que ofrecen, los platos m\u00e1s populares, etc. Esto te ayudar\u00e1 a tener una visi\u00f3n general del sector y a entender mejor los puestos de trabajo que te interesan.",
-        "courses": [
-            "Cursos de cocina casera",
-            "Introducci\u00f3n al sector de la restauraci\u00f3n"
-        ],
-        "courses_list": [
-            {
-                "title": "Curso de Cocina Canina - Alimentaci\u00f3n Casera para Perros",
-                "description": "Curso Completo de Cocina Canina - Nutrici\u00f3n Fisiologica y Alimentaci\u00f3n Saludable para Perros",
-                "link": "https://www.udemy.com/course/curso-de-cocina-canina-alimentacion-casera-para-perros/"
-            },
-            {
-                "title": "Introducci\u00f3n al mundo de la Cerveza",
-                "description": "Tu puerta de entrada al apasionante universo de la Cerveza",
-                "link": "https://www.udemy.com/course/introduccion-al-mundo-de-la-cerveza/"
-            }
-        ]
-    },
-    {
         "about_work": true,
-        "title": "Auxiliar de restaurante",
-        "position-title": "Restaurant Assistant",
-        "description": "En este puesto, aprender\u00e1s los conceptos b\u00e1sicos de la atenci\u00f3n al cliente y la gesti\u00f3n de un restaurante. Ser\u00e1s responsable de recibir a los clientes, tomar pedidos, servir bebidas y alimentos, y realizar tareas de limpieza y mantenimiento. Esto te permitir\u00e1 desarrollar habilidades importantes como la comunicaci\u00f3n, la organizaci\u00f3n y la atenci\u00f3n al detalle.",
-        "duration": "3-6 months",
+        "title": "Desarrollador Junior de Software",
+        "position-title": "Junior Software Developer",
+        "description": "En este primer paso, es fundamental que puedas empezar a ganar experiencia en el desarrollo de software. Busca una empresa que te permita crecer y aprender de tus errores. En este puesto, podr\u00e1s desarrollar habilidades t\u00e9cnicas como programaci\u00f3n en lenguajes como Java, Python o C++, y aprender de los procesos de desarrollo de software. Aprovecha para aprender de los seniors y especialistas en la empresa.",
+        "duration": "1-2 a\u00f1os",
         "requirements": [
-            "Experiencia en atenci\u00f3n al cliente",
-            "Conocimientos b\u00e1sicos de ingl\u00e9s"
+            "Conocimientos en programaci\u00f3n",
+            "Experiencia con lenguajes de programaci\u00f3n"
         ],
         "abilities": [
-            "Trabajo en equipo",
-            "Atenci\u00f3n al cliente",
-            "Organizaci\u00f3n"
+            "Comunicaci\u00f3n efectiva",
+            "Trabajo en equipo"
         ],
         "courses": [
-            "Cursos de atenci\u00f3n al cliente",
-            "Cursos de ingl\u00e9s b\u00e1sico"
+            "Introducci\u00f3n a la programaci\u00f3n",
+            "Desarrollo de software"
         ],
         "jobs_list": [
             {
-                "salary_max": 31354.06,
-                "id": "4871322534",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGhYbF9XaWM3eEdhTWdab3RJajJPdyIsImkiOiI0ODcxMzIyNTM0In0.ScbPEwIhtrQPo_h3cZshzIP7qbd6onaj3lOBaVUj98o",
-                "description": "As the team at Zaxby's expands, we're saving a seat for you To our guests, Zaxby's is more than just a place to eat - it's a place to have fun, spend time with friends, and enjoy great food. To our team members, Zaxby's is an indescribably great place to work Assistant Managers are responsible for ensuring that the restaurant delivers great experiences to guests while maintaining operational standards. You will manage the daily operations of the restaurant ensuring that the team properly follow\u2026",
-                "salary_is_predicted": "1",
+                "latitude": 43.018799,
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "created": "2024-09-20T21:20:16Z",
-                "category": {
-                    "label": "Hospitality & Catering Jobs",
-                    "tag": "hospitality-catering-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "redirect_url": "https://www.adzuna.com/land/ad/4871322534?se=8hXl_Wic7xGaMgZotIj2Ow&utm_medium=api&utm_source=a60688b4&v=1853F42A258D9247922E1E7F75612C9B84BA43D0",
-                "latitude": 34.8419,
-                "location": {
-                    "display_name": "Easley, Pickens County",
-                    "area": [
-                        "US",
-                        "South Carolina",
-                        "Pickens County",
-                        "Easley"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Zaxby's"
-                },
-                "longitude": -82.597592,
-                "title": "Restaurant Assistant Manager",
-                "contract_time": "full_time",
-                "salary_min": 31354.06
-            },
-            {
-                "redirect_url": "https://www.adzuna.com/land/ad/4866171581?se=8hXl_Wic7xGaMgZotIj2Ow&utm_medium=api&utm_source=a60688b4&v=1FE69766DCAA55E965F2456C8B33919EDBC842F6",
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "Hospitality & Catering Jobs",
-                    "tag": "hospitality-catering-jobs"
-                },
-                "created": "2024-09-17T01:21:17Z",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "description": "As the team at Zaxby's expands, we're saving a seat for you To our guests, Zaxby's is more than just a place to eat - it's a place to have fun, spend time with friends, and enjoy great food. To our team members, Zaxby's is an indescribably great place to work Assistant Managers are responsible for ensuring that the restaurant delivers great experiences to guests while maintaining operational standards. You will manage the daily operations of the restaurant ensuring that the team properly follow\u2026",
-                "salary_is_predicted": "1",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGhYbF9XaWM3eEdhTWdab3RJajJPdyIsImkiOiI0ODY2MTcxNTgxIn0.veyAJ_8iP2DtCZ9_WWrqXK0a4zTutHQBZgZOAGhZdhc",
-                "id": "4866171581",
-                "salary_max": 31921.49,
-                "salary_min": 31921.49,
-                "title": "Restaurant Assistant Manager",
-                "contract_time": "full_time",
-                "longitude": -82.182757,
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Zaxby's"
-                },
-                "location": {
-                    "area": [
-                        "US",
-                        "Tennessee",
-                        "Sullivan County",
-                        "Bristol"
-                    ],
-                    "display_name": "Bristol, Sullivan County",
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "latitude": 36.56751
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Curso de Excelencia en la Atenci\u00f3n al Cliente",
-                "description": "Como lidiar con clientes insatisfechos y enojados y crear un servicio m\u00e1s humano y excelente",
-                "link": "https://www.udemy.com/course/curso-de-excelencia-en-la-atencion-al-cliente/"
-            },
-            {
-                "title": "Ingl\u00e9s Total- de Principiante a Avanzado/+ de 115 horas",
-                "description": "Aprende todo sobre el idioma ingl\u00e9s, fon\u00e9tica, gram\u00e1tica, vocabulario y m\u00e1s!",
-                "link": "https://www.udemy.com/course/ingles-basico-15-minutos-diarios/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Camarero/a",
-        "position-title": "Waiter/Waitress",
-        "description": "En este puesto, ser\u00e1s responsable de atender a los clientes, tomar pedidos, servir bebidas y alimentos, y realizar tareas de cobro y cierre de cuenta. Aprender\u00e1s a manejar situaciones de estr\u00e9s y a trabajar en un entorno din\u00e1mico. Tambi\u00e9n desarrollar\u00e1s habilidades importantes como la comunicaci\u00f3n, la organizaci\u00f3n y la gesti\u00f3n del tiempo.",
-        "duration": "6-12 months",
-        "requirements": [
-            "Experiencia en atenci\u00f3n al cliente",
-            "Conocimientos b\u00e1sicos de ingl\u00e9s"
-        ],
-        "abilities": [
-            "Trabajo en equipo",
-            "Atenci\u00f3n al cliente",
-            "Organizaci\u00f3n",
-            "Gesti\u00f3n del tiempo"
-        ],
-        "courses": [
-            "Cursos de atenci\u00f3n al cliente avanzada",
-            "Cursos de ingl\u00e9s intermedio"
-        ],
-        "jobs_list": [
-            {
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_is_predicted": "0",
-                "description": "Description Provide friendly, responsive service to create an exceptional dining experience for all of our guests. The server / waiter primary objective is to show our guests such a marvelous time, they will want to return again and again. Server / Waiter / Waitress / Wait staff is generally a part time resturant job. Prior experience as Server, Waiter, Waitress, Wait staff, foh team member, foh crew member, resturant jobs is very helpful to the success at this job More Requirements/Responsibil\u2026",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgxNjgzMzc2NyIsInMiOiJudFVJQUdtYzd4R2FNZ1pvdElqMk93In0.21xJvvEwWbi7fdRz_T-W2ZLxek25I1C8tXTBq__flaE",
-                "salary_max": 31123,
-                "id": "4816833767",
-                "redirect_url": "https://www.adzuna.com/details/4816833767?utm_medium=api&utm_source=a60688b4",
-                "category": {
-                    "tag": "hospitality-catering-jobs",
-                    "label": "Hospitality & Catering Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "created": "2024-08-08T09:38:04Z",
-                "title": "Server / Waiter / Waitress / Wait staff",
-                "contract_time": "part_time",
-                "longitude": -121.932494,
-                "company": {
-                    "display_name": "Straits",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "location": {
-                    "display_name": "Santa Clara, Santa Clara County",
-                    "area": [
-                        "US",
-                        "California",
-                        "Santa Clara County",
-                        "Santa Clara"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "latitude": 37.315682,
-                "salary_min": 31084
-            },
-            {
-                "redirect_url": "https://www.adzuna.com/details/4913376436?utm_medium=api&utm_source=a60688b4",
-                "created": "2024-10-25T01:17:04Z",
-                "category": {
-                    "label": "Hospitality & Catering Jobs",
-                    "tag": "hospitality-catering-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "salary_min": 35643.85,
-                "longitude": -122.466538,
-                "title": "Restaurant Server / Waiter / Waitress / Wait staff",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Waterbar"
-                },
-                "description": "Job Description Job Description Seeking professional Restaurant Server / Waiter / Waitress / Wait staff with fine dining experience. This is a very important role for us and we rely heavily on our serving staff. They manage the pulse of the dining room and ensure patrons have a memorable dining experience. Waterbar is looking for qualified and energetic Restaurant Server / Waiter / Waitress / Wait staff capable of providing elegant service in our spectacular dining room, but also able to keep u\u2026",
-                "salary_is_predicted": "1",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkxMzM3NjQzNiIsInMiOiJudFVJQUdtYzd4R2FNZ1pvdElqMk93In0.vE0g4Gvdp3DWhwBRqbY8D3zbPZmlT4yt7NwNg5OkBzI",
+                "salary_min": 85189.99,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyMDQ2ODMxMSIsInMiOiJ2aHdDQ3BDYzd4R21NRFpBcnBYaHN3In0.b25GhjqcdW-FVGrTq9tnBCQgF2GH2sQuB6RzpoDGR-k",
                 "location": {
                     "__CLASS__": "Adzuna::API::Response::Location",
                     "area": [
                         "US",
-                        "California",
-                        "San Francisco"
+                        "Oregon",
+                        "Coos County",
+                        "Remote"
                     ],
-                    "display_name": "San Francisco, California"
+                    "display_name": "Remote, Coos County"
                 },
-                "latitude": 37.798085,
-                "salary_max": 35643.85,
-                "id": "4913376436"
+                "redirect_url": "https://www.adzuna.com/land/ad/4920468311?se=vhwCCpCc7xGmMDZArpXhsw&utm_medium=api&utm_source=a60688b4&v=31A48F9112E5ACFA1E33ADA8958549BD4BDEFBBF",
+                "salary_max": 85189.99,
+                "id": "4920468311",
+                "description": "Job Description Job Description TRANSFORMACTION DYNAMICS, LLC JOB DESCRIPTION - JUNIOR SOFTWARE DEVELOPER TransformAction Dynamics, LLC Our mission is to help federal, municipal, and commercial agencies and businesses courageously pursue and confidently achieve transformational change. For audacious leaders who need insights into technical and financial realities of a successful enterprise transformation, TransformAction Dynamics offers a forensic approach to transformation management. Our cons\u2026",
+                "title": "Junior Software Developer",
+                "created": "2024-10-31T23:42:11Z",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_is_predicted": "1",
+                "company": {
+                    "display_name": "Horizon Resource Services",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "longitude": -123.884499
+            },
+            {
+                "title": "Junior Software Developer",
+                "id": "4926745468",
+                "description": "Talent Masters is working for a leading national non-profit on its search for a Junior Software Developer. As a Junior Software Developer, you will be an integral part of the IT team, reporting to the Recovery Resource Manager. You will work closely with the Senior Developer and Technical Staff to develop, maintain, and enhance technology solutions that cater to the needs of both internal team members and external customers. Your primary focus will be on the implementation and improvement of so\u2026",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_min": 69358.84,
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "latitude": 32.760168,
+                "created": "2024-11-05T01:23:58Z",
+                "contract_type": "contract",
+                "longitude": -96.765058,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Talent Masters"
+                },
+                "salary_is_predicted": "1",
+                "salary_max": 69358.84,
+                "location": {
+                    "display_name": "Highland Park, Dallas",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Texas",
+                        "Dallas",
+                        "Highland Park"
+                    ]
+                },
+                "redirect_url": "https://www.adzuna.com/land/ad/4926745468?se=vhwCCpCc7xGmMDZArpXhsw&utm_medium=api&utm_source=a60688b4&v=122BA7E8119E046AE727C66D3AA042EA05389CC8",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyNjc0NTQ2OCIsInMiOiJ2aHdDQ3BDYzd4R21NRFpBcnBYaHN3In0.VcVEUu0fmrzKSQsF8_j07PAwXrxPH_a9IsULznfzubQ"
             }
         ],
         "courses_list": [
             {
-                "title": "Atenci\u00f3n y Servicio al Cliente",
-                "description": "Aprende a dar la mejor Atenci\u00f3n y Servicio al Cliente",
-                "link": "https://www.udemy.com/course/atencion-y-servicio-al-cliente/"
+                "title": "Universidad de L\u00f3gica de Programaci\u00f3n - Aprende 7 Lenguajes!",
+                "description": "+ 55 hrs - Aprende la L\u00f3gica de Programaci\u00f3n con 7 Lenguajes: PSeInt, Python, Java, JavaScript, C, C++ y C#",
+                "link": "https://www.udemy.com/course/universidad-de-logica-de-programacion-python-java-javascript-c-pseint/"
             },
             {
-                "title": "Curso Completo de Ingl\u00e9s \u2013 Nivel Intermedio",
-                "description": "Da un paso adelante con tu ingl\u00e9s: Mejora la gram\u00e1tica, traducci\u00f3n, habla, lectura, escucha, vocabulario y m\u00e1s.",
-                "link": "https://www.udemy.com/course/curso-completo-ingles-intermediate/"
+                "title": "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL",
+                "description": "Aprende Desarrollo Web con este curso 100% pr\u00e1ctico, paso a paso y sin conocimientos previo INCLUYE 4 PROYECTOS FINALES",
+                "link": "https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Supervisor de camareros",
-        "position-title": "Team Leader Waiter",
-        "description": "En este puesto, ser\u00e1s responsable de supervisar a un equipo de camareros, asegurarte de que se cumplan los est\u00e1ndares de atenci\u00f3n al cliente y realizar tareas administrativas. Aprender\u00e1s a liderar un equipo, a tomar decisiones y a resolver problemas. Tambi\u00e9n desarrollar\u00e1s habilidades importantes como la comunicaci\u00f3n, la organizaci\u00f3n y la gesti\u00f3n del tiempo.",
-        "duration": "1-2 years",
+        "title": "Desarrollador de Software",
+        "position-title": "Software Developer",
+        "description": "En este paso, debes haber adquirido experiencia en el desarrollo de software y comenzar a tomar responsabilidades m\u00e1s grandes. Debes ser capaz de liderar peque\u00f1os proyectos y trabajar con equipo. Aprovecha para mejorar tus habilidades t\u00e9cnicas y aprender de nuevos lenguajes y tecnolog\u00edas.",
+        "duration": "2-3 a\u00f1os",
         "requirements": [
-            "Experiencia como camarero",
-            "Conocimientos b\u00e1sicos de ingl\u00e9s",
-            "Habilidades de liderazgo"
+            "Experiencia como desarrollador junior",
+            "Conocimientos en bases de datos",
+            "Experiencia con frameworks y bibliotecas"
         ],
         "abilities": [
             "Liderazgo",
-            "Comunicaci\u00f3n",
-            "Organizaci\u00f3n",
-            "Gesti\u00f3n del tiempo"
+            "Trabajo bajo presi\u00f3n"
         ],
         "courses": [
-            "Cursos de liderazgo",
-            "Cursos de ingl\u00e9s avanzado"
+            "Dise\u00f1o de patrones",
+            "Desarrollo de aplicaciones web"
         ],
         "jobs_list": [
             {
-                "category": {
-                    "label": "Hospitality & Catering Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "hospitality-catering-jobs"
-                },
-                "latitude": 42.575868,
-                "salary_max": 38400,
-                "description": "Catering Lead Being our Catering Lead requires you to be an outgoing, self-motivated and extremely coachable individual. The Catering Lead is responsible for coordinating and executing each step of the catering orders, starting with the food preparation in the kitchen and ending with the event execution or just an order delivery. Excellent verbal and written communication, and interpersonal skills are essential, along with the ability to easily establish rapport with a diverse range of people. \u2026",
-                "company": {
-                    "display_name": "Gage Marine",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "title": "Catering / Banquet Server for PIER 290 and Lake Life Catering - Summer 2024 Season",
-                "created": "2024-03-09T10:04:36Z",
-                "redirect_url": "https://www.adzuna.com/details/4600716232?utm_medium=api&utm_source=a60688b4",
-                "location": {
-                    "area": [
-                        "US",
-                        "Wisconsin",
-                        "Walworth County",
-                        "Williams Bay"
-                    ],
-                    "display_name": "Williams Bay, Walworth County",
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "id": "4600716232",
-                "salary_is_predicted": "0",
-                "longitude": -88.538273,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_min": 34560,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDYwMDcxNjIzMiIsInMiOiJtRTRNQW1tYzd4R3czT2dZS0pfU29RIn0.yT1xcUntoEpNz4T079ytabEVXXkXU-lidA4BQ9mW3sA"
+                "title": "APRENDIZ DE ANALISIS Y DESARROLLADOR DE SOFTWARE - ACPA - 232241",
+                "redirect_url": "https://www.magneto365.com/co/empleos/aprendiz-de-analisis-y-desarrollador-de-software-acpa-232241-8bed739b-6a08-4ff1-bb8b-55732c7e6562?utm_campaign=jobs-nutresa&utm_medium=referral",
+                "city": "Barranquilla"
             },
             {
-                "salary_min": 32460.5,
-                "longitude": -88.358838,
-                "id": "4810836816",
+                "title": "Desarrollador de aplicaciones TI",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-de-aplicaciones-ti-5a87138e-6936-441f-b62d-3bbe3f596015?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Desarrollador de software",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-de-software-7a04d6e8-9ab5-4db5-80dd-3bbe88805e82?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Medell\u00edn"
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Patrones de dise\u00f1o de software y principios SOLID.",
+                "description": "Descubre los design patterns y los principios SOLID que te permitir\u00e1n construir aplicaciones m\u00e1s profesionales en Java.",
+                "link": "https://www.udemy.com/course/patrones-de-diseno-y-principios-solid/"
+            },
+            {
+                "title": "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL",
+                "description": "Aprende Desarrollo Web con este curso 100% pr\u00e1ctico, paso a paso y sin conocimientos previo INCLUYE 4 PROYECTOS FINALES",
+                "link": "https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "L\u00edder de Equipo de Desarrollo",
+        "position-title": "Development Team Lead",
+        "description": "En este puesto, debes ser capaz de liderar un equipo de desarrolladores y tomar decisiones t\u00e9cnicas importantes. Debes ser un l\u00edder efectivo y comunicativo, capaz de motivar a tus compa\u00f1eros de equipo. Aprovecha para mejorar tus habilidades de liderazgo y aprender de la gesti\u00f3n de proyectos.",
+        "duration": "3-4 a\u00f1os",
+        "requirements": [
+            "Experiencia como desarrollador",
+            "Experiencia en liderazgo",
+            "Conocimientos en gesti\u00f3n de proyectos"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Comunicaci\u00f3n efectiva",
+            "Gesti\u00f3n de conflicto"
+        ],
+        "courses": [
+            "Liderazgo y gesti\u00f3n de equipos",
+            "Gesti\u00f3n de proyectos \u00e1giles"
+        ],
+        "jobs_list": [
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "SMBC Group is a top-tier global financial group. Headquartered in Tokyo and with a 400-year history, SMBC Group offers a diverse range of financial services, including banking, leasing, securities, credit cards, and consumer finance. The Group has more than 130 offices and 80,000 employees worldwide in nearly 40 countries. Sumitomo Mitsui Financial Group, Inc. (SMFG) is the holding company of SMBC Group, which is one of the three largest banking groups in Japan. SMFG\u2019s shares trade on the Tokyo\u2026",
+                "salary_is_predicted": "1",
+                "salary_max": 170732.2,
+                "id": "4921805500",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyMTgwNTUwMCIsInMiOiJmQlJfRHBDYzd4R2FNZ1pvdElqMk93In0.3Z0797IKRezXE_tso3Z2v6x51ct2TVvMhRKqHQLEUiU",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "created": "2024-11-01T10:51:27Z",
+                "redirect_url": "https://www.adzuna.com/land/ad/4921805500?se=fBR_DpCc7xGaMgZotIj2Ow&utm_medium=api&utm_source=a60688b4&v=849D5C0A0E8E0C5F4A50D9956FB3D08319C9DF42",
+                "company": {
+                    "display_name": "SMBC Group",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "title": "Technology Developer Team Lead - Director",
+                "longitude": -74.0784,
+                "latitude": 40.7282,
                 "location": {
                     "area": [
                         "US",
-                        "Illinois",
-                        "McHenry County",
-                        "Lake In The Hills"
+                        "New Jersey",
+                        "Hudson County",
+                        "Five Corners"
                     ],
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Lake In The Hills, McHenry County"
+                    "display_name": "Five Corners, Hudson County",
+                    "__CLASS__": "Adzuna::API::Response::Location"
                 },
-                "created": "2024-08-05T09:55:30Z",
-                "title": "Part Time Server",
-                "description": "Part-time Description A Server is responsible for serving food and beverages to Residents in their Community\u2019s dining areas, and for cleaning and disinfecting tasks in dining and kitchen areas. Duties & Responsibilities: 1. accurately takes and relays beverage and meal orders; 2. adds appropriate garnishes to food and beverages prior to serving; 3. must be prepared to work in any area of the Dining Services Department; 4. must display a positive demeanor and cheerful disposition to Community Re\u2026",
-                "salary_max": 32460.5,
-                "category": {
-                    "tag": "part-time-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "Part time Jobs"
-                },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgxMDgzNjgxNiIsInMiOiJtRTRNQW1tYzd4R3czT2dZS0pfU29RIn0.eVDMsWCVkw1qSP5-YneTx1bbmhgmBd8v-Pei9Z6ViyY",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_is_predicted": "1",
-                "redirect_url": "https://www.adzuna.com/details/4810836816?utm_medium=api&utm_source=a60688b4",
+                "salary_min": 170732.2
+            },
+            {
                 "company": {
                     "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Melody Living"
+                    "display_name": "Ford Motor Company"
                 },
-                "contract_time": "part_time",
-                "latitude": 42.187735
+                "salary_is_predicted": "1",
+                "description": "We are the movers of the world and the makers of the future. We get up every day, roll up our sleeves and build a better world  together. At Ford, we're all a part of something bigger than ourselves. Are you ready to change the way the world moves? Enterprise Platform Engineering & Operations (EPEO) is responsible for the engineering, implementation, and support of IT infrastructure solutions within Ford. The Workplace Tech Customer Experience (CX) team seeks to improve the tech experience that\u2026",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "longitude": -121.46649,
+                "title": "ServiceNow Virtual Agent Developer - Team Lead",
+                "salary_max": 137774.44,
+                "latitude": 38.57562,
+                "id": "4920165674",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkJSX0RwQ2M3eEdhTWdab3RJajJPdyIsImkiOiI0OTIwMTY1Njc0In0.GYkbd8q2cq1GwxM8w2wKSCFnMb_l4_jmaSODaJ4VukQ",
+                "location": {
+                    "area": [
+                        "US",
+                        "California",
+                        "Sacramento County",
+                        "Sacramento"
+                    ],
+                    "display_name": "Sacramento, Sacramento County",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "created": "2024-10-31T15:59:48Z",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "redirect_url": "https://www.adzuna.com/details/4920165674?utm_medium=api&utm_source=a60688b4",
+                "salary_min": 137774.44
             }
         ],
         "courses_list": [
@@ -320,325 +245,279 @@
                 "link": "https://www.udemy.com/course/liderazgo-y-gestion-de-equipos-certificacion-2018/"
             },
             {
-                "title": "Ingl\u00e9s Total- de Principiante a Avanzado/+ de 115 horas",
-                "description": "Aprende todo sobre el idioma ingl\u00e9s, fon\u00e9tica, gram\u00e1tica, vocabulario y m\u00e1s!",
-                "link": "https://www.udemy.com/course/ingles-basico-15-minutos-diarios/"
+                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
+                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
+                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Jefe de sala",
-        "position-title": "Restaurant Manager",
-        "description": "En este puesto, ser\u00e1s responsable de gestionar el restaurante, incluyendo la supervisi\u00f3n del personal, la gesti\u00f3n de inventario y la toma de decisiones financieras. Aprender\u00e1s a gestionar un presupuesto, a analizar resultados y a tomar decisiones estrat\u00e9gicas. Tambi\u00e9n desarrollar\u00e1s habilidades importantes como la comunicaci\u00f3n, la organizaci\u00f3n y la gesti\u00f3n del tiempo.",
-        "duration": "2-5 years",
+        "title": "Arquitecto de Software",
+        "position-title": "Software Architect",
+        "description": "En este puesto, debes ser capaz de dise\u00f1ar y implementar la arquitectura de software de la empresa. Debes tener una visi\u00f3n clara de la tecnolog\u00eda y ser capaz de tomar decisiones t\u00e9cnicas importantes. Aprovecha para mejorar tus habilidades en dise\u00f1o y arquitectura de software.",
+        "duration": "4-5 a\u00f1os",
         "requirements": [
-            "Experiencia como supervisor de camareros",
-            "Conocimientos b\u00e1sicos de ingl\u00e9s",
-            "Habilidades de liderazgo y gesti\u00f3n"
+            "Experiencia como l\u00edder de equipo",
+            "Conocimientos en arquitectura de software",
+            "Experiencia con tecnolog\u00edas emergentes"
         ],
         "abilities": [
-            "Liderazgo",
-            "Comunicaci\u00f3n",
-            "Organizaci\u00f3n",
-            "Gesti\u00f3n del tiempo",
-            "Gesti\u00f3n financiera"
+            "Visi\u00f3n a largo plazo",
+            "Comunicaci\u00f3n efectiva",
+            "Liderazgo"
         ],
         "courses": [
-            "Cursos de liderazgo avanzado",
-            "Cursos de finanzas"
+            "Arquitectura de software",
+            "Dise\u00f1o de patrones"
         ],
         "jobs_list": [
             {
-                "company": {
-                    "display_name": "Zaxby's",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "longitude": -82.597592,
-                "title": "Restaurant Assistant Manager",
-                "contract_time": "full_time",
-                "latitude": 34.8419,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyODk1MTE1NiIsInMiOiJhdWFlRUpDYzd4R21NRFpBcnBYaHN3In0.zP3Kt99KVerdD3rf33Bdua7VlScOCPfrEdZQMLmUmls",
+                "redirect_url": "https://www.adzuna.com/land/ad/4928951156?se=auaeEJCc7xGmMDZArpXhsw&utm_medium=api&utm_source=a60688b4&v=A7107C51BFEA1E8E30BDC5171078ACB1A5CE23A0",
                 "location": {
+                    "display_name": "Orlando, Orange County",
                     "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "South Carolina",
-                        "Pickens County",
-                        "Easley"
-                    ],
-                    "display_name": "Easley, Pickens County"
-                },
-                "salary_min": 31354.06,
-                "description": "As the team at Zaxby's expands, we're saving a seat for you To our guests, Zaxby's is more than just a place to eat - it's a place to have fun, spend time with friends, and enjoy great food. To our team members, Zaxby's is an indescribably great place to work Assistant Managers are responsible for ensuring that the restaurant delivers great experiences to guests while maintaining operational standards. You will manage the daily operations of the restaurant ensuring that the team properly follow\u2026",
-                "salary_is_predicted": "1",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_max": 31354.06,
-                "id": "4871322534",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0xSN0EybWM3eEdhTWdab3RJajJPdyIsImkiOiI0ODcxMzIyNTM0In0.oshSOkil6Dvxp7UIYJX_aZmSHRDv7_0eja7LBWW6bZY",
-                "created": "2024-09-20T21:20:16Z",
-                "category": {
-                    "label": "Hospitality & Catering Jobs",
-                    "tag": "hospitality-catering-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "redirect_url": "https://www.adzuna.com/land/ad/4871322534?se=gLR7A2mc7xGaMgZotIj2Ow&utm_medium=api&utm_source=a60688b4&v=1853F42A258D9247922E1E7F75612C9B84BA43D0"
-            },
-            {
-                "latitude": 36.56751,
-                "location": {
-                    "display_name": "Bristol, Sullivan County",
-                    "area": [
-                        "US",
-                        "Tennessee",
-                        "Sullivan County",
-                        "Bristol"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Zaxby's"
-                },
-                "longitude": -82.182757,
-                "title": "Restaurant Assistant Manager",
-                "contract_time": "full_time",
-                "salary_min": 31921.49,
-                "id": "4866171581",
-                "salary_max": 31921.49,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0xSN0EybWM3eEdhTWdab3RJajJPdyIsImkiOiI0ODY2MTcxNTgxIn0.w0QRZb-IbsyHbiNBMLbV6ifDxkEq7UhmyJD1MnEWL3s",
-                "description": "As the team at Zaxby's expands, we're saving a seat for you To our guests, Zaxby's is more than just a place to eat - it's a place to have fun, spend time with friends, and enjoy great food. To our team members, Zaxby's is an indescribably great place to work Assistant Managers are responsible for ensuring that the restaurant delivers great experiences to guests while maintaining operational standards. You will manage the daily operations of the restaurant ensuring that the team properly follow\u2026",
-                "salary_is_predicted": "1",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "created": "2024-09-17T01:21:17Z",
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "hospitality-catering-jobs",
-                    "label": "Hospitality & Catering Jobs"
-                },
-                "redirect_url": "https://www.adzuna.com/land/ad/4866171581?se=gLR7A2mc7xGaMgZotIj2Ow&utm_medium=api&utm_source=a60688b4&v=1FE69766DCAA55E965F2456C8B33919EDBC842F6"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Curso de C# .NET AVANZADO",
-                "description": "Aprende conceptos avanzados del lenguaje C#",
-                "link": "https://www.udemy.com/course/curso-de-c-avanzado/"
-            },
-            {
-                "title": "Curso Completo de Finanzas Personales para No Expertos",
-                "description": "SIMPLE. UTIL. APLICABLE. EFICAZ. COMO NUNCA TE LO ENSE\u00d1ARON, LAS MEJORES TECNICAS PARA MANEJAR TU DINERO!",
-                "link": "https://www.udemy.com/course/curso-completo-de-finanzas-personales-para-no-expertos/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Gerente de restaurante",
-        "position-title": "Restaurant General Manager",
-        "description": "En este puesto, ser\u00e1s responsable de gestionar todo el restaurante, incluyendo la supervisi\u00f3n del personal, la gesti\u00f3n de inventario, la toma de decisiones financieras y la estrategia del restaurante. Aprender\u00e1s a gestionar un equipo de gerentes, a analizar resultados y a tomar decisiones estrat\u00e9gicas. Tambi\u00e9n desarrollar\u00e1s habilidades importantes como la comunicaci\u00f3n, la organizaci\u00f3n y la gesti\u00f3n del tiempo.",
-        "duration": "5-10 years",
-        "requirements": [
-            "Experiencia como jefe de sala",
-            "Conocimientos b\u00e1sicos de ingl\u00e9s",
-            "Habilidades de liderazgo y gesti\u00f3n"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Comunicaci\u00f3n",
-            "Organizaci\u00f3n",
-            "Gesti\u00f3n del tiempo",
-            "Gesti\u00f3n financiera",
-            "Estrategia"
-        ],
-        "courses": [
-            "Cursos de liderazgo avanzado",
-            "Cursos de finanzas avanzado"
-        ],
-        "jobs_list": [
-            {
-                "title": "Restaurant General Manager",
-                "description": "Compensation Type: Yearly Highgate Hotels: Highgate is a premier real estate investment and hospitality management company widely recognized as an innovator in the industry. Highgate is the dominant player in U.S. gateway markets including New York, Boston, Miami, San Francisco and Honolulu, with a rapidly expanding presence in Europe, Latin America, and the Caribbean. Highgate\u2019s portfolio of global properties represents an aggregate asset value exceeding $20B and generates over $5B in cumulati\u2026",
-                "id": "4889060511",
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "Hospitality & Catering Jobs",
-                    "tag": "hospitality-catering-jobs"
-                },
-                "salary_min": 56332.07,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "contract_time": "full_time",
-                "latitude": 25.85695,
-                "created": "2024-10-04T15:22:08Z",
-                "longitude": -80.1378,
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Inn On The Bay"
-                },
-                "salary_is_predicted": "1",
-                "salary_max": 56332.07,
-                "location": {
                     "area": [
                         "US",
                         "Florida",
-                        "Miami-Dade County",
-                        "Normandy Isle"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Normandy Isle, Miami-Dade County"
-                },
-                "redirect_url": "https://www.adzuna.com/land/ad/4889060511?se=jM41BWmc7xGmMDZArpXhsw&utm_medium=api&utm_source=a60688b4&v=372925F2664A9E901F70F4F80F5F20C012A77BC6",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiak00MUJXbWM3eEdtTURaQXJwWGhzdyIsImkiOiI0ODg5MDYwNTExIn0.lYQ6CiibTaBYcvwjTCpGbQNtpzUwjzSzPw-xQw_zQm4"
-            },
-            {
-                "latitude": 34.8419,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "contract_time": "full_time",
-                "salary_min": 43161.93,
-                "description": "As the team at Zaxby's expands, we're saving a seat for you To our guests, Zaxby's is more than just a place to eat - it's a place to have fun, spend time with friends, and enjoy great food. To our team members, Zaxby's is an indescribably great place to work General Managers are responsible for providing guidance and leadership to their team to create a positive culture and maintain high team morale. You will execute and assist in the development of action plans according to company goals and \u2026",
-                "id": "4871322493",
-                "title": "Restaurant General Manager",
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "hospitality-catering-jobs",
-                    "label": "Hospitality & Catering Jobs"
-                },
-                "location": {
-                    "display_name": "Easley, Pickens County",
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "South Carolina",
-                        "Pickens County",
-                        "Easley"
+                        "Orange County",
+                        "Orlando"
                     ]
                 },
-                "redirect_url": "https://www.adzuna.com/land/ad/4871322493?se=jM41BWmc7xGmMDZArpXhsw&utm_medium=api&utm_source=a60688b4&v=0C14C999C93B061E1BD11794B7C26552C5648BEB",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg3MTMyMjQ5MyIsInMiOiJqTTQxQldtYzd4R21NRFpBcnBYaHN3In0.LVbFkFl2vYNRIluUGmY2A67iCwSBE5nxfJ0cICXwbso",
-                "salary_max": 43161.93,
-                "created": "2024-09-20T21:19:43Z",
+                "salary_max": 115420.88,
+                "latitude": 28.541666,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 115420.88,
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
                 "salary_is_predicted": "1",
-                "longitude": -82.597592,
+                "longitude": -81.375686,
                 "company": {
-                    "display_name": "Zaxby's",
+                    "display_name": "Kavaliro",
                     "__CLASS__": "Adzuna::API::Response::Company"
-                }
+                },
+                "description": "Our client is seeking a Software Architect in Orlando, FL. The Software Architect will play a critical role in designing and developing high-quality, scalable software solutions aligned with business goals. As a technical leader, you will guide the development team through the software development lifecycle, from concept and design to deployment and maintenance. You will be responsible for ensuring that all architectural solutions meet both technical and business requirements and adhere to best\u2026",
+                "id": "4928951156",
+                "title": "Software Architect",
+                "created": "2024-11-06T15:32:05Z"
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 110545.14,
+                "latitude": 33.755711,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYXVhZUVKQ2M3eEdtTURaQXJwWGhzdyIsImkiOiI0OTA4NzE2MzQxIn0.-MBtVjIchjcPUDWtYMof9bphJZcMdNT32O-1XUfuA9s",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Georgia",
+                        "Fulton County",
+                        "Atlanta"
+                    ],
+                    "display_name": "Atlanta, Fulton County"
+                },
+                "redirect_url": "https://www.adzuna.com/land/ad/4908716341?se=auaeEJCc7xGmMDZArpXhsw&utm_medium=api&utm_source=a60688b4&v=CC53F6F386C5D63E3C5C47D96366DFE8CDAD61F2",
+                "salary_max": 110545.14,
+                "created": "2024-10-21T05:22:54Z",
+                "description": "Job Title: MuleSoft Architect /MuleSoft Developer Location: Location : Atlanta GA/Chicago IL Roles & Responsibilities Overall 10 years of overall exp with Minimum 5 years of experience working as Mule Architect 3 years of Design and Development experience with Mule 4.x Must have development experience implementing flows using Oracle, Hadoop, SQL, Kafka, .NET connectors etc. Must have experience in secure API development Understanding of MuleSoft Development best practices with respect to using \u2026",
+                "id": "4908716341",
+                "title": "Software Architect",
+                "longitude": -84.388372,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Tata Consultancy Services"
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "salary_is_predicted": "1"
             }
         ],
         "courses_list": [
             {
-                "title": "Curso de C# .NET AVANZADO",
-                "description": "Aprende conceptos avanzados del lenguaje C#",
-                "link": "https://www.udemy.com/course/curso-de-c-avanzado/"
+                "title": "Ingenier\u00eda de Software y Arquitectura de Software",
+                "description": "Aprende Sobre Ingenier\u00eda de Software, Ingenier\u00eda de requisitos, Arquitectura de Software , Software Testing y mas!",
+                "link": "https://www.udemy.com/course/ingenieria-de-software-y-principios-de-arquitectura/"
             },
             {
-                "title": "Curso de C# .NET AVANZADO",
-                "description": "Aprende conceptos avanzados del lenguaje C#",
-                "link": "https://www.udemy.com/course/curso-de-c-avanzado/"
+                "title": "Patrones de dise\u00f1o de software y principios SOLID.",
+                "description": "Descubre los design patterns y los principios SOLID que te permitir\u00e1n construir aplicaciones m\u00e1s profesionales en Java.",
+                "link": "https://www.udemy.com/course/patrones-de-diseno-y-principios-solid/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Camarero supremo",
-        "position-title": "Head Waiter",
-        "description": "En este puesto, ser\u00e1s el responsable de coordinar todo el servicio de camareros, incluyendo la programaci\u00f3n del personal, la gesti\u00f3n de inventario y la Supervisi\u00f3n del servicio. Aprender\u00e1s a liderar un equipo de camareros, a gestionar situaciones de estr\u00e9s y a resolver problemas. Tambi\u00e9n desarrollar\u00e1s habilidades importantes como la comunicaci\u00f3n, la organizaci\u00f3n y la gesti\u00f3n del tiempo.",
-        "duration": "5-10 years",
+        "title": "Ingeniero de Software Senior en una empresa de tecnolog\u00eda",
+        "position-title": "Senior Software Engineer in a Tech Company",
+        "description": "En este puesto, debes ser un experto en el desarrollo de software y haber adquirido experiencia en la industria de la tecnolog\u00eda. Debes ser capaz de liderar equipo y tomar decisiones t\u00e9cnicas importantes. Aprovecha para mejorar tus habilidades t\u00e9cnicas y establecer relaciones con otros profesionales en la industria.",
+        "duration": "5-6 a\u00f1os",
         "requirements": [
-            "Experiencia como gerente de restaurante",
-            "Conocimientos b\u00e1sicos de ingl\u00e9s",
-            "Habilidades de liderazgo y gesti\u00f3n"
+            "Experiencia como arquitecto de software",
+            "Conocimientos en tecnolog\u00edas emergentes",
+            "Experiencia en liderazgo"
         ],
         "abilities": [
             "Liderazgo",
-            "Comunicaci\u00f3n",
-            "Organizaci\u00f3n",
-            "Gesti\u00f3n del tiempo",
-            "Gesti\u00f3n financiera",
-            "Estrategia"
+            "Comunicaci\u00f3n efectiva",
+            "Visi\u00f3n a largo plazo"
         ],
         "courses": [
-            "Cursos de liderazgo avanzado",
-            "Cursos de finanzas avanzado"
+            "Innovaci\u00f3n y tecnolog\u00edas emergentes",
+            "Liderazgo y gesti\u00f3n de proyectos"
+        ],
+        "jobs_list": [],
+        "courses_list": [
+            {
+                "title": "Creatividad e Innovaci\u00f3n - Dale Una Vuelta M\u00e1s a Tu Cerebro",
+                "description": "Los Secretos Mejor Guardados de los Grandes Genios de la Creatividad y la Innovaci\u00f3n Para Resolver Cualquier Desaf\u00edo.",
+                "link": "https://www.udemy.com/course/creatividad-master-habilidades-blandas/"
+            },
+            {
+                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
+                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
+                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero de Software Senior en una empresa de tecnolog\u00eda l\u00edder",
+        "position-title": "Senior Software Engineer in a Leading Tech Company",
+        "description": "En este puesto, debes ser un experto en el desarrollo de software y haber adquirido experiencia en una empresa l\u00edder en la industria de la tecnolog\u00eda. Debes ser capaz de liderar equipo y tomar decisiones t\u00e9cnicas importantes. Aprovecha para mejorar tus habilidades t\u00e9cnicas y establecer relaciones con otros profesionales en la industria.",
+        "duration": "6-7 a\u00f1os",
+        "requirements": [
+            "Experiencia como ingeniero de software senior",
+            "Conocimientos en tecnolog\u00edas emergentes",
+            "Experiencia en l\u00edderazgo"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Comunicaci\u00f3n efectiva",
+            "Visi\u00f3n a largo plazo"
+        ],
+        "courses": [
+            "Innovaci\u00f3n y tecnolog\u00edas emergentes",
+            "Liderazgo y gesti\u00f3n de proyectos"
+        ],
+        "jobs_list": [],
+        "courses_list": [
+            {
+                "title": "Creatividad e Innovaci\u00f3n - Dale Una Vuelta M\u00e1s a Tu Cerebro",
+                "description": "Los Secretos Mejor Guardados de los Grandes Genios de la Creatividad y la Innovaci\u00f3n Para Resolver Cualquier Desaf\u00edo.",
+                "link": "https://www.udemy.com/course/creatividad-master-habilidades-blandas/"
+            },
+            {
+                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
+                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
+                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero de Software Senior en Google",
+        "position-title": "Senior Software Engineer at Google",
+        "description": "En este puesto, debes ser un experto en el desarrollo de software y haber adquirido experiencia en una de las empresas m\u00e1s importantes en la industria de la tecnolog\u00eda. Debes ser capaz de liderar equipo y tomar decisiones t\u00e9cnicas importantes. Aprovecha para mejorar tus habilidades t\u00e9cnicas y establecer relaciones con otros profesionales en la industria.",
+        "duration": "7+ a\u00f1os",
+        "requirements": [
+            "Experiencia como ingeniero de software senior",
+            "Conocimientos en tecnolog\u00edas emergentes",
+            "Experiencia en l\u00edderazgo"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Comunicaci\u00f3n efectiva",
+            "Visi\u00f3n a largo plazo"
+        ],
+        "courses": [
+            "Innovaci\u00f3n y tecnolog\u00edas emergentes",
+            "Liderazgo y gesti\u00f3n de proyectos"
         ],
         "jobs_list": [
             {
-                "id": "4906549061",
-                "latitude": 25.756014,
-                "salary_max": 57783.88,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZtNkJtbWM3eEdhTWdab3RJajJPdyIsImkiOiI0OTA2NTQ5MDYxIn0.nkAGDX22i0x-CCmUk1l8zTK_q3Cvrn6hzRCpSMNw8r8",
+                "id": "4927575464",
+                "latitude": 47.677395,
+                "salary_max": 185973.23,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyNzU3NTQ2NCIsInMiOiJtaG9NRjVDYzd4R2FNZ1pvdElqMk93In0.v8L9-wAhEDsAtVSaUqlpLIk5JLNxUy-HG2AtKLzgpqc",
                 "location": {
                     "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Miami, Miami-Dade County",
+                    "display_name": "Kirkland, King County",
                     "area": [
                         "US",
-                        "Florida",
-                        "Miami-Dade County",
-                        "Miami"
+                        "Washington",
+                        "King County",
+                        "Kirkland"
                     ]
                 },
                 "__CLASS__": "Adzuna::API::Response::Job",
                 "salary_is_predicted": "1",
                 "company": {
-                    "display_name": "Royal Caribbean Group",
-                    "__CLASS__": "Adzuna::API::Response::Company"
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Google"
                 },
-                "description": "POSITION SUMMARY Assists the Restaurant Manager in the supervision of the Restaurant personnel ensuring total guest satisfaction regarding food quality and service in accordance with company policies. ESSENTIAL DUTIES & RESPONSIBILITIES To support Royal Caribbean Group\u2019 mission of becoming \u201cDelivering the best vacations responsibilty,\u201d all duties and responsibilities are to be performed in accordance with c Pillars of Safety, Service and Style, ISM/ISO and SQM standards, USPH guidelines, and en\u2026",
-                "title": "Head Waiter",
-                "longitude": -80.134484,
-                "salary_min": 57783.88,
+                "description": "Minimum qualifications: - Bachelor's degree or equivalent practical experience. - 5 years of experience with software development in one or more programming languages, and with data structures/algorithms. - 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. Preferred qualifications: - Master's degree or PhD in Computer Science or related technical field. - 1 year of experience in a technical leadership role\u2026",
+                "title": "Senior Software Engineer, Google Cloud AI",
+                "longitude": -122.179938,
+                "salary_min": 185973.23,
                 "category": {
-                    "label": "Hospitality & Catering Jobs",
-                    "tag": "hospitality-catering-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
                 },
-                "created": "2024-10-18T12:04:48Z",
-                "redirect_url": "https://www.adzuna.com/details/4906549061?utm_medium=api&utm_source=a60688b4"
+                "created": "2024-11-05T15:47:23Z",
+                "redirect_url": "https://www.adzuna.com/details/4927575464?utm_medium=api&utm_source=a60688b4"
             },
             {
-                "salary_min": 31246.56,
-                "longitude": -74.158697,
-                "title": "Maitre di, Head Server",
-                "contract_time": "full_time",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Aqua Blue Kitchen & Cocktails"
+                "salary_min": 190913.81,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
                 },
+                "created": "2024-10-19T16:38:25Z",
+                "redirect_url": "https://www.adzuna.com/details/4907763334?utm_medium=api&utm_source=a60688b4",
+                "salary_max": 190913.81,
+                "id": "4907763334",
+                "latitude": 47.677395,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibWhvTUY1Q2M3eEdhTWdab3RJajJPdyIsImkiOiI0OTA3NzYzMzM0In0.sU9KcupLTfQaXVk-sR4TYXNh61MISEtUx1vtldLOi58",
                 "location": {
                     "__CLASS__": "Adzuna::API::Response::Location",
                     "area": [
                         "US",
-                        "New Jersey",
-                        "Ocean County",
-                        "Toms River"
+                        "Washington",
+                        "King County",
+                        "Kirkland"
                     ],
-                    "display_name": "Toms River, Ocean County"
-                },
-                "latitude": 39.977903,
-                "redirect_url": "https://www.adzuna.com/details/4907803828?utm_medium=api&utm_source=a60688b4",
-                "created": "2024-10-19T19:45:28Z",
-                "category": {
-                    "label": "Hospitality & Catering Jobs",
-                    "tag": "hospitality-catering-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
+                    "display_name": "Kirkland, King County"
                 },
                 "salary_is_predicted": "1",
-                "description": "Expierience in serving in casual,family owned byob Italian Restaurant. Must be people person, pasionate and knowledgeable.",
+                "description": "Minimum qualifications: - Bachelor's degree or equivalent practical experience. - 5 years of experience with software development in one or more programming languages, and with data structures/algorithms. - 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. Preferred qualifications: - Master's degree or PhD in Computer Science or related technical field. - 1 year of experience in a technical leadership role\u2026",
+                "company": {
+                    "display_name": "Google",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZtNkJtbWM3eEdhTWdab3RJajJPdyIsImkiOiI0OTA3ODAzODI4In0.RuBPLFisQA8RAFLQVMqV66EpijzRpjwO33DVwUAIDoQ",
-                "salary_max": 31246.56,
-                "id": "4907803828"
+                "longitude": -122.179938,
+                "title": "Senior Software Engineer, Google Cloud Platforms"
             }
         ],
         "courses_list": [
             {
-                "title": "Curso de C# .NET AVANZADO",
-                "description": "Aprende conceptos avanzados del lenguaje C#",
-                "link": "https://www.udemy.com/course/curso-de-c-avanzado/"
+                "title": "Creatividad e Innovaci\u00f3n - Dale Una Vuelta M\u00e1s a Tu Cerebro",
+                "description": "Los Secretos Mejor Guardados de los Grandes Genios de la Creatividad y la Innovaci\u00f3n Para Resolver Cualquier Desaf\u00edo.",
+                "link": "https://www.udemy.com/course/creatividad-master-habilidades-blandas/"
             },
             {
-                "title": "Curso de C# .NET AVANZADO",
-                "description": "Aprende conceptos avanzados del lenguaje C#",
-                "link": "https://www.udemy.com/course/curso-de-c-avanzado/"
+                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
+                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
+                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
             }
         ]
     }
