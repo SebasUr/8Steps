@@ -1,73 +1,111 @@
-import React, { useContext, useEffect, useState } from "react";
-import { useNavigate } from "react-router-dom";
-import api from "../api";
-import { AuthContext } from "../contexts/AuthContext";
-import "../styles/Profile.css";
+import React, { useContext, useEffect, useState } from "react"
+import { useNavigate } from "react-router-dom"
+import api from "../api"
+import jsPDF from "jspdf"
+import { AuthContext } from "../contexts/AuthContext"
+import "../styles/Profile.css"
 
 function Profile() {
-    const { isAuthorized, auth } = useContext(AuthContext);
-    const [loading, setLoading] = useState(true);
-    const [userData, setUserData] = useState({});
-    const [courses, setCourses] = useState([]);
-    const [certifications, setCertifications] = useState([]);
-    const [showCourseModal, setShowCourseModal] = useState(false);
-    const [showCertificationModal, setShowCertificationModal] = useState(false);
-    const navigate = useNavigate();
+    const { isAuthorized, auth } = useContext(AuthContext)
+    const [loading, setLoading] = useState(true)
+    const [userData, setUserData] = useState({})
+    const [courses, setCourses] = useState([])
+    const [certifications, setCertifications] = useState([])
+    const [showCourseModal, setShowCourseModal] = useState(false)
+    const [showCertificationModal, setShowCertificationModal] = useState(false)
+    const navigate = useNavigate()
 
     useEffect(() => {
-        auth();
-    }, [auth]);
+        auth()
+    }, [auth])
 
     useEffect(() => {
         api.get("/users/api/user/profile/")
             .then((res) => res.data)
             .then((data) => {
-                setUserData(data);
-                setCourses(data.courses.courses);
-                setCertifications(data.certifications.certifications);
+                setUserData(data)
+                setCourses(data.courses.courses)
+                setCertifications(data.certifications.certifications)
             })
             .finally(() => {
-                setLoading(false);
-            });
-    }, [userData]);
+                setLoading(false)
+            })
+    }, [])
+
+    const generatePDF = (jobs) => {
+        const doc = new jsPDF()
+        jobs.forEach((item, index) => {
+            doc.setFontSize(16)
+            doc.text(`Título: ${item.title}`, 10, 10 + index * 40)
+            doc.setFontSize(12)
+            doc.text(`Duración: ${item.duration}`, 10, 20 + index * 40)
+            doc.text(`Descripción: ${item.description}`, 10, 30 + index * 40)
+
+            // Requerimientos
+            if (item.requirements) {
+                doc.text("Requerimientos:", 10, 40 + index * 40)
+                item.requirements.forEach((req, i) => {
+                    doc.text(`- ${req}`, 15, 50 + i * 10 + index * 40)
+                })
+            }
+
+            // Trabajos recomendados
+            if (item.jobs) {
+                doc.text("Trabajos recomendados:", 10, 60 * 10 + index * 40)
+                item.jobs.forEach((job, j) => {
+                    doc.text(`- ${job}`, 15, 70 * 10 + j * 10 + index * 40)
+                })
+            }
+
+            // Cursos recomendados
+            if (item.courses) {
+                doc.text("Cursos recomendados:", 10, 80 * 10 + index * 40)
+                item.courses.forEach((course, k) => {
+                    doc.text(`- ${course}`, 15, 90 * 10 + k * 10 + index * 40)
+                })
+            }
+        })
+
+        doc.save("filtered_data_report.pdf")
+    }
 
     const handleCourseSubmit = async (e) => {
-        e.preventDefault();
-        const coursesName = document.getElementById("courses-name").value;
-        const coursesDescription = document.getElementById("courses-description").value;
+        e.preventDefault()
+        const coursesName = document.getElementById("courses-name").value
+        const coursesDescription = document.getElementById("courses-description").value
         if (coursesName && coursesDescription) {
-            const newCourse = { title: coursesName, description: coursesDescription };
-            setCourses((prevCourses) => [...prevCourses, newCourse]);
+            const newCourse = { title: coursesName, description: coursesDescription }
+            setCourses((prevCourses) => [...prevCourses, newCourse])
             await api.patch("/users/api/user/profile/", {
                 courses: { courses: [...courses, newCourse] },
-            });
-            alert("Curso añadido exitosamente");
-            setShowCourseModal(false);
+            })
+            alert("Curso añadido exitosamente")
+            setShowCourseModal(false)
         }
-    };
+    }
 
     const handleCertificationSubmit = async (e) => {
-        e.preventDefault();
-        const certificationName = document.getElementById("certification-name").value;
-        const certificationInstitution = document.getElementById("certification-institution").value;
+        e.preventDefault()
+        const certificationName = document.getElementById("certification-name").value
+        const certificationInstitution = document.getElementById("certification-institution").value
         if (certificationName && certificationInstitution) {
-            const newCertification = { title: certificationName, institution: certificationInstitution };
-            setCertifications((prevCertifications) => [...prevCertifications, newCertification]);
+            const newCertification = { title: certificationName, institution: certificationInstitution }
+            setCertifications((prevCertifications) => [...prevCertifications, newCertification])
             await api.patch("/users/api/user/profile/", {
                 certifications: { certifications: [...certifications, newCertification] },
-            });
-            alert("Certificación añadida exitosamente");
-            setShowCertificationModal(false);
+            })
+            alert("Certificación añadida exitosamente")
+            setShowCertificationModal(false)
         }
-    };
+    }
 
     if (!isAuthorized) {
-        alert("No estás autorizado para ver esta página");
-        navigate("/login");
+        alert("No estás autorizado para ver esta página")
+        navigate("/login")
     }
 
     if (loading) {
-        return <p>Cargando...</p>;
+        return <p>Cargando...</p>
     }
 
     return (
@@ -81,10 +119,13 @@ function Profile() {
                     </div>
                     <div className="trajectory-list section-card">
                         <h3>Trayectorias Guardadas</h3>
-                        {userData.trajectories && userData.trajectories.length > 0 ? (
-                            userData.trajectories.map((trajectory, index) => (
+                        {userData.last_trajectory && userData.last_trajectory.length > 0 ? (
+                            userData.last_trajectory.map((trajectory, index) => (
                                 <div key={index} className="item-card">
-                                    <span>{trajectory.title}</span>
+                                    <span>Ruta {index+1}</span>
+                                    <button onClick={
+                                        () => generatePDF(trajectory)
+                                    }>Descargar</button>
                                 </div>
                             ))
                         ) : (
@@ -175,7 +216,7 @@ function Profile() {
                 </div>
             )}
         </div>
-    );
+    )
 }
 
-export default Profile;
+export default Profile

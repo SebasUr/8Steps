@@ -1,0 +1,1130 @@
+[
+    [
+        {
+            "about_work": false,
+            "title": "Desarrollo de habilidades blandas",
+            "description": "En este paso, debes enfocarte en desarrollar habilidades blandas como la comunicación efectiva, el trabajo en equipo y la resolución de problemas. Estas habilidades son fundamentales para cualquier carrera en ingeniería, ya que te permitirán trabajar de manera efectiva con otros profesionales y comunicarte de manera clara con tus clientes. Debes leer libros y artículos sobre liderazgo, trabajo en equipo y resolución de conflictos, y practicar en proyectos personales o en actividades extracurriculares.",
+            "courses": [
+                "Liderazgo efectivo",
+                "Comunicación asertiva",
+                "Resolución de conflictos"
+            ],
+            "courses_list": [
+                {
+                    "title": "Liderazgo y gestión de equipos - Nivel avanzado",
+                    "description": "Aprendé sobre motivación, evaluaciones de desempeño, inteligencia emocional y mucho más de lo que implica el liderazgo.",
+                    "link": "https://www.udemy.com/course/liderazgo-y-gestion-de-equipos-nivel-avanzado/"
+                },
+                {
+                    "title": "Comunicación Avanzada: Escucha Activa, Empatía y Asertividad",
+                    "description": "Desarrolla las Habilidades que te Permitirán Mejorar tu Comunicación y Conseguir Relaciones Laborales más Efectivas.",
+                    "link": "https://www.udemy.com/course/comunicacion-avanzada-escucha-activa-empatia-y-asertividad/"
+                },
+                {
+                    "title": "Resolución de Conflictos y Liderazgo",
+                    "description": "Aprende a prevenir, enfrentar, negociar y convertir los conflictos en oportunidades de crecimiento y colaboración.",
+                    "link": "https://www.udemy.com/course/conflictos/"
+                }
+            ]
+        },
+        {
+            "about_work": true,
+            "title": "Jr. Data Analyst",
+            "position-title": "Junior Data Analyst",
+            "description": "En este puesto, trabajarás como analista de datos junior en una empresa de datos y análisis. Debes utilizar tus habilidades en programación y machine learning para analizar grandes conjuntos de datos y extraer insights valiosos. Esto te permitirá desarrollar experiencia en el análisis de datos y prepararte para puestos más avanzados en la industria aeroespacial.",
+            "duration": "6-12 meses",
+            "requirements": [
+                "Conocimientos en Python",
+                "Experiencia con Data Analysis",
+                "Certificación en Python para Ciencia de Datos"
+            ],
+            "abilities": [
+                "Análisis de datos",
+                "Trabajo en equipo",
+                "Comunicación efectiva"
+            ],
+            "jobs_list": [
+                {
+                    "salary_min": 51674.88,
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "latitude": 44.983654,
+                    "salary_max": 51674.88,
+                    "redirect_url": "https://www.adzuna.com/details/4906501126?utm_medium=api&utm_source=a60688b4",
+                    "location": {
+                        "display_name": "Minneapolis, Hennepin County",
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "area": [
+                            "US",
+                            "Minnesota",
+                            "Hennepin County",
+                            "Minneapolis"
+                        ]
+                    },
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiemhfWFcyV2M3eEdtTURaQXJwWGhzdyIsImkiOiI0OTA2NTAxMTI2In0.aOySlES_bPT0zMB6TQiFcbD-UrupPU_pAZdog7pKHdA",
+                    "created": "2024-10-18T12:01:27Z",
+                    "title": "Junior Data Analyst",
+                    "description": "Junior Data Analyst Position Overview We are seeking a motivated Junior Data Analyst to join our dynamic team. The ideal candidate will have foundational knowledge in data analysis and visualization, along with a passion for turning data into actionable insights. This role offers an exciting opportunity to work with industry-leading tools and technologies, such as Snowflake and Databricks, to help us drive data-driven decision-making. Key Responsibilities Data Analysis and Interpretation: Assis…",
+                    "id": "4906501126",
+                    "company": {
+                        "__CLASS__": "Adzuna::API::Response::Company",
+                        "display_name": "ExperienceIT, a Globant Division"
+                    },
+                    "longitude": -93.269357,
+                    "category": {
+                        "tag": "it-jobs",
+                        "label": "IT Jobs",
+                        "__CLASS__": "Adzuna::API::Response::Category"
+                    },
+                    "salary_is_predicted": "1"
+                },
+                {
+                    "created": "2024-10-11T06:00:03Z",
+                    "salary_is_predicted": "1",
+                    "longitude": -77.019023,
+                    "company": {
+                        "__CLASS__": "Adzuna::API::Response::Company",
+                        "display_name": "Sabre88"
+                    },
+                    "salary_max": 79852.25,
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiemhfWFcyV2M3eEdtTURaQXJwWGhzdyIsImkiOiI0ODk4NTk3NjE0In0.aK7eZy2EtEizCh5dwOl7U1GY77leWkUy6EGPpkGYAdc",
+                    "location": {
+                        "area": [
+                            "US",
+                            "Washington, D.C.",
+                            "Washington"
+                        ],
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "display_name": "Washington, Washington, D.C."
+                    },
+                    "redirect_url": "https://www.adzuna.com/details/4898597614?utm_medium=api&utm_source=a60688b4",
+                    "title": "Junior Data Analyst",
+                    "description": "Junior Data Analyst Requisition : GOV-24-00021 Type: Full Time Clearance: SECRET DoD Security Clearance Location: Washington Metropolitan Area (National Capital Region) Sabre88 is seeking Junior Data Analyst applicants to provide the Office of the Deputy Assistant Secretary of Defense for Science and Technology Program Office Services with analytical support. This opportunity is for a tentative contract with the Government and Sabre88 is seeking a highly qualified individual to meet the contrac…",
+                    "id": "4898597614",
+                    "category": {
+                        "label": "IT Jobs",
+                        "tag": "it-jobs",
+                        "__CLASS__": "Adzuna::API::Response::Category"
+                    },
+                    "latitude": 38.912068,
+                    "salary_min": 79852.25,
+                    "contract_time": "full_time",
+                    "__CLASS__": "Adzuna::API::Response::Job"
+                }
+            ]
+        },
+        {
+            "about_work": true,
+            "title": "Data Engineer",
+            "position-title": "Data Engineer",
+            "description": "En este puesto, trabajarás como ingeniero de datos en una empresa de tecnología. Debes utilizar tus habilidades en desarrollo web y machine learning para diseñar y implementar sistemas de datos escalables y seguros. Esto te permitirá desarrollar experiencia en el desarrollo de sistemas de datos y prepararte para puestos más avanzados en la industria aeroespacial.",
+            "duration": "12-18 meses",
+            "requirements": [
+                "Experiencia en desarrollo web",
+                "Conocimientos en Machine Learning",
+                "Certificación en Desarrollo Web Full Stack"
+            ],
+            "abilities": [
+                "Diseño de sistemas",
+                "Trabajo en equipo",
+                "Problema solving"
+            ],
+            "jobs_list": [
+                {
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidkpySFhHV2M3eEdhTWdab3RJajJPdyIsImkiOiI0OTI4MDgwNDE1In0.DMDFXTFfXNryQrYWro5cirLZFgfgf1m7gsuliksqXUc",
+                    "location": {
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "area": [
+                            "US",
+                            "Virginia",
+                            "Fairfax County",
+                            "Chantilly"
+                        ],
+                        "display_name": "Chantilly, Fairfax County"
+                    },
+                    "latitude": 38.883702,
+                    "salary_max": 192754.8,
+                    "id": "4928080415",
+                    "longitude": -77.428438,
+                    "title": "Senior Data Engineer",
+                    "description": "Description & Requirements Currently, ManTech is seeking a motivated, career and customer-oriented Senior Data Engineer to join our growing Cloud Operations Team at the Herndon or Chantilly, VA location. The Cloud Operations Team provides end-to-end cloud solutions for workloads in AWS, Azure, Google Cloud, and Oracle, enhancing the Customer’s mission through innovation, speed, agility, security, and resiliency. Responsibilities: Designing, building, and maintaining the data infrastructure that…",
+                    "company": {
+                        "__CLASS__": "Adzuna::API::Response::Company",
+                        "display_name": "ManTech"
+                    },
+                    "salary_is_predicted": "1",
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "salary_min": 192754.8,
+                    "redirect_url": "https://www.adzuna.com/land/ad/4928080415?se=vJrHXGWc7xGaMgZotIj2Ow&utm_medium=api&utm_source=a60688b4&v=9586DDD8F5E7F3D71338AAA67B4BF07696302667",
+                    "created": "2024-11-06T02:32:36Z",
+                    "category": {
+                        "__CLASS__": "Adzuna::API::Response::Category",
+                        "label": "IT Jobs",
+                        "tag": "it-jobs"
+                    }
+                },
+                {
+                    "created": "2024-11-01T09:06:33Z",
+                    "category": {
+                        "__CLASS__": "Adzuna::API::Response::Category",
+                        "label": "IT Jobs",
+                        "tag": "it-jobs"
+                    },
+                    "redirect_url": "https://www.adzuna.com/land/ad/4921648554?se=vJrHXGWc7xGaMgZotIj2Ow&utm_medium=api&utm_source=a60688b4&v=CE6F93829DDE3C7D72C36B56C5310E5AA9627B01",
+                    "description": "Type of Requisition: Regular Clearance Level Must Currently Possess: Top Secret/SCI Clearance Level Must Be Able to Obtain: Top Secret/SCI Suitability: DHS EOD Public Trust/Other Required: None Job Family: Systems Engineering Job Qualifications: Skills: AWS Cloud Computing, Programming Languages, Systems Design Certifications: Experience: 5  years of related experience US Citizenship Required: Yes Job Description: As a Data Engineer, you will be required to interpret business needs and select a…",
+                    "salary_is_predicted": "1",
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "id": "4921648554",
+                    "salary_max": 188092.77,
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidkpySFhHV2M3eEdhTWdab3RJajJPdyIsImkiOiI0OTIxNjQ4NTU0In0.K3xJZGykMUs2HASXB_2Nk_B9vWjI6mjLklBDclU70rE",
+                    "salary_min": 188092.77,
+                    "company": {
+                        "display_name": "General Dynamics Information Technology",
+                        "__CLASS__": "Adzuna::API::Response::Company"
+                    },
+                    "longitude": -77.041912,
+                    "contract_time": "full_time",
+                    "title": "Data Engineer(Cloud/AWS, API, and ETL Pipeline Experience)",
+                    "latitude": 38.906704,
+                    "location": {
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "area": [
+                            "US",
+                            "Washington, D.C."
+                        ],
+                        "display_name": "Washington, D.C., US"
+                    }
+                }
+            ]
+        },
+        {
+            "about_work": false,
+            "title": "Desarrollo de habilidades técnicas",
+            "description": "En este paso, debes enfocarte en desarrollar habilidades técnicas específicas en la industria aeroespacial, como la simulación de vuelo, la dinámica de sistemas o la ingeniería de materiales. Debes leer libros y artículos sobre la industria aeroespacial y practicar en proyectos personales o en actividades extracurriculares.",
+            "courses": [
+                "Simulación de vuelo",
+                "Dinámica de sistemas",
+                "Ingeniería de materiales"
+            ],
+            "courses_list": [
+                {
+                    "title": "FlexSim 2024: Inicia tu carrera en simulación 3D",
+                    "description": "Simulación con FlexSim",
+                    "link": "https://www.udemy.com/course/simulacion-basica-con-flexsim/"
+                },
+                {
+                    "title": "Control de Sistemas Dinámicos",
+                    "description": "¡Aprende las bases de la Teoría de Control para modelar y sintonizar automáticamente cualquier Sistema Dinámico!",
+                    "link": "https://www.udemy.com/course/control-de-sistemas-dinamicos/"
+                },
+                {
+                    "title": "Ciencia e Ingeniería de Materiales",
+                    "description": "Herramientas teórico-prácticas para conocimiento y selección de materiales",
+                    "link": "https://www.udemy.com/course/ciencia-e-ingenieria-de-materiales/"
+                }
+            ]
+        },
+        {
+            "about_work": true,
+            "title": "Aerospace Engineer",
+            "position-title": "Aerospace Engineer",
+            "description": "En este puesto, trabajarás como ingeniero en una empresa de la industria aeroespacial. Debes utilizar tus habilidades en programación, desarrollo web y machine learning para diseñar y desarrollar sistemas aeroespaciales avanzados. Esto te permitirá desarrollar experiencia en la industria aeroespacial y prepararte para puestos más avanzados en Boeing.",
+            "duration": "18-24 meses",
+            "requirements": [
+                "Experiencia en la industria aeroespacial",
+                "Conocimientos en sistemas aeroespaciales",
+                "Certificación en Machine Learning"
+            ],
+            "abilities": [
+                "Diseño de sistemas",
+                "Trabajo en equipo",
+                "Comunicación efectiva"
+            ],
+            "jobs_list": [
+                {
+                    "created": "2024-10-30T13:22:53Z",
+                    "category": {
+                        "tag": "engineering-jobs",
+                        "label": "Engineering Jobs",
+                        "__CLASS__": "Adzuna::API::Response::Category"
+                    },
+                    "redirect_url": "https://www.adzuna.com/land/ad/4918736551?se=2HI_X2Wc7xGaMgZotIj2Ow&utm_medium=api&utm_source=a60688b4&v=9A7C3553597E6B44E198676102A5A9F3A60B4C36",
+                    "salary_min": 98732.72,
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "description": "Job Description Job Description About the Role: We are seeking hands-on Electrical Engineer, Mechanical Engineer and Composite Engineer at Vayu Aerospace, Inc., These positions are located in in Wichita and Winfield, Kansas. Successful candidates will be responsible for overseeing the design and production process and ensuring that all products meet quality standards. You will work with a team of engineers and other staff to ensure that production targets are met on time and within budget. Your…",
+                    "salary_is_predicted": "1",
+                    "company": {
+                        "display_name": "Vayu Aerospace Kansas",
+                        "__CLASS__": "Adzuna::API::Response::Company"
+                    },
+                    "title": "Aerospace Engineers",
+                    "longitude": -97.332753,
+                    "salary_max": 98732.72,
+                    "latitude": 37.684363,
+                    "id": "4918736551",
+                    "location": {
+                        "area": [
+                            "US",
+                            "Kansas",
+                            "Sedgwick County",
+                            "Wichita"
+                        ],
+                        "display_name": "Wichita, Sedgwick County",
+                        "__CLASS__": "Adzuna::API::Response::Location"
+                    },
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkhJX1gyV2M3eEdhTWdab3RJajJPdyIsImkiOiI0OTE4NzM2NTUxIn0.R7HtMdDUvFCGS7r-k8luxqBHoOV1bz927QCBkYl2NPE"
+                },
+                {
+                    "salary_min": 98596.75,
+                    "latitude": 38.814273,
+                    "location": {
+                        "display_name": "Patuxent River, Prince George's County",
+                        "area": [
+                            "US",
+                            "Maryland",
+                            "Prince George's County",
+                            "Patuxent River"
+                        ],
+                        "__CLASS__": "Adzuna::API::Response::Location"
+                    },
+                    "company": {
+                        "__CLASS__": "Adzuna::API::Response::Company",
+                        "display_name": "Naval Air Systems Command "
+                    },
+                    "longitude": -76.711777,
+                    "title": "Aerospace Engineer",
+                    "contract_time": "full_time",
+                    "category": {
+                        "tag": "engineering-jobs",
+                        "label": "Engineering Jobs",
+                        "__CLASS__": "Adzuna::API::Response::Category"
+                    },
+                    "created": "2024-11-05T16:07:17Z",
+                    "redirect_url": "https://www.adzuna.com/land/ad/4927587503?se=2HI_X2Wc7xGaMgZotIj2Ow&utm_medium=api&utm_source=a60688b4&v=AB87B2B4A6A26012D33AEC18999DBC8375D48A25",
+                    "id": "4927587503",
+                    "salary_max": 98596.75,
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyNzU4NzUwMyIsInMiOiIySElfWDJXYzd4R2FNZ1pvdElqMk93In0.aqmZrsUXLMaVqTBW_lKPiXvGMDJRgunvDtFfImKPxMM",
+                    "salary_is_predicted": "1",
+                    "description": "Position Description This is a public notice flyer to notify interested applicants of anticipated vacancies through the STRL Mission Support direct hire authority. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not be actual vacancies filled from this flyer. Notice of Result letters will not be sent to applicants who respond to this flyer. Position Duties/Respon…",
+                    "__CLASS__": "Adzuna::API::Response::Job"
+                }
+            ]
+        },
+        {
+            "about_work": true,
+            "title": "Senior Aerospace Engineer",
+            "position-title": "Senior Aerospace Engineer",
+            "description": "En este puesto, trabajarás como ingeniero senior en una empresa de la industria aeroespacial. Debes utilizar tus habilidades en programación, desarrollo web y machine learning para diseñar y desarrollar sistemas aeroespaciales avanzados y liderar equipos de ingenieros. Esto te permitirá desarrollar experiencia en liderazgo y prepararte para puestos más avanzados en Boeing.",
+            "duration": "24-30 meses",
+            "requirements": [
+                "Experiencia en la industria aeroespacial",
+                "Conocimientos en sistemas aeroespaciales",
+                "Certificación en Machine Learning"
+            ],
+            "abilities": [
+                "Liderazgo",
+                "Trabajo en equipo",
+                "Comunicación efectiva"
+            ],
+            "jobs_list": [
+                {
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMmdxbFgyV2M3eEd3M09nWUtKX1NvUSIsImkiOiI0ODcyMDI1ODkxIn0.XP4DSOZikvtgtPm9897l0B1_y4lwSzp_y8XiRQQS1TA",
+                    "salary_is_predicted": "1",
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "contract_time": "full_time",
+                    "company": {
+                        "display_name": "Millennium Corporation",
+                        "__CLASS__": "Adzuna::API::Response::Company"
+                    },
+                    "redirect_url": "https://www.adzuna.com/details/4872025891?utm_medium=api&utm_source=a60688b4",
+                    "latitude": 34.713587,
+                    "salary_min": 116762.61,
+                    "location": {
+                        "area": [
+                            "US",
+                            "Alabama",
+                            "Madison County",
+                            "Redstone Arsenal"
+                        ],
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "display_name": "Redstone Arsenal, Madison County"
+                    },
+                    "id": "4872025891",
+                    "longitude": -86.614947,
+                    "salary_max": 116762.61,
+                    "description": "For two decades, Millennium Corporation has been operating on the leading edge of cybersecurity. Our elite team of more than 400 experts has an unparalleled record of performance supporting Red Team Operations, Defensive Cyber Operations, Software Engineering, and Technical Engineering. With the largest contingent of contracted Red Team operators in the DoD, we provide an unmatched level of threat intelligence and battle-tested experience for customers in both the DoD and federal civilian marke…",
+                    "title": "Senior Aerospace Engineer",
+                    "created": "2024-09-21T11:13:49Z",
+                    "category": {
+                        "tag": "engineering-jobs",
+                        "__CLASS__": "Adzuna::API::Response::Category",
+                        "label": "Engineering Jobs"
+                    }
+                },
+                {
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjo1MjY4MzY0OTUsInMiOiIyZ3FsWDJXYzd4R3czT2dZS0pfU29RIn0.OiUiquOvSCbQvP0qdrPx8tMa79Npkxy9d8ZSRL6v7ts",
+                    "salary_min": 112195.09,
+                    "longitude": -77.5,
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "location": {
+                        "area": [
+                            "US",
+                            "Virginia",
+                            "Loudoun County",
+                            "Dulles"
+                        ],
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "display_name": "Dulles, Loudoun County"
+                    },
+                    "id": 526836495,
+                    "salary_is_predicted": "1",
+                    "company": {
+                        "__CLASS__": "Adzuna::API::Response::Company",
+                        "display_name": "Orbital ATK"
+                    },
+                    "description": "Job ID: BDH20162912-37755 With projected annual revenues in of nearly $4.5 billion, approximately 12,000 employees, and operations in about 20 states, Orbital ATK is a company on the move. Our mission is to ensure that our customers accomplish their mission — whether it’s a technological breakthrough, a satellite launch, or protecting our nation. The company is the world’s leading supplier of solid rocket motors, a leading provider of launch vehicles, satellites and other space systems, and the…",
+                    "created": "2017-04-06T06:50:18Z",
+                    "redirect_url": "https://www.adzuna.com/details/526836495?utm_medium=api&utm_source=a60688b4",
+                    "title": "Senior Aerospace Engineer Job",
+                    "salary_max": 112195.09,
+                    "category": {
+                        "__CLASS__": "Adzuna::API::Response::Category",
+                        "label": "IT Jobs",
+                        "tag": "it-jobs"
+                    },
+                    "latitude": 39.03
+                }
+            ]
+        },
+        {
+            "about_work": true,
+            "title": "Boeing Engineer",
+            "position-title": "Boeing Engineer",
+            "description": "En este puesto, trabajarás como ingeniero en Boeing, diseñando y desarrollando sistemas aeroespaciales avanzados. Debes utilizar tus habilidades en programación, desarrollo web y machine learning para diseñar y desarrollar sistemas aeroespaciales avanzados y trabajar con otros profesionales para llevar a cabo proyectos complejos.",
+            "duration": "30-36 meses",
+            "requirements": [
+                "Experiencia en la industria aeroespacial",
+                "Conocimientos en sistemas aeroespaciales",
+                "Certificación en Machine Learning"
+            ],
+            "abilities": [
+                "Diseño de sistemas",
+                "Trabajo en equipo",
+                "Comunicación efectiva"
+            ],
+            "jobs_list": [
+                {
+                    "salary_min": 81751.51,
+                    "contract_time": "full_time",
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "latitude": 33.432953,
+                    "category": {
+                        "__CLASS__": "Adzuna::API::Response::Category",
+                        "label": "Engineering Jobs",
+                        "tag": "engineering-jobs"
+                    },
+                    "title": "Boeing Skillbridge Engineering - Military Internship",
+                    "id": "4802615313",
+                    "description": "Boeing Skillbridge Engineering - Military Internship Company: Job ID: 00000392999 Date Posted: 2024-10-11 Location: USA - Albuquerque, NM, USA - Berkeley, MO, USA - Colorado Springs, CO, USA - El Segundo, CA, USA - Hazelwood, MO, USA - Huntington Beach, CA, USA - Huntsville, AL, USA - Jacksonville, FL, USA - Maryland Heights, MO, USA - Mesa, AZ, USA - New Orleans, LA, USA - Oklahoma City, OK, USA - Ridley Park, PA, USA - San Antonio, TX, USA - Schriever AFB, CO, USA - Seal Beach, CA, USA - St. …",
+                    "salary_max": 81751.51,
+                    "redirect_url": "https://www.adzuna.com/details/4802615313?utm_medium=api&utm_source=a60688b4",
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMjYxNTMxMyIsInMiOiJUbkFDWUdXYzd4R21NRFpBcnBYaHN3In0.DddfZ4C4An6_j-tQCQ4cbMd9pKFi1yvp4x2SsjE9jPY",
+                    "location": {
+                        "display_name": "Mesa, Maricopa County",
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "area": [
+                            "US",
+                            "Arizona",
+                            "Maricopa County",
+                            "Mesa"
+                        ]
+                    },
+                    "contract_type": "contract",
+                    "company": {
+                        "__CLASS__": "Adzuna::API::Response::Company",
+                        "display_name": "Boeing"
+                    },
+                    "longitude": -111.844935,
+                    "salary_is_predicted": "1",
+                    "created": "2024-07-31T10:15:27Z"
+                },
+                {
+                    "salary_is_predicted": "1",
+                    "company": {
+                        "__CLASS__": "Adzuna::API::Response::Company",
+                        "display_name": "Boeing"
+                    },
+                    "longitude": -111.844935,
+                    "contract_type": "contract",
+                    "created": "2024-08-01T05:25:23Z",
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwNDU2NDIxMyIsInMiOiJUbkFDWUdXYzd4R21NRFpBcnBYaHN3In0.cHnCv-SEtdVxcqjzvTd4AUqWKBlw9tUO_3_KbogceHU",
+                    "location": {
+                        "area": [
+                            "US",
+                            "Arizona",
+                            "Maricopa County",
+                            "Mesa"
+                        ],
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "display_name": "Mesa, Maricopa County"
+                    },
+                    "redirect_url": "https://www.adzuna.com/details/4804564213?utm_medium=api&utm_source=a60688b4",
+                    "salary_max": 93281.27,
+                    "category": {
+                        "__CLASS__": "Adzuna::API::Response::Category",
+                        "tag": "engineering-jobs",
+                        "label": "Engineering Jobs"
+                    },
+                    "description": "Boeing SkillBridge Engineering / Union Represented SPEEA Engineering - Military Internship Company: Job ID: 00000344603 Date Posted: 2024-07-17 Location: USA - Albuquerque, NM, USA - Berkeley, MO, USA - Colorado Springs, CO, USA - El Segundo, CA, USA - Hazelwood, MO, USA - Huntsville, AL, USA - Jacksonville, FL, USA - Maryland Heights, MO, USA - Mesa, AZ, USA - New Orleans, LA, USA - Oklahoma City, OK, USA - Ridley Park, PA, USA - San Antonio, TX, USA - Seal Beach, CA, USA - St. Louis City, MO …",
+                    "id": "4804564213",
+                    "title": "Boeing SkillBridge Engineering / Union Represented SPEEA Engineering - Military Internship",
+                    "latitude": 33.432953,
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "contract_time": "full_time",
+                    "salary_min": 93281.27
+                }
+            ]
+        },
+        {
+            "about_work": true,
+            "title": "Senior Boeing Engineer",
+            "position-title": "Senior Boeing Engineer",
+            "description": "En este puesto, trabajarás como ingeniero senior en Boeing, diseñando y desarrollando sistemas aeroespaciales avanzados y liderar equipos de ingenieros. Debes utilizar tus habilidades en programación, desarrollo web y machine learning para diseñar y desarrollar sistemas aeroespaciales avanzados y trabajar con otros profesionales para llevar a cabo proyectos complejos.",
+            "duration": "36-42 meses",
+            "requirements": [
+                "Experiencia en la industria aeroespacial",
+                "Conocimientos en sistemas aeroespaciales",
+                "Certificación en Machine Learning"
+            ],
+            "abilities": [
+                "Liderazgo",
+                "Trabajo en equipo",
+                "Comunicación efectiva"
+            ],
+            "jobs_list": [
+                {
+                    "location": {
+                        "area": [
+                            "US",
+                            "New Mexico",
+                            "Bernalillo County",
+                            "Albuquerque"
+                        ],
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "display_name": "Albuquerque, Bernalillo County"
+                    },
+                    "redirect_url": "https://www.adzuna.com/details/4924451095?utm_medium=api&utm_source=a60688b4",
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyNDQ1MTA5NSIsInMiOiJGbE5tWUdXYzd4R21NRFpBcnBYaHN3In0.qCIU8mHZhG_7sht3Bf_5NX0nhV-FotluPV116GOBigc",
+                    "salary_max": 196650,
+                    "company": {
+                        "display_name": "The Boeing Company",
+                        "__CLASS__": "Adzuna::API::Response::Company"
+                    },
+                    "longitude": -106.6516,
+                    "contract_type": "permanent",
+                    "salary_is_predicted": "0",
+                    "created": "2024-11-03T07:13:49Z",
+                    "contract_time": "full_time",
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "salary_min": 145350,
+                    "latitude": 35.0846,
+                    "category": {
+                        "__CLASS__": "Adzuna::API::Response::Category",
+                        "label": "Engineering Jobs",
+                        "tag": "engineering-jobs"
+                    },
+                    "id": "4924451095",
+                    "description": "Senior Optical Engineer Company: The Boeing Company Job ID: 00000432731 Date Posted: 2024-10-14 Location: USA - Albuquerque, NM, USA - Kirtland AFB, NM Job Description Qualifications: Boeing is seeking a Senior Optical Engineer to join our team in Albuquerque, NM supporting advanced concepts development with optical design, analysis, integration, and test. In addition, this position will support modeling and simulation of optical systems, and analysis of test data to anchor models and develop i…",
+                    "title": "Senior Optical Engineer"
+                },
+                {
+                    "salary_max": 120127.63,
+                    "location": {
+                        "area": [
+                            "US",
+                            "New Mexico",
+                            "Bernalillo County",
+                            "Albuquerque"
+                        ],
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "display_name": "Albuquerque, Bernalillo County"
+                    },
+                    "redirect_url": "https://www.adzuna.com/details/4924414623?utm_medium=api&utm_source=a60688b4",
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyNDQxNDYyMyIsInMiOiJGbE5tWUdXYzd4R21NRFpBcnBYaHN3In0.3hMwkQg52djmWC2LfFv6cijhRe5Wo0Fj6v6mUJywDY8",
+                    "salary_is_predicted": "1",
+                    "contract_type": "permanent",
+                    "longitude": -106.6516,
+                    "company": {
+                        "display_name": "The Boeing Company",
+                        "__CLASS__": "Adzuna::API::Response::Company"
+                    },
+                    "created": "2024-11-03T07:03:24Z",
+                    "latitude": 35.0846,
+                    "salary_min": 120127.63,
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "contract_time": "full_time",
+                    "category": {
+                        "tag": "engineering-jobs",
+                        "label": "Engineering Jobs",
+                        "__CLASS__": "Adzuna::API::Response::Category"
+                    },
+                    "title": "Project Engineer",
+                    "description": "Project Engineer Company: The Boeing Company Job ID: 00000433209 Date Posted: 2024-10-14 Location: USA - Albuquerque, NM, USA - Kirtland AFB, NM Job Description Qualifications: Boeing seeks a Senior Project Engineer to join our team in Albuquerque, New Mexico that supports advanced concepts development; modeling and simulation of complex systems; design, integration, and test. Knowledge and experience is needed in infrared/electro-optical ( IR/EO ), visible, ultraviolet (UV), photonics , fiber,…",
+                    "id": "4924414623"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "about_work": false,
+            "title": "Desarrollar proyectos personales",
+            "description": "En este paso, es importante que te centres en desarrollar proyectos personales que te permitan aplicar tus habilidades en programación, desarrollo web y machine learning. Esto te ayudará a construir un portafolio que puedas mostrar a futuros empleadores. Intenta crear proyectos que te gusten y que te permitan explorar temas que te interesen. Esto te ayudará a mantener la motivación y a mejorar tus habilidades.",
+            "courses": [
+                "Desarrollo de proyectos con Python",
+                "Desarrollo de aplicaciones web con Django"
+            ],
+            "courses_list": [
+                {
+                    "title": "Curso Práctico de Django: Desarrollo Web Backend con Python",
+                    "description": "Curso compatible con Django 2 al 5. Aprende de forma práctica creando proyectos y una colección de apps reutilizables.",
+                    "link": "https://www.udemy.com/course/curso-django-2-practico-desarrollo-web-python-3/"
+                },
+                {
+                    "title": "Curso Práctico de Django: Desarrollo Web Backend con Python",
+                    "description": "Curso compatible con Django 2 al 5. Aprende de forma práctica creando proyectos y una colección de apps reutilizables.",
+                    "link": "https://www.udemy.com/course/curso-django-2-practico-desarrollo-web-python-3/"
+                }
+            ]
+        },
+        {
+            "about_work": true,
+            "title": "Junior Web Developer",
+            "description": "En este puesto, trabajarás en un equipo de desarrollo web y serás responsable de crear aplicaciones web utilizando tecnologías como Django y Python. Esto te dará la oportunidad de aplicar tus habilidades en un entorno laboral real y aprender de otros desarrolladores experimentados. Asegúrate de documentar tus proyectos y experiencias en un portafolio.",
+            "position-title": "Junior Web Developer",
+            "duration": "6-12 meses",
+            "requirements": [
+                "Conocimientos en Python y Django",
+                "Experiencia con desarrollo web"
+            ],
+            "abilities": [
+                "Comunicación efectiva",
+                "Trabajo en equipo"
+            ],
+            "jobs_list": [
+                {
+                    "redirect_url": "https://www.adzuna.com/land/ad/4920601183?se=yj_uDmac7xGaMgZotIj2Ow&utm_medium=api&utm_source=a60688b4&v=6AA040FE4E95FF6A6BF54C02F29CB54D4C1904E3",
+                    "category": {
+                        "__CLASS__": "Adzuna::API::Response::Category",
+                        "label": "IT Jobs",
+                        "tag": "it-jobs"
+                    },
+                    "created": "2024-11-01T01:38:17Z",
+                    "salary_min": 35572.98,
+                    "title": "Junior Web Developer",
+                    "longitude": -81.844804,
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "company": {
+                        "__CLASS__": "Adzuna::API::Response::Company",
+                        "display_name": "Discovery Senior Living"
+                    },
+                    "salary_is_predicted": "1",
+                    "description": "Job Description Job Description About Discovery Senior Living Discovery Senior Living ranks prominently among the 5 largest senior housing providers in the US, and is nationally renowned for designing,developing, marketing, and operating a multi-brand portfolio of upscale, luxury senior-living communities. With over 250 communities in nearly 40 states, and 15,000 dedicated employees, Discovery Senior Living, with multiplenational brands, is one the largest and fastest growing senior living comp…",
+                    "location": {
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "display_name": "Bonita Springs, Lee County",
+                        "area": [
+                            "US",
+                            "Florida",
+                            "Lee County",
+                            "Bonita Springs"
+                        ]
+                    },
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyMDYwMTE4MyIsInMiOiJ5al91RG1hYzd4R2FNZ1pvdElqMk93In0.0qdYe3QECGWGW305cwwl8Vdt1hYThTZs4GYQ9EBflu0",
+                    "id": "4920601183",
+                    "latitude": 26.347548,
+                    "salary_max": 35572.98
+                },
+                {
+                    "created": "2024-08-02T10:49:05Z",
+                    "category": {
+                        "tag": "it-jobs",
+                        "label": "IT Jobs",
+                        "__CLASS__": "Adzuna::API::Response::Category"
+                    },
+                    "redirect_url": "https://www.adzuna.com/details/4807437411?utm_medium=api&utm_source=a60688b4",
+                    "salary_min": 56395.76,
+                    "description": "About Discovery Senior Living Discovery Senior Living ranks prominently among the 5 largest senior housing providers in the US, and is nationally renowned for designing,developing, marketing, and operating a multi-brand portfolio of upscale, luxury senior-living communities. With over 250 communities in nearly 40 states, and 15,000 dedicated employees, Discovery Senior Living, with multiplenational brands, is one the largest and fastest growing senior living companies in the United States. Reco…",
+                    "company": {
+                        "display_name": "Discovery Senior Living",
+                        "__CLASS__": "Adzuna::API::Response::Company"
+                    },
+                    "salary_is_predicted": "1",
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "longitude": -81.844804,
+                    "title": "Junior Web Developer",
+                    "id": "4807437411",
+                    "latitude": 26.347548,
+                    "salary_max": 56395.76,
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWpfdURtYWM3eEdhTWdab3RJajJPdyIsImkiOiI0ODA3NDM3NDExIn0.PhMzJSrmqiUBCMD2zABxmFH-8jZCvLVTRwmDdwmuTzw",
+                    "location": {
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "area": [
+                            "US",
+                            "Florida",
+                            "Lee County",
+                            "Bonita Springs"
+                        ],
+                        "display_name": "Bonita Springs, Lee County"
+                    }
+                }
+            ]
+        },
+        {
+            "about_work": true,
+            "title": "Data Analyst",
+            "description": "En este puesto, trabajarás con datos para extraer insights y patrones que puedan ser utilizados para mejorar la toma de decisiones en una empresa. Esto te dará la oportunidad de aplicar tus habilidades en machine learning y análisis de datos en un entorno laboral real. Asegúrate de mantener tus habilidades actualizadas y aprender nuevas tecnologías y técnicas.",
+            "position-title": "Data Analyst",
+            "duration": "1-2 años",
+            "requirements": [
+                "Certificación en Python para Ciencia de Datos",
+                "Experiencia con análisis de datos"
+            ],
+            "abilities": [
+                "Análisis crítico",
+                "Presentación de datos"
+            ],
+            "jobs_list": [
+                {
+                    "redirect_url": "https://www.adzuna.com/land/ad/4867283205?se=dkt8D2ac7xGmMDZArpXhsw&utm_medium=api&utm_source=a60688b4&v=3B613B6E4A3205D7220383328BEAC123AC33A330",
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZGt0OEQyYWM3eEdtTURaQXJwWGhzdyIsImkiOiI0ODY3MjgzMjA1In0.lPUhfpjuGRsTz5x1pj9gVfBYZb4-iZi9NrVSN6GEFTY",
+                    "location": {
+                        "display_name": "Houston, Houston County",
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "area": [
+                            "US",
+                            "Minnesota",
+                            "Houston County",
+                            "Houston"
+                        ]
+                    },
+                    "salary_max": 58591.67,
+                    "salary_is_predicted": "1",
+                    "company": {
+                        "__CLASS__": "Adzuna::API::Response::Company",
+                        "display_name": "NES Fircroft"
+                    },
+                    "longitude": -91.568476,
+                    "created": "2024-09-17T16:06:48Z",
+                    "latitude": 43.7633,
+                    "contract_time": "full_time",
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "salary_min": 58591.67,
+                    "category": {
+                        "__CLASS__": "Adzuna::API::Response::Category",
+                        "label": "IT Jobs",
+                        "tag": "it-jobs"
+                    },
+                    "id": "4867283205",
+                    "description": "Will help with dashboard development, troubleshooting, and improvements, as well as ad hoc training / assistance for employees with Power BI. Will review and evaluate dashboards project teams have created and find ways to make more efficient, consistent, and leverage full capabilities of Power BI and data available. Will also assist in gathering project data / comparisons and identifying solution to consolidate in one location / database. Will be responsible for importing, cleansing, validating…",
+                    "title": "Data Analyst"
+                },
+                {
+                    "redirect_url": "https://www.adzuna.com/land/ad/4927061236?se=dkt8D2ac7xGmMDZArpXhsw&utm_medium=api&utm_source=a60688b4&v=8E7276BF96CC96EF0835EE342BF65690681E35DA",
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZGt0OEQyYWM3eEdtTURaQXJwWGhzdyIsImkiOiI0OTI3MDYxMjM2In0.R49btGtCBQWnBKW9Heu30qwnVLqUWUGo3m9-rnGcsBs",
+                    "location": {
+                        "display_name": "Lexington, Fayette County",
+                        "area": [
+                            "US",
+                            "Kentucky",
+                            "Fayette County",
+                            "Lexington"
+                        ],
+                        "__CLASS__": "Adzuna::API::Response::Location"
+                    },
+                    "salary_max": 54396.37,
+                    "created": "2024-11-05T08:54:25Z",
+                    "salary_is_predicted": "1",
+                    "longitude": -84.5,
+                    "company": {
+                        "__CLASS__": "Adzuna::API::Response::Company",
+                        "display_name": "Technology Consulting, Inc."
+                    },
+                    "contract_type": "contract",
+                    "latitude": 38.05,
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "salary_min": 54396.37,
+                    "id": "4927061236",
+                    "description": "TCI has an immediate need for a Data Analyst in Frankfort, KY. This is not a C2C opportunity. This is a long-term contract opportunity with probable extensions. Note: This position requires US Citizenship or Permanent Residence. SUMMARY The Data Analyst will support the duties with ongoing development and year-end projects. Assist with significant, multi-year ongoing development and enhancements to systems for data and processes for tax administration. A successful candidate’s expertise will be…",
+                    "title": "Data Analyst",
+                    "category": {
+                        "__CLASS__": "Adzuna::API::Response::Category",
+                        "label": "IT Jobs",
+                        "tag": "it-jobs"
+                    }
+                }
+            ]
+        },
+        {
+            "about_work": false,
+            "title": "Participar en competencias de machine learning",
+            "description": "Participar en competencias de machine learning te dará la oportunidad de mejorar tus habilidades en este campo y compararte con otros desarrolladores. Esto te ayudará a identificar áreas de mejora y a desarrollar nuevas habilidades. Asegúrate de documentar tus experiencias y proyectos en un portafolio.",
+            "courses": [
+                "Competencias de machine learning en Kaggle",
+                "Técnicas de machine learning avanzadas"
+            ],
+            "courses_list": [
+                {
+                    "title": "Machine Learning de A a la Z: R y Python para Data Science",
+                    "description": "Aprende a crear algoritmos de Machine Learning en Python y R con expertos en Data Science. Con código fuente incluido!",
+                    "link": "https://www.udemy.com/course/machinelearning-es/"
+                },
+                {
+                    "title": "Business Analytics con Python y ChatGPT: De Cero a Experto",
+                    "description": "Analítica de Negocios, Análisis de Datos, Ciencia de Datos, Data Science, Business Intelligence, Machine Learning, IA",
+                    "link": "https://www.udemy.com/course/business-analytics-con-python-y-chatgpt-de-cero-a-experto/"
+                }
+            ]
+        },
+        {
+            "about_work": true,
+            "title": "Full Stack Developer",
+            "description": "En este puesto, trabajarás en un equipo de desarrollo para crear aplicaciones web completas utilizando tecnologías como Django y Python. Esto te dará la oportunidad de aplicar tus habilidades en desarrollo web y machine learning en un entorno laboral real. Asegúrate de mantener tus habilidades actualizadas y aprender nuevas tecnologías y técnicas.",
+            "position-title": "Full Stack Developer",
+            "duration": "2-3 años",
+            "requirements": [
+                "Certificación en Desarrollo Web Full Stack",
+                "Experiencia con desarrollo web y machine learning"
+            ],
+            "abilities": [
+                "Comunicación efectiva",
+                "Trabajo en equipo",
+                "Resolución de problemas"
+            ],
+            "jobs_list": [
+                {
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg4MzY0MTE3NyIsInMiOiJGSFpyRVdhYzd4R3czT2dZS0pfU29RIn0.UHEZgB8Dc-lE8HEMzQwUcu9FJICBgD1VwO0zOagGZYY",
+                    "salary_min": 122396.74,
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "longitude": -90.215277,
+                    "salary_is_predicted": "1",
+                    "id": "4883641177",
+                    "location": {
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "display_name": "Saint Louis, Saint Louis County",
+                        "area": [
+                            "US",
+                            "Missouri",
+                            "Saint Louis County",
+                            "Saint Louis"
+                        ]
+                    },
+                    "title": "Full Stack Developer",
+                    "created": "2024-10-01T09:07:51Z",
+                    "redirect_url": "https://www.adzuna.com/land/ad/4883641177?se=FHZrEWac7xGw3OgYKJ_SoQ&utm_medium=api&utm_source=a60688b4&v=2804D01A38E3A222819AFDFF3B008B22451B7978",
+                    "company": {
+                        "__CLASS__": "Adzuna::API::Response::Company",
+                        "display_name": "General Dynamics Information Technology"
+                    },
+                    "description": "Type of Requisition: Regular Clearance Level Must Currently Possess: Top Secret/SCI Clearance Level Must Be Able to Obtain: Top Secret SCI  Polygraph Suitability: Public Trust/Other Required: None Job Family: Software Development Job Qualifications: Skills: Agile Methodology, Python (Programming Language), Structured Query Language (SQL) Certifications: Experience: 5  years of related experience US Citizenship Required: Yes Job Description: Deliver simple solutions to complex problems as a Full…",
+                    "salary_max": 122396.74,
+                    "latitude": 38.63037,
+                    "category": {
+                        "tag": "it-jobs",
+                        "__CLASS__": "Adzuna::API::Response::Category",
+                        "label": "IT Jobs"
+                    }
+                },
+                {
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRkhackVXYWM3eEd3M09nWUtKX1NvUSIsImkiOiI0OTIxMjY5OTkwIn0.SoJq79m3m9Yab0llRuPt6k5m_g0NM9OIZWwXjzdTpMM",
+                    "salary_min": 127172.98,
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "longitude": -90.215277,
+                    "salary_is_predicted": "1",
+                    "id": "4921269990",
+                    "location": {
+                        "display_name": "Saint Louis, Saint Louis County",
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "area": [
+                            "US",
+                            "Missouri",
+                            "Saint Louis County",
+                            "Saint Louis"
+                        ]
+                    },
+                    "title": "Full Stack Developer",
+                    "created": "2024-11-01T06:28:29Z",
+                    "redirect_url": "https://www.adzuna.com/land/ad/4921269990?se=FHZrEWac7xGw3OgYKJ_SoQ&utm_medium=api&utm_source=a60688b4&v=1DDD5B58659D5B0A283B46665CFD543BB7DEF9BF",
+                    "description": "Type of Requisition: Regular Clearance Level Must Currently Possess: Top Secret/SCI Clearance Level Must Be Able to Obtain: Top Secret SCI  Polygraph Suitability: Public Trust/Other Required: None Job Family: Software Development Job Qualifications: Skills: Agile Methodology, Python (Programming Language), Structured Query Language (SQL) Certifications: Experience: 5  years of related experience US Citizenship Required: Yes Job Description: Deliver simple solutions to complex problems as a Full…",
+                    "company": {
+                        "__CLASS__": "Adzuna::API::Response::Company",
+                        "display_name": "General Dynamics Information Technology"
+                    },
+                    "salary_max": 127172.98,
+                    "latitude": 38.63037,
+                    "category": {
+                        "label": "IT Jobs",
+                        "__CLASS__": "Adzuna::API::Response::Category",
+                        "tag": "it-jobs"
+                    }
+                }
+            ]
+        },
+        {
+            "about_work": true,
+            "title": "Machine Learning Engineer",
+            "description": "En este puesto, trabajarás en un equipo de desarrollo para crear modelos de machine learning y aplicaciones que los utilicen. Esto te dará la oportunidad de aplicar tus habilidades en machine learning en un entorno laboral real. Asegúrate de mantener tus habilidades actualizadas y aprender nuevas tecnologías y técnicas.",
+            "position-title": "Machine Learning Engineer",
+            "duration": "3-5 años",
+            "requirements": [
+                "Certificación en Machine Learning",
+                "Experiencia con desarrollo de modelos de machine learning"
+            ],
+            "abilities": [
+                "Análisis crítico",
+                "Presentación de datos",
+                "Trabajo en equipo"
+            ],
+            "jobs_list": [
+                {
+                    "latitude": 38.776903,
+                    "contract_time": "full_time",
+                    "redirect_url": "https://www.adzuna.com/land/ad/4921648630?se=ChD0EWac7xGw3OgYKJ_SoQ&utm_medium=api&utm_source=a60688b4&v=9DA5097B30E59B828D81B26691EFFFB12B1026F8",
+                    "company": {
+                        "display_name": "General Dynamics Information Technology",
+                        "__CLASS__": "Adzuna::API::Response::Company"
+                    },
+                    "salary_is_predicted": "1",
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2hEMEVXYWM3eEd3M09nWUtKX1NvUSIsImkiOiI0OTIxNjQ4NjMwIn0.4tvi0yH7noLuPwDhg1lSrV0aN7BoXOqMsl5irWHL66Y",
+                    "category": {
+                        "tag": "it-jobs",
+                        "__CLASS__": "Adzuna::API::Response::Category",
+                        "label": "IT Jobs"
+                    },
+                    "salary_max": 130933.39,
+                    "created": "2024-11-01T09:06:35Z",
+                    "title": "Machine Learning Engineer",
+                    "description": "Type of Requisition: Regular Clearance Level Must Currently Possess: Top Secret/SCI Clearance Level Must Be Able to Obtain: Top Secret SCI  Polygraph Suitability: Public Trust/Other Required: Job Family: Systems Engineering Job Qualifications: Skills: CI/CD, Kubernetes, Python (Programming Language) Certifications: Experience: 5  years of related experience US Citizenship Required: Yes Job Description: Deliver simple solutions to complex problems as a Machine Learning Engineer at GDIT. Here, yo…",
+                    "id": "4921648630",
+                    "location": {
+                        "display_name": "West Springfield, Fairfax County",
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "area": [
+                            "US",
+                            "Virginia",
+                            "Fairfax County",
+                            "West Springfield"
+                        ]
+                    },
+                    "longitude": -77.187169,
+                    "salary_min": 130933.39
+                },
+                {
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "salary_is_predicted": "1",
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyMTc0ODA2MSIsInMiOiJDaEQwRVdhYzd4R3czT2dZS0pfU29RIn0.9lK8_T8iT9p3WhLkzzBDlXMroBHemHmbMWaAz4UTs_M",
+                    "latitude": 38.776903,
+                    "redirect_url": "https://www.adzuna.com/land/ad/4921748061?se=ChD0EWac7xGw3OgYKJ_SoQ&utm_medium=api&utm_source=a60688b4&v=332B8C6532D26CFAF3F0DAD7900E1ADC621A705D",
+                    "company": {
+                        "__CLASS__": "Adzuna::API::Response::Company",
+                        "display_name": "General Dynamics Information Technology"
+                    },
+                    "contract_time": "full_time",
+                    "longitude": -77.187169,
+                    "id": "4921748061",
+                    "location": {
+                        "display_name": "West Springfield, Fairfax County",
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "area": [
+                            "US",
+                            "Virginia",
+                            "Fairfax County",
+                            "West Springfield"
+                        ]
+                    },
+                    "salary_min": 130265.19,
+                    "category": {
+                        "tag": "it-jobs",
+                        "__CLASS__": "Adzuna::API::Response::Category",
+                        "label": "IT Jobs"
+                    },
+                    "title": "Machine Learning Engineer",
+                    "created": "2024-11-01T09:47:51Z",
+                    "description": "Type of Requisition: Regular Clearance Level Must Currently Possess: Top Secret/SCI Clearance Level Must Be Able to Obtain: Top Secret SCI  Polygraph Suitability: Public Trust/Other Required: Job Family: Systems Engineering Job Qualifications: Skills: CI/CD, GitLab, PyTorch Certifications: Experience: 5  years of related experience US Citizenship Required: Yes Job Description: ​Deliver simple solutions to complex problems as a Machine Learning Engineer at GDIT. Here, you'll tailor cutting-edge …",
+                    "salary_max": 130265.19
+                }
+            ]
+        },
+        {
+            "about_work": true,
+            "title": "Senior Machine Learning Engineer",
+            "description": "En este puesto, trabajarás en un equipo de desarrollo para crear modelos de machine learning y aplicaciones que los utilicen. También liderarás a otros desarrolladores y serás responsable de tomar decisiones técnicas. Esto te dará la oportunidad de aplicar tus habilidades en machine learning y liderazgo en un entorno laboral real.",
+            "position-title": "Senior Machine Learning Engineer",
+            "duration": "5-7 años",
+            "requirements": [
+                "Experiencia como Machine Learning Engineer",
+                "Habilidades de liderazgo"
+            ],
+            "abilities": [
+                "Liderazgo",
+                "Comunicación efectiva",
+                "Trabajo en equipo"
+            ],
+            "jobs_list": [
+                {
+                    "created": "2024-11-04T23:13:27Z",
+                    "title": "Senior Machine Learning Engineer",
+                    "id": "4926618803",
+                    "description": "Center 1 (19052), United States of America, McLean, Virginia Senior Machine Learning Engineer As a Capital One Machine Learning Engineer (MLE), you'll be part of an Agile team dedicated to productionizing machine learning applications and systems at scale. You’ll participate in the detailed technical design, development, and implementation of machine learning applications using existing and emerging technology platforms. You’ll focus on machine learning architectural design, develop and review …",
+                    "longitude": -73.997412,
+                    "company": {
+                        "__CLASS__": "Adzuna::API::Response::Company",
+                        "display_name": "Capital One"
+                    },
+                    "salary_is_predicted": "1",
+                    "category": {
+                        "label": "IT Jobs",
+                        "tag": "it-jobs",
+                        "__CLASS__": "Adzuna::API::Response::Category"
+                    },
+                    "salary_min": 164441.97,
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "latitude": 40.725948,
+                    "salary_max": 164441.97,
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEhOWUVtYWM3eEdtTURaQXJwWGhzdyIsImkiOiI0OTI2NjE4ODAzIn0.UlAU9qSmiq4FzGIc3V3qxr3KFRiiv82vf0YBxH11R7s",
+                    "location": {
+                        "area": [
+                            "US",
+                            "New York",
+                            "New York City",
+                            "Manhattan",
+                            "Prince"
+                        ],
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "display_name": "Prince, Manhattan"
+                    },
+                    "redirect_url": "https://www.adzuna.com/land/ad/4926618803?se=THNYEmac7xGmMDZArpXhsw&utm_medium=api&utm_source=a60688b4&v=AAF408FD1A4101FC42D9690EBE5391445136C67C"
+                },
+                {
+                    "redirect_url": "https://www.adzuna.com/details/4923715522?utm_medium=api&utm_source=a60688b4",
+                    "location": {
+                        "display_name": "Fredericksburg City, Virginia",
+                        "area": [
+                            "US",
+                            "Virginia",
+                            "Fredericksburg City"
+                        ],
+                        "__CLASS__": "Adzuna::API::Response::Location"
+                    },
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyMzcxNTUyMiIsInMiOiJUSE5ZRW1hYzd4R21NRFpBcnBYaHN3In0.xIsrlTvzYm36EZ0_uWzxxsFevedIQ9HrXq8q9AgtEps",
+                    "salary_max": 137986.27,
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "salary_min": 137986.27,
+                    "latitude": 38.296969,
+                    "company": {
+                        "__CLASS__": "Adzuna::API::Response::Company",
+                        "display_name": "Capital One"
+                    },
+                    "longitude": -77.488102,
+                    "salary_is_predicted": "1",
+                    "category": {
+                        "__CLASS__": "Adzuna::API::Response::Category",
+                        "label": "IT Jobs",
+                        "tag": "it-jobs"
+                    },
+                    "created": "2024-11-02T16:38:59Z",
+                    "id": "4923715522",
+                    "description": "Center 3 (19075), United States of America, McLean, Virginia Senior Machine Learning Engineer As a Capital One Machine Learning Engineer (MLE), you'll be part of an Agile team dedicated to productionizing machine learning applications and systems at scale. You’ll participate in the detailed technical design, development, and implementation of machine learning applications using existing and emerging technology platforms. You’ll focus on machine learning architectural design, develop and review …",
+                    "title": "Senior Machine Learning Engineer"
+                }
+            ]
+        },
+        {
+            "about_work": true,
+            "title": "Ingeniero en Google",
+            "description": "En este puesto, trabajarás en un equipo de desarrollo para crear modelos de machine learning y aplicaciones que los utilicen en Google. Esto te dará la oportunidad de aplicar tus habilidades en machine learning y liderazgo en uno de los entornos laborales más innovadores del mundo.",
+            "position-title": "Software Engineer, Machine Learning",
+            "duration": "Indefinido",
+            "requirements": [
+                "Experiencia como Senior Machine Learning Engineer",
+                "Habilidades de liderazgo y comunicación"
+            ],
+            "abilities": [
+                "Liderazgo",
+                "Comunicación efectiva",
+                "Trabajo en equipo",
+                "Innovación"
+            ],
+            "jobs_list": [
+                {
+                    "contract_time": "full_time",
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "salary_min": 163957.94,
+                    "latitude": 34.0414,
+                    "category": {
+                        "__CLASS__": "Adzuna::API::Response::Category",
+                        "tag": "it-jobs",
+                        "label": "IT Jobs"
+                    },
+                    "description": "Meta is embarking on the most transformative change to its business and technology in company history, and our Machine Learning Engineers are at the forefront of this evolution. By leading crucial projects and initiatives that have never been done before, you have an opportunity to help us advance the way people connect around the world. The ideal candidate will have industry experience working on a range of recommendation, classification, and optimization problems. You will bring the ability t…",
+                    "id": "4873686941",
+                    "title": "Software Engineer, Machine Learning",
+                    "location": {
+                        "display_name": "Textile Finance, Los Angeles County",
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "area": [
+                            "US",
+                            "California",
+                            "Los Angeles County",
+                            "Textile Finance"
+                        ]
+                    },
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUNEY0VtYWM3eEdtTURaQXJwWGhzdyIsImkiOiI0ODczNjg2OTQxIn0.zpyIRATN6tjnu7is4BkpZDzGNGhuW3cKw6D1bAMcS0I",
+                    "redirect_url": "https://www.adzuna.com/land/ad/4873686941?se=mCDcEmac7xGmMDZArpXhsw&utm_medium=api&utm_source=a60688b4&v=8E5BDBAE81F48227B1563D6845477738B4FF7EC2",
+                    "salary_max": 163957.94,
+                    "company": {
+                        "display_name": "Facebook",
+                        "__CLASS__": "Adzuna::API::Response::Company"
+                    },
+                    "longitude": -118.2538,
+                    "salary_is_predicted": "1",
+                    "created": "2024-09-23T12:03:34Z"
+                },
+                {
+                    "category": {
+                        "__CLASS__": "Adzuna::API::Response::Category",
+                        "tag": "it-jobs",
+                        "label": "IT Jobs"
+                    },
+                    "description": "Meta is embarking on the most transformative change to its business and technology in company history, and our Machine Learning Engineers are at the forefront of this evolution. By leading crucial projects and initiatives that have never been done before, you have an opportunity to help us advance the way people connect around the world. The ideal candidate will have industry experience working on a range of recommendation, classification, and optimization problems. You will bring the ability t…",
+                    "id": "4873686935",
+                    "title": "Software Engineer, Machine Learning",
+                    "latitude": 47.61974,
+                    "__CLASS__": "Adzuna::API::Response::Job",
+                    "contract_time": "full_time",
+                    "salary_min": 174491.22,
+                    "salary_is_predicted": "1",
+                    "company": {
+                        "__CLASS__": "Adzuna::API::Response::Company",
+                        "display_name": "Facebook"
+                    },
+                    "longitude": -122.20443,
+                    "created": "2024-09-23T12:03:34Z",
+                    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUNEY0VtYWM3eEdtTURaQXJwWGhzdyIsImkiOiI0ODczNjg2OTM1In0.kly-oip04lJPEiz5hGngwbBCNoyzEXQX2R4xNs-rZEY",
+                    "redirect_url": "https://www.adzuna.com/land/ad/4873686935?se=mCDcEmac7xGmMDZArpXhsw&utm_medium=api&utm_source=a60688b4&v=1D6B46DD44A6FEB4FAE2DD75C851591498CD3158",
+                    "location": {
+                        "__CLASS__": "Adzuna::API::Response::Location",
+                        "area": [
+                            "US",
+                            "Washington",
+                            "King County",
+                            "Bellevue"
+                        ],
+                        "display_name": "Bellevue, King County"
+                    },
+                    "salary_max": 174491.22
+                }
+            ]
+        }
+    ]
+]

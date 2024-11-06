@@ -1,586 +1,644 @@
 [
     {
-        "about_work": true,
-        "title": "Ingeniero mec\u00e1nico en empresa de manufactura",
-        "position-title": "Mechanical Engineer",
-        "description": "En este puesto, podr\u00e1s aplicar tus habilidades de dise\u00f1o y an\u00e1lisis para mejorar procesos y productos en una empresa de manufactura. Debes aprender a trabajar en un equipo multidisciplinario y desarrollar habilidades de comunicaci\u00f3n efectiva. Este paso te permitir\u00e1 desarrollar habilidades pr\u00e1cticas y entender c\u00f3mo funcionan las empresas de manufactura.",
-        "duration": "1-2 a\u00f1os",
-        "requirements": [
-            "Experiencia en dise\u00f1o y an\u00e1lisis de componentes mec\u00e1nicos",
-            "Conocimientos en CAD",
-            "Habilidades de comunicaci\u00f3n efectiva"
+        "about_work": false,
+        "title": "Conocer el sector de restauraci\u00f3n",
+        "description": "Antes de comenzar a trabajar en el sector de restauraci\u00f3n, es importante conocedor del sector y sus tendencias. Investiga sobre los diferentes tipos de restaurantes, los servicios que ofrecen, los platos m\u00e1s populares, etc. Esto te ayudar\u00e1 a tener una visi\u00f3n general del sector y a entender mejor los puestos de trabajo que te interesan.",
+        "courses": [
+            "Cursos de cocina casera",
+            "Introducci\u00f3n al sector de la restauraci\u00f3n"
         ],
-        "abilities": [
-            "Trabajo en equipo",
-            "Comunicaci\u00f3n efectiva",
-            "Resoluci\u00f3n de problemas"
-        ],
-        "jobs_list": [
+        "courses_list": [
             {
-                "salary_is_predicted": "1",
-                "salary_max": 119408.39,
-                "latitude": 39.984926,
-                "description": "What you will do Johnson Controls has an exciting opportunity available The Principal Mechanical Engineer position is part of the Building Efficiency AirSide product engineering team based in York, PA. As a Principal Mechanical Engineer, you will have a full range of engineering responsibilities requiring application of standard techniques, procedures, and criteria in carrying out engineering tasks. This team is responsible for all aspects and execution of Air Handling Unit design and applicati\u2026",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid001SHVUeWM3eEdmSC1wZnE1WGhzdyIsImkiOiI0ODg3ODg2NzcyIn0.AUdCQPEku4MXHfKIsqIcS-A84OZGbcOYoWk_rncB1xc",
-                "longitude": -76.761165,
-                "salary_min": 119408.39,
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Hershey Heights, York County",
-                    "area": [
-                        "US",
-                        "Pennsylvania",
-                        "York County",
-                        "Hershey Heights"
-                    ]
-                },
-                "redirect_url": "https://www.adzuna.com/land/ad/4887886772?se=wM5HuTyc7xGfH-pfq5Xhsw&utm_medium=api&utm_source=a60688b4&v=46F7EB2346D459167CDD9D6595F048ABB91A6AAC",
-                "category": {
-                    "tag": "engineering-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "Engineering Jobs"
-                },
-                "id": "4887886772",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Johnson Controls"
-                },
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "title": "Principal Mechanical Engineer",
-                "contract_time": "full_time",
-                "created": "2024-10-03T18:44:28Z"
+                "title": "Curso de Cocina Canina - Alimentaci\u00f3n Casera para Perros",
+                "description": "Curso Completo de Cocina Canina - Nutrici\u00f3n Fisiologica y Alimentaci\u00f3n Saludable para Perros",
+                "link": "https://www.udemy.com/course/curso-de-cocina-canina-alimentacion-casera-para-perros/"
             },
             {
-                "latitude": 39.740692,
-                "salary_is_predicted": "1",
-                "salary_max": 92154.6,
-                "description": "What you will do The Test Engineer will \u201cmanage\u201d a test throughout the process from test design and planning through execution to completion including preliminary analysis of data results. This individual possesses a working knowledge of HVAC/R equipment and its application. This individual has experience with component or system testing, test procedure development, and mechanical fluid or airflow system design, troubleshooting or operation. They are required to singularly manage the testing pr\u2026",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg4Nzg4Njc2NyIsInMiOiJ3TTVIdVR5Yzd4R2ZILXBmcTVYaHN3In0.3j59SB9vR-IrtW2WUnmf4RcENdNm8-FCwDjzQad0le8",
-                "longitude": -76.683501,
-                "salary_min": 92154.6,
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "New Freedom, York County",
-                    "area": [
-                        "US",
-                        "Pennsylvania",
-                        "York County",
-                        "New Freedom"
-                    ]
-                },
-                "redirect_url": "https://www.adzuna.com/land/ad/4887886767?se=wM5HuTyc7xGfH-pfq5Xhsw&utm_medium=api&utm_source=a60688b4&v=583FDF3E769246F658C512A345124C3E20C50FF0",
-                "id": "4887886767",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Johnson Controls"
-                },
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "Engineering Jobs",
-                    "tag": "engineering-jobs"
-                },
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "title": "Sr Mechanical Engineer",
-                "contract_time": "full_time",
-                "created": "2024-10-03T18:44:23Z"
+                "title": "Introducci\u00f3n al mundo de la Cerveza",
+                "description": "Tu puerta de entrada al apasionante universo de la Cerveza",
+                "link": "https://www.udemy.com/course/introduccion-al-mundo-de-la-cerveza/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Ingeniero mec\u00e1nico en empresa de energ\u00eda renovable",
-        "position-title": "Mechanical Engineer - Renewable Energy",
-        "description": "En este puesto, podr\u00e1s aplicar tus habilidades en dise\u00f1o y an\u00e1lisis para mejorar la eficiencia de sistemas de energ\u00eda renovable. Debes aprender a trabajar con tecnolog\u00edas emergentes y desarrollar habilidades de liderazgo. Este paso te permitir\u00e1 desarrollar habilidades en dise\u00f1o de sistemas complejos y entender c\u00f3mo funcionan las empresas de energ\u00eda renovable.",
-        "duration": "2-3 a\u00f1os",
+        "title": "Auxiliar de restaurante",
+        "position-title": "Restaurant Assistant",
+        "description": "En este puesto, aprender\u00e1s los conceptos b\u00e1sicos de la atenci\u00f3n al cliente y la gesti\u00f3n de un restaurante. Ser\u00e1s responsable de recibir a los clientes, tomar pedidos, servir bebidas y alimentos, y realizar tareas de limpieza y mantenimiento. Esto te permitir\u00e1 desarrollar habilidades importantes como la comunicaci\u00f3n, la organizaci\u00f3n y la atenci\u00f3n al detalle.",
+        "duration": "3-6 months",
         "requirements": [
-            "Experiencia en dise\u00f1o y an\u00e1lisis de sistemas de energ\u00eda renovable",
-            "Conocimientos en an\u00e1lisis de ciclo de vida",
-            "Habilidades de liderazgo"
+            "Experiencia en atenci\u00f3n al cliente",
+            "Conocimientos b\u00e1sicos de ingl\u00e9s"
         ],
         "abilities": [
-            "Liderazgo",
             "Trabajo en equipo",
-            "An\u00e1lisis de sistemas complejos"
+            "Atenci\u00f3n al cliente",
+            "Organizaci\u00f3n"
         ],
         "courses": [
-            "Dise\u00f1o de sistemas de energ\u00eda renovable",
-            "An\u00e1lisis de ciclo de vida"
+            "Cursos de atenci\u00f3n al cliente",
+            "Cursos de ingl\u00e9s b\u00e1sico"
         ],
         "jobs_list": [
             {
-                "salary_max": 140000,
-                "salary_is_predicted": "0",
+                "salary_max": 31354.06,
+                "id": "4871322534",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGhYbF9XaWM3eEdhTWdab3RJajJPdyIsImkiOiI0ODcxMzIyNTM0In0.ScbPEwIhtrQPo_h3cZshzIP7qbd6onaj3lOBaVUj98o",
+                "description": "As the team at Zaxby's expands, we're saving a seat for you To our guests, Zaxby's is more than just a place to eat - it's a place to have fun, spend time with friends, and enjoy great food. To our team members, Zaxby's is an indescribably great place to work Assistant Managers are responsible for ensuring that the restaurant delivers great experiences to guests while maintaining operational standards. You will manage the daily operations of the restaurant ensuring that the team properly follow\u2026",
+                "salary_is_predicted": "1",
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "id": "4804455614",
+                "created": "2024-09-20T21:20:16Z",
                 "category": {
-                    "tag": "engineering-jobs",
-                    "label": "Engineering Jobs",
+                    "label": "Hospitality & Catering Jobs",
+                    "tag": "hospitality-catering-jobs",
                     "__CLASS__": "Adzuna::API::Response::Category"
                 },
-                "company": {
-                    "display_name": "Great River Hydro",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "description": "Full-time Description About Us Great River Hydro (GRH) is New England\u2019s largest producer of conventional hydropower. We own and operate 13 generating stations and 3 storage-only reservoirs on the Connecticut and Deerfield Rivers. Today, our unique capabilities and operational flexibility play a vital role in our region\u2019s transition to a low carbon, reliable and secure energy future. At GRH, our most important asset is our people. The GRH team includes over 100 highly skilled professionals who m\u2026",
-                "title": "Mechanical Engineer - Renewable Energy",
-                "contract_time": "full_time",
-                "salary_min": 110000,
+                "redirect_url": "https://www.adzuna.com/land/ad/4871322534?se=8hXl_Wic7xGaMgZotIj2Ow&utm_medium=api&utm_source=a60688b4&v=1853F42A258D9247922E1E7F75612C9B84BA43D0",
+                "latitude": 34.8419,
                 "location": {
-                    "area": [
-                        "US"
-                    ],
-                    "display_name": "US",
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3VpcnVUeWM3eEdmSC1wZnE1WGhzdyIsImkiOiI0ODA0NDU1NjE0In0.6aZ5COC7p6vHivgI9Y9g-Soiqt86IyolmE8DgPKKbWM",
-                "created": "2024-08-01T05:09:58Z",
-                "redirect_url": "https://www.adzuna.com/details/4804455614?utm_medium=api&utm_source=a60688b4"
-            },
-            {
-                "title": "Construction Supervisor (CO)",
-                "company": {
-                    "display_name": "Excel Engineering",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "id": "4897396437",
-                "category": {
-                    "tag": "engineering-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "Engineering Jobs"
-                },
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "created": "2024-10-10T08:30:16Z",
-                "contract_time": "full_time",
-                "description": "Full-time, Contract Description Excel Engineering is seeking a team-oriented, highly motivated Construction Supervisor to support our Power Utility Client in Denver, CO . Excel Engineering offers Electrical and Control System Engineering and Construction Management Consulting services in the US and abroad. Primary Responsibilities Candidates for the Construction Manager role will be expected to have a strong background in Construction. Particularly related to power generation including solar, w\u2026",
-                "latitude": 39.75,
-                "salary_is_predicted": "1",
-                "salary_max": 93176.71,
-                "redirect_url": "https://www.adzuna.com/details/4897396437?utm_medium=api&utm_source=a60688b4",
-                "longitude": -104.99,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg5NzM5NjQzNyIsInMiOiJrdWlydVR5Yzd4R2ZILXBmcTVYaHN3In0.hzMWSP9rs7Jr7HjmqzJ0TgD3VdEK6mbbZiOa4DUKvzI",
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Denver, Colorado",
+                    "display_name": "Easley, Pickens County",
                     "area": [
                         "US",
-                        "Colorado",
-                        "Denver"
-                    ]
+                        "South Carolina",
+                        "Pickens County",
+                        "Easley"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
                 },
-                "salary_min": 93176.71
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Zaxby's"
+                },
+                "longitude": -82.597592,
+                "title": "Restaurant Assistant Manager",
+                "contract_time": "full_time",
+                "salary_min": 31354.06
+            },
+            {
+                "redirect_url": "https://www.adzuna.com/land/ad/4866171581?se=8hXl_Wic7xGaMgZotIj2Ow&utm_medium=api&utm_source=a60688b4&v=1FE69766DCAA55E965F2456C8B33919EDBC842F6",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Hospitality & Catering Jobs",
+                    "tag": "hospitality-catering-jobs"
+                },
+                "created": "2024-09-17T01:21:17Z",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "As the team at Zaxby's expands, we're saving a seat for you To our guests, Zaxby's is more than just a place to eat - it's a place to have fun, spend time with friends, and enjoy great food. To our team members, Zaxby's is an indescribably great place to work Assistant Managers are responsible for ensuring that the restaurant delivers great experiences to guests while maintaining operational standards. You will manage the daily operations of the restaurant ensuring that the team properly follow\u2026",
+                "salary_is_predicted": "1",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGhYbF9XaWM3eEdhTWdab3RJajJPdyIsImkiOiI0ODY2MTcxNTgxIn0.veyAJ_8iP2DtCZ9_WWrqXK0a4zTutHQBZgZOAGhZdhc",
+                "id": "4866171581",
+                "salary_max": 31921.49,
+                "salary_min": 31921.49,
+                "title": "Restaurant Assistant Manager",
+                "contract_time": "full_time",
+                "longitude": -82.182757,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Zaxby's"
+                },
+                "location": {
+                    "area": [
+                        "US",
+                        "Tennessee",
+                        "Sullivan County",
+                        "Bristol"
+                    ],
+                    "display_name": "Bristol, Sullivan County",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "latitude": 36.56751
             }
         ],
         "courses_list": [
             {
-                "title": "Dise\u00f1o de Sistemas Fotovoltaicos Residenciales y Comerciales",
-                "description": "Energ\u00eda Renovable / Energ\u00eda Solar / Energ\u00eda Solar Fotovoltaica.",
-                "link": "https://www.udemy.com/course/tumundorenovable_sistemasresidenciales/"
+                "title": "Curso de Excelencia en la Atenci\u00f3n al Cliente",
+                "description": "Como lidiar con clientes insatisfechos y enojados y crear un servicio m\u00e1s humano y excelente",
+                "link": "https://www.udemy.com/course/curso-de-excelencia-en-la-atencion-al-cliente/"
             },
             {
-                "title": "C\u00e1lculo de huella de carbono para freelancers ambientales",
-                "description": "Aprend\u00e9 a calcular huella de carbono de organizaciones, productos y eventos - De 0 a 100",
-                "link": "https://www.udemy.com/course/calculo-de-huella-de-carbono-para-freelancers-ambientales/"
+                "title": "Ingl\u00e9s Total- de Principiante a Avanzado/+ de 115 horas",
+                "description": "Aprende todo sobre el idioma ingl\u00e9s, fon\u00e9tica, gram\u00e1tica, vocabulario y m\u00e1s!",
+                "link": "https://www.udemy.com/course/ingles-basico-15-minutos-diarios/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Ingeniero mec\u00e1nico en empresa de veh\u00edculos el\u00e9ctricos",
-        "position-title": "Mechanical Engineer - Electric Vehicles",
-        "description": "En este puesto, podr\u00e1s aplicar tus habilidades en dise\u00f1o y an\u00e1lisis para mejorar la eficiencia de veh\u00edculos el\u00e9ctricos. Debes aprender a trabajar con tecnolog\u00edas emergentes y desarrollar habilidades de colaboraci\u00f3n. Este paso te permitir\u00e1 desarrollar habilidades en dise\u00f1o de sistemas de propulsi\u00f3n el\u00e9ctricos y entender c\u00f3mo funcionan las empresas de veh\u00edculos el\u00e9ctricos.",
-        "duration": "3-4 a\u00f1os",
+        "title": "Camarero/a",
+        "position-title": "Waiter/Waitress",
+        "description": "En este puesto, ser\u00e1s responsable de atender a los clientes, tomar pedidos, servir bebidas y alimentos, y realizar tareas de cobro y cierre de cuenta. Aprender\u00e1s a manejar situaciones de estr\u00e9s y a trabajar en un entorno din\u00e1mico. Tambi\u00e9n desarrollar\u00e1s habilidades importantes como la comunicaci\u00f3n, la organizaci\u00f3n y la gesti\u00f3n del tiempo.",
+        "duration": "6-12 months",
         "requirements": [
-            "Experiencia en dise\u00f1o y an\u00e1lisis de sistemas de propulsi\u00f3n el\u00e9ctricos",
-            "Conocimientos en simulaci\u00f3n de sistemas",
-            "Habilidades de colaboraci\u00f3n"
+            "Experiencia en atenci\u00f3n al cliente",
+            "Conocimientos b\u00e1sicos de ingl\u00e9s"
         ],
         "abilities": [
-            "Colaboraci\u00f3n",
             "Trabajo en equipo",
-            "An\u00e1lisis de sistemas complejos"
+            "Atenci\u00f3n al cliente",
+            "Organizaci\u00f3n",
+            "Gesti\u00f3n del tiempo"
         ],
         "courses": [
-            "Dise\u00f1o de sistemas de propulsi\u00f3n el\u00e9ctricos",
-            "Simulaci\u00f3n de sistemas"
+            "Cursos de atenci\u00f3n al cliente avanzada",
+            "Cursos de ingl\u00e9s intermedio"
         ],
         "jobs_list": [
             {
-                "id": "4871294387",
-                "title": "Mechanical Engineer - Battery Electric Vehicle",
-                "salary_max": 68943.64,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU05LYnV6eWM3eEd1bzBqZHNZajJPdyIsImkiOiI0ODcxMjk0Mzg3In0.vjvDNLaj-jyCNElgV0FsHrUgBxMEVZQHoKEGKi12YsU",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "0",
+                "description": "Description Provide friendly, responsive service to create an exceptional dining experience for all of our guests. The server / waiter primary objective is to show our guests such a marvelous time, they will want to return again and again. Server / Waiter / Waitress / Wait staff is generally a part time resturant job. Prior experience as Server, Waiter, Waitress, Wait staff, foh team member, foh crew member, resturant jobs is very helpful to the success at this job More Requirements/Responsibil\u2026",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgxNjgzMzc2NyIsInMiOiJudFVJQUdtYzd4R2FNZ1pvdElqMk93In0.21xJvvEwWbi7fdRz_T-W2ZLxek25I1C8tXTBq__flaE",
+                "salary_max": 31123,
+                "id": "4816833767",
+                "redirect_url": "https://www.adzuna.com/details/4816833767?utm_medium=api&utm_source=a60688b4",
                 "category": {
-                    "tag": "engineering-jobs",
-                    "label": "Engineering Jobs",
+                    "tag": "hospitality-catering-jobs",
+                    "label": "Hospitality & Catering Jobs",
                     "__CLASS__": "Adzuna::API::Response::Category"
                 },
-                "salary_min": 68943.64,
-                "longitude": -97.141322,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "created": "2024-09-20T20:41:05Z",
-                "salary_is_predicted": "1",
+                "created": "2024-08-08T09:38:04Z",
+                "title": "Server / Waiter / Waitress / Wait staff",
+                "contract_time": "part_time",
+                "longitude": -121.932494,
+                "company": {
+                    "display_name": "Straits",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "location": {
+                    "display_name": "Santa Clara, Santa Clara County",
+                    "area": [
+                        "US",
+                        "California",
+                        "Santa Clara County",
+                        "Santa Clara"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "latitude": 37.315682,
+                "salary_min": 31084
+            },
+            {
+                "redirect_url": "https://www.adzuna.com/details/4913376436?utm_medium=api&utm_source=a60688b4",
+                "created": "2024-10-25T01:17:04Z",
+                "category": {
+                    "label": "Hospitality & Catering Jobs",
+                    "tag": "hospitality-catering-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_min": 35643.85,
+                "longitude": -122.466538,
+                "title": "Restaurant Server / Waiter / Waitress / Wait staff",
                 "company": {
                     "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "PACCAR"
+                    "display_name": "Waterbar"
                 },
-                "description": "Company Information PACCAR is a Fortune 500 company established in 1905. PACCAR Inc is recognized as a global leader in the commercial vehicle, financial, and customer service fields with internationally recognized brands such as Kenworth, Peterbilt, and DAF trucks. PACCAR is a global technology leader in the design, manufacture and customer support of premium light-, medium- and heavy-duty trucks under the Kenworth, Peterbilt and DAF nameplates and also provides customized financial services, \u2026",
+                "description": "Job Description Job Description Seeking professional Restaurant Server / Waiter / Waitress / Wait staff with fine dining experience. This is a very important role for us and we rely heavily on our serving staff. They manage the pulse of the dining room and ensure patrons have a memorable dining experience. Waterbar is looking for qualified and energetic Restaurant Server / Waiter / Waitress / Wait staff capable of providing elegant service in our spectacular dining room, but also able to keep u\u2026",
+                "salary_is_predicted": "1",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkxMzM3NjQzNiIsInMiOiJudFVJQUdtYzd4R2FNZ1pvdElqMk93In0.vE0g4Gvdp3DWhwBRqbY8D3zbPZmlT4yt7NwNg5OkBzI",
                 "location": {
                     "__CLASS__": "Adzuna::API::Response::Location",
                     "area": [
                         "US",
-                        "Texas",
-                        "Denton County",
-                        "Denton"
+                        "California",
+                        "San Francisco"
                     ],
-                    "display_name": "Denton, Denton County"
+                    "display_name": "San Francisco, California"
                 },
-                "redirect_url": "https://www.adzuna.com/details/4871294387?utm_medium=api&utm_source=a60688b4",
-                "latitude": 33.216723
+                "latitude": 37.798085,
+                "salary_max": 35643.85,
+                "id": "4913376436"
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Atenci\u00f3n y Servicio al Cliente",
+                "description": "Aprende a dar la mejor Atenci\u00f3n y Servicio al Cliente",
+                "link": "https://www.udemy.com/course/atencion-y-servicio-al-cliente/"
             },
             {
-                "title": "21Pre00000 New Product Development Engineer Powertrain Mna",
-                "salary_max": 87603.58,
-                "longitude": -83.1716,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Musashi"
-                },
-                "latitude": 42.5599,
-                "redirect_url": "https://www.adzuna.com/details/4809972754?utm_medium=api&utm_source=a60688b4",
-                "id": "4809972754",
+                "title": "Curso Completo de Ingl\u00e9s \u2013 Nivel Intermedio",
+                "description": "Da un paso adelante con tu ingl\u00e9s: Mejora la gram\u00e1tica, traducci\u00f3n, habla, lectura, escucha, vocabulario y m\u00e1s.",
+                "link": "https://www.udemy.com/course/curso-completo-ingles-intermediate/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Supervisor de camareros",
+        "position-title": "Team Leader Waiter",
+        "description": "En este puesto, ser\u00e1s responsable de supervisar a un equipo de camareros, asegurarte de que se cumplan los est\u00e1ndares de atenci\u00f3n al cliente y realizar tareas administrativas. Aprender\u00e1s a liderar un equipo, a tomar decisiones y a resolver problemas. Tambi\u00e9n desarrollar\u00e1s habilidades importantes como la comunicaci\u00f3n, la organizaci\u00f3n y la gesti\u00f3n del tiempo.",
+        "duration": "1-2 years",
+        "requirements": [
+            "Experiencia como camarero",
+            "Conocimientos b\u00e1sicos de ingl\u00e9s",
+            "Habilidades de liderazgo"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Comunicaci\u00f3n",
+            "Organizaci\u00f3n",
+            "Gesti\u00f3n del tiempo"
+        ],
+        "courses": [
+            "Cursos de liderazgo",
+            "Cursos de ingl\u00e9s avanzado"
+        ],
+        "jobs_list": [
+            {
                 "category": {
-                    "tag": "engineering-jobs",
-                    "label": "Engineering Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
+                    "label": "Hospitality & Catering Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "hospitality-catering-jobs"
                 },
-                "salary_min": 87603.58,
-                "contract_time": "full_time",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwOTk3Mjc1NCIsInMiOiJTTktidXp5Yzd4R3VvMGpkc1lqMk93In0.HMJPefEn4hhwCtp2twc95b0To70lpdgihAOvhLPkJnk",
-                "salary_is_predicted": "1",
-                "created": "2024-08-04T06:06:06Z",
-                "description": "Job Summary: A Powertrain Differential, Gears, and E-Axle New Product Development Engineer plays an essential role in designing and developing innovative components for automotive powertrains. This role is a combination of mechanical engineering, electrical engineering, and vehicle dynamics expertise. The Powertrain Differential, Gears, and E-Axle New Product Development Engineer is responsible for designing, developing, and testing new powertrain components, and ensuring the efficiency, perfor\u2026",
+                "latitude": 42.575868,
+                "salary_max": 38400,
+                "description": "Catering Lead Being our Catering Lead requires you to be an outgoing, self-motivated and extremely coachable individual. The Catering Lead is responsible for coordinating and executing each step of the catering orders, starting with the food preparation in the kitchen and ending with the event execution or just an order delivery. Excellent verbal and written communication, and interpersonal skills are essential, along with the ability to easily establish rapport with a diverse range of people. \u2026",
+                "company": {
+                    "display_name": "Gage Marine",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "title": "Catering / Banquet Server for PIER 290 and Lake Life Catering - Summer 2024 Season",
+                "created": "2024-03-09T10:04:36Z",
+                "redirect_url": "https://www.adzuna.com/details/4600716232?utm_medium=api&utm_source=a60688b4",
                 "location": {
-                    "display_name": "Clawson, Oakland County",
                     "area": [
                         "US",
-                        "Michigan",
-                        "Oakland County",
-                        "Clawson"
+                        "Wisconsin",
+                        "Walworth County",
+                        "Williams Bay"
+                    ],
+                    "display_name": "Williams Bay, Walworth County",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "id": "4600716232",
+                "salary_is_predicted": "0",
+                "longitude": -88.538273,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 34560,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDYwMDcxNjIzMiIsInMiOiJtRTRNQW1tYzd4R3czT2dZS0pfU29RIn0.yT1xcUntoEpNz4T079ytabEVXXkXU-lidA4BQ9mW3sA"
+            },
+            {
+                "salary_min": 32460.5,
+                "longitude": -88.358838,
+                "id": "4810836816",
+                "location": {
+                    "area": [
+                        "US",
+                        "Illinois",
+                        "McHenry County",
+                        "Lake In The Hills"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Lake In The Hills, McHenry County"
+                },
+                "created": "2024-08-05T09:55:30Z",
+                "title": "Part Time Server",
+                "description": "Part-time Description A Server is responsible for serving food and beverages to Residents in their Community\u2019s dining areas, and for cleaning and disinfecting tasks in dining and kitchen areas. Duties & Responsibilities: 1. accurately takes and relays beverage and meal orders; 2. adds appropriate garnishes to food and beverages prior to serving; 3. must be prepared to work in any area of the Dining Services Department; 4. must display a positive demeanor and cheerful disposition to Community Re\u2026",
+                "salary_max": 32460.5,
+                "category": {
+                    "tag": "part-time-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Part time Jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgxMDgzNjgxNiIsInMiOiJtRTRNQW1tYzd4R3czT2dZS0pfU29RIn0.eVDMsWCVkw1qSP5-YneTx1bbmhgmBd8v-Pei9Z6ViyY",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "1",
+                "redirect_url": "https://www.adzuna.com/details/4810836816?utm_medium=api&utm_source=a60688b4",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Melody Living"
+                },
+                "contract_time": "part_time",
+                "latitude": 42.187735
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Liderazgo y Gesti\u00f3n de equipos | Certificaci\u00f3n",
+                "description": "Aprend\u00e9 a gestionar y liderar tu equipo de trabajo. (Incluye trabajo remoto e h\u00edbrido)",
+                "link": "https://www.udemy.com/course/liderazgo-y-gestion-de-equipos-certificacion-2018/"
+            },
+            {
+                "title": "Ingl\u00e9s Total- de Principiante a Avanzado/+ de 115 horas",
+                "description": "Aprende todo sobre el idioma ingl\u00e9s, fon\u00e9tica, gram\u00e1tica, vocabulario y m\u00e1s!",
+                "link": "https://www.udemy.com/course/ingles-basico-15-minutos-diarios/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Jefe de sala",
+        "position-title": "Restaurant Manager",
+        "description": "En este puesto, ser\u00e1s responsable de gestionar el restaurante, incluyendo la supervisi\u00f3n del personal, la gesti\u00f3n de inventario y la toma de decisiones financieras. Aprender\u00e1s a gestionar un presupuesto, a analizar resultados y a tomar decisiones estrat\u00e9gicas. Tambi\u00e9n desarrollar\u00e1s habilidades importantes como la comunicaci\u00f3n, la organizaci\u00f3n y la gesti\u00f3n del tiempo.",
+        "duration": "2-5 years",
+        "requirements": [
+            "Experiencia como supervisor de camareros",
+            "Conocimientos b\u00e1sicos de ingl\u00e9s",
+            "Habilidades de liderazgo y gesti\u00f3n"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Comunicaci\u00f3n",
+            "Organizaci\u00f3n",
+            "Gesti\u00f3n del tiempo",
+            "Gesti\u00f3n financiera"
+        ],
+        "courses": [
+            "Cursos de liderazgo avanzado",
+            "Cursos de finanzas"
+        ],
+        "jobs_list": [
+            {
+                "company": {
+                    "display_name": "Zaxby's",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "longitude": -82.597592,
+                "title": "Restaurant Assistant Manager",
+                "contract_time": "full_time",
+                "latitude": 34.8419,
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "South Carolina",
+                        "Pickens County",
+                        "Easley"
+                    ],
+                    "display_name": "Easley, Pickens County"
+                },
+                "salary_min": 31354.06,
+                "description": "As the team at Zaxby's expands, we're saving a seat for you To our guests, Zaxby's is more than just a place to eat - it's a place to have fun, spend time with friends, and enjoy great food. To our team members, Zaxby's is an indescribably great place to work Assistant Managers are responsible for ensuring that the restaurant delivers great experiences to guests while maintaining operational standards. You will manage the daily operations of the restaurant ensuring that the team properly follow\u2026",
+                "salary_is_predicted": "1",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_max": 31354.06,
+                "id": "4871322534",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0xSN0EybWM3eEdhTWdab3RJajJPdyIsImkiOiI0ODcxMzIyNTM0In0.oshSOkil6Dvxp7UIYJX_aZmSHRDv7_0eja7LBWW6bZY",
+                "created": "2024-09-20T21:20:16Z",
+                "category": {
+                    "label": "Hospitality & Catering Jobs",
+                    "tag": "hospitality-catering-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "redirect_url": "https://www.adzuna.com/land/ad/4871322534?se=gLR7A2mc7xGaMgZotIj2Ow&utm_medium=api&utm_source=a60688b4&v=1853F42A258D9247922E1E7F75612C9B84BA43D0"
+            },
+            {
+                "latitude": 36.56751,
+                "location": {
+                    "display_name": "Bristol, Sullivan County",
+                    "area": [
+                        "US",
+                        "Tennessee",
+                        "Sullivan County",
+                        "Bristol"
                     ],
                     "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Zaxby's"
+                },
+                "longitude": -82.182757,
+                "title": "Restaurant Assistant Manager",
+                "contract_time": "full_time",
+                "salary_min": 31921.49,
+                "id": "4866171581",
+                "salary_max": 31921.49,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0xSN0EybWM3eEdhTWdab3RJajJPdyIsImkiOiI0ODY2MTcxNTgxIn0.w0QRZb-IbsyHbiNBMLbV6ifDxkEq7UhmyJD1MnEWL3s",
+                "description": "As the team at Zaxby's expands, we're saving a seat for you To our guests, Zaxby's is more than just a place to eat - it's a place to have fun, spend time with friends, and enjoy great food. To our team members, Zaxby's is an indescribably great place to work Assistant Managers are responsible for ensuring that the restaurant delivers great experiences to guests while maintaining operational standards. You will manage the daily operations of the restaurant ensuring that the team properly follow\u2026",
+                "salary_is_predicted": "1",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2024-09-17T01:21:17Z",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "hospitality-catering-jobs",
+                    "label": "Hospitality & Catering Jobs"
+                },
+                "redirect_url": "https://www.adzuna.com/land/ad/4866171581?se=gLR7A2mc7xGaMgZotIj2Ow&utm_medium=api&utm_source=a60688b4&v=1FE69766DCAA55E965F2456C8B33919EDBC842F6"
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Curso de C# .NET AVANZADO",
+                "description": "Aprende conceptos avanzados del lenguaje C#",
+                "link": "https://www.udemy.com/course/curso-de-c-avanzado/"
+            },
+            {
+                "title": "Curso Completo de Finanzas Personales para No Expertos",
+                "description": "SIMPLE. UTIL. APLICABLE. EFICAZ. COMO NUNCA TE LO ENSE\u00d1ARON, LAS MEJORES TECNICAS PARA MANEJAR TU DINERO!",
+                "link": "https://www.udemy.com/course/curso-completo-de-finanzas-personales-para-no-expertos/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Gerente de restaurante",
+        "position-title": "Restaurant General Manager",
+        "description": "En este puesto, ser\u00e1s responsable de gestionar todo el restaurante, incluyendo la supervisi\u00f3n del personal, la gesti\u00f3n de inventario, la toma de decisiones financieras y la estrategia del restaurante. Aprender\u00e1s a gestionar un equipo de gerentes, a analizar resultados y a tomar decisiones estrat\u00e9gicas. Tambi\u00e9n desarrollar\u00e1s habilidades importantes como la comunicaci\u00f3n, la organizaci\u00f3n y la gesti\u00f3n del tiempo.",
+        "duration": "5-10 years",
+        "requirements": [
+            "Experiencia como jefe de sala",
+            "Conocimientos b\u00e1sicos de ingl\u00e9s",
+            "Habilidades de liderazgo y gesti\u00f3n"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Comunicaci\u00f3n",
+            "Organizaci\u00f3n",
+            "Gesti\u00f3n del tiempo",
+            "Gesti\u00f3n financiera",
+            "Estrategia"
+        ],
+        "courses": [
+            "Cursos de liderazgo avanzado",
+            "Cursos de finanzas avanzado"
+        ],
+        "jobs_list": [
+            {
+                "title": "Restaurant General Manager",
+                "description": "Compensation Type: Yearly Highgate Hotels: Highgate is a premier real estate investment and hospitality management company widely recognized as an innovator in the industry. Highgate is the dominant player in U.S. gateway markets including New York, Boston, Miami, San Francisco and Honolulu, with a rapidly expanding presence in Europe, Latin America, and the Caribbean. Highgate\u2019s portfolio of global properties represents an aggregate asset value exceeding $20B and generates over $5B in cumulati\u2026",
+                "id": "4889060511",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Hospitality & Catering Jobs",
+                    "tag": "hospitality-catering-jobs"
+                },
+                "salary_min": 56332.07,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
+                "latitude": 25.85695,
+                "created": "2024-10-04T15:22:08Z",
+                "longitude": -80.1378,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Inn On The Bay"
+                },
+                "salary_is_predicted": "1",
+                "salary_max": 56332.07,
+                "location": {
+                    "area": [
+                        "US",
+                        "Florida",
+                        "Miami-Dade County",
+                        "Normandy Isle"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Normandy Isle, Miami-Dade County"
+                },
+                "redirect_url": "https://www.adzuna.com/land/ad/4889060511?se=jM41BWmc7xGmMDZArpXhsw&utm_medium=api&utm_source=a60688b4&v=372925F2664A9E901F70F4F80F5F20C012A77BC6",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiak00MUJXbWM3eEdtTURaQXJwWGhzdyIsImkiOiI0ODg5MDYwNTExIn0.lYQ6CiibTaBYcvwjTCpGbQNtpzUwjzSzPw-xQw_zQm4"
+            },
+            {
+                "latitude": 34.8419,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
+                "salary_min": 43161.93,
+                "description": "As the team at Zaxby's expands, we're saving a seat for you To our guests, Zaxby's is more than just a place to eat - it's a place to have fun, spend time with friends, and enjoy great food. To our team members, Zaxby's is an indescribably great place to work General Managers are responsible for providing guidance and leadership to their team to create a positive culture and maintain high team morale. You will execute and assist in the development of action plans according to company goals and \u2026",
+                "id": "4871322493",
+                "title": "Restaurant General Manager",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "hospitality-catering-jobs",
+                    "label": "Hospitality & Catering Jobs"
+                },
+                "location": {
+                    "display_name": "Easley, Pickens County",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "South Carolina",
+                        "Pickens County",
+                        "Easley"
+                    ]
+                },
+                "redirect_url": "https://www.adzuna.com/land/ad/4871322493?se=jM41BWmc7xGmMDZArpXhsw&utm_medium=api&utm_source=a60688b4&v=0C14C999C93B061E1BD11794B7C26552C5648BEB",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg3MTMyMjQ5MyIsInMiOiJqTTQxQldtYzd4R21NRFpBcnBYaHN3In0.LVbFkFl2vYNRIluUGmY2A67iCwSBE5nxfJ0cICXwbso",
+                "salary_max": 43161.93,
+                "created": "2024-09-20T21:19:43Z",
+                "salary_is_predicted": "1",
+                "longitude": -82.597592,
+                "company": {
+                    "display_name": "Zaxby's",
+                    "__CLASS__": "Adzuna::API::Response::Company"
                 }
             }
         ],
         "courses_list": [
             {
-                "title": "L\u00f3gica cableada - Arranque y control de motores el\u00e9ctricos",
-                "description": "Dise\u00f1o y simulaci\u00f3n de diagramas de potencia y control para motores el\u00e9ctricos",
-                "link": "https://www.udemy.com/course/logica-cableada-para-motores-electricos/"
+                "title": "Curso de C# .NET AVANZADO",
+                "description": "Aprende conceptos avanzados del lenguaje C#",
+                "link": "https://www.udemy.com/course/curso-de-c-avanzado/"
             },
             {
-                "title": "Control de Sistemas Din\u00e1micos",
-                "description": "\u00a1Aprende las bases de la Teor\u00eda de Control para modelar y sintonizar autom\u00e1ticamente cualquier Sistema Din\u00e1mico!",
-                "link": "https://www.udemy.com/course/control-de-sistemas-dinamicos/"
-            }
-        ]
-    },
-    {
-        "about_work": false,
-        "title": "Desarrolla habilidades en programaci\u00f3n",
-        "description": "Para trabajar en Tesla, debes desarrollar habilidades en programaci\u00f3n para poder interactuar con los sistemas de datos y desarrollar herramientas personalizadas. Aprende a programar en lenguajes como Python, MATLAB o C++.",
-        "courses": [
-            "Programaci\u00f3n en Python",
-            "Programaci\u00f3n en MATLAB",
-            "Programaci\u00f3n en C++"
-        ],
-        "courses_list": [
-            {
-                "title": "Curso completo de Python: Programaci\u00f3n en Python desde cero",
-                "description": "Aprende a programar en Python y a resolver problemas reales utilizando clases, objetos, ficheros, bucles y mucho m\u00e1s!",
-                "link": "https://www.udemy.com/course/curso-completo-de-python-3/"
-            },
-            {
-                "title": "Aprende f\u00e1cil MATLAB en 20 d\u00edas | MATLAB para Ingenier\u00edas",
-                "description": "Desarrolla tus habilidades en programaci\u00f3n y a\u00f1ade un valor agregado a tu carrera de ingenier\u00eda con MATLAB.",
-                "link": "https://www.udemy.com/course/matlab-para-ingenierias-y-ciencias/"
-            },
-            {
-                "title": "Programaci\u00f3n PROFESIONAL desde cero con C++",
-                "description": "Aprende al m\u00e1ximo y domina C++ a fondo",
-                "link": "https://www.udemy.com/course/programacion-profesional-desde-cero-con-cpp/"
+                "title": "Curso de C# .NET AVANZADO",
+                "description": "Aprende conceptos avanzados del lenguaje C#",
+                "link": "https://www.udemy.com/course/curso-de-c-avanzado/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Ingeniero mec\u00e1nico en empresa de dise\u00f1o de autom\u00f3viles",
-        "position-title": "Mechanical Engineer - Automotive Design",
-        "description": "En este puesto, podr\u00e1s aplicar tus habilidades en dise\u00f1o y an\u00e1lisis para mejorar la eficiencia de veh\u00edculos. Debes aprender a trabajar con tecnolog\u00edas emergentes y desarrollar habilidades de liderazgo. Este paso te permitir\u00e1 desarrollar habilidades en dise\u00f1o de sistemas de autom\u00f3viles y entender c\u00f3mo funcionan las empresas de dise\u00f1o de autom\u00f3viles.",
-        "duration": "4-5 a\u00f1os",
+        "title": "Camarero supremo",
+        "position-title": "Head Waiter",
+        "description": "En este puesto, ser\u00e1s el responsable de coordinar todo el servicio de camareros, incluyendo la programaci\u00f3n del personal, la gesti\u00f3n de inventario y la Supervisi\u00f3n del servicio. Aprender\u00e1s a liderar un equipo de camareros, a gestionar situaciones de estr\u00e9s y a resolver problemas. Tambi\u00e9n desarrollar\u00e1s habilidades importantes como la comunicaci\u00f3n, la organizaci\u00f3n y la gesti\u00f3n del tiempo.",
+        "duration": "5-10 years",
         "requirements": [
-            "Experiencia en dise\u00f1o y an\u00e1lisis de veh\u00edculos",
-            "Conocimientos en dise\u00f1o de sistemas de autom\u00f3viles",
-            "Habilidades de liderazgo"
+            "Experiencia como gerente de restaurante",
+            "Conocimientos b\u00e1sicos de ingl\u00e9s",
+            "Habilidades de liderazgo y gesti\u00f3n"
         ],
         "abilities": [
             "Liderazgo",
-            "Trabajo en equipo",
-            "An\u00e1lisis de sistemas complejos"
+            "Comunicaci\u00f3n",
+            "Organizaci\u00f3n",
+            "Gesti\u00f3n del tiempo",
+            "Gesti\u00f3n financiera",
+            "Estrategia"
         ],
         "courses": [
-            "Dise\u00f1o de sistemas de autom\u00f3viles",
-            "An\u00e1lisis de sistemas de autom\u00f3viles"
+            "Cursos de liderazgo avanzado",
+            "Cursos de finanzas avanzado"
         ],
         "jobs_list": [
             {
-                "salary_min": 106241,
-                "category": {
-                    "label": "Engineering Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "engineering-jobs"
-                },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwOTc2MzUxMSIsInMiOiJGdGZPdnp5Yzd4R3VvMGpkc1lqMk93In0.WKRhKj6Q8G5ZfrJc4zHNCoWMgmKdFuhyH8P-fgFuCW0",
-                "contract_time": "full_time",
-                "id": "4809763511",
-                "location": {
-                    "display_name": "Auburn Hills, Oakland County",
-                    "area": [
-                        "US",
-                        "Michigan",
-                        "Oakland County",
-                        "Auburn Hills"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "description": "We are seeking an Associate Design & Release Engineer to join our team. This role involves working closely with multi-functional teams to contribute to the design, engineering, and production of Electric Drive Module Assemblies. The ideal candidate should have experience in Mechanical Engineering or Mechatronics preferably in the Automotive sector. Key Responsibilities: Collaborate closely with multi-functional teams to ensure EDM Assemblies meet performance, safety, and quality standards, whil\u2026",
-                "salary_is_predicted": "1",
-                "created": "2024-08-04T05:39:42Z",
-                "longitude": -83.234103,
-                "salary_max": 106241,
-                "title": "Mechanical & Physical Engineer - Automotive Electric Drive Module Design & Release Engineer",
-                "redirect_url": "https://www.adzuna.com/details/4809763511?utm_medium=api&utm_source=a60688b4",
-                "latitude": 42.687532,
-                "company": {
-                    "display_name": "Capgemini",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "__CLASS__": "Adzuna::API::Response::Job"
-            },
-            {
-                "salary_is_predicted": "1",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "created": "2024-09-23T20:03:32Z",
-                "company": {
-                    "display_name": "Aptiv",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "description": "Join our Innovative Team Want to do more than just imagine the ways our world will move tomorrow? Join the technology company that's transforming the future of mobility today. About this Position The Connection Systems team has an exciting product engineering opportunity located in Warren, OH at our Champion Technical Center. Under the direction of a product engineering supervisor, the successful candidate will serve as a product engineer working on the next generation of high power connection \u2026",
-                "redirect_url": "https://www.adzuna.com/details/4873995660?utm_medium=api&utm_source=a60688b4",
-                "latitude": 41.23795,
-                "location": {
-                    "display_name": "Warren, Trumbull County",
-                    "area": [
-                        "US",
-                        "Ohio",
-                        "Trumbull County",
-                        "Warren"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "title": "Mechanical Product Engineer",
-                "salary_max": 86649.54,
-                "id": "4873995660",
-                "category": {
-                    "label": "Engineering Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "engineering-jobs"
-                },
-                "salary_min": 86649.54,
-                "longitude": -80.86049,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRnRmT3Z6eWM3eEd1bzBqZHNZajJPdyIsImkiOiI0ODczOTk1NjYwIn0.jRc_v9rVdP-1nWMDTiawBx50qInVM2OXfJH1-LjDZrY"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Dise\u00f1o de Sistemas a Gran Escala y Arquitectura de Software",
-                "description": "Llega a arquitecto o a l\u00edder t\u00e9cnico aprendiendo dise\u00f1o de sistemas escalables y arquitectura de software.",
-                "link": "https://www.udemy.com/course/diseno-de-sistemas-a-gran-escala-y-arquitectura-de-software/"
-            },
-            {
-                "title": "Experto en An\u00e1lisis y Visualizaci\u00f3n de Datos",
-                "description": "Aprende herramientas esenciales para el an\u00e1lisis de datos como Excel, SQL, R, Looker Studio y Power BI",
-                "link": "https://www.udemy.com/course/experto-en-analisis-y-visualizacion-de-datos/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Ingeniero mec\u00e1nico en empresa de tecnolog\u00eda de veh\u00edculos",
-        "position-title": "Mechanical Engineer - Vehicle Technology",
-        "description": "En este puesto, podr\u00e1s aplicar tus habilidades en dise\u00f1o y an\u00e1lisis para mejorar la eficiencia de veh\u00edculos. Debes aprender a trabajar con tecnolog\u00edas emergentes y desarrollar habilidades de colaboraci\u00f3n. Este paso te permitir\u00e1 desarrollar habilidades en dise\u00f1o de sistemas de autom\u00f3viles y entender c\u00f3mo funcionan las empresas de tecnolog\u00eda de veh\u00edculos.",
-        "duration": "5-6 a\u00f1os",
-        "requirements": [
-            "Experiencia en dise\u00f1o y an\u00e1lisis de veh\u00edculos",
-            "Conocimientos en tecnolog\u00edas emergentes",
-            "Habilidades de colaboraci\u00f3n"
-        ],
-        "abilities": [
-            "Colaboraci\u00f3n",
-            "Trabajo en equipo",
-            "An\u00e1lisis de sistemas complejos"
-        ],
-        "courses": [
-            "Tecnolog\u00edas emergentes en veh\u00edculos",
-            "An\u00e1lisis de sistemas de autom\u00f3viles"
-        ],
-        "jobs_list": [
-            {
-                "salary_is_predicted": "0",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "created": "2024-08-08T09:37:39Z",
-                "description": "At American Rheinmetall Vehicles, we believe in satisfied customers and healthy, engaged employees. We listen to our customers and develop transformational technology that delivers necessary military vehicle capabilities to our Warfighters while also providing challenging and fulfilling careers to our employees. We are committed to supporting critical advancements in the United States defense industry, like the U.S. Army's XM30 Infantry Combat Vehicle (ICV) program, which will replace the Army'\u2026",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "American Rheinmetall Defense"
-                },
-                "redirect_url": "https://www.adzuna.com/details/4816831741?utm_medium=api&utm_source=a60688b4",
-                "latitude": 42.56653,
-                "location": {
-                    "area": [
-                        "US",
-                        "Michigan",
-                        "Macomb County",
-                        "Sterling Heights"
-                    ],
-                    "display_name": "Sterling Heights, Macomb County",
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "title": "Program Analyst",
-                "salary_max": 85000,
-                "id": "4816831741",
-                "category": {
-                    "tag": "engineering-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "Engineering Jobs"
-                },
-                "salary_min": 68000,
-                "longitude": -83.068352,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNXVHY3dUeWM3eEd1bzBqZHNZajJPdyIsImkiOiI0ODE2ODMxNzQxIn0.tcCgJpBFqxHmmsMo4qQK3uf8NIL5xNsfxKlyNoVMQxw"
-            },
-            {
-                "location": {
-                    "area": [
-                        "US",
-                        "North Carolina",
-                        "Guilford County",
-                        "Greensboro"
-                    ],
-                    "display_name": "Greensboro, Guilford County",
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "salary_is_predicted": "1",
-                "created": "2024-09-04T06:32:29Z",
-                "description": "Primary Purpose Of Position The Department of Applied Engineering Technology at North Carolina A&T State University, College of Science and Technology, invites applications for a tenure-track faculty position in automotive engineering technology or related field, starting in August 2024. The appointment is expected to be at the assistant professor level but an appointment at a higher rank may be considered for exceptionally qualified applicants. In particular, the Department is seeking for a qu\u2026",
-                "salary_min": 107537.22,
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "Teaching Jobs",
-                    "tag": "teaching-jobs"
-                },
-                "contract_time": "full_time",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg1MTUyNTU5MSIsInMiOiI1dUdjd1R5Yzd4R3VvMGpkc1lqMk93In0.dLeacSkU0GJ4WnENSSpzHIu5PG0ar3O28mOusA-XeiU",
-                "id": "4851525591",
-                "redirect_url": "https://www.adzuna.com/details/4851525591?utm_medium=api&utm_source=a60688b4",
-                "latitude": 36.067604,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "NCAT"
-                },
-                "longitude": -79.756811,
-                "title": "Assistant Professor - Automotive Engineering Technology",
-                "salary_max": 107537.22
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Clean Architecture en C# .NET, un curso basado en conceptos",
-                "description": "Aprende los conceptos fundamentales de la Arquitectura de Software",
-                "link": "https://www.udemy.com/course/clean-architecture-course/"
-            },
-            {
-                "title": "Experto en An\u00e1lisis y Visualizaci\u00f3n de Datos",
-                "description": "Aprende herramientas esenciales para el an\u00e1lisis de datos como Excel, SQL, R, Looker Studio y Power BI",
-                "link": "https://www.udemy.com/course/experto-en-analisis-y-visualizacion-de-datos/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Ingeniero mec\u00e1nico en Tesla",
-        "position-title": "Mechanical Engineer - Tesla",
-        "description": "En este puesto, podr\u00e1s aplicar tus habilidades en dise\u00f1o y an\u00e1lisis para mejorar la eficiencia de veh\u00edculos el\u00e9ctricos. Debes aprender a trabajar con tecnolog\u00edas emergentes y desarrollar habilidades de liderazgo. Este paso te permitir\u00e1 desenvolver habilidades en dise\u00f1o de sistemas de autom\u00f3viles y entender c\u00f3mo funcionan las empresas de veh\u00edculos el\u00e9ctricos.",
-        "duration": "+6 a\u00f1os",
-        "requirements": [
-            "Experiencia en dise\u00f1o y an\u00e1lisis de veh\u00edculos el\u00e9ctricos",
-            "Conocimientos en tecnolog\u00edas emergentes",
-            "Habilidades de liderazgo"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Trabajo en equipo",
-            "An\u00e1lisis de sistemas complejos"
-        ],
-        "courses": [
-            "Dise\u00f1o de sistemas de autom\u00f3viles el\u00e9ctricos",
-            "An\u00e1lisis de sistemas de autom\u00f3viles el\u00e9ctricos"
-        ],
-        "jobs_list": [
-            {
-                "salary_max": 77363.58,
-                "salary_is_predicted": "1",
-                "latitude": 37.564143,
-                "category": {
-                    "tag": "engineering-jobs",
-                    "label": "Engineering Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "company": {
-                    "display_name": "Tesla",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "id": "4917683495",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "description": "What To Expect As a Mechanical Design Engineer, Interior Engineering in Tesla\u2019s Vehicle Engineering Team, you will be responsible for design, engineer, release and launch of the complete Interior system for future Tesla vehicle product lines. You will be part of the team that pushes boundaries, innovates, and executes world-class interiors that excels in all critical attributes of an Interior System. You will utilize your expertise in one or more of these commodities and develop as a full Vehic\u2026",
-                "title": "Mechanical Design Engineer, Interiors",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkxNzY4MzQ5NSIsInMiOiJMSTFBd3p5Yzd4R2ZILXBmcTVYaHN3In0.BVBo7VoFH6kbYOlxE29KsWE6ScY75dSk8dYSXQe01PU",
-                "longitude": -122.004179,
-                "salary_min": 77363.58,
+                "id": "4906549061",
+                "latitude": 25.756014,
+                "salary_max": 57783.88,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZtNkJtbWM3eEdhTWdab3RJajJPdyIsImkiOiI0OTA2NTQ5MDYxIn0.nkAGDX22i0x-CCmUk1l8zTK_q3Cvrn6hzRCpSMNw8r8",
                 "location": {
                     "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Fremont, Alameda County",
+                    "display_name": "Miami, Miami-Dade County",
                     "area": [
                         "US",
-                        "California",
-                        "Alameda County",
-                        "Fremont"
+                        "Florida",
+                        "Miami-Dade County",
+                        "Miami"
                     ]
                 },
-                "redirect_url": "https://www.adzuna.com/details/4917683495?utm_medium=api&utm_source=a60688b4",
-                "created": "2024-10-29T12:53:52Z"
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "1",
+                "company": {
+                    "display_name": "Royal Caribbean Group",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "POSITION SUMMARY Assists the Restaurant Manager in the supervision of the Restaurant personnel ensuring total guest satisfaction regarding food quality and service in accordance with company policies. ESSENTIAL DUTIES & RESPONSIBILITIES To support Royal Caribbean Group\u2019 mission of becoming \u201cDelivering the best vacations responsibilty,\u201d all duties and responsibilities are to be performed in accordance with c Pillars of Safety, Service and Style, ISM/ISO and SQM standards, USPH guidelines, and en\u2026",
+                "title": "Head Waiter",
+                "longitude": -80.134484,
+                "salary_min": 57783.88,
+                "category": {
+                    "label": "Hospitality & Catering Jobs",
+                    "tag": "hospitality-catering-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "created": "2024-10-18T12:04:48Z",
+                "redirect_url": "https://www.adzuna.com/details/4906549061?utm_medium=api&utm_source=a60688b4"
+            },
+            {
+                "salary_min": 31246.56,
+                "longitude": -74.158697,
+                "title": "Maitre di, Head Server",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Aqua Blue Kitchen & Cocktails"
+                },
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "New Jersey",
+                        "Ocean County",
+                        "Toms River"
+                    ],
+                    "display_name": "Toms River, Ocean County"
+                },
+                "latitude": 39.977903,
+                "redirect_url": "https://www.adzuna.com/details/4907803828?utm_medium=api&utm_source=a60688b4",
+                "created": "2024-10-19T19:45:28Z",
+                "category": {
+                    "label": "Hospitality & Catering Jobs",
+                    "tag": "hospitality-catering-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_is_predicted": "1",
+                "description": "Expierience in serving in casual,family owned byob Italian Restaurant. Must be people person, pasionate and knowledgeable.",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZtNkJtbWM3eEdhTWdab3RJajJPdyIsImkiOiI0OTA3ODAzODI4In0.RuBPLFisQA8RAFLQVMqV66EpijzRpjwO33DVwUAIDoQ",
+                "salary_max": 31246.56,
+                "id": "4907803828"
             }
         ],
         "courses_list": [
             {
-                "title": "L\u00f3gica cableada - Arranque y control de motores el\u00e9ctricos",
-                "description": "Dise\u00f1o y simulaci\u00f3n de diagramas de potencia y control para motores el\u00e9ctricos",
-                "link": "https://www.udemy.com/course/logica-cableada-para-motores-electricos/"
+                "title": "Curso de C# .NET AVANZADO",
+                "description": "Aprende conceptos avanzados del lenguaje C#",
+                "link": "https://www.udemy.com/course/curso-de-c-avanzado/"
             },
             {
-                "title": "An\u00e1lisis de Circuitos El\u00e9ctricos. Parte I",
-                "description": "Resoluci\u00f3n de Circuitos El\u00e9ctricos. Espec\u00edficamente Circuitos De corriente directa.",
-                "link": "https://www.udemy.com/course/analisis-de-circuitos-electricos-parte-i/"
+                "title": "Curso de C# .NET AVANZADO",
+                "description": "Aprende conceptos avanzados del lenguaje C#",
+                "link": "https://www.udemy.com/course/curso-de-c-avanzado/"
             }
         ]
     }
