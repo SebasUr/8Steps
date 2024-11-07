@@ -1,6 +1,7 @@
 import React, { useEffect, useContext, useState } from "react"
 import { useNavigate } from "react-router-dom"
 import { AuthContext } from "../contexts/AuthContext"
+import { Navbar } from "../components"
 import api from "../api"
 import "../styles/Main.css"
 
@@ -96,6 +97,7 @@ function Main() {
 
     return (
         <>
+            <Navbar />
             {
                 Array(24).fill(0).map((_, i) => (
                     <div key={i} className="circle"></div>
