@@ -33,7 +33,6 @@ function App() {
 					) : (
 						<>
 							<Router>
-								<Navbar />
 								<Routes>
 									<Route path="/" element={<Main />} />
 									<Route path="/user/profile" element={<Profile />} />

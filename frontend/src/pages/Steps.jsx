@@ -117,6 +117,8 @@ function Steps() {
                     <ul className="navbar-steps-menu"></ul>
                 </div>
                 {
+                    console.log(jobs)}
+                {
                     jobs.length > 0 ? jobs.map((job, index) => (
                         <div
                             key={index}

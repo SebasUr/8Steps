@@ -3,6 +3,7 @@ import { useNavigate } from "react-router-dom"
 import api from "../api"
 import jsPDF from "jspdf"
 import { AuthContext } from "../contexts/AuthContext"
+import { Navbar } from "../components"
 import "../styles/Profile.css"
 
 function Profile() {
@@ -33,40 +34,66 @@ function Profile() {
     }, [])
 
     const generatePDF = (jobs) => {
-        const doc = new jsPDF()
+        const doc = new jsPDF();
+        let yPosition = 10; // Posición inicial en el eje Y
+    
         jobs.forEach((item, index) => {
-            doc.setFontSize(16)
-            doc.text(`Título: ${item.title}`, 10, 10 + index * 40)
-            doc.setFontSize(12)
-            doc.text(`Duración: ${item.duration}`, 10, 20 + index * 40)
-            doc.text(`Descripción: ${item.description}`, 10, 30 + index * 40)
-
+            doc.setFontSize(16);
+            doc.text(`Título: ${item.title}`, 10, yPosition);
+            yPosition += 10;
+    
+            doc.setFontSize(12);
+            doc.text(`Duración: ${item.duration}`, 10, yPosition);
+            yPosition += 10;
+    
+            const descriptionLines = doc.splitTextToSize(`Descripción: ${item.description}`, 180); // Ajusta a 180 mm de ancho
+            doc.text(descriptionLines, 10, yPosition);
+            yPosition += descriptionLines.length * 8;
+    
             // Requerimientos
-            if (item.requirements) {
-                doc.text("Requerimientos:", 10, 40 + index * 40)
-                item.requirements.forEach((req, i) => {
-                    doc.text(`- ${req}`, 15, 50 + i * 10 + index * 40)
-                })
+            if (item.requirements && item.requirements.length > 0) {
+                doc.text("Requerimientos:", 10, yPosition);
+                yPosition += 10;
+                item.requirements.forEach((req) => {
+                    const requirementLines = doc.splitTextToSize(`- ${req}`, 180);
+                    doc.text(requirementLines, 15, yPosition);
+                    yPosition += requirementLines.length * 8;
+                });
             }
-
+    
             // Trabajos recomendados
-            if (item.jobs) {
-                doc.text("Trabajos recomendados:", 10, 60 * 10 + index * 40)
-                item.jobs.forEach((job, j) => {
-                    doc.text(`- ${job}`, 15, 70 * 10 + j * 10 + index * 40)
-                })
+            if (item.jobs && item.jobs.length > 0) {
+                yPosition += 10;
+                doc.text("Trabajos recomendados:", 10, yPosition);
+                yPosition += 10;
+                item.jobs.forEach((job) => {
+                    const jobLines = doc.splitTextToSize(`- ${job}`, 180);
+                    doc.text(jobLines, 15, yPosition);
+                    yPosition += jobLines.length * 8;
+                });
             }
-
+    
             // Cursos recomendados
-            if (item.courses) {
-                doc.text("Cursos recomendados:", 10, 80 * 10 + index * 40)
-                item.courses.forEach((course, k) => {
-                    doc.text(`- ${course}`, 15, 90 * 10 + k * 10 + index * 40)
-                })
+            if (item.courses && item.courses.length > 0) {
+                yPosition += 10;
+                doc.text("Cursos recomendados:", 10, yPosition);
+                yPosition += 10;
+                item.courses.forEach((course) => {
+                    const courseLines = doc.splitTextToSize(`- ${course}`, 180);
+                    doc.text(courseLines, 15, yPosition);
+                    yPosition += courseLines.length * 8;
+                });
             }
-        })
-
-        doc.save("filtered_data_report.pdf")
+    
+            yPosition += 20;
+    
+            if (yPosition > 270) {
+                doc.addPage();
+                yPosition = 10;
+            }
+        });
+    
+        doc.save("filtered_data_report.pdf");
     }
 
     const handleCourseSubmit = async (e) => {
@@ -109,6 +136,8 @@ function Profile() {
     }
 
     return (
+        <>
+        <Navbar />
         <div className="body-profile">
             <div className="profile-card">
                 {/* Columna izquierda con el encabezado de perfil y trayectorias */}
@@ -216,6 +245,7 @@ function Profile() {
                 </div>
             )}
         </div>
+        </>
     )
 }
 
