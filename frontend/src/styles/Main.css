@@ -31,7 +31,7 @@ button {
     position: relative;
     display:block;
     height: 45px;
-    width: 20%;
+    width: 30vh;
     margin: 10px 7px;
     margin-top: 60px;
     padding: 5px 5px;
@@ -125,22 +125,20 @@ select {
 .search-bar {
     position: relative; 
     display: flex;
-    align-items: center;
+    flex-direction: column; /* Cambiado de row a column para pantallas pequeñas */
     background-color: #ffffff;
-    padding: 10px 20px;
+    padding: 10px 15px; /* Reducido para pantallas más pequeñas */
     border-radius: 50px;
     box-shadow: 0px 0px 20px rgba(215, 215, 215, 0.5);
     font-family: Arial;
-    width: 80%;
+    width: 90%; /* Cambiado a un ancho más pequeño */
+    max-width: 80%; /* Agregado para un máximo ancho en pantallas grandes */
     z-index: 1;
-}
-
-.select:focus {
-    outline: none;
 }
 
 .search-fields {
     display: flex;
+    flex-direction: column; /* Cambiado para ajustar los inputs uno debajo del otro */
     align-items: center;
     width: 100%;
 }
@@ -150,29 +148,39 @@ select {
     border: none;
     border-radius: 50px;
     padding: 8px 12px;
-    margin-right: 10px;
+    margin-bottom: 10px; /* Ajustado para separación entre inputs */
     font-size: 16px;
     flex: 1;
     color: #001B38;
     transition: border 0.3s;
-    position: relative;
-    z-index: 0;
-}
-
-#input-field-soy {
-    display: none;
-}
-
-.input-field:focus {
-    outline: none;
+    width: 100%; /* El input ocupará todo el ancho disponible */
 }
 
 #andText {
-    margin-right: 10px;
-    font-size: 20px;
-    font-family: Oswald, Helvetica, sans-serif;
-    color:#000;
-    text-transform: none;
+    display: none; /* Ocultamos el texto para pantallas pequeñas */
+    margin-bottom: 5px;
+}
+
+/* Media query para pantallas grandes */
+@media (min-width: 768px) {
+    .search-bar {
+        flex-direction: row; /* Cambiamos de nuevo a row */
+    }
+
+    .search-fields {
+        flex-direction: row; /* Cambiamos los inputs a disposición horizontal */
+    }
+
+    .input-field {
+        margin-bottom: 0; /* Eliminamos el margen extra */
+        margin-right: 10px; /* Restauramos el margen derecho */
+        width: auto; /* Restauramos el ancho automático */
+    }
+
+    #andText {
+        display: inline; /* Mostramos el texto de nuevo */
+        margin-bottom: 0px;
+    }
 }
 
 .wrapper {

@@ -115,18 +115,6 @@ function Main() {
                 </div>
         
                 <form onSubmit={handleSubmit} className="form-search-bar">
-                    {/* <div className="search-bar">
-                        <select id="optionSelector" onChange={() => { updateSearchBar() }}>
-                            <option value="soy">Soy</option>
-                            <option value="quiero">Quiero trabajar como</option>
-                        </select>
-                        <div id="searchFields" className="search-fields">
-                            <input type="text" placeholder="Profesión o estudio actual" className="input-field" />
-                            <input type="text" placeholder="Trabajo deseado" className="input-field" id="input-field-soy" />
-                            <span id="andText"> y quiero trabajar como</span>
-                            <input type="text" placeholder="Trabajo deseado, puedes añadir en donde!" className="input-field" />
-                        </div>
-                    </div> */}
                     <div className="search-bar">
                         <select id="optionSelector" onChange={(e) => setSearchType(e.target.value)}>
                             <option value="soy">Soy</option>

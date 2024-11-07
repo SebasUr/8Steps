@@ -124,6 +124,31 @@
     border: none;
     cursor: pointer;
     z-index: 1000;
+    width: auto;
+}
+
+.button-toggle {
+    position: relative;
+    display:block;
+    height: 45px;
+    width: 20%;
+    margin: 10px 7px;
+    margin-top: 60px;
+    padding: 5px 5px;
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: #000000;
+    border: 2px #000000 solid;
+    border-radius: 50px;
+    box-shadow:  0px 0px 36px -16px rgb(255, 255, 255);
+    text-transform: uppercase;
+    outline: 0;
+    overflow:hidden;
+    background: none;
+    z-index: 1;
+    cursor: pointer;
+    transition: 0.08s ease-in;
 }
 
 @media (max-width: 1200px) {
