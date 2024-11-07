@@ -1,20 +1,10 @@
 import React from "react"
-import Form from "../components/Form"
+import { Form, Navbar } from "../components"
 
 function LoginRegister() {
     return (
         <>
-            <header className="navbar">
-                <div className="site-logo">
-                    <img src="/logosvg.svg" alt="Icono" className="logo-icon" />
-                    <span className="bold-text">8STE</span><span className="normal-text">PS</span>
-                </div>
-    
-                <a href="https://www.magneto365.com/es" className="site-link" target="_blank" rel="noopener noreferrer">
-                    <img src="/logo-magneto.svg" alt="Magneto Logo" className="magneto-logo" />
-                </a>
-            </header>
-            <br /><br /><br /><br /><br />
+            <Navbar />
             <div className="body">
                 <div className="container" id="container">
                     <Form route="/users/api/token/" method="login"/>

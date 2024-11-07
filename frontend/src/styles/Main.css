@@ -241,25 +241,6 @@ select {
     opacity: 0;
 }
 
-@media (max-width: 900px) {
-    .container-items {
-        height: 100px;
-    }
-    .item {
-        font-size: 20px;
-    }
-    .item:hover {
-        flex-grow: 1;
-        font-size: 20px;
-    }
-    .container-img-wrap {
-        display: none;
-    }
-    .navbar {
-        display: none !important;
-    }
-}
-
 @keyframes fadeIn {
     from {
         opacity: 0;

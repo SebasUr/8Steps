@@ -106,7 +106,6 @@ function Profile() {
             await api.patch("/users/api/user/profile/", {
                 courses: { courses: [...courses, newCourse] },
             })
-            alert("Curso añadido exitosamente")
             setShowCourseModal(false)
         }
     }
@@ -121,7 +120,6 @@ function Profile() {
             await api.patch("/users/api/user/profile/", {
                 certifications: { certifications: [...certifications, newCertification] },
             })
-            alert("Certificación añadida exitosamente")
             setShowCertificationModal(false)
         }
     }
