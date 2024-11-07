@@ -1,523 +1,1288 @@
 [
     {
+        "about_work": false,
+        "title": "Voluntario en una ONG",
+        "description": "Empezar a trabajar en una ONG te permitir\u00e1 familiarizarte con el sector y entender los desaf\u00edos y retos que se enfrentan. Esto te dar\u00e1 una visi\u00f3n m\u00e1s clara de lo que se necesita para trabajar en el sector y podr\u00e1s desarrollar habilidades valiosas como la comunicaci\u00f3n, el trabajo en equipo y la gesti\u00f3n de proyectos. Adem\u00e1s, podr\u00e1s establecer contactos y networking que te ser\u00e1n \u00fatiles en el futuro.",
+        "courses": [
+            "Project Management",
+            "Social Media Marketing"
+        ],
+        "courses_list": [
+            {
+                "title": "The Project Management Course: Beginner to PROject Manager",
+                "description": "The Complete Course For Becoming A Successful Project Manager",
+                "link": "https://www.udemy.com/course/the-project-management-course-beginner-to-project-manager/"
+            },
+            {
+                "title": "The Complete Digital Marketing Guide - 26 Courses in 1",
+                "description": "Digital Marketing, Social Media, ChatGPT, Prompt Engineering, Google Ads, Facebook, SEO, WordPress, Instagram, YouTube.",
+                "link": "https://www.udemy.com/course/digital-marketing-guide/"
+            }
+        ]
+    },
+    {
         "about_work": true,
-        "title": "Desarrollador Junior de Software",
-        "position-title": "Junior Software Developer",
-        "description": "En este primer paso, es fundamental que puedas empezar a ganar experiencia en el desarrollo de software. Busca una empresa que te permita crecer y aprender de tus errores. En este puesto, podr\u00e1s desarrollar habilidades t\u00e9cnicas como programaci\u00f3n en lenguajes como Java, Python o C++, y aprender de los procesos de desarrollo de software. Aprovecha para aprender de los seniors y especialistas en la empresa.",
-        "duration": "1-2 a\u00f1os",
+        "title": "Asistente de Project Manager",
+        "description": "En este papel, podr\u00e1s aplicar tus habilidades y conocimientos adquiridos en el paso anterior. Ser\u00e1s responsable de ayudar al Project Manager en la planificaci\u00f3n y ejecuci\u00f3n de proyectos. Esto te permitir\u00e1 desarrollar habilidades como la coordinaci\u00f3n, la atenci\u00f3n al detalle y la gesti\u00f3n del tiempo. Aprender\u00e1s a trabajar bajo presi\u00f3n y a priorizar tareas.",
+        "position-title": "Project Management Assistant",
+        "duration": "6-12 months",
         "requirements": [
-            "Conocimientos en programaci\u00f3n",
-            "Experiencia con lenguajes de programaci\u00f3n"
+            "Microsoft Office",
+            "Project Management Tools",
+            "Communication Skills"
         ],
         "abilities": [
-            "Comunicaci\u00f3n efectiva",
-            "Trabajo en equipo"
-        ],
-        "courses": [
-            "Introducci\u00f3n a la programaci\u00f3n",
-            "Desarrollo de software"
+            "Teamwork",
+            "Time Management",
+            "Attention to Detail"
         ],
         "jobs_list": [
             {
-                "latitude": 43.018799,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_min": 85189.99,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyMDQ2ODMxMSIsInMiOiJ2aHdDQ3BDYzd4R21NRFpBcnBYaHN3In0.b25GhjqcdW-FVGrTq9tnBCQgF2GH2sQuB6RzpoDGR-k",
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "Oregon",
-                        "Coos County",
-                        "Remote"
-                    ],
-                    "display_name": "Remote, Coos County"
-                },
-                "redirect_url": "https://www.adzuna.com/land/ad/4920468311?se=vhwCCpCc7xGmMDZArpXhsw&utm_medium=api&utm_source=a60688b4&v=31A48F9112E5ACFA1E33ADA8958549BD4BDEFBBF",
-                "salary_max": 85189.99,
-                "id": "4920468311",
-                "description": "Job Description Job Description TRANSFORMACTION DYNAMICS, LLC JOB DESCRIPTION - JUNIOR SOFTWARE DEVELOPER TransformAction Dynamics, LLC Our mission is to help federal, municipal, and commercial agencies and businesses courageously pursue and confidently achieve transformational change. For audacious leaders who need insights into technical and financial realities of a successful enterprise transformation, TransformAction Dynamics offers a forensic approach to transformation management. Our cons\u2026",
-                "title": "Junior Software Developer",
-                "created": "2024-10-31T23:42:11Z",
+                "salary_min": 62451.21,
                 "category": {
-                    "label": "IT Jobs",
-                    "tag": "it-jobs",
+                    "label": "Admin Jobs",
+                    "tag": "admin-jobs",
                     "__CLASS__": "Adzuna::API::Response::Category"
                 },
-                "salary_is_predicted": "1",
+                "created": "2024-10-10T16:28:04Z",
+                "redirect_url": "https://www.adzuna.com/details/4897940429?utm_medium=api&utm_source=a60688b4",
+                "salary_max": 62451.21,
+                "latitude": 43.060883,
+                "id": "4897940429",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg5Nzk0MDQyOSIsInMiOiJjRVZabTdpYzd4R2FNZ1pvdElqMk93In0.KYewo-ajs8B1gWcH2o-kTEljiwe2O65suSkmNaUVnkc",
+                "location": {
+                    "display_name": "Syracuse, Onondaga County",
+                    "area": [
+                        "US",
+                        "New York",
+                        "Onondaga County",
+                        "Syracuse"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
                 "company": {
-                    "display_name": "Horizon Resource Services",
+                    "display_name": "Johnson, Mirmiran, and Thompson Inc.",
                     "__CLASS__": "Adzuna::API::Response::Company"
                 },
-                "longitude": -123.884499
-            },
-            {
-                "title": "Junior Software Developer",
-                "id": "4926745468",
-                "description": "Talent Masters is working for a leading national non-profit on its search for a Junior Software Developer. As a Junior Software Developer, you will be an integral part of the IT team, reporting to the Recovery Resource Manager. You will work closely with the Senior Developer and Technical Staff to develop, maintain, and enhance technology solutions that cater to the needs of both internal team members and external customers. Your primary focus will be on the implementation and improvement of so\u2026",
-                "category": {
-                    "label": "IT Jobs",
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "salary_min": 69358.84,
-                "contract_time": "full_time",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "latitude": 32.760168,
-                "created": "2024-11-05T01:23:58Z",
-                "contract_type": "contract",
-                "longitude": -96.765058,
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Talent Masters"
-                },
                 "salary_is_predicted": "1",
-                "salary_max": 69358.84,
-                "location": {
-                    "display_name": "Highland Park, Dallas",
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "Texas",
-                        "Dallas",
-                        "Highland Park"
-                    ]
-                },
-                "redirect_url": "https://www.adzuna.com/land/ad/4926745468?se=vhwCCpCc7xGmMDZArpXhsw&utm_medium=api&utm_source=a60688b4&v=122BA7E8119E046AE727C66D3AA042EA05389CC8",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyNjc0NTQ2OCIsInMiOiJ2aHdDQ3BDYzd4R21NRFpBcnBYaHN3In0.VcVEUu0fmrzKSQsF8_j07PAwXrxPH_a9IsULznfzubQ"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Universidad de L\u00f3gica de Programaci\u00f3n - Aprende 7 Lenguajes!",
-                "description": "+ 55 hrs - Aprende la L\u00f3gica de Programaci\u00f3n con 7 Lenguajes: PSeInt, Python, Java, JavaScript, C, C++ y C#",
-                "link": "https://www.udemy.com/course/universidad-de-logica-de-programacion-python-java-javascript-c-pseint/"
+                "description": "Johnson, Mirmiran & Thompson is a dynamic, 100% employee-owned consulting firm of more than 2,300 professionals that provides a full range of multi-disciplined engineering, architecture, information technology, and related services to public agencies and private clients throughout the United States. JMT, currently ranked 61 on Engineering News-Record's list of the Top 500 Design Firms. Position Summary: This position will provide support to Project Managers and Deputy Project Managers throughou\u2026",
+                "title": "Project Management Assistant I",
+                "longitude": -76.136905
             },
             {
-                "title": "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL",
-                "description": "Aprende Desarrollo Web con este curso 100% pr\u00e1ctico, paso a paso y sin conocimientos previo INCLUYE 4 PROYECTOS FINALES",
-                "link": "https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Desarrollador de Software",
-        "position-title": "Software Developer",
-        "description": "En este paso, debes haber adquirido experiencia en el desarrollo de software y comenzar a tomar responsabilidades m\u00e1s grandes. Debes ser capaz de liderar peque\u00f1os proyectos y trabajar con equipo. Aprovecha para mejorar tus habilidades t\u00e9cnicas y aprender de nuevos lenguajes y tecnolog\u00edas.",
-        "duration": "2-3 a\u00f1os",
-        "requirements": [
-            "Experiencia como desarrollador junior",
-            "Conocimientos en bases de datos",
-            "Experiencia con frameworks y bibliotecas"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Trabajo bajo presi\u00f3n"
-        ],
-        "courses": [
-            "Dise\u00f1o de patrones",
-            "Desarrollo de aplicaciones web"
-        ],
-        "jobs_list": [
-            {
-                "title": "APRENDIZ DE ANALISIS Y DESARROLLADOR DE SOFTWARE - ACPA - 232241",
-                "redirect_url": "https://www.magneto365.com/co/empleos/aprendiz-de-analisis-y-desarrollador-de-software-acpa-232241-8bed739b-6a08-4ff1-bb8b-55732c7e6562?utm_campaign=jobs-nutresa&utm_medium=referral",
-                "city": "Barranquilla"
-            },
-            {
-                "title": "Desarrollador de aplicaciones TI",
-                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-de-aplicaciones-ti-5a87138e-6936-441f-b62d-3bbe3f596015?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "Medell\u00edn"
-            },
-            {
-                "title": "Desarrollador de software",
-                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-de-software-7a04d6e8-9ab5-4db5-80dd-3bbe88805e82?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "Medell\u00edn"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Patrones de dise\u00f1o de software y principios SOLID.",
-                "description": "Descubre los design patterns y los principios SOLID que te permitir\u00e1n construir aplicaciones m\u00e1s profesionales en Java.",
-                "link": "https://www.udemy.com/course/patrones-de-diseno-y-principios-solid/"
-            },
-            {
-                "title": "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL",
-                "description": "Aprende Desarrollo Web con este curso 100% pr\u00e1ctico, paso a paso y sin conocimientos previo INCLUYE 4 PROYECTOS FINALES",
-                "link": "https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "L\u00edder de Equipo de Desarrollo",
-        "position-title": "Development Team Lead",
-        "description": "En este puesto, debes ser capaz de liderar un equipo de desarrolladores y tomar decisiones t\u00e9cnicas importantes. Debes ser un l\u00edder efectivo y comunicativo, capaz de motivar a tus compa\u00f1eros de equipo. Aprovecha para mejorar tus habilidades de liderazgo y aprender de la gesti\u00f3n de proyectos.",
-        "duration": "3-4 a\u00f1os",
-        "requirements": [
-            "Experiencia como desarrollador",
-            "Experiencia en liderazgo",
-            "Conocimientos en gesti\u00f3n de proyectos"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Comunicaci\u00f3n efectiva",
-            "Gesti\u00f3n de conflicto"
-        ],
-        "courses": [
-            "Liderazgo y gesti\u00f3n de equipos",
-            "Gesti\u00f3n de proyectos \u00e1giles"
-        ],
-        "jobs_list": [
-            {
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "description": "SMBC Group is a top-tier global financial group. Headquartered in Tokyo and with a 400-year history, SMBC Group offers a diverse range of financial services, including banking, leasing, securities, credit cards, and consumer finance. The Group has more than 130 offices and 80,000 employees worldwide in nearly 40 countries. Sumitomo Mitsui Financial Group, Inc. (SMFG) is the holding company of SMBC Group, which is one of the three largest banking groups in Japan. SMFG\u2019s shares trade on the Tokyo\u2026",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg3NTc2Mzc4NiIsInMiOiJjRVZabTdpYzd4R2FNZ1pvdElqMk93In0.BvVVPg9DUAgBz5P0W8ZV2OAoCNTkfazBteLccmCHoyU",
+                "id": "4875763786",
+                "salary_max": 121822.16,
                 "salary_is_predicted": "1",
-                "salary_max": 170732.2,
-                "id": "4921805500",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyMTgwNTUwMCIsInMiOiJmQlJfRHBDYzd4R2FNZ1pvdElqMk93In0.3Z0797IKRezXE_tso3Z2v6x51ct2TVvMhRKqHQLEUiU",
+                "description": "What we\u2019re looking for: Bachelors degree in Applied Information Technology, Database Management Systems, Information Technology and Business Strategy or related field and 5 years of experience in the job offered or in a related occupation. Masters degree in Applied Information Technology, Database Management Systems, Information Technology and Business Strategy or related field and 2 years of experience in the job offered or in a related occupation. This position is eligible for incentives purs\u2026",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "redirect_url": "https://www.adzuna.com/land/ad/4875763786?se=cEVZm7ic7xGaMgZotIj2Ow&utm_medium=api&utm_source=a60688b4&v=0C4987B292AA6BABA490FE811FB6A2B7F8D430A3",
                 "category": {
                     "__CLASS__": "Adzuna::API::Response::Category",
                     "label": "IT Jobs",
                     "tag": "it-jobs"
                 },
-                "created": "2024-11-01T10:51:27Z",
-                "redirect_url": "https://www.adzuna.com/land/ad/4921805500?se=fBR_DpCc7xGaMgZotIj2Ow&utm_medium=api&utm_source=a60688b4&v=849D5C0A0E8E0C5F4A50D9956FB3D08319C9DF42",
-                "company": {
-                    "display_name": "SMBC Group",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "contract_time": "full_time",
-                "title": "Technology Developer Team Lead - Director",
-                "longitude": -74.0784,
-                "latitude": 40.7282,
+                "created": "2024-09-25T08:21:11Z",
                 "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
                     "area": [
                         "US",
                         "New Jersey",
-                        "Hudson County",
-                        "Five Corners"
+                        "Morris County",
+                        "Whippany"
                     ],
-                    "display_name": "Five Corners, Hudson County",
-                    "__CLASS__": "Adzuna::API::Response::Location"
+                    "display_name": "Whippany, Morris County"
                 },
-                "salary_min": 170732.2
-            },
-            {
+                "latitude": 40.821768,
+                "longitude": -74.422003,
+                "contract_time": "full_time",
+                "title": "Project Manager, Assistant Vice President",
                 "company": {
                     "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Ford Motor Company"
+                    "display_name": "Barclays"
                 },
-                "salary_is_predicted": "1",
-                "description": "We are the movers of the world and the makers of the future. We get up every day, roll up our sleeves and build a better world  together. At Ford, we're all a part of something bigger than ourselves. Are you ready to change the way the world moves? Enterprise Platform Engineering & Operations (EPEO) is responsible for the engineering, implementation, and support of IT infrastructure solutions within Ford. The Workplace Tech Customer Experience (CX) team seeks to improve the tech experience that\u2026",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "longitude": -121.46649,
-                "title": "ServiceNow Virtual Agent Developer - Team Lead",
-                "salary_max": 137774.44,
-                "latitude": 38.57562,
-                "id": "4920165674",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkJSX0RwQ2M3eEdhTWdab3RJajJPdyIsImkiOiI0OTIwMTY1Njc0In0.GYkbd8q2cq1GwxM8w2wKSCFnMb_l4_jmaSODaJ4VukQ",
-                "location": {
-                    "area": [
-                        "US",
-                        "California",
-                        "Sacramento County",
-                        "Sacramento"
-                    ],
-                    "display_name": "Sacramento, Sacramento County",
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "created": "2024-10-31T15:59:48Z",
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs",
-                    "label": "IT Jobs"
-                },
-                "redirect_url": "https://www.adzuna.com/details/4920165674?utm_medium=api&utm_source=a60688b4",
-                "salary_min": 137774.44
+                "salary_min": 121822.16
             }
+        ]
+    },
+    {
+        "about_work": false,
+        "title": "Creaci\u00f3n de un blog o sitio web personal",
+        "description": "Crear un blog o sitio web personal te permitir\u00e1 mostrar tus habilidades y conocimientos al mundo. Podr\u00e1s escribir sobre tus experiencias y conocimientos en el sector y establecer una presencia en l\u00ednea. Esto te ayudar\u00e1 a establecercredibilidad y a promover tus habilidades.",
+        "courses": [
+            "Web Development",
+            "Content Writing"
         ],
         "courses_list": [
             {
-                "title": "Liderazgo y Gesti\u00f3n de equipos | Certificaci\u00f3n",
-                "description": "Aprend\u00e9 a gestionar y liderar tu equipo de trabajo. (Incluye trabajo remoto e h\u00edbrido)",
-                "link": "https://www.udemy.com/course/liderazgo-y-gestion-de-equipos-certificacion-2018/"
+                "title": "The Complete 2024 Web Development Bootcamp",
+                "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps",
+                "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
             },
             {
-                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
-                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
-                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
+                "title": "The Content Writing Course",
+                "description": "Next Level Content Writing: Topic Selection, Research, Outlining, Writing, Editing &amp; Publishing Assisted by AI Apps",
+                "link": "https://www.udemy.com/course/the-content-writing-course/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Arquitecto de Software",
-        "position-title": "Software Architect",
-        "description": "En este puesto, debes ser capaz de dise\u00f1ar y implementar la arquitectura de software de la empresa. Debes tener una visi\u00f3n clara de la tecnolog\u00eda y ser capaz de tomar decisiones t\u00e9cnicas importantes. Aprovecha para mejorar tus habilidades en dise\u00f1o y arquitectura de software.",
-        "duration": "4-5 a\u00f1os",
+        "title": "Coordinador de proyectos",
+        "description": "En este papel, ser\u00e1s responsable de coordinar y gestionar proyectos desde el principio hasta el final. Esto te permitir\u00e1 desarrollar habilidades como la planificaci\u00f3n, la gesti\u00f3n de riesgos y la evaluaci\u00f3n de resultados. Aprender\u00e1s a trabajar de forma aut\u00f3noma y a tomar decisiones informadas.",
+        "position-title": "Project Coordinator",
+        "duration": "1-2 years",
         "requirements": [
-            "Experiencia como l\u00edder de equipo",
-            "Conocimientos en arquitectura de software",
-            "Experiencia con tecnolog\u00edas emergentes"
+            "Project Management Certification",
+            "Leadership Skills",
+            "Problem-Solving Skills"
         ],
         "abilities": [
-            "Visi\u00f3n a largo plazo",
-            "Comunicaci\u00f3n efectiva",
-            "Liderazgo"
-        ],
-        "courses": [
-            "Arquitectura de software",
-            "Dise\u00f1o de patrones"
+            "Leadership",
+            "Problem-Solving",
+            "Autonomy"
         ],
         "jobs_list": [
             {
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyODk1MTE1NiIsInMiOiJhdWFlRUpDYzd4R21NRFpBcnBYaHN3In0.zP3Kt99KVerdD3rf33Bdua7VlScOCPfrEdZQMLmUmls",
-                "redirect_url": "https://www.adzuna.com/land/ad/4928951156?se=auaeEJCc7xGmMDZArpXhsw&utm_medium=api&utm_source=a60688b4&v=A7107C51BFEA1E8E30BDC5171078ACB1A5CE23A0",
+                "salary_is_predicted": "1",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVmlnQm5yaWM3eEd3M09nWUtKX1NvUSIsImkiOiI0ODQzMDc2OTc5In0.NoI1AOFb4AesQiYD578Y2Tz1bcPdG7E0usEeZP-ngOU",
+                "latitude": 30.071907,
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "NES Fircroft",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "redirect_url": "https://www.adzuna.com/land/ad/4843076979?se=VigBnric7xGw3OgYKJ_SoQ&utm_medium=api&utm_source=a60688b4&v=C599D16302547307770F2B220CE6070CC1580455",
                 "location": {
-                    "display_name": "Orlando, Orange County",
+                    "display_name": "Spring, Harris County",
                     "__CLASS__": "Adzuna::API::Response::Location",
                     "area": [
                         "US",
-                        "Florida",
-                        "Orange County",
-                        "Orlando"
+                        "Texas",
+                        "Harris County",
+                        "Spring"
                     ]
                 },
-                "salary_max": 115420.88,
-                "latitude": 28.541666,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_min": 115420.88,
+                "id": "4843076979",
+                "longitude": -95.373125,
+                "salary_min": 70713,
                 "category": {
-                    "tag": "it-jobs",
-                    "label": "IT Jobs",
+                    "tag": "engineering-jobs",
+                    "label": "Engineering Jobs",
                     "__CLASS__": "Adzuna::API::Response::Category"
                 },
-                "salary_is_predicted": "1",
-                "longitude": -81.375686,
-                "company": {
-                    "display_name": "Kavaliro",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "description": "Our client is seeking a Software Architect in Orlando, FL. The Software Architect will play a critical role in designing and developing high-quality, scalable software solutions aligned with business goals. As a technical leader, you will guide the development team through the software development lifecycle, from concept and design to deployment and maintenance. You will be responsible for ensuring that all architectural solutions meet both technical and business requirements and adhere to best\u2026",
-                "id": "4928951156",
-                "title": "Software Architect",
-                "created": "2024-11-06T15:32:05Z"
+                "salary_max": 70713,
+                "description": "MAIN FUNCTIONS Provide office coordination in support of geophysical vendor field operations TASKS AND RESPONSIBILITIES In addition to Level 1 tasks and responsibilities, Level 2: \u00e2\u0080\u00a2 Coordinates the disposition of RFIs, NCRs and Field Changes \u00e2\u0080\u00a2 Assists managing design changes throughout the project lifecycle \u00e2\u0080\u00a2 Addresses and solves day to day project coordination challenges supporting the PM in the identification, logging, analysis and resolution/mitigation of issues and risks \u00e2\u0080\u00a2 Assists i\u2026",
+                "title": "Project Coordinator",
+                "created": "2024-08-28T17:13:56Z"
             },
             {
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Hubbard House Inc"
+                },
+                "description": "Description: POSITION SUMMARY: The Education Project Coordinator (EPC) works with a professional team focused on community education. The EPC coordinates the federally-funded Not My City education program to engage men and boys as allies in the prevention of violence against women and girls. Working closely with the Director of Community Education, the EPC develops Project curriculum, collaborates with Project and community partners, and facilitates educational programming. The position require\u2026",
+                "created": "2024-11-04T11:03:56Z",
+                "redirect_url": "https://www.adzuna.com/details/4925982395?utm_medium=api&utm_source=a60688b4",
+                "title": "Education Project Coordinator",
+                "salary_max": 52127.67,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Other/General Jobs",
+                    "tag": "other-general-jobs"
+                },
+                "latitude": 30.2783,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyNTk4MjM5NSIsInMiOiJWaWdCbnJpYzd4R3czT2dZS0pfU29RIn0.u2CKIdOj8ZsnWRiDbP0x8iFz6HtscDmlbn-bndjTRD0",
+                "salary_min": 52127.67,
+                "longitude": -81.5821,
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_min": 110545.14,
-                "latitude": 33.755711,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYXVhZUVKQ2M3eEdtTURaQXJwWGhzdyIsImkiOiI0OTA4NzE2MzQxIn0.-MBtVjIchjcPUDWtYMof9bphJZcMdNT32O-1XUfuA9s",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Atlantic Beach, Duval County",
+                    "area": [
+                        "US",
+                        "Florida",
+                        "Duval County",
+                        "Atlantic Beach"
+                    ]
+                },
+                "salary_is_predicted": "1",
+                "id": "4925982395"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Gerente de programas",
+        "description": "En este papel, ser\u00e1s responsable de gestionar y coordinar programas y proyectos en el sector. Esto te permitir\u00e1 desarrollar habilidades como la estrategia, la planificaci\u00f3n y la ejecuci\u00f3n. Aprender\u00e1s a trabajar con diferentes equipos y a establecer alianzas.",
+        "position-title": "Program Manager",
+        "duration": "2-5 years",
+        "requirements": [
+            "MBA or Master's Degree",
+            "Program Management Certification",
+            "Strategic Planning Skills"
+        ],
+        "abilities": [
+            "Strategic Thinking",
+            "Collaboration",
+            "Innovative Problem-Solving"
+        ],
+        "jobs_list": [
+            {
+                "category": {
+                    "label": "Trade & Construction Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "trade-construction-jobs"
+                },
+                "description": "Clean Harbors in Derwood, MD is seeking a Household Hazard Waste Program Manager responsible for growing the CleanPack and Treatment and Disposal business within an assigned territory. This role will develop and execute a sustainable business plan by working in conjunction with the Regional Sales and Operations personnel. Clean Harbors is the leading provider of environmental, energy and industrial services throughout the United States, Canada, Mexico and Puerto Rico. Everywhere industry meets \u2026",
+                "title": "Program Manager",
+                "created": "2024-09-01T04:23:43Z",
+                "salary_max": 73627.7,
+                "longitude": -76.92828,
+                "location": {
+                    "area": [
+                        "US",
+                        "Maryland",
+                        "Prince George's County",
+                        "Bladensburg"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bladensburg, Prince George's County"
+                },
+                "id": "4847098070",
+                "salary_min": 73627.7,
+                "latitude": 38.94084,
+                "company": {
+                    "display_name": "Clean Harbors",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "redirect_url": "https://www.adzuna.com/land/ad/4847098070?se=7OyFoLic7xGw3OgYKJ_SoQ&utm_medium=api&utm_source=a60688b4&v=7955C07832822BA78860B4027F93483EF800FDFD",
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "1",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg0NzA5ODA3MCIsInMiOiI3T3lGb0xpYzd4R3czT2dZS0pfU29RIn0.gu81SL-X8KVljQALM3v2kA6cek-L_Dvy46NKk-_Nvr0"
+            },
+            {
+                "category": {
+                    "tag": "trade-construction-jobs",
+                    "label": "Trade & Construction Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_max": 74149.5,
+                "title": "Program Manager",
+                "created": "2024-09-01T08:21:28Z",
+                "description": "Clean Harbors in Derwood, MD is seeking a Household Hazard Waste Program Manager responsible for growing the CleanPack and Treatment and Disposal business within an assigned territory. This role will develop and execute a sustainable business plan by working in conjunction with the Regional Sales and Operations personnel. Clean Harbors is the leading provider of environmental, energy and industrial services throughout the United States, Canada, Mexico and Puerto Rico. Everywhere industry meets \u2026",
+                "id": "4847477132",
+                "location": {
+                    "display_name": "Linthicum, Anne Arundel County",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Maryland",
+                        "Anne Arundel County",
+                        "Linthicum"
+                    ]
+                },
+                "longitude": -76.66431,
+                "salary_min": 74149.5,
+                "latitude": 39.178283,
+                "contract_time": "full_time",
+                "redirect_url": "https://www.adzuna.com/land/ad/4847477132?se=7OyFoLic7xGw3OgYKJ_SoQ&utm_medium=api&utm_source=a60688b4&v=762400592B58D6ED6BE570617D305E9E3B5E123C",
+                "company": {
+                    "display_name": "Clean Harbors",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_is_predicted": "1",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN095Rm9MaWM3eEd3M09nWUtKX1NvUSIsImkiOiI0ODQ3NDc3MTMyIn0.dzRWAI0Pp_lssCO1-QJz5Cf3FCuv6gq1rMqV0wFxLRw"
+            }
+        ]
+    },
+    {
+        "about_work": false,
+        "title": "Participaci\u00f3n en conferencias y eventos",
+        "description": "Participar en conferencias y eventos te permitir\u00e1 establecer contactos y networking en el sector. Podr\u00e1s aprender de expertos y compartir tus propias experiencias y conocimientos. Esto te ayudar\u00e1 a mantenerse actualizado en las \u00faltimas tendencias y desarrollo en el sector.",
+        "courses": [
+            "Public Speaking",
+            "Networking"
+        ],
+        "courses_list": [
+            {
+                "title": "The Complete Presentation and Public Speaking/Speech Course",
+                "description": "From page to stage; learn everything you need to know about giving a great speech for business & personal presentations.",
+                "link": "https://www.udemy.com/course/the-complete-presentation-and-public-speaking-speech-course/"
+            },
+            {
+                "title": "The Complete Networking Fundamentals Course. Your CCNA start",
+                "description": "Learn about networking and start your journey to Cisco 200-301 Certification.",
+                "link": "https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Consultor en el sector",
+        "description": "En este papel, ser\u00e1s responsable de asesorar y ayudar a organizaciones en el sector. Esto te permitir\u00e1 desarrollar habilidades como la consulta, la capacitaci\u00f3n y el desarrollo de estrategias. Aprender\u00e1s a trabajar de forma aut\u00f3noma y a establecer relaciones con clientes.",
+        "position-title": "Consultant",
+        "duration": "2-5 years",
+        "requirements": [
+            "Expertise in the sector",
+            "Consulting Skills",
+            "Business Development Skills"
+        ],
+        "abilities": [
+            "Consulting",
+            "Business Development",
+            "Autonomy"
+        ],
+        "jobs_list": [
+            {
+                "title": " Asesor(a) Comercial de Seguros - Tunja",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-tunja-c923c525-16e0-4eda-ae47-65022fde342e?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Tunja"
+            },
+            {
+                "title": "Customer Success Magneto",
+                "redirect_url": "https://www.magneto365.com/co/empleos/customer-success-magneto-24a0f537-ef7d-44f7-952c-2f3c57bd0660?utm_campaign=magneto-global&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Customer Success Magneto",
+                "redirect_url": "https://www.magneto365.com/co/empleos/customer-success-magneto-24a0f537-ef7d-44f7-952c-2f3c57bd0660?utm_campaign=magneto-global&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Profesional Sistema de Gesti\u00f3n Integrado",
+                "redirect_url": "https://www.magneto365.com/co/empleos/profesional-sistema-de-gesti-n-integrado-ec6fac6d-de9d-48da-ad44-38937be16bb9?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Gestor de Inventarios y Activos",
+                "redirect_url": "https://www.magneto365.com/co/empleos/gestor-de-inventarios-y-activos-2662d6fd-b761-4a01-8c0e-f099a6782105?utm_campaign=indra&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Gestor de Accesos L\u00f3gicos",
+                "redirect_url": "https://www.magneto365.com/co/empleos/gestor-de-accesos-l-gicos-a432311e-edb7-4f64-ba27-d00544abf043?utm_campaign=indra&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "AGENTE COMERCIAL",
+                "redirect_url": "https://www.magneto365.com/co/empleos/agente-comercial-63a368f1-b680-4e03-9003-74b060b9a978?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "Analista Funcional SAP Nivel 1 Medell\u00edn ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/analista-funcional-sap-nivel-1-medell-n-c647b675-97bd-4031-8b4b-c02f0101a47a?utm_campaign=indra&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Asesora Comercial Independiente",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesora-comercial-independiente-21385b27-9677-454e-bafa-559a2d516a1b?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Otra (Valle del Cauca)"
+            },
+            {
+                "title": "Asesora Comercial Independiente",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesora-comercial-independiente-21385b27-9677-454e-bafa-559a2d516a1b?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Analista de Operaciones",
+                "redirect_url": "https://www.magneto365.com/co/empleos/analista-de-operaciones-10b2f5ea-3607-4ae4-bd88-03530eef50f5?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Agente de call center/ ventas",
+                "redirect_url": "https://www.magneto365.com/co/empleos/agente-de-call-center-ventas-094b7f9f-bb94-41da-9f8e-ec05cd22df38?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "Director(a) de Marketing y Comunicaci\u00f3n",
+                "redirect_url": "https://www.magneto365.com/co/empleos/director-a-de-marketing-y-comunicaci-n-57c24972-64d6-43a6-96c0-c6698df217e8?utm_campaign=magneto&utm_medium=referral",
+                "city": "Miguel Hidalgo"
+            },
+            {
+                "title": "Agente de Mesa de Servicios Biling\u00fce 7X 24",
+                "redirect_url": "https://www.magneto365.com/co/empleos/agente-de-mesa-de-servicios-biling-e-7x-24-2d115c53-37df-4ccc-8456-2bc5a4f41baf?utm_campaign=indra&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Agente de Mesa de Servicios 7 X 24",
+                "redirect_url": "https://www.magneto365.com/co/empleos/agente-de-mesa-de-servicios-7-x-24-96cb05db-075c-442d-aeab-0426482f6e66?utm_campaign=indra&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Analista Conectividad Cali",
+                "redirect_url": "https://www.magneto365.com/co/empleos/analista-conectividad-cali-43d7d5d9-99f6-439e-82e5-86ce787d1e2a?utm_campaign=arus&utm_medium=referral",
+                "city": "Palmira"
+            },
+            {
+                "title": "Analista Conectividad Cali",
+                "redirect_url": "https://www.magneto365.com/co/empleos/analista-conectividad-cali-43d7d5d9-99f6-439e-82e5-86ce787d1e2a?utm_campaign=arus&utm_medium=referral",
+                "city": "Cali"
+            },
+            {
+                "title": "Analista Conectividad Cali",
+                "redirect_url": "https://www.magneto365.com/co/empleos/analista-conectividad-cali-43d7d5d9-99f6-439e-82e5-86ce787d1e2a?utm_campaign=arus&utm_medium=referral",
+                "city": "Yumbo"
+            },
+            {
+                "title": "Analista Conectividad Cali",
+                "redirect_url": "https://www.magneto365.com/co/empleos/analista-conectividad-cali-43d7d5d9-99f6-439e-82e5-86ce787d1e2a?utm_campaign=arus&utm_medium=referral",
+                "city": "Jamund\u00ed"
+            },
+            {
+                "title": "Coordinador Mesa de Ayuda  (Medell\u00edn)",
+                "redirect_url": "https://www.magneto365.com/co/empleos/coordinador-mesa-de-ayuda-233de483-4947-4f27-bb1b-ed6ca491b936?utm_campaign=indra&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "CALL CENTER",
+                "redirect_url": "https://www.magneto365.com/co/empleos/call-center-d811c7b0-46e8-4244-9b12-8762b538617c?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Analista Conectividad Senior",
+                "redirect_url": "https://www.magneto365.com/co/empleos/analista-conectividad-senior-cddc1217-369f-4d8d-accd-5a8713753fc6?utm_campaign=arus&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "Analista Conectividad Senior",
+                "redirect_url": "https://www.magneto365.com/co/empleos/analista-conectividad-senior-cddc1217-369f-4d8d-accd-5a8713753fc6?utm_campaign=arus&utm_medium=referral",
+                "city": "Soledad"
+            },
+            {
+                "title": "Especialista De Agilidad (Scrum Master) - Project Management",
+                "redirect_url": "https://www.magneto365.com/co/empleos/especialista-de-agilidad-453d2b96-2aed-4522-a679-06a399026759?utm_campaign=colsubsidio-talento-humano&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "TELEOPERADOR / AGENTE / ASESOR COMERCIAL DE VENTAS",
+                "redirect_url": "https://www.magneto365.com/co/empleos/teleoperador-agente-asesor-comercial-de-ventas-61943c9f-ba72-4584-b738-1373a159ef30?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "Consultor de Reclutamiento Especializado - Bilingual",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-de-reclutamiento-especializado-bilingual-8b1cfea8-9213-461e-af18-c63f4de069d7?utm_campaign=magneto&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "Consultor de Reclutamiento Especializado - Bilingual",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-de-reclutamiento-especializado-bilingual-8b1cfea8-9213-461e-af18-c63f4de069d7?utm_campaign=magneto&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Consultor de Reclutamiento Especializado - Bilingual",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-de-reclutamiento-especializado-bilingual-8b1cfea8-9213-461e-af18-c63f4de069d7?utm_campaign=magneto&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "Consultor de Reclutamiento Especializado - Bilingual",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-de-reclutamiento-especializado-bilingual-8b1cfea8-9213-461e-af18-c63f4de069d7?utm_campaign=magneto&utm_medium=referral",
+                "city": "Armenia"
+            },
+            {
+                "title": "Consultor de Reclutamiento Especializado - Bilingual",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-de-reclutamiento-especializado-bilingual-8b1cfea8-9213-461e-af18-c63f4de069d7?utm_campaign=magneto&utm_medium=referral",
+                "city": "Bucaramanga"
+            },
+            {
+                "title": "Consultor de Reclutamiento Especializado - Bilingual",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-de-reclutamiento-especializado-bilingual-8b1cfea8-9213-461e-af18-c63f4de069d7?utm_campaign=magneto&utm_medium=referral",
+                "city": "Ibagu\u00e9"
+            },
+            {
+                "title": "Consultor de Reclutamiento Especializado - Bilingual",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-de-reclutamiento-especializado-bilingual-8b1cfea8-9213-461e-af18-c63f4de069d7?utm_campaign=magneto&utm_medium=referral",
+                "city": "Cali"
+            },
+            {
+                "title": "Abogado",
+                "redirect_url": "https://www.magneto365.com/co/empleos/abogado-f0145e49-c334-4132-af2a-a007643d987d?utm_campaign=manufacturas-eliot-pash&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "Abogado Tributarista",
+                "redirect_url": "https://www.magneto365.com/co/empleos/abogado-tributarista-d41fdc28-c015-48b0-a31c-b42b96bb394a?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Customer Success;",
+                "redirect_url": "https://www.magneto365.com/co/empleos/customer-success-1920ba1d-d3c1-45a7-b288-309ca7db2ea2?utm_campaign=magneto-global&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Customer Success;",
+                "redirect_url": "https://www.magneto365.com/co/empleos/customer-success-1920ba1d-d3c1-45a7-b288-309ca7db2ea2?utm_campaign=magneto-global&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Staff de impuestos",
+                "redirect_url": "https://www.magneto365.com/co/empleos/staff-de-impuestos-027cf0a6-1aac-47e2-a368-e95778bb8ab4?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Consultor de Ethical hacking",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-seguridad-de-la-informaci-n-9eedb00d-d495-42b9-a7ea-347007675f42?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Consultor de Ethical hacking",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-seguridad-de-la-informaci-n-9eedb00d-d495-42b9-a7ea-347007675f42?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "AGENTE CALL CENTER",
+                "redirect_url": "https://www.magneto365.com/co/empleos/agente-call-center-6ead8f2c-3fba-4397-bb8e-82f290d23928?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "AGENTE CALL CENTER",
+                "redirect_url": "https://www.magneto365.com/co/empleos/agente-call-center-6ead8f2c-3fba-4397-bb8e-82f290d23928?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Soledad"
+            },
+            {
+                "title": "AGENTE CALL CENTER",
+                "redirect_url": "https://www.magneto365.com/co/empleos/agente-call-center-6ead8f2c-3fba-4397-bb8e-82f290d23928?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Otra (Atlantico)"
+            },
+            {
+                "title": "AGENTE CALL CENTER",
+                "redirect_url": "https://www.magneto365.com/co/empleos/agente-call-center-f161a1a4-1de7-48ed-8b2b-0df47d199c71?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Soledad"
+            },
+            {
+                "title": "AGENTE CALL CENTER",
+                "redirect_url": "https://www.magneto365.com/co/empleos/agente-call-center-f161a1a4-1de7-48ed-8b2b-0df47d199c71?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Otra (Atlantico)"
+            },
+            {
+                "title": "AGENTE CALL CENTER",
+                "redirect_url": "https://www.magneto365.com/co/empleos/agente-call-center-f161a1a4-1de7-48ed-8b2b-0df47d199c71?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "VACANTE VENTAS CALL CENTER",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vacante-ventas-call-center-3d50e7ad-9788-4398-8078-f1fe8b47dc27?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "VACANTE VENTAS CALL CENTER",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vacante-ventas-call-center-3d50e7ad-9788-4398-8078-f1fe8b47dc27?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Otra (Atlantico)"
+            },
+            {
+                "title": "VACANTE VENTAS CALL CENTER",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vacante-ventas-call-center-3d50e7ad-9788-4398-8078-f1fe8b47dc27?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Soledad"
+            },
+            {
+                "title": "Asesor(a) Comercial De Seguros - Bogot\u00e1",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-bogot-e16c9c4b-5831-4f34-a740-09b80ae6267f?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Consultor ventas y desarrollo de negocios",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-ventas-y-desarrollo-de-negocios-f19baabc-1b4d-459e-b4bd-72452959a87a?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "AGENTE BILINGUE COMERCIAL",
+                "redirect_url": "https://www.magneto365.com/co/empleos/agente-bilingue-comercial-27b651ac-7e34-46a4-8c2f-2642cd24a37a?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "Gestor Desarrollo comercial ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/gestor-desarrollo-comercial-cbf3b11c-7140-4a09-9263-3f4d69d405b8?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Auxiliar de odontolog\u00eda",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-odontolog-a-de1abdd6-1cab-427a-b9fd-20090eb7f5c2?utm_campaign=magneto&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "Auxiliar de odontolog\u00eda",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-odontolog-a-de1abdd6-1cab-427a-b9fd-20090eb7f5c2?utm_campaign=magneto&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Analista Gesti\u00f3n de Clientes",
+                "redirect_url": "https://www.magneto365.com/co/empleos/analista-gesti-n-de-clientes-f8a04bb8-b291-40c4-a913-0445c37f9b8c?utm_campaign=magneto-global&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Consultora de belleza/centro comercial/ productos de alto costo",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultora-de-belleza-centro-comercial-productos-de-alto-costo-7edc87eb-29ba-44ff-9410-d9c36c39258c?utm_campaign=4-investment&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "Consultor t\u00e9cnico compresores M\u00e9xico",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-t-cnico-compresores-m-xico-71790e58-39c3-4909-9c56-949b14054e19?utm_campaign=marble&utm_medium=referral",
+                "city": "San Luis Potos\u00ed"
+            },
+            {
+                "title": "Consultor t\u00e9cnico compresores M\u00e9xico",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-t-cnico-compresores-m-xico-71790e58-39c3-4909-9c56-949b14054e19?utm_campaign=marble&utm_medium=referral",
+                "city": "Ac\u00e1mbaro"
+            },
+            {
+                "title": "VACANTE VENTAS CALL CENTER",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vacante-ventas-call-center-59435be9-4b67-43b5-b46c-95e9169ebdf3?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Otra (Atlantico)"
+            },
+            {
+                "title": "VACANTE VENTAS CALL CENTER",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vacante-ventas-call-center-59435be9-4b67-43b5-b46c-95e9169ebdf3?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Soledad"
+            },
+            {
+                "title": "VACANTE VENTAS CALL CENTER",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vacante-ventas-call-center-59435be9-4b67-43b5-b46c-95e9169ebdf3?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "Ingeniero de proyectos",
+                "redirect_url": "https://www.magneto365.com/co/empleos/ingeniero-de-proyectos-4a571f26-a0d0-4fba-96c9-07f166e9e896?utm_campaign=comfenalco-headhunter&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Antioquia y Eje Cafetero, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-antioquia-y-eje-cafetero-seguros-bol-var-5d83cd61-e92e-40b3-9330-148cc3b9c0ad?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Armenia"
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Antioquia y Eje Cafetero, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-antioquia-y-eje-cafetero-seguros-bol-var-5d83cd61-e92e-40b3-9330-148cc3b9c0ad?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Pereira"
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Antioquia y Eje Cafetero, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-antioquia-y-eje-cafetero-seguros-bol-var-5d83cd61-e92e-40b3-9330-148cc3b9c0ad?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Antioquia y Eje Cafetero, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-antioquia-y-eje-cafetero-seguros-bol-var-5d83cd61-e92e-40b3-9330-148cc3b9c0ad?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Manizales"
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Cali, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-regi-n-occidente-seguros-bol-var-5e116ead-e509-4e8f-8ecb-5f5d4b7c53eb?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Cali"
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, C\u00facuta, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-c-cuta-seguros-bol-var-3ed3050e-ccfa-4ce0-8aae-5c3b2cc00edc?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "C\u00facuta"
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Regi\u00f3n Caribe, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-regi-n-caribe-seguros-bol-var-6034abea-3dbc-4d9b-a15b-1c2a57d6eeeb?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Cartagena"
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Regi\u00f3n Caribe, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-regi-n-caribe-seguros-bol-var-6034abea-3dbc-4d9b-a15b-1c2a57d6eeeb?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Santa Marta"
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Regi\u00f3n Caribe, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-regi-n-caribe-seguros-bol-var-6034abea-3dbc-4d9b-a15b-1c2a57d6eeeb?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "Ingeniero de Datos - Python",
+                "redirect_url": "https://www.magneto365.com/co/empleos/ingeniero-de-datos-36294148-355c-4102-a861-6c9d8ab8f400?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "Ingeniero de Datos - Python",
+                "redirect_url": "https://www.magneto365.com/co/empleos/ingeniero-de-datos-36294148-355c-4102-a861-6c9d8ab8f400?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Gerente de Proyectos ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/gerente-de-proyectos-695c7df3-e0e1-4fbc-9d70-e25b222edec5?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Bogot\u00e1 / Periferia -  Tunja, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-bogot-periferia-tunja-seguros-bol-var-8034ca81-5d45-4c3e-991a-8212c0e9106b?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Cajic\u00e1"
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Bogot\u00e1 / Periferia -  Tunja, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-bogot-periferia-tunja-seguros-bol-var-8034ca81-5d45-4c3e-991a-8212c0e9106b?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Zipaquir\u00e1"
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Bogot\u00e1 / Periferia -  Tunja, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-bogot-periferia-tunja-seguros-bol-var-8034ca81-5d45-4c3e-991a-8212c0e9106b?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Bogot\u00e1 / Periferia -  Tunja, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-bogot-periferia-tunja-seguros-bol-var-8034ca81-5d45-4c3e-991a-8212c0e9106b?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Boyac\u00e1"
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Bogot\u00e1 / Periferia -  Tunja, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-bogot-periferia-tunja-seguros-bol-var-8034ca81-5d45-4c3e-991a-8212c0e9106b?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Tunja"
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Bogot\u00e1 / Periferia -  Tunja, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-bogot-periferia-tunja-seguros-bol-var-8034ca81-5d45-4c3e-991a-8212c0e9106b?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Ch\u00eda"
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Bogot\u00e1 / Periferia -  Tunja, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-bogot-periferia-tunja-seguros-bol-var-8034ca81-5d45-4c3e-991a-8212c0e9106b?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Cota"
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Bogot\u00e1 / Periferia -  Tunja, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-bogot-periferia-tunja-seguros-bol-var-8034ca81-5d45-4c3e-991a-8212c0e9106b?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Funza"
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Bogot\u00e1 / Periferia -  Tunja, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-bogot-periferia-tunja-seguros-bol-var-8034ca81-5d45-4c3e-991a-8212c0e9106b?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Madrid"
+            },
+            {
+                "title": "Asesor(a) Comercial de Seguros, Bogot\u00e1 / Periferia -  Tunja, Seguros Bol\u00edvar",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-a-comercial-de-seguros-bogot-periferia-tunja-seguros-bol-var-8034ca81-5d45-4c3e-991a-8212c0e9106b?utm_campaign=grupo-bolivar&utm_medium=referral",
+                "city": "Tocancip\u00e1"
+            },
+            {
+                "title": "AGENTE BILINGUE CALL CENTER",
+                "redirect_url": "https://www.magneto365.com/co/empleos/agente-bilingue-call-center-a5230e3f-e58d-49d6-b93c-a36c376fc9a3?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "Formador(a) Canal Telemarketing Telecomunicaciones",
+                "redirect_url": "https://www.magneto365.com/co/empleos/formador-a-canal-telemarketing-telecomunicaciones-4a3e44bd-b2cd-4de4-b3c3-4a8872a72e9a?utm_campaign=4-investment&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Consultor En\u00e9gertico Industria ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-en-gertico-industria-d2a08dd7-9e1e-415f-af7a-d4d063eb8661?utm_campaign=colgas&utm_medium=referral",
+                "city": "Mosquera"
+            },
+            {
+                "title": "desarrollador React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-react-c2196d4f-f726-4e48-ad81-602b56270745?utm_campaign=indra&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "desarrollador React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-react-c2196d4f-f726-4e48-ad81-602b56270745?utm_campaign=indra&utm_medium=referral",
+                "city": "Pereira"
+            },
+            {
+                "title": "desarrollador React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-react-c2196d4f-f726-4e48-ad81-602b56270745?utm_campaign=indra&utm_medium=referral",
+                "city": "Armenia"
+            },
+            {
+                "title": "desarrollador React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-react-c2196d4f-f726-4e48-ad81-602b56270745?utm_campaign=indra&utm_medium=referral",
+                "city": "Neiva"
+            },
+            {
+                "title": "desarrollador React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-react-c2196d4f-f726-4e48-ad81-602b56270745?utm_campaign=indra&utm_medium=referral",
+                "city": "Cali"
+            },
+            {
+                "title": "desarrollador React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-react-c2196d4f-f726-4e48-ad81-602b56270745?utm_campaign=indra&utm_medium=referral",
+                "city": "Bucaramanga"
+            },
+            {
+                "title": "desarrollador React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-react-c2196d4f-f726-4e48-ad81-602b56270745?utm_campaign=indra&utm_medium=referral",
+                "city": "Santa Marta"
+            },
+            {
+                "title": "desarrollador React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-react-c2196d4f-f726-4e48-ad81-602b56270745?utm_campaign=indra&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "desarrollador React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-react-c2196d4f-f726-4e48-ad81-602b56270745?utm_campaign=indra&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "desarrollador React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-react-c2196d4f-f726-4e48-ad81-602b56270745?utm_campaign=indra&utm_medium=referral",
+                "city": "Cartagena"
+            },
+            {
+                "title": "desarrollador React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-react-c2196d4f-f726-4e48-ad81-602b56270745?utm_campaign=indra&utm_medium=referral",
+                "city": "Tunja"
+            },
+            {
+                "title": "desarrollador React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-react-c2196d4f-f726-4e48-ad81-602b56270745?utm_campaign=indra&utm_medium=referral",
+                "city": "Manizales"
+            },
+            {
+                "title": "desarrollador React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-react-c2196d4f-f726-4e48-ad81-602b56270745?utm_campaign=indra&utm_medium=referral",
+                "city": "Popay\u00e1n"
+            },
+            {
+                "title": "desarrollador React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-react-c2196d4f-f726-4e48-ad81-602b56270745?utm_campaign=indra&utm_medium=referral",
+                "city": "Pasto"
+            },
+            {
+                "title": "Promotor de ventas / consultora de belleza / impulsadora",
+                "redirect_url": "https://www.magneto365.com/co/empleos/promotor-de-ventas-consultora-de-belleza-impulsadora-180f3e1c-2e4d-406e-95b3-2fc45bcbd42a?utm_campaign=4-investment&utm_medium=referral",
+                "city": "Cali"
+            },
+            {
+                "title": "Auxiliar Contable - Bogot\u00e1",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-contable-bogot-bea5da65-ce1b-47a1-93be-a67b5aadb978?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Soacha"
+            },
+            {
+                "title": "Auxiliar Contable - Bogot\u00e1",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-contable-bogot-bea5da65-ce1b-47a1-93be-a67b5aadb978?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "Auxiliar Contable - Bogot\u00e1",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-contable-bogot-bea5da65-ce1b-47a1-93be-a67b5aadb978?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Auditor Financiero",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auditor-financiero-f37de245-7ca6-4d90-b2ef-0eb4536b20f2?utm_campaign=isimo&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "Consultor(a) Negocios - 20880",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-a-negocios-20880-16bffd0f-0b49-4b74-9204-a05293491b76?utm_campaign=claro-colombia&utm_medium=referral",
+                "city": "Otra (Meta)"
+            },
+            {
+                "title": "Consultor(a) Negocios - 20880",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-a-negocios-20880-16bffd0f-0b49-4b74-9204-a05293491b76?utm_campaign=claro-colombia&utm_medium=referral",
+                "city": "Villavicencio"
+            },
+            {
+                "title": "Agente Integral de soporte (Primer y Segundo Nivel)",
+                "redirect_url": "https://www.magneto365.com/co/empleos/agente-integral-de-soporte-primer-y-segundo-nivel-e9dc9d1b-58f3-419e-afe1-7444227fecc3?utm_campaign=indra&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Scheduler / Agendador De Citas Biling\u00fce",
+                "redirect_url": "https://www.magneto365.com/co/empleos/scheduler-agendador-de-citas-biling-e-0ef4808b-6890-42a9-8971-f8f695b0cb56?utm_campaign=solvo&utm_medium=referral",
+                "city": "Bucaramanga"
+            },
+            {
+                "title": "Vendedor Call Center ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vendedor-call-center-5ec7aab5-967a-4e5b-b053-f7653c939ec6?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Otra (Atlantico)"
+            },
+            {
+                "title": "Vendedor Call Center ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vendedor-call-center-5ec7aab5-967a-4e5b-b053-f7653c939ec6?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "Vendedor Call Center ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vendedor-call-center-5ec7aab5-967a-4e5b-b053-f7653c939ec6?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Soledad"
+            },
+            {
+                "title": "VENDEDOR CALL CENTER",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vendedor-call-center-da57c133-7368-40d9-8cbf-09646173c593?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Soledad"
+            },
+            {
+                "title": "VENDEDOR CALL CENTER",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vendedor-call-center-da57c133-7368-40d9-8cbf-09646173c593?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Otra (Atlantico)"
+            },
+            {
+                "title": "VENDEDOR CALL CENTER",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vendedor-call-center-da57c133-7368-40d9-8cbf-09646173c593?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "VENDEDOR CALL CENTER EN ESPA\u00d1OL",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vendedor-call-center-en-espa-ol-c1715b11-c9a0-44cd-b9c7-772e29b0fafd?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Otra (Atlantico)"
+            },
+            {
+                "title": "VENDEDOR CALL CENTER EN ESPA\u00d1OL",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vendedor-call-center-en-espa-ol-c1715b11-c9a0-44cd-b9c7-772e29b0fafd?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Soledad"
+            },
+            {
+                "title": "VENDEDOR CALL CENTER EN ESPA\u00d1OL",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vendedor-call-center-en-espa-ol-c1715b11-c9a0-44cd-b9c7-772e29b0fafd?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "VENDEDOR CALL CENTER EN ESPA\u00d1OL",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vendedor-call-center-en-espa-ol-c1715b11-c9a0-44cd-b9c7-772e29b0fafd?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Baranoa"
+            },
+            {
+                "title": "VENDEDOR CALL CENTER - ESPA\u00d1A",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vendedor-call-center-espa-a-239bf780-3691-46ed-b90f-3bdb25b29bbf?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "VENDEDOR CALL CENTER - ESPA\u00d1A",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vendedor-call-center-espa-a-239bf780-3691-46ed-b90f-3bdb25b29bbf?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Soledad"
+            },
+            {
+                "title": "VENDEDOR CALL CENTER - ESPA\u00d1A",
+                "redirect_url": "https://www.magneto365.com/co/empleos/vendedor-call-center-espa-a-239bf780-3691-46ed-b90f-3bdb25b29bbf?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Otra (Atlantico)"
+            },
+            {
+                "title": "Auxiliar Contable",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-contable-752496dd-cea1-4edc-a90d-a3bf261b1041?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "Auxiliar Contable",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-contable-752496dd-cea1-4edc-a90d-a3bf261b1041?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Analista - Valuations (valoraci\u00f3n De Empresas)",
+                "redirect_url": "https://www.magneto365.com/co/empleos/analista-valuations-valoraci-n-de-empresas-6e6ffb59-bb2a-4210-af93-e7ce171ae852?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Auxiliar de perforaci\u00f3n y obra",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-perforaci-n-y-obra-27c413cb-f021-49ad-a386-92118a6ffc2c?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Gerente de Planeaci\u00f3n Estrat\u00e9gica",
+                "redirect_url": "https://www.magneto365.com/co/empleos/gerente-de-planeaci-n-estrat-gica-7872a3de-1183-42cf-be89-4e2a265606de?utm_campaign=bayport-mexico&utm_medium=referral",
+                "city": "Miguel Hidalgo"
+            },
+            {
+                "title": "Gerente de Planeaci\u00f3n Estrat\u00e9gica",
+                "redirect_url": "https://www.magneto365.com/co/empleos/gerente-de-planeaci-n-estrat-gica-7872a3de-1183-42cf-be89-4e2a265606de?utm_campaign=bayport-mexico&utm_medium=referral",
+                "city": "Ciudad de M\u00e9xico"
+            },
+            {
+                "title": "Poligrafista ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/poligrafista-1e656999-702a-4783-9b73-064236b845d7?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Cartagena"
+            },
+            {
+                "title": "Poligrafista ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/poligrafista-40f7eb8b-b3ba-4ce0-aa00-bcec3d6c9479?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "Consultor Senior TI - Bogot\u00e1",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-senior-ti-bogot-795738b1-b4f6-4d1e-86dc-5659e3558cff?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Senior de auditoria - Bogot\u00e1",
+                "redirect_url": "https://www.magneto365.com/co/empleos/senior-de-auditoria-bogot-b11bf0db-2d07-461d-a5f3-d18ba1e9c367?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Consultor T\u00e9cnico Comercial - Porcicultura",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-t-cnico-comercial-porcicultura-a300d715-8df9-426c-9c26-e055c7e7f0f9?utm_campaign=magneto&utm_medium=referral",
+                "city": "Pereira"
+            },
+            {
+                "title": "ASESOR COMERCIAL DE VENTAS EN ESPA\u00d1OL",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-comercial-de-ventas-en-espa-ol-26420e90-c49c-48cf-a18a-359a4742654b?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Soledad"
+            },
+            {
+                "title": "ASESOR COMERCIAL DE VENTAS EN ESPA\u00d1OL",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-comercial-de-ventas-en-espa-ol-26420e90-c49c-48cf-a18a-359a4742654b?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Otra (Atlantico)"
+            },
+            {
+                "title": "ASESOR COMERCIAL DE VENTAS EN ESPA\u00d1OL",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-comercial-de-ventas-en-espa-ol-26420e90-c49c-48cf-a18a-359a4742654b?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Baranoa"
+            },
+            {
+                "title": "ASESOR COMERCIAL DE VENTAS EN ESPA\u00d1OL",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-comercial-de-ventas-en-espa-ol-26420e90-c49c-48cf-a18a-359a4742654b?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "Promotor / impulsador / consultora de belleza / mercaimpulsador",
+                "redirect_url": "https://www.magneto365.com/co/empleos/promotor-impulsador-consultora-de-belleza-mercaimpulsador-b324b160-0c62-4946-b791-9c3ba0f9237c?utm_campaign=4-investment&utm_medium=referral",
+                "city": "Neiva"
+            },
+            {
+                "title": "Promotor / impulsador / consultora de belleza / mercaimpulsador",
+                "redirect_url": "https://www.magneto365.com/co/empleos/promotor-impulsador-consultora-de-belleza-mercaimpulsador-4d61b506-cf89-4876-82de-e3af0218d697?utm_campaign=4-investment&utm_medium=referral",
+                "city": "Ibagu\u00e9"
+            },
+            {
+                "title": "Asistente contable - Bogota ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asistente-contable-bogota-fa9763a5-25fc-41bf-ab32-39bde1fb4cc8?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "Abogado Junior",
+                "redirect_url": "https://www.magneto365.com/co/empleos/abogado-junior-4a50bd4f-54d3-40ba-b1ec-ee59f4ad551e?utm_campaign=magneto&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Auxiliar contables/ Asistente Jr auditoria - Medell\u00edn",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-contables-asistente-jr-auditoria-medell-n-ac5b56bd-bf6c-4df1-b5a5-f7a5dae87ab2?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "AUXILIAR ENFERMERIA EMPRESARIAL MP - 12640",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-enfermeria-empresarial-mp-12640-5a3b6ce7-33bf-44fc-92f3-1dfbdc035f32?utm_campaign=coomeva&utm_medium=referral",
+                "city": "Cali"
+            },
+            {
+                "title": "Asistente Auditoria /Bogot\u00e1",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asistente-auditoria-bogot-1e0a7e5e-b6c2-4ee1-bbce-3da78e8bc55c?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "Asistente junior - Bogot\u00e1 D.C",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asistente-junior-bogot-d-c-909eb544-6ad6-4e2f-bfef-1b536754ce04?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Soacha"
+            },
+            {
+                "title": "Asistente junior - Bogot\u00e1 D.C",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asistente-junior-bogot-d-c-909eb544-6ad6-4e2f-bfef-1b536754ce04?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Asistente junior - Bogot\u00e1 D.C",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asistente-junior-bogot-d-c-909eb544-6ad6-4e2f-bfef-1b536754ce04?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "L\u00edder de Aplicaciones",
+                "redirect_url": "https://www.magneto365.com/co/empleos/l-der-de-aplicaciones-931827c4-72b7-4f40-8050-ec1a546910c2?utm_campaign=indra&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "AUXILIAR DE SERVICIO AL CLIENTE, CL\u00cdNICA OXIVIDA MEDELL\u00cdN",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-servicio-al-cliente-cl-nica-oxivida-medell-n-d3496bc3-af3d-45e5-ad2c-71ce79ad68ff?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Consultor Comercial - Empaques Flexibles (B2B)",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-comercial-empaques-flexibles-b2b-ff95f7da-bb7d-4da6-89bc-2b15dca152c1?utm_campaign=microplast-coldeplast&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Secretaria",
+                "redirect_url": "https://www.magneto365.com/co/empleos/secretria-50f84961-0b81-4410-ba5d-9d8b3f21e221?utm_campaign=kpmg&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Consultor de Gesti\u00f3n Patrimonial Bogot\u00e1",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-de-gesti-n-patrimonial-bogot-f544dd74-dfcf-4538-8ab0-a3b24aad3e6c?utm_campaign=colfondos&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "Consultor de Gesti\u00f3n Patrimonial Bogot\u00e1",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-de-gesti-n-patrimonial-bogot-f544dd74-dfcf-4538-8ab0-a3b24aad3e6c?utm_campaign=colfondos&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "KAM sme Retail",
+                "redirect_url": "https://www.magneto365.com/co/empleos/kam-sme-retail-496cb152-12ff-48a7-b33f-b05f84218eb0?utm_campaign=magneto&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "KAM sme Retail",
+                "redirect_url": "https://www.magneto365.com/co/empleos/kam-sme-retail-496cb152-12ff-48a7-b33f-b05f84218eb0?utm_campaign=magneto&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Desarrollador Senior Java/ React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-senior-java-react-74e2c0c9-2043-48b9-9da4-5c8835480941?utm_campaign=indra&utm_medium=referral",
+                "city": "Otra (Cundinamarca)"
+            },
+            {
+                "title": "Desarrollador Senior Java/ React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-senior-java-react-74e2c0c9-2043-48b9-9da4-5c8835480941?utm_campaign=indra&utm_medium=referral",
+                "city": "Otra (Narino)"
+            },
+            {
+                "title": "Desarrollador Senior Java/ React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-senior-java-react-74e2c0c9-2043-48b9-9da4-5c8835480941?utm_campaign=indra&utm_medium=referral",
+                "city": "Otra (Santander)"
+            },
+            {
+                "title": "Desarrollador Senior Java/ React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-senior-java-react-74e2c0c9-2043-48b9-9da4-5c8835480941?utm_campaign=indra&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Desarrollador Senior Java/ React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-senior-java-react-74e2c0c9-2043-48b9-9da4-5c8835480941?utm_campaign=indra&utm_medium=referral",
+                "city": "Otra (Antioquia)"
+            },
+            {
+                "title": "Desarrollador Senior Java/ React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-senior-java-react-74e2c0c9-2043-48b9-9da4-5c8835480941?utm_campaign=indra&utm_medium=referral",
+                "city": "Otra (Atlantico)"
+            },
+            {
+                "title": "Desarrollador Senior Java/ React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-senior-java-react-74e2c0c9-2043-48b9-9da4-5c8835480941?utm_campaign=indra&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "Desarrollador Senior Java/ React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-senior-java-react-74e2c0c9-2043-48b9-9da4-5c8835480941?utm_campaign=indra&utm_medium=referral",
+                "city": "Otra (Bolivar)"
+            },
+            {
+                "title": "Desarrollador Senior Java/ React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-senior-java-react-74e2c0c9-2043-48b9-9da4-5c8835480941?utm_campaign=indra&utm_medium=referral",
+                "city": "Otra (Boyaca)"
+            },
+            {
+                "title": "Desarrollador Senior Java/ React",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-senior-java-react-74e2c0c9-2043-48b9-9da4-5c8835480941?utm_campaign=indra&utm_medium=referral",
+                "city": "Otra (Meta)"
+            },
+            {
+                "title": "Analista Funcional/Pruebas Barranquilla",
+                "redirect_url": "https://www.magneto365.com/co/empleos/analista-funcional-pruebas-barranquilla-7d53a546-f89b-41f2-86ee-430fd84930b5?utm_campaign=indra&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "CONSULTORA / ASESORA DE BELLEZA - CANAL TRADICIONAL",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultora-asesora-de-belleza-canal-tradicional-f01dcff2-a730-4a29-80d4-de531bcf4bf8?utm_campaign=4-investment&utm_medium=referral",
+                "city": "Pereira"
+            },
+            {
+                "title": "Consultor(a) Integral Servicio A Clientes I",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-a-integral-servicio-a-clientes-i-6377d28f-1957-49c9-98e4-09ff945148ae?utm_campaign=magneto&utm_medium=referral",
+                "city": "Zipac\u00f3n"
+            },
+            {
+                "title": "Consultor(a) Integral Servicio A Clientes I",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-a-integral-servicio-a-clientes-i-6377d28f-1957-49c9-98e4-09ff945148ae?utm_campaign=magneto&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "Consultor(a) Integral Servicio A Clientes I",
+                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-a-integral-servicio-a-clientes-i-6377d28f-1957-49c9-98e4-09ff945148ae?utm_campaign=magneto&utm_medium=referral",
+                "city": "Mosquera"
+            },
+            {
+                "title": "Agente mesa de Ayuda  - Dom a Dom (7x24) Bogot\u00e1",
+                "redirect_url": "https://www.magneto365.com/co/empleos/agente-mesa-de-servicio-dom-a-dom-7x24-bogot-d2b31a47-35ec-4664-bd9d-502c2250cffa?utm_campaign=indra&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Gerente de la ONG",
+        "description": "En este papel, ser\u00e1s responsable de gestionar y liderar la ONG. Esto te permitir\u00e1 desarrollar habilidades como la estrategia, la planificaci\u00f3n y la ejecuci\u00f3n. Aprender\u00e1s a trabajar con diferentes equipos y a establecer alianzas. finalmente, habr\u00e1s logrado tu objetivo de trabajar en una ONG.",
+        "position-title": "NGO Manager",
+        "duration": "5+ years",
+        "requirements": [
+            "MBA or Master's Degree",
+            "NGO Management Certification",
+            "Leadership Skills"
+        ],
+        "abilities": [
+            "Leadership",
+            "Strategic Thinking",
+            "Collaboration"
+        ],
+        "jobs_list": [
+            {
+                "salary_is_predicted": "1",
+                "description": "Emory University is a leading research university that fosters excellence and attracts world-class talent to innovate today and prepare leaders for the future. We welcome candidates who can contribute to the diversity and excellence of our academic community. The Project Manager will oversee project budgets, timelines, and activities and be responsible for contract development for major initiatives of the Coalition for Global Hepatitis Elimination, including establishment of the Coordinating Ce\u2026",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "4925060575",
+                "salary_max": 111894.3,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyNTA2MDU3NSIsInMiOiJqa0VZcExpYzd4R2FNZ1pvdElqMk93In0.dakuH0NDMusmYEcqtyCkF1lV5bzV0CZyeQesEm7IowI",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "admin-jobs",
+                    "label": "Admin Jobs"
+                },
+                "created": "2024-11-03T10:48:43Z",
+                "redirect_url": "https://www.adzuna.com/details/4925060575?utm_medium=api&utm_source=a60688b4",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Emory"
+                },
+                "longitude": -84.293082,
+                "contract_time": "full_time",
+                "title": "Project Manager (NGO) - The Task Force for Global Health",
+                "latitude": 33.770866,
                 "location": {
                     "__CLASS__": "Adzuna::API::Response::Location",
                     "area": [
                         "US",
                         "Georgia",
-                        "Fulton County",
-                        "Atlanta"
+                        "DeKalb County",
+                        "Decatur"
                     ],
-                    "display_name": "Atlanta, Fulton County"
+                    "display_name": "Decatur, DeKalb County"
                 },
-                "redirect_url": "https://www.adzuna.com/land/ad/4908716341?se=auaeEJCc7xGmMDZArpXhsw&utm_medium=api&utm_source=a60688b4&v=CC53F6F386C5D63E3C5C47D96366DFE8CDAD61F2",
-                "salary_max": 110545.14,
-                "created": "2024-10-21T05:22:54Z",
-                "description": "Job Title: MuleSoft Architect /MuleSoft Developer Location: Location : Atlanta GA/Chicago IL Roles & Responsibilities Overall 10 years of overall exp with Minimum 5 years of experience working as Mule Architect 3 years of Design and Development experience with Mule 4.x Must have development experience implementing flows using Oracle, Hadoop, SQL, Kafka, .NET connectors etc. Must have experience in secure API development Understanding of MuleSoft Development best practices with respect to using \u2026",
-                "id": "4908716341",
-                "title": "Software Architect",
-                "longitude": -84.388372,
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Tata Consultancy Services"
-                },
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs",
-                    "label": "IT Jobs"
-                },
-                "salary_is_predicted": "1"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Ingenier\u00eda de Software y Arquitectura de Software",
-                "description": "Aprende Sobre Ingenier\u00eda de Software, Ingenier\u00eda de requisitos, Arquitectura de Software , Software Testing y mas!",
-                "link": "https://www.udemy.com/course/ingenieria-de-software-y-principios-de-arquitectura/"
+                "salary_min": 111894.3
             },
             {
-                "title": "Patrones de dise\u00f1o de software y principios SOLID.",
-                "description": "Descubre los design patterns y los principios SOLID que te permitir\u00e1n construir aplicaciones m\u00e1s profesionales en Java.",
-                "link": "https://www.udemy.com/course/patrones-de-diseno-y-principios-solid/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Ingeniero de Software Senior en una empresa de tecnolog\u00eda",
-        "position-title": "Senior Software Engineer in a Tech Company",
-        "description": "En este puesto, debes ser un experto en el desarrollo de software y haber adquirido experiencia en la industria de la tecnolog\u00eda. Debes ser capaz de liderar equipo y tomar decisiones t\u00e9cnicas importantes. Aprovecha para mejorar tus habilidades t\u00e9cnicas y establecer relaciones con otros profesionales en la industria.",
-        "duration": "5-6 a\u00f1os",
-        "requirements": [
-            "Experiencia como arquitecto de software",
-            "Conocimientos en tecnolog\u00edas emergentes",
-            "Experiencia en liderazgo"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Comunicaci\u00f3n efectiva",
-            "Visi\u00f3n a largo plazo"
-        ],
-        "courses": [
-            "Innovaci\u00f3n y tecnolog\u00edas emergentes",
-            "Liderazgo y gesti\u00f3n de proyectos"
-        ],
-        "jobs_list": [],
-        "courses_list": [
-            {
-                "title": "Creatividad e Innovaci\u00f3n - Dale Una Vuelta M\u00e1s a Tu Cerebro",
-                "description": "Los Secretos Mejor Guardados de los Grandes Genios de la Creatividad y la Innovaci\u00f3n Para Resolver Cualquier Desaf\u00edo.",
-                "link": "https://www.udemy.com/course/creatividad-master-habilidades-blandas/"
-            },
-            {
-                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
-                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
-                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Ingeniero de Software Senior en una empresa de tecnolog\u00eda l\u00edder",
-        "position-title": "Senior Software Engineer in a Leading Tech Company",
-        "description": "En este puesto, debes ser un experto en el desarrollo de software y haber adquirido experiencia en una empresa l\u00edder en la industria de la tecnolog\u00eda. Debes ser capaz de liderar equipo y tomar decisiones t\u00e9cnicas importantes. Aprovecha para mejorar tus habilidades t\u00e9cnicas y establecer relaciones con otros profesionales en la industria.",
-        "duration": "6-7 a\u00f1os",
-        "requirements": [
-            "Experiencia como ingeniero de software senior",
-            "Conocimientos en tecnolog\u00edas emergentes",
-            "Experiencia en l\u00edderazgo"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Comunicaci\u00f3n efectiva",
-            "Visi\u00f3n a largo plazo"
-        ],
-        "courses": [
-            "Innovaci\u00f3n y tecnolog\u00edas emergentes",
-            "Liderazgo y gesti\u00f3n de proyectos"
-        ],
-        "jobs_list": [],
-        "courses_list": [
-            {
-                "title": "Creatividad e Innovaci\u00f3n - Dale Una Vuelta M\u00e1s a Tu Cerebro",
-                "description": "Los Secretos Mejor Guardados de los Grandes Genios de la Creatividad y la Innovaci\u00f3n Para Resolver Cualquier Desaf\u00edo.",
-                "link": "https://www.udemy.com/course/creatividad-master-habilidades-blandas/"
-            },
-            {
-                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
-                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
-                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Ingeniero de Software Senior en Google",
-        "position-title": "Senior Software Engineer at Google",
-        "description": "En este puesto, debes ser un experto en el desarrollo de software y haber adquirido experiencia en una de las empresas m\u00e1s importantes en la industria de la tecnolog\u00eda. Debes ser capaz de liderar equipo y tomar decisiones t\u00e9cnicas importantes. Aprovecha para mejorar tus habilidades t\u00e9cnicas y establecer relaciones con otros profesionales en la industria.",
-        "duration": "7+ a\u00f1os",
-        "requirements": [
-            "Experiencia como ingeniero de software senior",
-            "Conocimientos en tecnolog\u00edas emergentes",
-            "Experiencia en l\u00edderazgo"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Comunicaci\u00f3n efectiva",
-            "Visi\u00f3n a largo plazo"
-        ],
-        "courses": [
-            "Innovaci\u00f3n y tecnolog\u00edas emergentes",
-            "Liderazgo y gesti\u00f3n de proyectos"
-        ],
-        "jobs_list": [
-            {
-                "id": "4927575464",
-                "latitude": 47.677395,
-                "salary_max": 185973.23,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyNzU3NTQ2NCIsInMiOiJtaG9NRjVDYzd4R2FNZ1pvdElqMk93In0.v8L9-wAhEDsAtVSaUqlpLIk5JLNxUy-HG2AtKLzgpqc",
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Kirkland, King County",
-                    "area": [
-                        "US",
-                        "Washington",
-                        "King County",
-                        "Kirkland"
-                    ]
-                },
-                "__CLASS__": "Adzuna::API::Response::Job",
+                "longitude": -84.267137,
+                "title": "Project Manager (NGO) - The Task Force for Global Health",
                 "salary_is_predicted": "1",
+                "description": "Discover Your Career at Emory University Emory University is a leading research university that fosters excellence and attracts world-class talent to innovate today and prepare leaders for the future. We welcome candidates who can contribute to the diversity and excellence of our academic community. Description The Project Manager will oversee project budgets, timelines, and activities and be responsible for contract development for major initiatives of the Coalition for Global Hepatitis Elimin\u2026",
                 "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Google"
-                },
-                "description": "Minimum qualifications: - Bachelor's degree or equivalent practical experience. - 5 years of experience with software development in one or more programming languages, and with data structures/algorithms. - 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. Preferred qualifications: - Master's degree or PhD in Computer Science or related technical field. - 1 year of experience in a technical leadership role\u2026",
-                "title": "Senior Software Engineer, Google Cloud AI",
-                "longitude": -122.179938,
-                "salary_min": 185973.23,
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs",
-                    "label": "IT Jobs"
-                },
-                "created": "2024-11-05T15:47:23Z",
-                "redirect_url": "https://www.adzuna.com/details/4927575464?utm_medium=api&utm_source=a60688b4"
-            },
-            {
-                "salary_min": 190913.81,
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs",
-                    "label": "IT Jobs"
-                },
-                "created": "2024-10-19T16:38:25Z",
-                "redirect_url": "https://www.adzuna.com/details/4907763334?utm_medium=api&utm_source=a60688b4",
-                "salary_max": 190913.81,
-                "id": "4907763334",
-                "latitude": 47.677395,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibWhvTUY1Q2M3eEdhTWdab3RJajJPdyIsImkiOiI0OTA3NzYzMzM0In0.sU9KcupLTfQaXVk-sR4TYXNh61MISEtUx1vtldLOi58",
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "Washington",
-                        "King County",
-                        "Kirkland"
-                    ],
-                    "display_name": "Kirkland, King County"
-                },
-                "salary_is_predicted": "1",
-                "description": "Minimum qualifications: - Bachelor's degree or equivalent practical experience. - 5 years of experience with software development in one or more programming languages, and with data structures/algorithms. - 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. Preferred qualifications: - Master's degree or PhD in Computer Science or related technical field. - 1 year of experience in a technical leadership role\u2026",
-                "company": {
-                    "display_name": "Google",
+                    "display_name": "Emory Healthcare/Emory University",
                     "__CLASS__": "Adzuna::API::Response::Company"
                 },
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "longitude": -122.179938,
-                "title": "Senior Software Engineer, Google Cloud Platforms"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Creatividad e Innovaci\u00f3n - Dale Una Vuelta M\u00e1s a Tu Cerebro",
-                "description": "Los Secretos Mejor Guardados de los Grandes Genios de la Creatividad y la Innovaci\u00f3n Para Resolver Cualquier Desaf\u00edo.",
-                "link": "https://www.udemy.com/course/creatividad-master-habilidades-blandas/"
-            },
-            {
-                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
-                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
-                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
+                "location": {
+                    "area": [
+                        "US",
+                        "Georgia",
+                        "DeKalb County",
+                        "Dunaire"
+                    ],
+                    "display_name": "Dunaire, DeKalb County",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiamtFWXBMaWM3eEdhTWdab3RJajJPdyIsImkiOiI0OTIzNjYxOTY1In0.U19CuQy2xqKTGpI7WbvtdrCcfe4E1UtOrFrVvK8_b2s",
+                "id": "4923661965",
+                "salary_max": 103280.43,
+                "latitude": 33.738472,
+                "redirect_url": "https://www.adzuna.com/details/4923661965?utm_medium=api&utm_source=a60688b4",
+                "category": {
+                    "label": "Admin Jobs",
+                    "tag": "admin-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "created": "2024-11-02T16:02:41Z",
+                "salary_min": 103280.43
             }
         ]
     }

@@ -16,18 +16,17 @@ html, body {
 
 /* Configuración de body-profile */
 .body-profile {
-    padding-top: 60pxpx;
+    padding-top: 60px; /* This accounts for the navbar height */
     padding-bottom: 20px;
     display: flex;
     justify-content: center;
-    align-items: center; /* Cambiamos a flex-start para que el contenido comience desde arriba */
+    align-items: flex-start; /* Changed from center to flex-start */
     background-color: var(--light-blue);
-    height: 100vh; /* Ocupa el 100% del alto de la ventana */
-    overflow-y: auto; /* Scroll en body-profile */
+    height: 100vh; /* Subtract navbar height from viewport height */
+    overflow-y: auto;
     overflow-x: hidden;
     scrollbar-width: thin;
     scrollbar-color: var(--light-gray) var(--light-blue);
-    min-height: calc(100vh - 60px);
 }
 
 /* Ajuste de profile-card para permitir crecimiento */
@@ -38,7 +37,7 @@ html, body {
     border-radius: 8px;
     background-color: white;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-    margin-top: 280px;
+    margin-top: 60px;
     display: flex;
     gap: 20px;
     position: relative;

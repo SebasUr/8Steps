@@ -124,13 +124,24 @@ function Steps() {
                             data-block-section={index + 1}
                             data-href={job.dataHref || "journal"}
                         >
-                            <div className="block__title">{`Step${index + 1}`}</div>
+                            <div className="block__title">{`Paso ${index + 1}`}</div>
                             <div className="block__number">{index + 1}</div>
                         </div>
                     )) : null
                 }
+                {/* Bloque de Resumen */}
+                {jobs.length > 0 && (
+                    <div
+                        className="block init"
+                        data-block-section={jobs.length + 1}
+                        data-href="summary"
+                    >
+                        <div className="block__title">Resumen</div>
+                        <div className="block__number">{jobs.length + 1}</div>
+                    </div>
+                )}
             </div>
-
+    
             <main data-scroll-container ref={scrollContainerRef}>
                 <div className="wrap" data-scroll-section>
                     {
@@ -190,7 +201,7 @@ function Steps() {
                                             </>
                                         )
                                     }
-                
+                    
                                     {
                                         job.courses_list && (
                                             <>
@@ -232,11 +243,12 @@ function Steps() {
                                 ))}
                             </ul>
                         </div>
-                    </section>
+                    </section>
                 </div>
             </main>
         </>
     )
+    
 }
 
 export default Steps

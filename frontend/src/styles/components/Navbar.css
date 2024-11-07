@@ -1,4 +1,3 @@
-/* Navbar Styles */
 .navbar {
     position: fixed;
     top: 0;
@@ -6,7 +5,7 @@
     width: 100%;
     height: 100px;
     padding: 0 40px;
-    display: flex;
+    display: flex !important;
     justify-content: space-between;
     align-items: center;
     font-family: oswald, Helvetica, sans-serif;
@@ -35,21 +34,19 @@
     height: auto;
     margin-right: 2px;
     vertical-align: middle;
-    filter: invert(0%) sepia(0%) saturate(100%) hue-rotate(0deg) brightness(100%) contrast(100%);
     cursor: pointer;
 }
 
-/* Estilos para alinear botones a la derecha */
 .site-menu {
     display: flex;
     align-items: center;
-    margin-left: auto; /* Mueve todo el contenido hacia la derecha */
+    margin-left: auto;
 }
 
 .auth-buttons {
     display: flex;
     align-items: center;
-    gap: 10px; /* Espacio entre los botones */
+    gap: 10px;
     margin-right: 50px;
 }
 
@@ -93,14 +90,12 @@
     margin-bottom: 60px;
     text-align: center;
     font-family: Oswald, Helvetica, sans-serif;
-    text-transform: none;
     letter-spacing: 0.9px;
 }
 
 .button-icon {
     width: 20px;
     height: 20px;
-    /* Ajusta el tamaño según sea necesario */
 }
 
 .register-button:hover {
@@ -117,4 +112,82 @@
 
 .magneto-logo:hover {
     transform: scale(1.1);
+}
+
+
+.menu-toggle {
+    position: absolute;
+    right: 40px;
+    transform: translateY(-50%);
+    font-size: 18px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    z-index: 1000;
+}
+
+@media (max-width: 1200px) {
+    .site-menu, .magneto-logo {
+        display: none;
+    }
+
+    .menu-toggle {
+        display: block;
+        position: absolute;
+        right: 40px;
+    }
+
+    .mobile-menu {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #ffffff;
+        padding: 10px;
+        border-radius: 10px;
+        position: absolute;
+        top: 80px;
+        right: 40px;
+        z-index: 1000;
+        width: auto;
+        animation: fadeIn1 0.3s ease-out;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .mobile-menu .register-button {
+        width: auto;
+        text-align: center;
+        padding: 12px 20px;
+        border-radius: 5px;
+        background-color: #9EE4B8;
+        color: #001B38;
+        margin-bottom: 4px;
+        margin-top: 4px;
+        transition: background-color 0.3s ease;
+    }
+
+    .mobile-menu .register-button:hover {
+        background-color: #82c8a0;
+    }
+
+    .mobile-menu .auth-buttons {
+        display: grid;
+        margin-right: 4px;
+    }
+
+    .site-logo {
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 32px;
+    }
+}
+
+@keyframes fadeIn1 {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
