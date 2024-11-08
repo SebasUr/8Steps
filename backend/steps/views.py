@@ -27,12 +27,12 @@ def get_recommendations(request):
     import os 
     import google.generativeai as genai
     from dotenv import load_dotenv
+    load_dotenv()
+    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+    genai.configure(api_key=GEMINI_API_KEY)
+
     if request.method == 'POST':
         try:
-            load_dotenv()
-            GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-            genai.configure(api_key=GEMINI_API_KEY)
-
             data = json.loads(request.body)
             user = CustomUser.objects.get(username=data.get("username"))
 
@@ -61,8 +61,8 @@ def get_recommendations(request):
             response = chat_session.send_message(prompt)
 
             recommendations = response.parts[0].text
-            print(f"prompt: {prompt}")
-            print(recommendations)
+            # print(f"prompt: {prompt}")
+            # print(recommendations)
 
             return JsonResponse({"recommendations": json.loads(recommendations)}, status=200)
 

@@ -124,6 +124,30 @@ function Profile() {
         }
     }
 
+    const handleCourseDelete = async (index) => {
+        const newCourses = courses.filter((_, i) => i !== index)
+        setCourses(newCourses)
+        await api.patch("/users/api/user/profile/", {
+            courses: { courses: newCourses },
+        })
+    }
+
+    const handleCertificationDelete = async (index) => {
+        const newCertifications = certifications.filter((_, i) => i !== index)
+        setCertifications(newCertifications)
+        await api.patch("/users/api/user/profile/", {
+            certifications: { certifications: newCertifications },
+        })
+    }
+
+    const handleTrajectoryDelete = async (index) => {
+        const newTrajectories = userData.last_trajectory.filter((_, i) => i !== index)
+        setUserData({ ...userData, last_trajectory: newTrajectories })
+        await api.patch("/users/api/user/profile/", {
+            last_trajectory: newTrajectories,
+        })
+    }
+
     if (!isAuthorized) {
         alert("No estás autorizado para ver esta página")
         navigate("/login")
@@ -158,7 +182,9 @@ function Profile() {
                                         }/>
                                     </div>
                                     <div className="delete-button">
-                                            <img src="/delete.png"  alt="ELiminar" />
+                                        <img src="/delete.png"  alt="Eliminar" onClick={
+                                            () => handleTrajectoryDelete(index)
+                                        }/>
                                     </div>
                                 </div>
                             ))
@@ -181,7 +207,9 @@ function Profile() {
                                             <p>{course.description}</p>
                                         </div>
                                         <div className="delete-button">
-                                            <img src="/delete.png" alt="ELiminar" />
+                                            <img src="/delete.png" alt="Eliminar" onClick={
+                                                () => handleCourseDelete(index)
+                                            }/>
                                         </div>
                                     </div>
                                 ))
@@ -205,7 +233,9 @@ function Profile() {
                                             <p>{cert.institution}</p>
                                         </div>
                                         <div className="delete-button">
-                                            <img src="/delete.png" alt="ELiminar" />
+                                            <img src="/delete.png" alt="Eliminar" onClick={
+                                                () => handleCertificationDelete(index)
+                                            } />
                                         </div>
                                     </div>
                                 ))

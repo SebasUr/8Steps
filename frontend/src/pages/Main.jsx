@@ -9,45 +9,41 @@ function Main() {
     const { isAuthorized, auth } = useContext(AuthContext)
     const navigate = useNavigate()
     const [searchType, setSearchType] = useState("soy")
-
-    useEffect(() => {
-        const coords = { x: 0, y: 0 };
-        const circles = document.querySelectorAll(".circle");
-        circles.forEach(function (circle, index) {
-            circle.x = 0;
-            circle.y = 0;
-        });
-
-        const handleMouseMove = (e) => {
-            coords.x = e.clientX;
-            coords.y = e.clientY;
-        };
-        window.addEventListener("mousemove", handleMouseMove);
-
-        const animateCircles = () => {
-            let x = coords.x;
-            let y = coords.y;
-            circles.forEach(function (circle, index) {
-                circle.style.left = `${x - 12}px`;
-                circle.style.top = `${y - 12}px`;
-
-                circle.style.scale = (circles.length - index) / circles.length;
-
-                circle.x = x;
-                circle.y = y;
-
-                const nextCircle = circles[index + 1] || circles[0];
-                x += (nextCircle.x - x) * 0.3;
-                y += (nextCircle.y - y) * 0.3;
-            });
-            requestAnimationFrame(animateCircles);
-        };
-        animateCircles();
-    }, []);
+    const [recommendedJobs, setRecommendedJobs] = useState([])
 
     useEffect(() => {
         auth()
     }, [auth])
+
+    useEffect(() => {
+        const coords = { x: 0, y: 0 }
+        const circles = document.querySelectorAll(".circle")
+        circles.forEach(function (circle, index) {
+            circle.x = 0
+            circle.y = 0
+        })
+        const handleMouseMove = (e) => {
+            coords.x = e.clientX
+            coords.y = e.clientY
+        }
+        window.addEventListener("mousemove", handleMouseMove)
+        const animateCircles = () => {
+            let x = coords.x
+            let y = coords.y
+            circles.forEach(function (circle, index) {
+                circle.style.left = `${x - 12}px`
+                circle.style.top = `${y - 12}px`
+                circle.style.scale = (circles.length - index) / circles.length
+                circle.x = x
+                circle.y = y
+                const nextCircle = circles[index + 1] || circles[0]
+                x += (nextCircle.x - x) * 0.3
+                y += (nextCircle.y - y) * 0.3
+            })
+            requestAnimationFrame(animateCircles)
+        }
+        animateCircles()
+    }, [])
 
     useEffect(() => {
         const searchFields = document.getElementById("searchFields")
@@ -60,6 +56,21 @@ function Main() {
             document.getElementById("andText").style.display = "none"
         }
     }, [searchType])
+
+    useEffect(() => {
+        if (isAuthorized) {
+            api.post("/recommendations/", {
+                username: localStorage.getItem("username")
+            })
+            .then((res) => res.data)
+            .then((data) => {
+                setRecommendedJobs(data.recommendations)
+            })
+            .catch((err) => {
+                console.error(err)
+            })
+        }
+    }, [isAuthorized])
 
     const handleSubmit = async (e) => {
         e.preventDefault()
@@ -85,8 +96,7 @@ function Main() {
                 })
                 const newTextCourses = courses.map((course) => course.title).join(", ")
                 const newTextCertifications = certifications.map((certification) => certification.title).join(", ")
-
-                search = `${inputFields[1].value} ${newTextCourses == "" ? "" : `; Tengo cursos de: ${newTextCourses}`}; ${newTextCertifications == "" ? "" : `; Tengo certificaciones de: ${newTextCertifications}`}`
+                search = `${inputFields[1].value} ${newTextCourses == "" ? "" : ` Tengo cursos de: ${newTextCourses}`} ${newTextCertifications == "" ? "" : ` Tengo certificaciones de: ${newTextCertifications}`}`
             } else {
                 search = inputFields[1].value
             }
@@ -134,6 +144,26 @@ function Main() {
                         <button className="slide" type="submit">&nbsp;</button>
                     </form>
             
+                    <div className="recommended-jobs">
+                        {recommendedJobs.length > 0 && <h2>Trabajos recomendados</h2>}
+                        <div className="jobs">
+                            {
+                                Array.isArray(recommendedJobs) && recommendedJobs.map((job, i) => (
+                                    <div key={i} className="job">
+                                        <div className="job-info">
+                                            <h3>{job.RouteName}</h3>
+                                            <p>{job.Description}</p>
+                                            <button onClick={
+                                                () => {
+                                                    navigate("/steps", { state: { occupation: "", search: job.RouteName } })
+                                                }
+                                            }>Ver trayectoria</button>
+                                        </div>
+                                    </div>
+                                ))
+                            }
+                        </div>
+                    </div>
                     <video id="background-video" autoPlay muted loop>
                         <source src="/video.mp4" type="video/mp4" />
                         Your browser does not support the video tag.

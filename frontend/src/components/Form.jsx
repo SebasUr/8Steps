@@ -21,12 +21,14 @@ function Form({route, method}) {
                 const response = await api.post(route, { username, password })
                 localStorage.setItem(ACCESS_TOKEN, response.data.access)
                 localStorage.setItem(REFRESH_TOKEN, response.data.refresh)
+                localStorage.setItem("username", username)
                 setIsAuthorized(true)
                 navigate("/")
             } else {
                 const response = await api.post(route, { username, email, password })
                 localStorage.setItem(ACCESS_TOKEN, response.data.access)
                 localStorage.setItem(REFRESH_TOKEN, response.data.refresh)
+                localStorage.setItem("username", username)
                 navigate("/")
             }
         } catch (error) {
