@@ -149,8 +149,7 @@ function Profile() {
     }
 
     if (!isAuthorized) {
-        alert("No estás autorizado para ver esta página")
-        navigate("/login")
+        navigate("/login-register")
     }
 
     if (loading) {

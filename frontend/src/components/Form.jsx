@@ -29,7 +29,7 @@ function Form({route, method}) {
                 localStorage.setItem(ACCESS_TOKEN, response.data.access)
                 localStorage.setItem(REFRESH_TOKEN, response.data.refresh)
                 localStorage.setItem("username", username)
-                navigate("/")
+                navigate("/login-register")
             }
         } catch (error) {
             let message = ""

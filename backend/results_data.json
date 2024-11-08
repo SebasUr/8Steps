@@ -1,563 +1,556 @@
 [
     {
         "about_work": true,
-        "title": "Analista de datos jr.",
-        "description": "En este puesto, empezar\u00e1s a desarrollar habilidades en an\u00e1lisis de datos y visualizaci\u00f3n, lo que te permitir\u00e1 entender la importancia de la toma de decisiones basadas en datos. Aprender\u00e1s a utilizar herramientas como Excel, SQL y Tableau, y a comunicar resultados a stakeholders. Este paso es fundamental para luego especializarte en Ciencia de Datos.",
-        "position-title": "Data Analyst Jr.",
-        "duration": "6-12 months",
+        "title": "Desarrollador Junior",
+        "position-title": "Junior Software Developer",
+        "description": "En este puesto, podr\u00e1s aplicar los conceptos aprendidos en la universidad a proyectos reales. Ser\u00e1s parte de un equipo de desarrollo y colaborar\u00e1s en la creaci\u00f3n de software. Aprende a trabajar conagi len y a resolver problemas. Esta experiencia te permitir\u00e1 entender c\u00f3mo funciona un equipo de desarrollo y qu\u00e9 se espera de un ingeniero de software.",
+        "duration": "1-2 a\u00f1os",
         "requirements": [
-            "Excel",
-            "SQL",
-            "Tableau",
-            "Comunicaci\u00f3n efectiva"
+            "Conocimientos en programaci\u00f3n (Java, Python, C++, etc.)",
+            "Experiencia con sistemas operativos",
+            "Conocimientosbasicos de bases de datos"
         ],
         "abilities": [
-            "An\u00e1lisis cr\u00edtico",
-            "Comunicaci\u00f3n efectiva"
-        ],
-        "jobs_list": [
-            {
-                "salary_max": 81338.56,
-                "created": "2024-10-15T20:59:36Z",
-                "latitude": 32.926746,
-                "category": {
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs"
-                },
-                "salary_min": 81338.56,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEhGYm9LQ2Q3eEdoRi1KTU5aX1NvUSIsImkiOiI0OTAzMTc2NDg5In0.gYcuzD_iqgXJYzAKfi9GI-KkGupcqdJPccRnSOtt8fY",
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Coppell, Dallas",
-                    "area": [
-                        "US",
-                        "Texas",
-                        "Dallas",
-                        "Coppell"
-                    ]
-                },
-                "description": "Data Analyst Jr This role is onsite in Irving, TX. [11442-DIG-C] The Data Analyst Jr will help improve merchant onboarding and payment processes to drive business results. Assist PDMs in managing current merchant onboarding and payout activities and help identify process improvement opportunities. Analyze and share insights to help accelerate business, improve operations, and troubleshoot product-related bugs. Help build and review performance trackers to monitor sales and operational metrics t\u2026",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "title": "Data Analyst Jr",
-                "longitude": -96.959684,
-                "redirect_url": "https://www.adzuna.com/details/4903176489?utm_medium=api&utm_source=a60688b4",
-                "id": "4903176489",
-                "salary_is_predicted": "1",
-                "company": {
-                    "display_name": "OscarMike",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                }
-            },
-            {
-                "location": {
-                    "area": [
-                        "US",
-                        "Virginia",
-                        "Arlington County",
-                        "Fort Myer"
-                    ],
-                    "display_name": "Fort Myer, Arlington County",
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "description": "Job Family : Digital Consulting Travel Required : None Clearance Required : Ability to Obtain Public Trust What You Will Do : seeking a Junior Data Analyst to join our Defense and Security Segment, where the individual will collect and analyze data to identify trends, develop visualizations in support of organizational and mission goals, and support decision-making for large-scale programs within the Department of Homeland Security (DHS). Responsibilities include, but are not limited to: - Desi\u2026",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "title": "Data Analyst Jr",
-                "redirect_url": "https://www.adzuna.com/details/4928975919?utm_medium=api&utm_source=a60688b4",
-                "longitude": -77.090671,
-                "id": "4928975919",
-                "company": {
-                    "display_name": "Guidehouse",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "salary_is_predicted": "1",
-                "salary_max": 78136.27,
-                "created": "2024-11-06T15:44:39Z",
-                "latitude": 38.858946,
-                "category": {
-                    "label": "Admin Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "admin-jobs"
-                },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEhGYm9LQ2Q3eEdoRi1KTU5aX1NvUSIsImkiOiI0OTI4OTc1OTE5In0.dLMmBSETFB3R1I9h7yR4a9wBHNnkWTdyiaZGQBaFPws",
-                "salary_min": 78136.27
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Analista de datos sr.",
-        "description": "En este puesto, seguir\u00e1s desarrollando tus habilidades en an\u00e1lisis de datos y visualizaci\u00f3n, y empezar\u00e1s a liderar proyectos y equipos. Aprender\u00e1s a utilizar herramientas como Python, R y Power BI, y a dise\u00f1ar y implementar soluciones de an\u00e1lisis de datos. Este paso te permitir\u00e1 demostrar tu capacidad para liderar y tomar decisiones.",
-        "position-title": "Data Analyst Sr.",
-        "duration": "1-2 years",
-        "requirements": [
-            "Python",
-            "R",
-            "Power BI",
-            "Liderazgo",
-            "Gesti\u00f3n de proyectos"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Gesti\u00f3n de proyectos",
-            "Comunicaci\u00f3n efectiva"
-        ],
-        "jobs_list": [
-            {
-                "id": "4927061911",
-                "redirect_url": "https://www.adzuna.com/land/ad/4927061911?se=fKVYoaCd7xGsfsjnwIj2Ow&utm_medium=api&utm_source=a60688b4&v=AD2045907D13A3950EC8951C7321F2698AED3B39",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyNzA2MTkxMSIsInMiOiJmS1ZZb2FDZDd4R3Nmc2pud0lqMk93In0.bKNMMqFhUFsXCKyoccRgE2DeEz89OSx5f8dbfErjAWA",
-                "title": "Data Security Analyst Sr",
-                "longitude": -111.8418,
-                "created": "2024-11-05T08:54:40Z",
-                "company": {
-                    "display_name": "University of Utah",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "description": "Data Security Analyst Sr Job Summary Ensures compliance with legal, regulatory, and contractual requirements. Develops and maintains plans, documentation, policies, and procedures. Analyzes existing processes to reveal shortcomings and develops plans to address them. This position will lead the information security team for the Center for High Performance Computing at the University of Utah to ensure that CHPC services operate in compliance with U of U policy and applicable regulations, includi\u2026",
-                "latitude": 40.7636,
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs",
-                    "tag": "it-jobs"
-                },
-                "salary_max": 109068.51,
-                "location": {
-                    "area": [
-                        "US",
-                        "Utah",
-                        "Salt Lake County",
-                        "Fort Douglas"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Fort Douglas, Salt Lake County"
-                },
-                "contract_time": "part_time",
-                "salary_min": 109068.51,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_is_predicted": "1"
-            },
-            {
-                "company": {
-                    "display_name": "PrimeLending",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "created": "2024-09-09T06:27:50Z",
-                "category": {
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs"
-                },
-                "latitude": 32.872152,
-                "description": "Description Hilltop Holdings is looking for a Senior Data Analyst who will take responsibility for managing our master data set, developing reports, and troubleshooting data issues. Develop and implement data standards, ensuring metadata is captured correctly, and creating methods for monitoring and reporting any data incidents. To do well in this role you need a very fine eye for detail and have a deep understanding of the popular data analysis tools and databases. Responsibilities Managing ma\u2026",
-                "redirect_url": "https://www.adzuna.com/details/4857611174?utm_medium=api&utm_source=a60688b4",
-                "id": "4857611174",
-                "title": "Data Analyst, Sr",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZktWWW9hQ2Q3eEdzZnNqbndJajJPdyIsImkiOiI0ODU3NjExMTc0In0.0UcH3BeQ4evDVbRCR2MVntYTk4Fj8awcg4a5sVepxxA",
-                "longitude": -96.996093,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_min": 93912.16,
-                "salary_is_predicted": "1",
-                "location": {
-                    "display_name": "Irving, Dallas",
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "Texas",
-                        "Dallas",
-                        "Irving"
-                    ]
-                },
-                "salary_max": 93912.16,
-                "contract_time": "full_time"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Cient\u00edfico de datos jr.",
-        "description": "En este puesto, empezar\u00e1s a aplicar t\u00e9cnicas de Machine Learning y estad\u00edstica para resolver problemas de negocio. Aprender\u00e1s a utilizar herramientas como scikit-learn, TensorFlow y Keras, y a implementar modelos predictivos. Este paso te permitir\u00e1 empezar a desarrollar tus habilidades en Ciencia de Datos.",
-        "position-title": "Data Scientist Jr.",
-        "duration": "1-2 years",
-        "requirements": [
-            "scikit-learn",
-            "TensorFlow",
-            "Keras",
-            "Machine Learning",
-            "Estad\u00edstica"
-        ],
-        "abilities": [
-            "Pensamiento cr\u00edtico",
+            "Trabajo en equipo",
+            "Comunicaci\u00f3n efectiva",
             "Resoluci\u00f3n de problemas"
         ],
+        "courses": [
+            "Java Fundamentals",
+            "Python for beginners",
+            "Database Management Systems"
+        ],
         "jobs_list": [
-            {
-                "created": "2024-09-20T10:20:30Z",
-                "salary_min": 149483.86,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "company": {
-                    "display_name": "SHR Consulting Group, LLC",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "description": "Job Title: Junior-Level Data Scientist Job Category: IT Location: DC-area offices of the Chief Digital and AI Office in Falls Church, Pentagon, Alexandria, and Arlington. Clearance Level: Top Secret SCI or SCI eligible SHR is a premier technology integrator solving our nation\u2019s most complex modernization and readiness challenges across the defense, federal civilian, and intelligence markets. Our robust portfolio of offerings includes high-end solutions in systems engineering and integration; en\u2026",
-                "salary_is_predicted": "1",
-                "latitude": 38.912068,
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs",
-                    "tag": "it-jobs"
-                },
-                "id": "4870783592",
-                "salary_max": 149483.86,
-                "redirect_url": "https://www.adzuna.com/details/4870783592?utm_medium=api&utm_source=a60688b4",
-                "location": {
-                    "area": [
-                        "US",
-                        "Washington, D.C.",
-                        "Washington"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Washington, Washington, D.C."
-                },
-                "longitude": -77.019023,
-                "title": "Data Scientist - Jr",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg3MDc4MzU5MiIsInMiOiIxamVkb3FDZDd4R3Nmc2pud0lqMk93In0.nBv-xjU6rKEWtyyz52Bn8Wh6s8v9P_yHUMdsdIibYfQ"
-            },
             {
                 "company": {
                     "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Brillient Corporation"
+                    "display_name": "Horizon Resource Services"
                 },
-                "created": "2024-08-15T13:45:20Z",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_max": 85189.99,
+                "salary_min": 85189.99,
+                "description": "Job Description Job Description TRANSFORMACTION DYNAMICS, LLC JOB DESCRIPTION - JUNIOR SOFTWARE DEVELOPER TransformAction Dynamics, LLC Our mission is to help federal, municipal, and commercial agencies and businesses courageously pursue and confidently achieve transformational change. For audacious leaders who need insights into technical and financial realities of a successful enterprise transformation, TransformAction Dynamics offers a forensic approach to transformation management. Our cons\u2026",
+                "location": {
+                    "area": [
+                        "US",
+                        "Oregon",
+                        "Coos County",
+                        "Remote"
+                    ],
+                    "display_name": "Remote, Coos County",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyMDQ2ODMxMSIsInMiOiJmSFpZeXVLZDd4R2hUUHR3eUlqMk93In0.8hNKQb4jgwN-z766OsjSQ0dlcNeiM_AFlCFz7Uuj4iA",
+                "longitude": -123.884499,
+                "title": "Junior Software Developer",
+                "id": "4920468311",
+                "redirect_url": "https://www.adzuna.com/land/ad/4920468311?se=fHZYyuKd7xGhTPtwyIj2Ow&utm_medium=api&utm_source=a60688b4&v=31A48F9112E5ACFA1E33ADA8958549BD4BDEFBBF",
+                "salary_is_predicted": "1",
+                "latitude": 43.018799,
+                "created": "2024-10-31T23:42:11Z",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                }
+            },
+            {
                 "category": {
                     "__CLASS__": "Adzuna::API::Response::Category",
                     "label": "IT Jobs",
                     "tag": "it-jobs"
                 },
-                "latitude": 38.90041,
-                "description": "Job Details Experienced VHA: Washington DC - Washington, DC, WA Hybrid Full Time Day Description What makes Brillient a GREAT fit for you? When you join Brillient, you become part of an award-winning Full Spectrum Digital Transformation company focused on helping agencies in the continuum of analog, to digital, to analytics, leading to insight-driven decision making and mission execution. Our mission is to provide value to our clients and our people, operate with the highest integrity as a trus\u2026",
-                "redirect_url": "https://www.adzuna.com/details/4827063130?utm_medium=api&utm_source=a60688b4",
-                "id": "4827063130",
-                "longitude": -77.0344,
-                "title": "Data Scientist Jr",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgyNzA2MzEzMCIsInMiOiIxamVkb3FDZDd4R3Nmc2pud0lqMk93In0.AN0nc2aRm3metgQ0W_S7QXoK1OYIVOK62rNyuaEwsNg",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_min": 85441.65,
+                "created": "2024-11-07T17:12:59Z",
+                "latitude": 41.303647,
                 "salary_is_predicted": "1",
+                "redirect_url": "https://www.adzuna.com/land/ad/4930520633?se=fHZYyuKd7xGhTPtwyIj2Ow&utm_medium=api&utm_source=a60688b4&v=975422B12C8393D5343908728B5FE1BB466CF769",
+                "id": "4930520633",
+                "title": "Junior Software Developer",
+                "longitude": -90.192897,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkzMDUyMDYzMyIsInMiOiJmSFpZeXVLZDd4R2hUUHR3eUlqMk93In0.Nlg7WeKWqwZY1nVUHMgoJCcRq4AIf3rC4yN-hMv3C74",
                 "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
                     "area": [
                         "US",
-                        "Virginia",
-                        "Arlington County",
-                        "Rosslyn"
+                        "Illinois",
+                        "Henry County",
+                        "Cambridge"
                     ],
-                    "display_name": "Rosslyn, Arlington County"
+                    "display_name": "Cambridge, Henry County",
+                    "__CLASS__": "Adzuna::API::Response::Location"
                 },
-                "salary_max": 85441.65,
-                "contract_time": "full_time"
+                "description": "Job Description Job Description Description: About Us: At Epipelagic Ventures, our mission is to foster a vibrant environment that propels ambitious startups forward. We believe that a three-month accelerator is just the beginning. That's why, as a venture studio, we provide the capital, collaboration, and long-term commitment necessary to guide seed-funded startups from inception to their next stage of growth. Job Description: We are seeking a highly motivated and skilled Junior Software Devel\u2026",
+                "salary_min": 68355.73,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Knovva Academy",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_max": 68355.73
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Java 17 Masterclass: Start Coding in 2024",
+                "description": "Acquire Key Java Skills: From Basics to Advanced Programming and Certification - Start Your Dev Career",
+                "link": "https://www.udemy.com/course/java-the-complete-java-developer-course/"
+            },
+            {
+                "title": "100 Days of Code: The Complete Python Pro Bootcamp",
+                "description": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
+                "link": "https://www.udemy.com/course/100-days-of-code/"
+            },
+            {
+                "title": "Database Management System from scratch - Part 1",
+                "description": "Learn Database Management Systems from scratch as Database Management System forms the core of computer science",
+                "link": "https://www.udemy.com/course/database-management-systems/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Cient\u00edfico de datos sr.",
-        "description": "En este puesto, seguir\u00e1s desarrollando tus habilidades en Ciencia de Datos y liderar\u00e1s proyectos y equipos. Aprender\u00e1s a utilizar herramientas como AWS, Spark y Hadoop, y a dise\u00f1ar y implementar soluciones de Machine Learning. Este paso te permitir\u00e1 demostrar tu capacidad para liderar y resolver problemas complejos.",
-        "position-title": "Data Scientist Sr.",
-        "duration": "2-3 years",
+        "title": "Desarrollador Intermedio",
+        "position-title": "Mid-level Software Developer",
+        "description": "En este puesto, tendr\u00e1s m\u00e1s responsabilidades y autonom\u00eda en proyectos. Debes ser capaz de dise\u00f1ar y implementar soluciones efectivas. Aprende a liderar y a mentoriar a otros desarrolladores. Esta experiencia te permitir\u00e1 mejorar tus habilidades t\u00e9cnicas y de liderazgo.",
+        "duration": "2-3 a\u00f1os",
         "requirements": [
-            "AWS",
-            "Spark",
-            "Hadoop",
+            "Experiencia como desarrollador junior",
+            "Conocimientos en desarrollo web (HTML, CSS, JavaScript, etc.)",
+            "Experiencia con frameworks y bibliotecas (React, Angular, etc.)"
+        ],
+        "abilities": [
             "Liderazgo",
-            "Gesti\u00f3n de proyectos"
+            "Gesti\u00f3n de proyectos",
+            "An\u00e1lisis de problemas"
+        ],
+        "courses": [
+            "Web Development with HTML, CSS, and JavaScript",
+            "React Fundamentals",
+            "Leadership and Team Management"
+        ],
+        "jobs_list": [
+            {
+                "id": "4915247565",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkxNTI0NzU2NSIsInMiOiJWQy1ienVLZDd4R0FCNEFoUEpfU29RIn0.5H-SnIsJHjCjzzLbPq18iVw7s-qqYTbUsDygID-ns1I",
+                "longitude": -86.482172,
+                "redirect_url": "https://www.adzuna.com/land/ad/4915247565?se=VC-bzuKd7xGAB4AhPJ_SoQ&utm_medium=api&utm_source=a60688b4&v=B3AF10F80BFFEF273F6C4AA42AE44A216810D517",
+                "location": {
+                    "area": [
+                        "US",
+                        "Florida",
+                        "Okaloosa County",
+                        "Niceville"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Niceville, Okaloosa County"
+                },
+                "salary_is_predicted": "1",
+                "latitude": 30.516864,
+                "salary_max": 74256.49,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "salary_min": 74256.49,
+                "description": "Job Description Job Description Looking for junior level all the way up to senior level developers Multiple different spots open To Skills Set: 1. Mission Planning 2. C# 3. .NET Mandatory: Active Secret Clearance Description: The client is an organization that is committed to working effectively as a team with a clear focus on the customer and a belief that hiring talented individuals will help us achieve our vision. Our engineers embody commitment, courage, focus, openness and respect for each\u2026",
+                "created": "2024-10-26T16:09:36Z",
+                "title": "Mid Level Software Developer",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "TEKsystems",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                }
+            },
+            {
+                "redirect_url": "https://www.adzuna.com/land/ad/4876460075?se=VC-bzuKd7xGAB4AhPJ_SoQ&utm_medium=api&utm_source=a60688b4&v=000A9A8192186A2E6198DE9959A020022298FFFC",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkMtYnp1S2Q3eEdBQjRBaFBKX1NvUSIsImkiOiI0ODc2NDYwMDc1In0.QMrvbmPeXQYmyKKn6kMTSW2wvpAVaCeDYn7ZTYtNZec",
+                "longitude": -77.4582,
+                "id": "4876460075",
+                "salary_is_predicted": "1",
+                "salary_max": 97441.66,
+                "latitude": 38.29848,
+                "location": {
+                    "area": [
+                        "US",
+                        "Virginia",
+                        "Fredericksburg City",
+                        "Enon"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Enon, Fredericksburg City"
+                },
+                "description": "Location: Dahlgren, Virginia, USA Telework: None Clearance : Interim Secret (US Citizenship Required) Experience : Mid-Level Number of Openings: 1 Funding Status: Funded Salary Range: $75,000 - $100,000 (Please see below for more info on salary) Mid-Level Software Developer SimVentions is a 100% employee-owned business and has consistently been voted one of Virginia's Best Places to Work. We are looking for a mid-level Software Engineer to join our team This individual will provide software eng\u2026",
+                "salary_min": 97441.66,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "company": {
+                    "display_name": "SimVentions, Inc - Glassdoor \u272a 4.6",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "title": "Mid-Level Software Developer",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2024-09-25T14:13:06Z"
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "The Complete 2024 Web Development Bootcamp",
+                "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps",
+                "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+            },
+            {
+                "title": "React - The Complete Guide 2024 (incl. Next.js, Redux)",
+                "description": "Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router, Next.js, Best Practices and way more!",
+                "link": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/"
+            },
+            {
+                "title": "Management Skills - Team Leadership Skills Masterclass",
+                "description": "Leadership & Management Skills - Change Management- Lean BPM Management Skills - Team Management - Team Building",
+                "link": "https://www.udemy.com/course/leadership-and-lean-management-masterclass/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "L\u00edder de Proyecto",
+        "position-title": "Project Lead",
+        "description": "En este puesto, ser\u00e1s responsable de liderar proyectos y equipos de desarrollo. Debes ser capaz de gestionar recursos, tiempos y presupuestos. Aprende a tomar decisiones informadas y a comunicarte efectivamente con stakeholders. Esta experiencia te permitir\u00e1 mejorar tus habilidades de liderazgo y gesti\u00f3n.",
+        "duration": "3-5 a\u00f1os",
+        "requirements": [
+            "Experiencia como desarrollador intermedio",
+            "Conocimientos en gesti\u00f3n de proyectos (Agile, Scrum, etc.)",
+            "Experiencia en liderazgo y gesti\u00f3n de equipos"
         ],
         "abilities": [
             "Liderazgo",
             "Gesti\u00f3n de proyectos",
             "Comunicaci\u00f3n efectiva"
         ],
-        "jobs_list": [
-            {
-                "longitude": -122.004179,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwNDIwNTk0NyIsInMiOiJqclRhbzZDZDd4RzVFeGZudXBYaHN3In0.X8HuExi9Lh1T8pCyzLkUA2GrzgA8TlhJqpgzK6ZbGNI",
-                "latitude": 37.564143,
-                "description": "About Weee Weee is the largest and fastest-growing ethnic e-grocer in the United States, operating in one of the largest underserved categories in retail with affordable access to exciting ethnic food. By partnering with local suppliers, redesigning the value chain and leveraging social buying, Weee is reshaping the grocery business entirely. You can read more about us on Business Insider , Reuters and TechCrunch . Weee is headquartered in Fremont, CA, and is currently available coast to coast \u2026",
-                "id": "4904205947",
-                "created": "2024-10-16T12:40:37Z",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Weee"
-                },
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Fremont, Alameda County",
-                    "area": [
-                        "US",
-                        "California",
-                        "Alameda County",
-                        "Fremont"
-                    ]
-                },
-                "category": {
-                    "label": "PR, Advertising & Marketing Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "pr-advertising-marketing-jobs"
-                },
-                "title": "Data Scientist/Sr. Data Scientist",
-                "salary_min": 95000,
-                "salary_max": 145000,
-                "redirect_url": "https://www.adzuna.com/details/4904205947?utm_medium=api&utm_source=a60688b4",
-                "contract_time": "full_time",
-                "salary_is_predicted": "0",
-                "__CLASS__": "Adzuna::API::Response::Job"
-            },
-            {
-                "created": "2024-09-28T10:30:34Z",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "BAE Systems"
-                },
-                "location": {
-                    "area": [
-                        "US",
-                        "Missouri",
-                        "Saint Louis County",
-                        "Saint Louis"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Saint Louis, Saint Louis County"
-                },
-                "contract_type": "contract",
-                "longitude": -90.192822,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg4MDM4MDE0MCIsInMiOiJqclRhbzZDZDd4RzVFeGZudXBYaHN3In0.K2Ft3-pL2706CvP0Rlgbu0d5I2SLBaVuOk1OrrZZ5mU",
-                "latitude": 38.630539,
-                "description": "Are you interested in a career in photogrammetry? Do you have a passion for evaluating emerging satellite technologies to improve products, practices, and processes? BAE Systems is seeking a Junior Photogrammetrist to join our team in support of a critical Intelligence Community mission. In this position, you will assist in performing mathematical and statistical analysis on new and current sensors and geolocation systems using photogrammetrically-sound mathematical methods. Key responsibilitie\u2026",
-                "id": "4880380140",
-                "redirect_url": "https://www.adzuna.com/details/4880380140?utm_medium=api&utm_source=a60688b4",
-                "salary_is_predicted": "1",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "title": "Data Scientist Sr",
-                "salary_min": 118010.83,
-                "category": {
-                    "label": "IT Jobs",
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "salary_max": 118010.83
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "L\u00edder de equipo de Ciencia de Datos",
-        "description": "En este puesto, liderar\u00e1s un equipo de cient\u00edficos de datos y ser\u00e1s responsable de dise\u00f1ar y implementar soluciones de Ciencia de Datos a gran escala. Aprender\u00e1s a utilizar herramientas como Kubernetes y Docker, y a gestionar y evaluar el desempe\u00f1o de tu equipo. Este paso te permitir\u00e1 demostrar tu capacidad para liderar y gestionar equipos.",
-        "position-title": "Data Science Team Lead",
-        "duration": "3-5 years",
-        "requirements": [
-            "Kubernetes",
-            "Docker",
-            "Liderazgo",
-            "Gesti\u00f3n de equipos"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Gesti\u00f3n de equipos",
-            "Comunicaci\u00f3n efectiva"
-        ],
-        "jobs_list": [
-            {
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Los Angeles, Los Angeles County",
-                    "area": [
-                        "US",
-                        "California",
-                        "Los Angeles County",
-                        "Los Angeles"
-                    ]
-                },
-                "salary_is_predicted": "0",
-                "created": "2024-11-01T06:15:44Z",
-                "redirect_url": "https://www.adzuna.com/details/4921263534?utm_medium=api&utm_source=a60688b4",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Relocity"
-                },
-                "description": "What Relocity is Doing Relocity is reimagining the global mobility experience. We enable enterprises to attract, retain, and engage talent globally. Powered by our AI-driven workforce mobility platform, we bring together local experts and insightful content in our native mobile app to deliver an excellent user experience for people on the move. Our core values drive us to focus on our customers, innovation, integrity, and excellence. Relocity serves hundreds of cities in more than 40 markets ac\u2026",
-                "salary_max": 200000,
-                "id": "4921263534",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidHNYTXBhQ2Q3eEc1RXhmbnVwWGhzdyIsImkiOiI0OTIxMjYzNTM0In0.miIKBtCbIppYgAjvQyTGLWUBuIBpyExpCqc2crF5fRQ",
-                "category": {
-                    "label": "IT Jobs",
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "salary_min": 180000,
-                "title": "Data Science Team Lead"
-            },
-            {
-                "salary_is_predicted": "1",
-                "location": {
-                    "display_name": "Chantilly, Fairfax County",
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "Virginia",
-                        "Fairfax County",
-                        "Chantilly"
-                    ]
-                },
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "created": "2024-11-02T16:47:27Z",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "CGI Technologies and Solutions, Inc."
-                },
-                "redirect_url": "https://www.adzuna.com/details/4923722830?utm_medium=api&utm_source=a60688b4",
-                "latitude": 38.883702,
-                "description": "Data Science Team Lead US Citizenship REQUIRED Category: Project Management Main location: United States, Virginia, Chantilly Position ID: J1024-2405 Employment Type: Full Time Position Description: CGI Federal is looking for a Team Lead to join our team within our Intel Community. You will be responsible for leading a high-performance team in designing and building data pipelines using Python and AWS cloud infrastructure. This role requires a strong understanding of software development and da\u2026",
-                "salary_max": 190337.7,
-                "id": "4923722830",
-                "longitude": -77.428438,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyMzcyMjgzMCIsInMiOiJ0c1hNcGFDZDd4RzVFeGZudXBYaHN3In0.imVGCOYYNbijkzDp8Un6oR4jcMcp94JaZY1BgUXtRk8",
-                "title": "Data Science Team Lead US Citizenship REQUIRED",
-                "salary_min": 190337.7,
-                "category": {
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs"
-                }
-            }
-        ]
-    },
-    {
-        "about_work": false,
-        "title": "Desarrollar habilidades en Cloud Computing",
-        "description": "Es fundamental tener habilidades en Cloud Computing para trabajar en Amazon. Aprender\u00e1s a utilizar servicios como AWS, Azure y Google Cloud, y a dise\u00f1ar y implementar soluciones en la nube. Busca cursos en l\u00ednea o diplomados para desarrollar estas habilidades.",
         "courses": [
-            "AWS Certified Cloud Practitioner",
-            "Microsoft Azure Developer Associate"
+            "Project Management with Agile",
+            "Leadership and Team Management",
+            "Communication Skills"
+        ],
+        "jobs_list": [
+            {
+                "title": "GERENTE DE CONTACT CENTER EXTERNO",
+                "redirect_url": "https://www.magneto365.com/co/empleos/gerente-de-servicio-al-consumidor-call-center-externo-9539b238-cd9e-4997-912c-213939a20abc?utm_campaign=groupe-seb&utm_medium=referral",
+                "city": "Medell\u00edn"
+            }
         ],
         "courses_list": [
             {
-                "title": "[NEW] Ultimate AWS Certified Cloud Practitioner CLF-C02",
-                "description": "Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AWS Cloud Practitioner CLF-C02 exam!",
-                "link": "https://www.udemy.com/course/aws-certified-cloud-practitioner-new/"
+                "title": "The Complete Agile & Scrum Project Management Course",
+                "description": "Master Agile and Scrum through an immersive, real-world case study to become a world-class project manager",
+                "link": "https://www.udemy.com/course/the-complete-agile-scrum-project-management-course/"
             },
             {
-                "title": "AZ-204: Course for Developing Solutions for Microsoft Azure",
-                "description": "AZ-204 : Microsoft Certified: Azure Developer Associate course",
-                "link": "https://www.udemy.com/course/azure-certification-1/"
+                "title": "Management Skills - Team Leadership Skills Masterclass",
+                "description": "Leadership & Management Skills - Change Management- Lean BPM Management Skills - Team Management - Team Building",
+                "link": "https://www.udemy.com/course/leadership-and-lean-management-masterclass/"
+            },
+            {
+                "title": "The Complete Communication Skills Master Class for Life",
+                "description": "Communication Skills for Persuasion, Assertiveness and All Business Communication Needs",
+                "link": "https://www.udemy.com/course/the-complete-communication-skills-master-class-for-life/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Cient\u00edfico de datos en Amazon",
-        "description": "Finalmente, con tus habilidades en Ciencia de Datos y Cloud Computing, podr\u00e1s trabajar en Amazon como Cient\u00edfico de Datos. Aprender\u00e1s a utilizar herramientas como SageMaker y Comprehend, y a dise\u00f1ar y implementar soluciones de Machine Learning a gran escala.",
-        "position-title": "Data Scientist - Amazon",
-        "duration": "Depende de la experiencia",
+        "title": "Arquitecto de Software",
+        "position-title": "Software Architect",
+        "description": "En este puesto, ser\u00e1s responsable de dise\u00f1ar y implementar la arquitectura de software. Debes ser capaz de analizar problemas complejos y dise\u00f1ar soluciones escalables. Aprende a trabajar con tecnolog\u00edas emergentes y a liderar equipos de desarrollo. Esta experiencia te permitir\u00e1 mejorar tus habilidades t\u00e9cnicas y de dise\u00f1o.",
+        "duration": "5-7 a\u00f1os",
         "requirements": [
-            "SageMaker",
-            "Comprehend",
-            "Machine Learning",
-            "Cloud Computing"
+            "Experiencia como l\u00edder de proyecto",
+            "Conocimientos en dise\u00f1o de software ( Patterns, UML, etc.)",
+            "Experiencia con tecnolog\u00edas emergentes (Cloud, AI, etc.)"
         ],
         "abilities": [
-            "Pensamiento cr\u00edtico",
-            "Resoluci\u00f3n de problemas",
+            "An\u00e1lisis de problemas",
+            "Dise\u00f1o de software",
             "Liderazgo"
+        ],
+        "courses": [
+            "Software Architecture with UML",
+            "Cloud Computing with AWS",
+            "AI and Machine Learning"
         ],
         "jobs_list": [
             {
+                "redirect_url": "https://www.adzuna.com/land/ad/4928951156?se=gjcY1eKd7xGhTPtwyIj2Ow&utm_medium=api&utm_source=a60688b4&v=A7107C51BFEA1E8E30BDC5171078ACB1A5CE23A0",
+                "id": "4928951156",
+                "latitude": 28.541666,
+                "salary_is_predicted": "1",
+                "created": "2024-11-06T15:32:05Z",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "salary_max": 115420.88,
+                "__CLASS__": "Adzuna::API::Response::Job",
                 "company": {
                     "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Amazon"
+                    "display_name": "Kavaliro"
+                },
+                "description": "Our client is seeking a Software Architect in Orlando, FL. The Software Architect will play a critical role in designing and developing high-quality, scalable software solutions aligned with business goals. As a technical leader, you will guide the development team through the software development lifecycle, from concept and design to deployment and maintenance. You will be responsible for ensuring that all architectural solutions meet both technical and business requirements and adhere to best\u2026",
+                "salary_min": 115420.88,
+                "longitude": -81.375686,
+                "title": "Software Architect",
+                "location": {
+                    "display_name": "Orlando, Orange County",
+                    "area": [
+                        "US",
+                        "Florida",
+                        "Orange County",
+                        "Orlando"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyODk1MTE1NiIsInMiOiJnamNZMWVLZDd4R2hUUHR3eUlqMk93In0.sn3y3jWpPc-2EdUX3KwZ-I26fYypH0i6UFzoOidYDlU"
+            },
+            {
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "created": "2024-10-21T05:22:54Z",
+                "salary_is_predicted": "1",
+                "latitude": 33.755711,
+                "id": "4908716341",
+                "redirect_url": "https://www.adzuna.com/land/ad/4908716341?se=gjcY1eKd7xGhTPtwyIj2Ow&utm_medium=api&utm_source=a60688b4&v=CC53F6F386C5D63E3C5C47D96366DFE8CDAD61F2",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Atlanta, Fulton County",
+                    "area": [
+                        "US",
+                        "Georgia",
+                        "Fulton County",
+                        "Atlanta"
+                    ]
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwODcxNjM0MSIsInMiOiJnamNZMWVLZDd4R2hUUHR3eUlqMk93In0.tM4KecxLDRwDHdDUB_8MkTzYNl1n9e45bGTfFcVU2xA",
+                "longitude": -84.388372,
+                "title": "Software Architect",
+                "salary_min": 110545.14,
+                "description": "Job Title: MuleSoft Architect /MuleSoft Developer Location: Location : Atlanta GA/Chicago IL Roles & Responsibilities Overall 10 years of overall exp with Minimum 5 years of experience working as Mule Architect 3 years of Design and Development experience with Mule 4.x Must have development experience implementing flows using Oracle, Hadoop, SQL, Kafka, .NET connectors etc. Must have experience in secure API development Understanding of MuleSoft Development best practices with respect to using \u2026",
+                "company": {
+                    "display_name": "Tata Consultancy Services",
+                    "__CLASS__": "Adzuna::API::Response::Company"
                 },
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "created": "2024-07-30T16:05:41Z",
-                "salary_min": 158640.62,
-                "salary_is_predicted": "1",
-                "latitude": 40.755381,
+                "salary_max": 110545.14
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Software Architecture with UML modeling",
+                "description": "Get software architecture skills required by an enterprise architect with UML and architecture patterns",
+                "link": "https://www.udemy.com/course/software-architecture-with-uml-modeling/"
+            },
+            {
+                "title": "Introduction to Cloud Computing on AWS for Beginners [2024]",
+                "description": "Learn Cloud Computing Concepts and AWS Basics | Master AWS Fundamentals and Hands-on Skills on Amazon Web Services (AWS)",
+                "link": "https://www.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/"
+            },
+            {
+                "title": "Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]",
+                "description": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+                "link": "https://www.udemy.com/course/machinelearning/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero de Software Senior",
+        "position-title": "Senior Software Engineer",
+        "description": "En este puesto, ser\u00e1s un experto en desarrollo de software y l\u00edder t\u00e9cnico en proyectos. Debes ser capaz de dise\u00f1ar y implementar soluciones innovadoras y escalables. Aprende a trabajar con tecnolog\u00edas emergentes y a liderar equipos de desarrollo. Esta experiencia te permitir\u00e1 mejorar tus habilidades t\u00e9cnicas y de liderazgo.",
+        "duration": "7-10 a\u00f1os",
+        "requirements": [
+            "Experiencia como arquitecto de software",
+            "Conocimientos en desarrollo de software (Java, Python, C++, etc.)",
+            "Experiencia con tecnolog\u00edas emergentes (Cloud, AI, etc.)"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "An\u00e1lisis de problemas",
+            "Dise\u00f1o de software"
+        ],
+        "courses": [
+            "Cloud Native Application Development",
+            "AI and Machine Learning",
+            "Leadership and Team Management"
+        ],
+        "jobs_list": [
+            {
+                "location": {
+                    "display_name": "Manassas, Prince William County",
+                    "area": [
+                        "US",
+                        "Virginia",
+                        "Prince William County",
+                        "Manassas"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
                 "category": {
                     "label": "IT Jobs",
                     "__CLASS__": "Adzuna::API::Response::Category",
                     "tag": "it-jobs"
                 },
-                "description": "Description Are you excited about the prospect of making it easier for builders to innovate and create great software? If so, Amazon Software Builder Experience (ASBX) may be the place for you. Created in 2022, ASBX has the mission of creating the world's best builder experience across tens of thousands of software engineers across both Amazon and AWS. Builder Insights works at the core of ASBX, shaping what it means to create the world's best software builder experience. How do we reduce frict\u2026",
-                "redirect_url": "https://www.adzuna.com/details/4801062112?utm_medium=api&utm_source=a60688b4",
-                "location": {
-                    "area": [
-                        "US",
-                        "New York",
-                        "New York City",
-                        "Manhattan",
-                        "Grand Central"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Grand Central, Manhattan"
-                },
-                "id": "4801062112",
-                "salary_max": 158640.62,
-                "longitude": -73.978504,
-                "title": "Senior Data Scientist, Amazon Software Builder Insights (ASBI)",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2l4bHFLQ2Q3eEdzZnNqbndJajJPdyIsImkiOiI0ODAxMDYyMTEyIn0.L1UFlVuFu1xPY4mKzFG3jxnoX4APolXMfUz4RrHL7sE"
-            },
-            {
-                "redirect_url": "https://www.adzuna.com/details/4908204052?utm_medium=api&utm_source=a60688b4",
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Santa Clara, Santa Clara County",
-                    "area": [
-                        "US",
-                        "California",
-                        "Santa Clara County",
-                        "Santa Clara"
-                    ]
-                },
-                "id": "4908204052",
-                "salary_max": 212800,
-                "longitude": -121.952999,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwODIwNDA1MiIsInMiOiJnaXhscUtDZDd4R3Nmc2pud0lqMk93In0.yFDquEzVFvbsyWVDopEOCtfgXwSwjbYJnK_JgpO-a4Y",
-                "title": "Language Data Scientist, Amazon",
                 "company": {
-                    "display_name": "Amazon",
+                    "display_name": "General Dynamics Mission Systems",
                     "__CLASS__": "Adzuna::API::Response::Company"
                 },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnNLMzJPS2Q3eEdueTgzY3daWGhzdyIsImkiOiI0ODUxNjkyNDc0In0.R7L0b8T88ogQzHzBSOyXMdEEK4hWmZuHvbXiVzjrf9E",
+                "salary_is_predicted": "1",
+                "created": "2024-09-04T11:00:13Z",
+                "salary_min": 184028.28,
+                "latitude": 38.74793,
+                "redirect_url": "https://www.adzuna.com/land/ad/4851692474?se=6sK32OKd7xGny83cwZXhsw&utm_medium=api&utm_source=a60688b4&v=995BBA6E8212343A5FF40D620A94BA98387D6149",
+                "description": "Requires a Bachelor\u2019s degree in Software Engineering, or a related Science, Engineering or Mathematics field. Also requires 2 years of job-related experience or a Master's degree. Agile experience preferred. Need to have experience with C++ or Java. CLEARANCE REQUIREMENTS: Department of Defense Secret security clearance is required within a reasonable period of time. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access\u2026",
+                "salary_max": 184028.28,
+                "title": "Senior Software Engineer",
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "created": "2024-10-20T12:49:41Z",
-                "salary_min": 125500,
-                "salary_is_predicted": "0",
+                "id": "4851692474",
+                "longitude": -77.47599
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "4917676631",
+                "longitude": -111.918478,
+                "description": "Requires a Bachelor\u2019s degree in Software Engineering, or a related Science, Engineering or Mathematics field. Also requires 8 years of job-related experience, or a Master's degree plus 6 years of job-related experience. Agile experience preferred. CLEARANCE REQUIREMENTS: Ability to obtain Department of Defense Secret security clearance is required at time of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to\u2026",
+                "redirect_url": "https://www.adzuna.com/land/ad/4917676631?se=6sK32OKd7xGny83cwZXhsw&utm_medium=api&utm_source=a60688b4&v=3812FD2B0A30F1F143DE5563D403C6B1493375C2",
+                "title": "Senior Software Engineer",
+                "salary_max": 114890.67,
+                "salary_is_predicted": "1",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnNLMzJPS2Q3eEdueTgzY3daWGhzdyIsImkiOiI0OTE3Njc2NjMxIn0.Mw40hErfa8CUCj_-RMdbfSeHIiDs-yKwkE5Xc0XpGXU",
                 "category": {
-                    "tag": "it-jobs",
                     "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs"
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
                 },
-                "latitude": 37.353966,
-                "description": "Description The Shopping Tech Foundation Team is looking for a Language Data Scientist to collaborate in developing solutions for LLM prompt engineering, LLM evaluation/benchmarking, and annotation efficiency. This position is an opportunity to apply your linguistic and data science expertise in a challenging but supportive environment. Do you want to be part of the team developing the future technology that impacts the customer experience of ground-breaking products? Then come join us and make\u2026"
+                "company": {
+                    "display_name": "General Dynamics Mission Systems",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "latitude": 33.468392,
+                "created": "2024-10-29T12:21:22Z",
+                "salary_min": 114890.67,
+                "location": {
+                    "display_name": "Tempe, Maricopa County",
+                    "area": [
+                        "US",
+                        "Arizona",
+                        "Maricopa County",
+                        "Tempe"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                }
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "[NEW] Master Microservices with SpringBoot,Docker,Kubernetes",
+                "description": "Learn &amp; Develop Microservices with Java, Spring Boot, Spring Cloud, Docker, Kubernetes, Helm, Microservices Security",
+                "link": "https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/"
+            },
+            {
+                "title": "Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]",
+                "description": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+                "link": "https://www.udemy.com/course/machinelearning/"
+            },
+            {
+                "title": "Management Skills - Team Leadership Skills Masterclass",
+                "description": "Leadership & Management Skills - Change Management- Lean BPM Management Skills - Team Management - Team Building",
+                "link": "https://www.udemy.com/course/leadership-and-lean-management-masterclass/"
             }
         ]
     },
     {
         "about_work": false,
-        "title": "Participar en comunidades de Ciencia de Datos",
-        "description": "Es importante participar en comunidades de Ciencia de Datos para mantenerse actualizado con las \u00faltimas tendencias y tecnolog\u00edas. Busca comunidades en l\u00ednea como Kaggle, Reddit o GitHub, y participa en proyectos y desaf\u00edos para mejorar tus habilidades.",
+        "title": "Participaci\u00f3n en proyectos de c\u00f3digo abierto",
+        "description": "Participa en proyectos de c\u00f3digo abierto en plataformas como GitHub o GitLab. Esto te permitir\u00e1 mejorar tus habilidades t\u00e9cnicas y trabajar con otros desarrolladores. Aprende a colaborar y a recibir retroalimentaci\u00f3n.",
         "courses": [
-            "Kaggle Competitions",
-            "Reddit - r/MachineLearning"
+            "Git and GitHub",
+            "Collaborative Development",
+            "Open Source Project Management"
         ],
         "courses_list": [
             {
-                "title": "Complete Python for Data Science & Machine Learning from A-Z",
-                "description": "Python with Machine Learning & Data Science, Data Visulation, Numpy & Pandas for Data Analysis, Kaggle projects from A-Z",
-                "link": "https://www.udemy.com/course/complete-python-for-data-science-machine-learning-from-a-z/"
+                "title": "The Git & Github Bootcamp",
+                "description": "Master the essentials and the tricky bits: rebasing, squashing, stashing, reflogs, blobs, trees, & more!",
+                "link": "https://www.udemy.com/course/git-and-github-bootcamp/"
             },
+            {
+                "title": "The Complete 2024 Web Development Bootcamp",
+                "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps",
+                "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+            },
+            {
+                "title": "The Project Management Course: Beginner to PROject Manager",
+                "description": "The Complete Course For Becoming A Successful Project Manager",
+                "link": "https://www.udemy.com/course/the-project-management-course-beginner-to-project-manager/"
+            }
+        ]
+    },
+    {
+        "about_work": false,
+        "title": "Desarrollo personal",
+        "description": "Inicia un blog o una p\u00e1gina web para compartir tus experiencias y conocimientos sobre desarrollo de software. Esto te permitir\u00e1 mejorar tus habilidades de comunicaci\u00f3n y l\u00edderazgo.",
+        "courses": [
+            "Content Creation",
+            "Personal Branding",
+            "Communication Skills"
+        ],
+        "courses_list": [
             {
                 "title": "The Complete Digital Marketing Guide - 26 Courses in 1",
                 "description": "Digital Marketing, Social Media, ChatGPT, Prompt Engineering, Google Ads, Facebook, SEO, WordPress, Instagram, YouTube.",
                 "link": "https://www.udemy.com/course/digital-marketing-guide/"
+            },
+            {
+                "title": "Personal Branding Mastery: The System To Reinvent Yourself!",
+                "description": "The Ultimate Personal Brand Transformation: Skyrocket Your Income, Impact and Influence. Rebuild Yourself Like a Pro",
+                "link": "https://www.udemy.com/course/personal-branding-mastery/"
+            },
+            {
+                "title": "The Complete Communication Skills Master Class for Life",
+                "description": "Communication Skills for Persuasion, Assertiveness and All Business Communication Needs",
+                "link": "https://www.udemy.com/course/the-complete-communication-skills-master-class-for-life/"
+            }
+        ]
+    },
+    {
+        "about_work": false,
+        "title": "Network",
+        "description": "Asiste a conferencias y eventos de tecnolog\u00eda. Conecta con otros profesionales de la industria y aprende sobre las \u00faltimas tendencias y tecnolog\u00edas.",
+        "courses": [
+            "Networking",
+            "Professional Development",
+            "Industry Trends"
+        ],
+        "courses_list": [
+            {
+                "title": "The Complete Networking Fundamentals Course. Your CCNA start",
+                "description": "Learn about networking and start your journey to Cisco 200-301 Certification.",
+                "link": "https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/"
+            },
+            {
+                "title": "Professional in Talent Development (PTD)",
+                "description": "60 PDH ATD APTD/CPTD Talent Development Certificate Exam Prep (TDBOK2)",
+                "link": "https://www.udemy.com/course/professional-in-talent-development-ptd/"
+            },
+            {
+                "title": "Customer Experience (CX) in Industry 4.0",
+                "description": "Creating an engaging and rich Customer Experience (CX) in Industry 4.0",
+                "link": "https://www.udemy.com/course/cx-in-industry-4/"
             }
         ]
     }
