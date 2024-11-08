@@ -13,7 +13,7 @@ function LoginRegister() {
                         <div className="toggle">
                             <div className="toggle-panel toggle-left">
                                 <h1>Bienvenido!</h1>
-                                <p>Si ya estás registrado inicia sesión</p>
+                                <p className="left-p">Si ya estás registrado inicia sesión</p>
                                 <button className="hidden" id="login" onClick={() => {
                                     document.getElementById("container").classList.remove("active")
                                 }}>Iniciar Sesión</button>

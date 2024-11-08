@@ -1,444 +1,673 @@
 [
     {
         "about_work": false,
-        "title": "Construir proyectos personales de juegos",
-        "description": "Es importante empezar a construir proyectos personales de juegos para desarrollar habilidades y crear un portafolio de trabajo que pueda mostrar a futuros empleadores. Esto te permitir\u00e1 practicar tus habilidades en programaci\u00f3n y dise\u00f1o de juegos, y tambi\u00e9n te dar\u00e1 la oportunidad de experimentar con diferentes tecnolog\u00edas y herramientas. Aseg\u00farate de documentar tu proceso y los resultados en una plataforma como GitHub o Itch.io.",
+        "title": "Desarrollar habilidades fundamentales",
+        "description": "Antes de ingresar al mercado laboral, es esencial desarrollar habilidades fundamentales en programaci\u00f3n, como una s\u00f3lida comprensi\u00f3n de algoritmos, estructuras de datos y dise\u00f1o de patrones. Esto te permitir\u00e1 tener una base s\u00f3lida para enfrentar desaf\u00edos futuros. Aprovecha este tiempo para practicar mediante proyectos personales o katas de programaci\u00f3n. Tambi\u00e9n es recomendable leer libros y art\u00edculos sobre desarrollo de software y aprender de los errores de otros.",
         "courses": [
-            "Game Development Fundamentals",
-            "Game Design Principles"
+            "Algoritmos y estructuras de datos",
+            "Dise\u00f1o de patrones"
         ],
         "courses_list": [
             {
-                "title": "The Complete Unity C# Game Developer Bootcamp Part 1 of 2",
-                "description": "Master Unity C# to Build 2D, 3D, and AR/VR Games - From Coding Fundamentals to Advanced Game Development Techniques",
-                "link": "https://www.udemy.com/course/the-complete-unity-c-game-developer-bootcamp-part-1-of-2/"
+                "title": "Algoritmos, Estructuras de Datos y Entrevistas Programaci\u00f3n",
+                "description": "+50 ejercicios de entrevistas programaci\u00f3n. Big O, algoritmos y estructuras de datos. L\u00f3gica programaci\u00f3n. Mejora tu CV.",
+                "link": "https://www.udemy.com/course/algoritmos-estructuras-de-datos-y-entrevistas-programacion/"
             },
             {
-                "title": "Game Design Essentials: Tools, Theories and Techniques",
-                "description": "Harness the power of game design, psychology and systems thinking to understand your players and how games work.",
-                "link": "https://www.udemy.com/course/fun-meaningful-game-design/"
+                "title": "Patrones de dise\u00f1o de software y principios SOLID.",
+                "description": "Descubre los design patterns y los principios SOLID que te permitir\u00e1n construir aplicaciones m\u00e1s profesionales en Java.",
+                "link": "https://www.udemy.com/course/patrones-de-diseno-y-principios-solid/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Junior Game Tester",
-        "description": "Como Junior Game Tester, tendr\u00e1s la oportunidad de trabajar en un estudio de juegos y aprender de primera mano c\u00f3mo se desarrollan los juegos. Tu trabajo consistir\u00e1 en probar juegos y encontrar bugs, lo que te permitir\u00e1 desarrollar habilidades de atenci\u00f3n al detalle y comunicaci\u00f3n efectiva. Esta experiencia te ser\u00e1 \u00fatil para entender c\u00f3mo funciona la industria de los juegos y c\u00f3mo se desarrollo un juego desde cero.",
-        "position-title": "Junior Game Tester",
-        "duration": "3-6 months",
+        "title": "Desarrollador junior de software",
+        "position-title": "Junior Software Developer",
+        "description": "Este es tu primer paso en el mundo laboral. Como desarrollador junior de software, trabajar\u00e1s en equipo para desarrollar aplicaciones y sistemas software. Aprender\u00e1s a trabajar con diferentes tecnolog\u00edas y frameworks, y a interactuar con otros desarrolladores y stakeholders. Aprovecha este tiempo para aprender de tus colegas y mentores, y para desarrollar tus habilidades blandas.",
+        "duration": "1-2 a\u00f1os",
         "requirements": [
-            "Prueba",
-            "Gaming console experience"
+            "Conocimientos en programaci\u00f3n",
+            "Experiencia con frameworks y tecnolog\u00edas espec\u00edficas"
         ],
         "abilities": [
-            "Atenci\u00f3n al detalle",
-            "Comunicaci\u00f3n efectiva"
+            "Comunicaci\u00f3n efectiva",
+            "Trabajo en equipo",
+            "Aprendizaje r\u00e1pido"
         ],
-        "jobs_list": []
-    },
-    {
-        "about_work": true,
-        "title": "Game QA Analyst",
-        "description": "Como Game QA Analyst, tendr\u00e1s la responsabilidad de liderar el equipo de pruebas y asegurarte de que los juegos se desarrollen seg\u00fan los est\u00e1ndares de calidad. Tu trabajo consistir\u00e1 en crear planes de pruebas, identificar bugs y trabajar con el equipo de desarrollo para solucionarlos. Esta experiencia te permitir\u00e1 desarrollar habilidades de liderazgo y gesti\u00f3n de proyectos.",
-        "position-title": "Game QA Analyst",
-        "duration": "1-2 years",
-        "requirements": [
-            "Prueba1",
-            "Game development experience"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Gesti\u00f3n de proyectos"
+        "courses": [
+            "Desarrollo web con React",
+            "Introducci\u00f3n a Agile"
         ],
         "jobs_list": [
             {
-                "longitude": -118.29082,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDc5NjU3MzIyNCIsInMiOiJEREJmdTJXZDd4R3Nmc2pud0lqMk93In0.pf9Gpl1EIYPP84ZXMUf4ik8ALhSMpHoKi68TRKRd7yk",
-                "title": "Senior QA Analyst, Night School Game Studio",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyOTQ3MzY3MyIsInMiOiJWaUp6OFdhZDd4R2hGLUpNTlpfU29RIn0.NU41um3tfQy5zopCaCp4P6EuAd053lRWy-OLGUAn_CM",
+                "salary_min": 83037.16,
+                "created": "2024-11-07T02:47:15Z",
+                "salary_max": 83037.16,
+                "latitude": 42.363596,
+                "redirect_url": "https://www.adzuna.com/details/4929473673?utm_medium=api&utm_source=a60688b4",
+                "longitude": -71.085206,
+                "id": "4929473673",
+                "salary_is_predicted": "1",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Knovva Academy"
+                },
                 "location": {
                     "__CLASS__": "Adzuna::API::Response::Location",
                     "area": [
                         "US",
-                        "California",
-                        "Los Angeles County",
-                        "Pico Heights"
+                        "Massachusetts",
+                        "Middlesex County",
+                        "Kendall Square"
                     ],
-                    "display_name": "Pico Heights, Los Angeles County"
+                    "display_name": "Kendall Square, Middlesex County"
                 },
-                "redirect_url": "https://www.adzuna.com/details/4796573224?utm_medium=api&utm_source=a60688b4",
-                "id": "4796573224",
-                "salary_max": 67157.23,
-                "salary_is_predicted": "1",
-                "latitude": 34.047977,
+                "description": "Description: About Us: At Epipelagic Ventures, our mission is to foster a vibrant environment that propels ambitious startups forward. We believe that a three-month accelerator is just the beginning. That's why, as a venture studio, we provide the capital, collaboration, and long-term commitment necessary to guide seed-funded startups from inception to their next stage of growth. Job Description: We are seeking a highly motivated and skilled Junior Software Developer to join our IT team. In thi\u2026",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Junior Software Developer"
+            },
+            {
+                "latitude": 41.303647,
+                "salary_max": 68355.73,
+                "created": "2024-11-07T17:12:59Z",
+                "salary_min": 68355.73,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkzMDUyMDYzMyIsInMiOiJWaUp6OFdhZDd4R2hGLUpNTlpfU29RIn0.fRZJJAmGA-eV05FzVXh6O0Vsmum57eJh_hxm8Iu37dQ",
                 "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
                     "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
                     "tag": "it-jobs"
                 },
-                "description": "Netflix is one of the world's leading entertainment services with 278 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. The Role ABOUT OUR TEAM We're a group of developers, artists, and storytellers that make games full of wonder, danger, and humor. Everyone at our studio, whether an industry \u2026",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Netflix"
-                },
+                "title": "Junior Software Developer",
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "created": "2024-07-26T15:17:01Z",
-                "salary_min": 67157.23
+                "location": {
+                    "display_name": "Cambridge, Henry County",
+                    "area": [
+                        "US",
+                        "Illinois",
+                        "Henry County",
+                        "Cambridge"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "description": "Job Description Job Description Description: About Us: At Epipelagic Ventures, our mission is to foster a vibrant environment that propels ambitious startups forward. We believe that a three-month accelerator is just the beginning. That's why, as a venture studio, we provide the capital, collaboration, and long-term commitment necessary to guide seed-funded startups from inception to their next stage of growth. Job Description: We are seeking a highly motivated and skilled Junior Software Devel\u2026",
+                "salary_is_predicted": "1",
+                "company": {
+                    "display_name": "Knovva Academy",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "4930520633",
+                "redirect_url": "https://www.adzuna.com/land/ad/4930520633?se=ViJz8Wad7xGhF-JMNZ_SoQ&utm_medium=api&utm_source=a60688b4&v=975422B12C8393D5343908728B5FE1BB466CF769",
+                "longitude": -90.192897
             }
-        ]
-    },
-    {
-        "about_work": false,
-        "title": "Desarrollar habilidades en programaci\u00f3n",
-        "description": "Es importante desarrollar habilidades en programaci\u00f3n para ser un desarrollador de juegos completo. Aseg\u00farate de aprender diferentes lenguajes de programaci\u00f3n como Java, C++, Python, etc. y practicar con proyectos personales. Esto te permitir\u00e1 desarrollar habilidades en programaci\u00f3n y prepararte para roles m\u00e1s senior en el futuro.",
-        "courses": [
-            "Java Programming",
-            "C++ Programming",
-            "Python Programming"
         ],
         "courses_list": [
             {
-                "title": "Java 17 Masterclass: Start Coding in 2024",
-                "description": "Acquire Key Java Skills: From Basics to Advanced Programming and Certification - Start Your Dev Career",
-                "link": "https://www.udemy.com/course/java-the-complete-java-developer-course/"
+                "title": "Master en React: Aprender ReactJS, Hooks, MERN, NodeJS, JWT+",
+                "description": "Aprende React JS con Hooks desde cero y desarrolla aplicaciones web con el MERN Stack (Portafolio, Blog y Red Social)",
+                "link": "https://www.udemy.com/course/master-en-react-aprender-reactjs-hooks-mern-nodejs-jwt/"
             },
             {
-                "title": "Beginning C++ Programming - From Beginner to Beyond",
-                "description": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered.  C++20 info see below.",
-                "link": "https://www.udemy.com/course/beginning-c-plus-plus-programming/"
-            },
-            {
-                "title": "Learn Python Programming - Beginner to Master",
-                "description": "Become a Python Expert. for Both Academics and Industry.  100+ Challenges",
-                "link": "https://www.udemy.com/course/learn-python-with-abdul-bari/"
+                "title": "Scrum Master y Product Owner Certificaci\u00f3n. Temario completo",
+                "description": "Todo para Certificarte de Manera Exitosa en cualquiera de las principales Certificadoras Internacionales de Scrum",
+                "link": "https://www.udemy.com/course/certificate-scrum-master-y-product-owner-ano-2021/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Game Developer",
-        "description": "Como Game Developer, tendr\u00e1s la responsabilidad de desarrollar juegos desde cero. Tu trabajo consistir\u00e1 en dise\u00f1ar y programar juegos, crear assets y trabajar con el equipo de arte y dise\u00f1o para crear un juego cohesionado. Esta experiencia te permitir\u00e1 desarrollar habilidades en programaci\u00f3n y dise\u00f1o de juegos.",
-        "position-title": "Game Developer",
-        "duration": "2-3 years",
+        "title": "Desarrollador de software",
+        "position-title": "Software Developer",
+        "description": "En este papel, tendr\u00e1s m\u00e1s responsabilidades y autonom\u00eda. Debes ser capaz de desarrollar caracter\u00edsticas y sistemas software de alta calidad, y asegurarte de que se ajusten a los est\u00e1ndares de la empresa. Aprender\u00e1s a trabajar de manera independiente y a tomar decisiones t\u00e9cnicas informadas.",
+        "duration": "2-3 a\u00f1os",
         "requirements": [
-            "gokgokgo",
-            "Programming experience"
+            "Experiencia como desarrollador junior de software",
+            "Conocimientos en dise\u00f1o de patrones y arquitectura de software"
         ],
         "abilities": [
-            "Programaci\u00f3n",
-            "Dise\u00f1o de juegos"
+            "An\u00e1lisis de problemas",
+            "Tomar decisiones informadas",
+            "Trabajo bajo presi\u00f3n"
+        ],
+        "courses": [
+            "Dise\u00f1o de patrones avanzados",
+            "Arquitectura de software"
         ],
         "jobs_list": [
             {
-                "created": "2024-10-22T11:40:08Z",
-                "redirect_url": "https://www.adzuna.com/land/ad/4910287742?se=lqHYvmWd7xG5ExfnupXhsw&utm_medium=api&utm_source=a60688b4&v=EAA5F0E1C5388672B8E6340BC5CAFC7707132370",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Global SaaS Provider"
+                "title": "APRENDIZ DE ANALISIS Y DESARROLLADOR DE SOFTWARE - ACPA - 232241",
+                "redirect_url": "https://www.magneto365.com/co/empleos/aprendiz-de-analisis-y-desarrollador-de-software-acpa-232241-8bed739b-6a08-4ff1-bb8b-55732c7e6562?utm_campaign=jobs-nutresa&utm_medium=referral",
+                "city": "Barranquilla"
+            },
+            {
+                "title": "Desarrollador de aplicaciones TI",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-de-aplicaciones-ti-5a87138e-6936-441f-b62d-3bbe3f596015?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Desarrollador de software",
+                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-de-software-7a04d6e8-9ab5-4db5-80dd-3bbe88805e82?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Medell\u00edn"
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Patrones de Dise\u00f1o en JavaScript y TypeScript",
+                "description": "Aprende a implementar patrones de dise\u00f1o con JavaScript y Typescript, as\u00ed como a utilizarlos en casos reales",
+                "link": "https://www.udemy.com/course/patrones-de-diseno-en-javascript-y-typescript/"
+            },
+            {
+                "title": "Ingenier\u00eda de Software y Arquitectura de Software",
+                "description": "Aprende Sobre Ingenier\u00eda de Software, Ingenier\u00eda de requisitos, Arquitectura de Software , Software Testing y mas!",
+                "link": "https://www.udemy.com/course/ingenieria-de-software-y-principios-de-arquitectura/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "L\u00edder de equipo de desarrollo de software",
+        "position-title": "Software Development Team Lead",
+        "description": "En este papel, ser\u00e1s responsable de liderar un equipo de desarrolladores de software. Debes ser capaz de planificar y gestionar proyectos, y asegurarte de que el equipo est\u00e9 trabajando de manera efectiva. Aprender\u00e1s a delegar tareas, a resolver conflictos y a tomar decisiones t\u00e9cnicas y de negocio.",
+        "duration": "3-4 a\u00f1os",
+        "requirements": [
+            "Experiencia como desarrollador de software",
+            "Habilidades de liderazgo y comunicaci\u00f3n"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Comunicaci\u00f3n efectiva",
+            "Resoluci\u00f3n de conflictos"
+        ],
+        "courses": [
+            "Liderazgo y gesti\u00f3n de equipos",
+            "Gesti\u00f3n de proyectos Agile"
+        ],
+        "jobs_list": [
+            {
+                "description": "Please note this position requires the applicant to come into into our Vancouver, WA office one day per week. Position Description: The Software Developer Team Lead oversees the development team in all aspects of the software development life cycle, including design, development, coding, testing, and debugging, to deliver high-quality solutions. The Software Developer Team Lead is a problem solver, able to remove roadblocks, and operates in a team environment building comprehensive solutions an\u2026",
+                "latitude": 45.643289,
+                "salary_max": 90000,
+                "id": "4576894485",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDU3Njg5NDQ4NSIsInMiOiJ2SENXOW1hZDd4RzVFeGZudXBYaHN3In0.oHeqlvBcuOT12-aq0pLdAToMTPV59tW2cImwvOOx69U",
+                "longitude": -122.623848,
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
                 },
+                "title": "Software Developer Team Lead",
+                "salary_min": 85000,
                 "__CLASS__": "Adzuna::API::Response::Job",
                 "location": {
+                    "display_name": "Salmon Creek, Clark County",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Washington",
+                        "Clark County",
+                        "Salmon Creek"
+                    ]
+                },
+                "salary_is_predicted": "0",
+                "created": "2024-02-21T09:44:25Z",
+                "redirect_url": "https://www.adzuna.com/details/4576894485?utm_medium=api&utm_source=a60688b4",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Infinity Solar USA"
+                }
+            },
+            {
+                "location": {
+                    "area": [
+                        "US",
+                        "Ohio",
+                        "Cuyahoga County",
+                        "Strongsville"
+                    ],
+                    "display_name": "Strongsville, Cuyahoga County",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Union Home Mortgage"
+                },
+                "created": "2024-10-19T06:16:25Z",
+                "id": "4907340588",
+                "description": "Job Details Strongsville OH - Strongsville, OH Full Time Description The Software Development Team Lead directly manages a team of software developers and front-end specialists and is responsible for the coordination of development assets in completing known work, identifying, and repairing bugs, providing technical feedback, and supporting business partners and IT teams. The Software Development Team Lead works closely with peer Team Leads and IT Leadership to ensure project expectations are k\u2026",
+                "latitude": 41.31288,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidkhDVzltYWQ3eEc1RXhmbnVwWGhzdyIsImkiOiI0OTA3MzQwNTg4In0.sZ87Ncg_9Nd0vpLv2djNxAmiT6x900L-7UC5aqHd5lg",
+                "longitude": -81.83472,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "1",
+                "contract_time": "full_time",
+                "redirect_url": "https://www.adzuna.com/details/4907340588?utm_medium=api&utm_source=a60688b4",
+                "salary_max": 95170.98,
+                "title": "Software Development Team Lead",
+                "salary_min": 95170.98,
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                }
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Liderazgo y Gesti\u00f3n de equipos | Certificaci\u00f3n",
+                "description": "Aprend\u00e9 a gestionar y liderar tu equipo de trabajo. (Incluye trabajo remoto e h\u00edbrido)",
+                "link": "https://www.udemy.com/course/liderazgo-y-gestion-de-equipos-certificacion-2018/"
+            },
+            {
+                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
+                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
+                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Arquitecto de software",
+        "position-title": "Software Architect",
+        "description": "En este papel, ser\u00e1s responsable de dise\u00f1ar y planificar la arquitectura de los sistemas software. Debes ser capaz de tomar decisiones t\u00e9cnicas informadas y asegurarte de que la arquitectura sea escalable y segura. Aprender\u00e1s a trabajar con stakeholders para entender los requisitos del negocio y a dise\u00f1ar soluciones que se ajusten a ellos.",
+        "duration": "4-5 a\u00f1os",
+        "requirements": [
+            "Experiencia como l\u00edder de equipo de desarrollo de software",
+            "Conocimientos en arquitectura de software y dise\u00f1o de patrones"
+        ],
+        "abilities": [
+            "An\u00e1lisis de problemas",
+            "Tomar decisiones informadas",
+            "Comunicaci\u00f3n efectiva"
+        ],
+        "courses": [
+            "Arquitectura de software avanzada",
+            "Dise\u00f1o de patrones y principios"
+        ],
+        "jobs_list": [
+            {
+                "title": "Software Architect",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Florida",
+                        "Orange County",
+                        "Orlando"
+                    ],
+                    "display_name": "Orlando, Orange County"
+                },
+                "description": "Our client is seeking a Software Architect in Orlando, FL. The Software Architect will play a critical role in designing and developing high-quality, scalable software solutions aligned with business goals. As a technical leader, you will guide the development team through the software development lifecycle, from concept and design to deployment and maintenance. You will be responsible for ensuring that all architectural solutions meet both technical and business requirements and adhere to best\u2026",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "4928951156",
+                "salary_is_predicted": "1",
+                "company": {
+                    "display_name": "Kavaliro",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "longitude": -81.375686,
+                "redirect_url": "https://www.adzuna.com/land/ad/4928951156?se=ylJE-Wad7xGhF-JMNZ_SoQ&utm_medium=api&utm_source=a60688b4&v=A7107C51BFEA1E8E30BDC5171078ACB1A5CE23A0",
+                "latitude": 28.541666,
+                "created": "2024-11-06T15:32:05Z",
+                "salary_max": 115420.88,
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyODk1MTE1NiIsInMiOiJ5bEpFLVdhZDd4R2hGLUpNTlpfU29RIn0.TaQJIopOjE-Sb3ecBHFKRiccelea8D7sMSvCvF6SusQ",
+                "salary_min": 115420.88
+            },
+            {
+                "description": "Job Title: MuleSoft Architect /MuleSoft Developer Location: Location : Atlanta GA/Chicago IL Roles & Responsibilities Overall 10 years of overall exp with Minimum 5 years of experience working as Mule Architect 3 years of Design and Development experience with Mule 4.x Must have development experience implementing flows using Oracle, Hadoop, SQL, Kafka, .NET connectors etc. Must have experience in secure API development Understanding of MuleSoft Development best practices with respect to using \u2026",
+                "location": {
+                    "display_name": "Atlanta, Fulton County",
+                    "area": [
+                        "US",
+                        "Georgia",
+                        "Fulton County",
+                        "Atlanta"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Software Architect",
+                "redirect_url": "https://www.adzuna.com/land/ad/4908716341?se=ylJE-Wad7xGhF-JMNZ_SoQ&utm_medium=api&utm_source=a60688b4&v=CC53F6F386C5D63E3C5C47D96366DFE8CDAD61F2",
+                "longitude": -84.388372,
+                "id": "4908716341",
+                "salary_is_predicted": "1",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Tata Consultancy Services"
+                },
+                "salary_max": 110545.14,
+                "created": "2024-10-21T05:22:54Z",
+                "latitude": 33.755711,
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxKRS1XYWQ3eEdoRi1KTU5aX1NvUSIsImkiOiI0OTA4NzE2MzQxIn0.7sdxRtQbPO65vb40ZWzchNS8Pl7Ao9Da7U7g6MA3LUY",
+                "salary_min": 110545.14
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Ingenier\u00eda de Software y Arquitectura de Software",
+                "description": "Aprende Sobre Ingenier\u00eda de Software, Ingenier\u00eda de requisitos, Arquitectura de Software , Software Testing y mas!",
+                "link": "https://www.udemy.com/course/ingenieria-de-software-y-principios-de-arquitectura/"
+            },
+            {
+                "title": "Patrones de dise\u00f1o de software y principios SOLID.",
+                "description": "Descubre los design patterns y los principios SOLID que te permitir\u00e1n construir aplicaciones m\u00e1s profesionales en Java.",
+                "link": "https://www.udemy.com/course/patrones-de-diseno-y-principios-solid/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero de software s\u00e9nior",
+        "position-title": "Senior Software Engineer",
+        "description": "En este papel, ser\u00e1s un experto en desarrollo de software y liderar\u00e1s proyectos y equipos. Debes ser capaz de dise\u00f1ar y desarrollar sistemas software complejos y de alta calidad. Aprender\u00e1s a trabajar con diferentes tecnolog\u00edas y frameworks, y a mentorar a otros desarrolladores.",
+        "duration": "5-6 a\u00f1os",
+        "requirements": [
+            "Experiencia como arquitecto de software",
+            "Conocimientos en m\u00faltiples tecnolog\u00edas y frameworks"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Mentor\u00eda",
+            "An\u00e1lisis de problemas"
+        ],
+        "courses": [
+            "Dise\u00f1o de patrones y principios avanzados",
+            "Gesti\u00f3n de proyectos Agile"
+        ],
+        "jobs_list": [
+            {
+                "salary_is_predicted": "1",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "latitude": 38.74793,
+                "description": "Requires a Bachelor\u2019s degree in Software Engineering, or a related Science, Engineering or Mathematics field. Also requires 2 years of job-related experience or a Master's degree. Agile experience preferred. Need to have experience with C++ or Java. CLEARANCE REQUIREMENTS: Department of Defense Secret security clearance is required within a reasonable period of time. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access\u2026",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "General Dynamics Mission Systems"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2024-09-04T11:00:13Z",
+                "salary_min": 184028.28,
+                "longitude": -77.47599,
+                "title": "Senior Software Engineer",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLU1NQl9HYWQ3eEdzZnNqbndJajJPdyIsImkiOiI0ODUxNjkyNDc0In0.W02HClDd5c6Iras-Thpkxa-aNVh9WTcExpWz8NOmxWE",
+                "redirect_url": "https://www.adzuna.com/land/ad/4851692474?se=-MMB_Gad7xGsfsjnwIj2Ow&utm_medium=api&utm_source=a60688b4&v=995BBA6E8212343A5FF40D620A94BA98387D6149",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Virginia",
+                        "Prince William County",
+                        "Manassas"
+                    ],
+                    "display_name": "Manassas, Prince William County"
+                },
+                "id": "4851692474",
+                "salary_max": 184028.28
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkxNzY3NjYzMSIsInMiOiItTU1CX0dhZDd4R3Nmc2pud0lqMk93In0.GsXf9mWn8aUfAzOUfR69RFM6sW_YmHq8PFkuvpbPVuQ",
+                "title": "Senior Software Engineer",
+                "longitude": -111.918478,
+                "salary_max": 114890.67,
+                "id": "4917676631",
+                "redirect_url": "https://www.adzuna.com/land/ad/4917676631?se=-MMB_Gad7xGsfsjnwIj2Ow&utm_medium=api&utm_source=a60688b4&v=3812FD2B0A30F1F143DE5563D403C6B1493375C2",
+                "location": {
+                    "area": [
+                        "US",
+                        "Arizona",
+                        "Maricopa County",
+                        "Tempe"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Tempe, Maricopa County"
+                },
+                "description": "Requires a Bachelor\u2019s degree in Software Engineering, or a related Science, Engineering or Mathematics field. Also requires 8 years of job-related experience, or a Master's degree plus 6 years of job-related experience. Agile experience preferred. CLEARANCE REQUIREMENTS: Ability to obtain Department of Defense Secret security clearance is required at time of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to\u2026",
+                "latitude": 33.468392,
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "salary_is_predicted": "1",
+                "salary_min": 114890.67,
+                "created": "2024-10-29T12:21:22Z",
+                "company": {
+                    "display_name": "General Dynamics Mission Systems",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Patrones de dise\u00f1o de software y principios SOLID.",
+                "description": "Descubre los design patterns y los principios SOLID que te permitir\u00e1n construir aplicaciones m\u00e1s profesionales en Java.",
+                "link": "https://www.udemy.com/course/patrones-de-diseno-y-principios-solid/"
+            },
+            {
+                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
+                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
+                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero de software principal",
+        "position-title": "Principal Software Engineer",
+        "description": "En este papel, ser\u00e1s un experto en desarrollo de software y liderar\u00e1s proyectos y equipos a nivel de empresa. Debes ser capaz de dise\u00f1ar y desarrollar sistemas software complejos y de alta calidad, y de influir en la direcci\u00f3n t\u00e9cnica de la empresa. Aprender\u00e1s a trabajar con ejecutivos y stakeholders para entender los requisitos del negocio y a dise\u00f1ar soluciones que se ajusten a ellos.",
+        "duration": "6-7 a\u00f1os",
+        "requirements": [
+            "Experiencia como ingeniero de software s\u00e9nior",
+            "Conocimientos en m\u00faltiples tecnolog\u00edas y frameworks, liderazgo y comunicaci\u00f3n"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Influencia",
+            "Comunicaci\u00f3n efectiva"
+        ],
+        "courses": [
+            "Liderazgo y gesti\u00f3n de equipos avanzados",
+            "Gesti\u00f3n de cambio y innovaci\u00f3n"
+        ],
+        "jobs_list": [
+            {
+                "latitude": 40.758931,
+                "created": "2024-09-09T08:04:48Z",
+                "salary_max": 210108.17,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmxHYl9tYWQ3eEdoRi1KTU5aX1NvUSIsImkiOiI0ODU3NzMzMzk5In0.zG4iZ93oCGvnkkNSos6jG3tDhzktm9D1ORgY6rsbumU",
+                "salary_min": 210108.17,
+                "category": {
+                    "tag": "engineering-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Engineering Jobs"
+                },
+                "title": "Principal Software Engineer",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "Disney Entertainment & ESPN Technology On any given day at Disney Entertainment & ESPN Technology, we\u2019re reimagining ways to create magical viewing experiences for the world\u2019s most beloved stories while also transforming Disney\u2019s media business for the future. Whether that\u2019s evolving our streaming and digital products in new and immersive ways, powering worldwide advertising and distribution to maximize flexibility and efficiency, or delivering Disney\u2019s unmatched entertainment and sports conten\u2026",
+                "location": {
+                    "area": [
+                        "US",
+                        "New York",
+                        "New York City",
+                        "Manhattan",
+                        "Greeley Square"
+                    ],
+                    "display_name": "Greeley Square, Manhattan",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "1",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Disney Entertainment & ESPN Technology"
+                },
+                "id": "4857733399",
+                "longitude": -73.988611,
+                "redirect_url": "https://www.adzuna.com/land/ad/4857733399?se=BlGb_mad7xGhF-JMNZ_SoQ&utm_medium=api&utm_source=a60688b4&v=B2E99C2D980665FF74F57777D1214C9466D45B89"
+            },
+            {
+                "salary_max": 201096.7,
+                "created": "2024-11-07T08:46:49Z",
+                "latitude": 32.957035,
+                "salary_min": 201096.7,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmxHYl9tYWQ3eEdoRi1KTU5aX1NvUSIsImkiOiI0OTI5ODg4Mjk2In0.YGBHYe-IpwgU4bp_Oqr09ndieo629dADoYDRDGAcwkU",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "Job Title: 80553 - Principal Software Engineer Job Location: San Diego CA 92121 Onsite Requirements: Looking for someone with end-to-end ownership of the software development process Engineers to be responsible for building, testing, deploying, and operating the services they develop Someone with strong Python skills Need for in-depth AWS experience, including building, deploying, running, and testing AWS services Building greenfield AWS solutions from scratch The focus is on backend systems de\u2026",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
                     "area": [
                         "US",
                         "California",
                         "San Diego County",
-                        "San Diego"
+                        "Del Mar"
                     ],
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "San Diego, San Diego County"
+                    "display_name": "Del Mar, San Diego County"
                 },
+                "title": "Principal Software Engineer",
+                "longitude": -117.252528,
+                "redirect_url": "https://www.adzuna.com/land/ad/4929888296?se=BlGb_mad7xGhF-JMNZ_SoQ&utm_medium=api&utm_source=a60688b4&v=2F7208C63C91AF9F317DE1BCAA031C6D6788A14C",
                 "salary_is_predicted": "1",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibHFIWXZtV2Q3eEc1RXhmbnVwWGhzdyIsImkiOiI0OTEwMjg3NzQyIn0.nNvZqZ29amqYskuM6QqCJlsg8VU9cdPN6v-HQbyVyRI",
-                "longitude": -117.164709,
-                "title": "Unity Game Developer",
-                "category": {
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs"
-                },
-                "salary_min": 86454.74,
-                "description": "Job Description Job Description Must live in San Diego or surrounding area or be willing to relocate to San Diego or surrounding area This is an in-office position San Diego CA 92127- work from home Fridays after initial onboarding period We are looking to bring on an experienced Unity Developer to our growing team developing cutting-edge industry training. Salary is negotiable depending on experience; we are looking for talent and willing to pay for it We are workplace training professionals a\u2026",
-                "latitude": 32.726967,
-                "id": "4910287742",
-                "salary_max": 86454.74
-            },
-            {
-                "title": "Game Developer",
-                "salary_min": 70280.91,
-                "category": {
-                    "label": "IT Jobs",
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "longitude": -120.943179,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibHFIWXZtV2Q3eEc1RXhmbnVwWGhzdyIsImkiOiI0OTA2NTA0MTkzIn0.gnpozIoKIzfw9GYYht2uQ0vMlqI9JeLGaeYBqFCEraE",
-                "salary_max": 70280.91,
-                "id": "4906504193",
-                "latitude": 37.928543,
-                "description": "Plato is a social games platform made by the creators of Yahoo Games and backed by early investors of WhatsApp. We have over 50 million players who spend more than 1 billion minutes in our app every month (growing mainly through word of mouth). We love going against the grain and charting our own path to success. As an example, we\u2019re making a stand to reject the current advertising industrial complex - https://platoteam.medium.com/killing-ads-e0e12073a923. Role We are looking for an experienced\u2026",
                 "company": {
                     "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Plato"
+                    "display_name": "Softworld Inc"
                 },
-                "redirect_url": "https://www.adzuna.com/details/4906504193?utm_medium=api&utm_source=a60688b4",
-                "created": "2024-10-18T12:01:38Z",
-                "salary_is_predicted": "1",
+                "id": "4929888296"
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "Liderazgo y gesti\u00f3n de equipos - Nivel avanzado",
+                "description": "Aprend\u00e9 sobre motivaci\u00f3n, evaluaciones de desempe\u00f1o, inteligencia emocional y mucho m\u00e1s de lo que implica el liderazgo.",
+                "link": "https://www.udemy.com/course/liderazgo-y-gestion-de-equipos-nivel-avanzado/"
+            },
+            {
+                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
+                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
+                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero de software senior en Google",
+        "position-title": "Senior Software Engineer at Google",
+        "description": "En este papel, ser\u00e1s parte del equipo de ingenieros de software de Google. Debes ser capaz de dise\u00f1ar y desarrollar sistemas software complejos y de alta calidad, y de trabajar con otros equipos para resolver problemas t\u00e9cnicos complejos. Aprender\u00e1s a trabajar con las \u00faltimas tecnolog\u00edas y a influir en la direcci\u00f3n t\u00e9cnica de la empresa.",
+        "duration": "> 7 a\u00f1os",
+        "requirements": [
+            "Experiencia como ingeniero de software principal",
+            "Conocimientos en m\u00faltiples tecnolog\u00edas y frameworks, liderazgo y comunicaci\u00f3n"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Influencia",
+            "Comunicaci\u00f3n efectiva"
+        ],
+        "courses": [
+            "Liderazgo y gesti\u00f3n de equipos avanzados",
+            "Gesti\u00f3n de cambio y innovaci\u00f3n"
+        ],
+        "jobs_list": [
+            {
+                "latitude": 47.677395,
+                "salary_max": 185973.23,
+                "created": "2024-11-05T15:47:23Z",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_min": 185973.23,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEdZeEFXZWQ3eEdoRi1KTU5aX1NvUSIsImkiOiI0OTI3NTc1NDY0In0.QDaxa6WL0aTN6uqG0TbLkRhNowe5YsSiEw7XTbXEbNA",
+                "title": "Senior Software Engineer, Google Cloud AI",
                 "location": {
-                    "display_name": "California, US",
-                    "__CLASS__": "Adzuna::API::Response::Location",
                     "area": [
                         "US",
-                        "California"
+                        "Washington",
+                        "King County",
+                        "Kirkland"
+                    ],
+                    "display_name": "Kirkland, King County",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "description": "Minimum qualifications: - Bachelor's degree or equivalent practical experience. - 5 years of experience with software development in one or more programming languages, and with data structures/algorithms. - 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. Preferred qualifications: - Master's degree or PhD in Computer Science or related technical field. - 1 year of experience in a technical leadership role\u2026",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "4927575464",
+                "company": {
+                    "display_name": "Google",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_is_predicted": "1",
+                "longitude": -122.179938,
+                "redirect_url": "https://www.adzuna.com/details/4927575464?utm_medium=api&utm_source=a60688b4"
+            },
+            {
+                "salary_max": 190913.81,
+                "created": "2024-10-19T16:38:25Z",
+                "latitude": 47.677395,
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwNzc2MzMzNCIsInMiOiJsR1l4QVdlZDd4R2hGLUpNTlpfU29RIn0.DfB43XXI-wddLecGNjOxySrKoTWNNzgoZrRJLgPiu_s",
+                "salary_min": 190913.81,
+                "description": "Minimum qualifications: - Bachelor's degree or equivalent practical experience. - 5 years of experience with software development in one or more programming languages, and with data structures/algorithms. - 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. Preferred qualifications: - Master's degree or PhD in Computer Science or related technical field. - 1 year of experience in a technical leadership role\u2026",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Kirkland, King County",
+                    "area": [
+                        "US",
+                        "Washington",
+                        "King County",
+                        "Kirkland"
                     ]
                 },
-                "__CLASS__": "Adzuna::API::Response::Job"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Senior Game Developer",
-        "description": "Como Senior Game Developer, tendr\u00e1s la responsabilidad de liderar el equipo de desarrollo y asegurarte de que los proyectos se desarrollen seg\u00fan los est\u00e1ndares de calidad. Tu trabajo consistir\u00e1 en dise\u00f1ar y programar juegos, crear assets y trabajar con el equipo de arte y dise\u00f1o para crear un juego cohesionado. Esta experiencia te permitir\u00e1 desarrollar habilidades de liderazgo y gesti\u00f3n de proyectos.",
-        "position-title": "Senior Game Developer",
-        "duration": "3-5 years",
-        "requirements": [
-            "Prueba2",
-            "Game development experience"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Gesti\u00f3n de proyectos"
-        ],
-        "jobs_list": [
-            {
-                "contract_time": "full_time",
-                "latitude": 37.798085,
-                "redirect_url": "https://www.adzuna.com/details/4816732782?utm_medium=api&utm_source=a60688b4",
-                "id": "4816732782",
-                "company": {
-                    "display_name": "Argus Labs",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "location": {
-                    "display_name": "San Francisco, California",
-                    "area": [
-                        "US",
-                        "California",
-                        "San Francisco"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs",
-                    "tag": "it-jobs"
-                },
-                "salary_min": 118652.15,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOUIyT3dHV2Q3eEdoRi1KTU5aX1NvUSIsImkiOiI0ODE2NzMyNzgyIn0.An8OoRrTdNzILdvRFcMwKkJTlAKGcMi794vkSyNSesI",
-                "created": "2024-08-08T09:29:46Z",
-                "salary_max": 118652.15,
-                "longitude": -122.466538,
-                "salary_is_predicted": "1",
-                "description": "Argus Labs is building the next generation of massively multiplayer online (MMO) games by empowering players with the extensive freedom to build, extend, and influence the game worlds they inhabit. Our approach is centered around World Engine, our state-of-the-art onchain game server framework. World Engine leverages a novel sharded rollup blockchain architecture, which allows games to use smart contracts for user-generated content (UGC) while scaling to tens of thousands of concurrent users wi\u2026",
-                "title": "Senior Game Developer"
-            },
-            {
-                "contract_time": "full_time",
-                "latitude": 37.798085,
-                "redirect_url": "https://www.adzuna.com/details/4805345724?utm_medium=api&utm_source=a60688b4",
+                "title": "Senior Software Engineer, Google Cloud Platforms",
+                "longitude": -122.179938,
+                "redirect_url": "https://www.adzuna.com/details/4907763334?utm_medium=api&utm_source=a60688b4",
+                "id": "4907763334",
                 "company": {
                     "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Argus Labs"
+                    "display_name": "Google"
                 },
-                "id": "4805345724",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "location": {
-                    "display_name": "San Francisco, California",
-                    "area": [
-                        "US",
-                        "California",
-                        "San Francisco"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwNTM0NTcyNCIsInMiOiI5QjJPd0dXZDd4R2hGLUpNTlpfU29RIn0.GnfmjubByUzjpYdIQQxYlNUNHtkbXzax6lN8TElh4QI",
-                "salary_min": 74732.41,
-                "category": {
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs"
-                },
-                "created": "2024-08-01T10:55:20Z",
-                "salary_max": 74732.41,
-                "longitude": -122.466538,
-                "salary_is_predicted": "1",
-                "description": "Argus Labs is building the next generation of massively multiplayer online (MMO) games by empowering players with the extensive freedom to build, extend, and influence the game worlds they inhabit. Our approach is centered around World Engine, our state-of-the-art onchain game server framework. World Engine leverages a novel sharded rollup blockchain architecture, which allows games to use smart contracts for user-generated content (UGC) while scaling to tens of thousands of concurrent users wi\u2026",
-                "title": "Senior Game Developer (LATAM)"
+                "salary_is_predicted": "1"
             }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Lead Game Developer",
-        "description": "Como Lead Game Developer, tendr\u00e1s la responsabilidad de liderar el equipo de desarrollo y asegurarte de que los proyectos se desarrollen seg\u00fan los est\u00e1ndares de calidad. Tu trabajo consistir\u00e1 en dise\u00f1ar y programar juegos, crear assets y trabajar con el equipo de arte y dise\u00f1o para crear un juego cohesionado. Esta experiencia te permitir\u00e1 desarrollar habilidades de liderazgo y gesti\u00f3n de proyectos.",
-        "position-title": "Lead Game Developer",
-        "duration": "5-7 years",
-        "requirements": [
-            "go go go",
-            "Game development experience"
         ],
-        "abilities": [
-            "Liderazgo",
-            "Gesti\u00f3n de proyectos"
-        ],
-        "jobs_list": [
+        "courses_list": [
             {
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "San Francisco, California",
-                    "area": [
-                        "US",
-                        "California",
-                        "San Francisco"
-                    ]
-                },
-                "redirect_url": "https://www.adzuna.com/details/4811314411?utm_medium=api&utm_source=a60688b4",
-                "company": {
-                    "display_name": "Argus Labs",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "id": "4811314411",
-                "contract_time": "full_time",
-                "latitude": 37.798085,
-                "description": "Argus Labs is building the next generation of massively multiplayer online (MMO) games by empowering players with the extensive freedom to build, extend, and influence the game worlds they inhabit. Our approach is centered around World Engine, our state-of-the-art onchain game server framework. World Engine leverages a novel sharded rollup blockchain architecture, which allows games to use smart contracts for user-generated content (UGC) while scaling to tens of thousands of concurrent users wi\u2026",
-                "title": "Lead Game Developer",
-                "longitude": -122.466538,
-                "salary_is_predicted": "1",
-                "salary_max": 113996.15,
-                "created": "2024-08-05T11:05:09Z",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgxMTMxNDQxMSIsInMiOiJKR2M3d21XZDd4R2hGLUpNTlpfU29RIn0.ydehS7HZFQtnA7GwTsBRdbhKp_rGk9a1hef1cXyDJSU",
-                "salary_min": 113996.15,
-                "category": {
-                    "tag": "it-jobs",
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                }
+                "title": "Liderazgo y gesti\u00f3n de equipos - Nivel avanzado",
+                "description": "Aprend\u00e9 sobre motivaci\u00f3n, evaluaciones de desempe\u00f1o, inteligencia emocional y mucho m\u00e1s de lo que implica el liderazgo.",
+                "link": "https://www.udemy.com/course/liderazgo-y-gestion-de-equipos-nivel-avanzado/"
             },
             {
-                "salary_min": 111016.23,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwNjUwMjk2NyIsInMiOiJKR2M3d21XZDd4R2hGLUpNTlpfU29RIn0.addjr813j8zZm5m-oK4FYy6BbITjdDEM3QRtbm9O1nM",
-                "category": {
-                    "tag": "it-jobs",
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "latitude": 37.928543,
-                "salary_max": 111016.23,
-                "created": "2024-10-18T12:01:34Z",
-                "salary_is_predicted": "1",
-                "company": {
-                    "display_name": "Skyrocket Ventures",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "id": "4906502967",
-                "longitude": -120.943179,
-                "redirect_url": "https://www.adzuna.com/details/4906502967?utm_medium=api&utm_source=a60688b4",
-                "title": "Lead Game Developer / Engineer - Social Gaming",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "location": {
-                    "area": [
-                        "US",
-                        "California"
-                    ],
-                    "display_name": "California, US",
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "description": "Lead Game Developer / Engineer - Social Gaming Location: you can either work remotely or in the company's office in San Jose. Engineers at the company work an average of roughly 45 hours/week; it is not a sweat shop like stereotypical gaming companies, but it is not a 9-5 job either. The company is founded by industry leaders in the gaming space who previously created one of the largest online gaming platforms in the world. The company\u2019s product focuses on community, chat / text messaging, and \u2026"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Game Development Team Lead",
-        "description": "Como Game Development Team Lead, tendr\u00e1s la responsabilidad de liderar el equipo de desarrollo y asegurarte de que los proyectos se desarrollen seg\u00fan los est\u00e1ndares de calidad. Tu trabajo consistir\u00e1 en dise\u00f1ar y programar juegos, crear assets y trabajar con el equipo de arte y dise\u00f1o para crear un juego cohesionado. Esta experiencia te permitir\u00e1 desarrollar habilidades de liderazgo y gesti\u00f3n de proyectos.",
-        "position-title": "Game Development Team Lead",
-        "duration": "7-10 years",
-        "requirements": [
-            "go go go",
-            "Game development experience"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Gesti\u00f3n de proyectos"
-        ],
-        "jobs_list": [
-            {
-                "salary_min": 69462.64,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_is_predicted": "1",
-                "salary_max": 69462.64,
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "California",
-                        "Orange County",
-                        "South Main"
-                    ],
-                    "display_name": "South Main, Orange County"
-                },
-                "contract_time": "full_time",
-                "created": "2024-11-03T06:44:25Z",
-                "company": {
-                    "display_name": "Ringling College of Art and Design",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "description": "APPLICATION INSTRUCTIONS: Current Ringling Employees - Apply for jobs internally using the Workday \"Jobs Hub\" App from Global Navigation Menu on Workday Home Page. External Applicants - Click the \"Apply\" button to complete the external application. Job Description Summary Job Description Beginning August 2025 Game Art Department Head Full-Time Faculty Appointment with Benefits Job Summary/Basic Function Ringling College of Art and Design is seeking an experienced faculty member to provide leade\u2026",
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "Teaching Jobs",
-                    "tag": "teaching-jobs"
-                },
-                "latitude": 33.711189,
-                "id": "4924352841",
-                "redirect_url": "https://www.adzuna.com/details/4924352841?utm_medium=api&utm_source=a60688b4",
-                "longitude": -117.871202,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3F6encyV2Q3eEdzZnNqbndJajJPdyIsImkiOiI0OTI0MzUyODQxIn0.gX7qUGrICW_fD3SYHmhaYpLIJfu7eVlQRfIY4tBKOSU",
-                "title": "Game Art Department Head, Full-Time Faculty Appointment with Benefits"
-            },
-            {
-                "id": "4857666427",
-                "salary_max": 73514.53,
-                "location": {
-                    "area": [
-                        "US",
-                        "North Carolina",
-                        "Wake County",
-                        "Cary"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Cary, Wake County"
-                },
-                "redirect_url": "https://www.adzuna.com/details/4857666427?utm_medium=api&utm_source=a60688b4",
-                "longitude": -78.781622,
-                "title": "Senior Audio Designer",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3F6encyV2Q3eEdzZnNqbndJajJPdyIsImkiOiI0ODU3NjY2NDI3In0.9m_g1rz91OEnZ5ByHJd5zFgQmxVG2InZTXvl5qfdsVI",
-                "created": "2024-09-09T07:22:51Z",
-                "salary_min": 73514.53,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Epic Games"
-                },
-                "description": "WHAT MAKES US EPIC? At the core of Epic\u2019s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it\u2019s building award-winning games or crafting engine technology that enables others to make visually stunning interactive experiences, we\u2019re always innovating. Being Epic means being a part of a team that continually strives to do right by our community and users. We\u2019re constantly innovating to raise the bar of engine and\u2026",
-                "salary_is_predicted": "1",
-                "category": {
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs"
-                },
-                "latitude": 35.769804
+                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
+                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
+                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
             }
         ]
     }

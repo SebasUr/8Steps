@@ -61,7 +61,7 @@ function Form({route, method}) {
                                 type="text" 
                                 value={username} 
                                 onChange={(e) => setUserName(e.target.value)}
-                                placeholder="Username" 
+                                placeholder="Usuario" 
                             />
                             { method === "register" && 
                             <input 
@@ -76,7 +76,7 @@ function Form({route, method}) {
                                 type="password" 
                                 value={password} 
                                 onChange={(e) => setPassword(e.target.value)}
-                                placeholder="Password" 
+                                placeholder="Contraseña" 
                             />
                             { loading &&  <p>Cargando...</p> }
                             <button className="form-button" type="submit">
@@ -94,7 +94,7 @@ function Form({route, method}) {
                                 type="text" 
                                 value={username} 
                                 onChange={(e) => setUserName(e.target.value)}
-                                placeholder="Username" 
+                                placeholder="Usuario" 
                             />
                             { method === "register" && 
                             <input 
@@ -109,7 +109,7 @@ function Form({route, method}) {
                                 type="password" 
                                 value={password} 
                                 onChange={(e) => setPassword(e.target.value)}
-                                placeholder="Password" 
+                                placeholder="Contraseña" 
                             />
                             { loading &&  <p>Cargando...</p> }
                             <button className="form-button" type="submit">
