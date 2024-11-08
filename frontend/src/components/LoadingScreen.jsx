@@ -31,7 +31,7 @@ const LoadingScreen = () => {
   return (
     <div id="loading-screen">
       <div className="loading-content">
-        <img src="../../public/logosvg.svg" alt="Logo" className="loading-logo" />
+        <img src="/logosvg.svg" alt="Logo" className="loading-logo" />
       </div>
     </div>
   );
