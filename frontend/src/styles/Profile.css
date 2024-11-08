@@ -14,7 +14,7 @@
     display: flex;
     justify-content: center;
     align-items: flex-start; /* Changed from center to flex-start */
-    background-color: #e9fff1;
+    background-color: #fdfffe;
     height: 100vh; /* Subtract navbar height from viewport height */
     overflow-y: auto;
     overflow-x: hidden;

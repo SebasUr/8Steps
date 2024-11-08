@@ -143,6 +143,10 @@ select {
     width: 100%;
 }
 
+.input-field:focus {
+    outline: none;
+}
+
 .input-field {
     background-color: #ffffff;
     border: none;
@@ -261,7 +265,7 @@ select {
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 1;
+    z-index: 0;
     overflow: hidden;
 }
 
@@ -277,4 +281,129 @@ select {
     transform: rotate(-25deg);
     transform-origin: top left;
     clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
+}
+
+.recommended-jobs-main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    font-family: Arial, sans-serif;
+  }
+  
+  .recommended-jobs-main h2 {
+    color: #1a1a4f;
+    font-size: 1.2rem;
+    margin-top: 2%;
+    margin-bottom: 1.3rem;
+    font-weight: 600;
+    text-align: center;
+  }
+
+  .recommended-jobs-main-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    width: 100%;
+  }
+
+  .recommended-main-job {
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .recommended-main-job:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  }
+
+  .recommended-main-job-info {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .recommended-main-job-info h3 {
+    color: #1a1a4f;
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+    min-height: 2.5rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .recommended-main-job-info p {
+    color: #4a4a68;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin-bottom: 1.25rem;
+    flex-grow: 1;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .recommended-main-job-info button {
+    background-color: #98E5BE;
+    color: #1a1a4f;
+    border: none;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    width: 100%;
+    margin-top: auto;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .recommended-main-job-info button:hover {
+    background-color: #7ad4a7;
+  }
+
+  @media (max-width: 768px) {
+    .recommended-jobs-main {
+      padding: 1rem;
+    }
+
+    .recommended-jobs-main h2 {
+      font-size: 1.5rem;
+    }
+
+    .recommended-jobs-main-container {
+      grid-template-columns: 1fr;
+    }
+
+    .recommended-main-job-info h3 {
+      min-height: auto;
+    }
+  }
+
+  .fixed-button-magneto {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #9EE4B8;
+    border: none;
+    padding: 10px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 1000; /* Ensures it stays on top */
+}
+
+.fixed-button-logo-magneto {
+    width: 24px; /* Adjust size as needed */
+    height: 24px; /* Adjust size as needed */
 }

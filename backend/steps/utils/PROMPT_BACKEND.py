@@ -61,7 +61,7 @@ def generate_route(userIn):
     
     for item in json_result:
         if 'position-title' in item:
-            print(translator.translate_text(item['position-title'], target_lang="ES").text)
+            #print(translator.translate_text(item['position-title'], target_lang="ES").text)
             jobs_list = magneto_get_jobs(translator.translate_text(item['position-title'], target_lang="ES").text)
             #print(f"LISTA MAGNETO: {jobs_list}")
 

@@ -173,7 +173,8 @@ function Steps() {
                                                     >
                                                         <div className="job-title">{job.title}</div>
                                                         {job.city && <div className="job-location">{job.city}</div>}
-                                                        {/* <div className="job-company">{job.company}</div>
+                                                        {job.location && job.location.display_name && (<div className="job-location">{job.location.display_name}</div>
+)}                                                        {/* <div className="job-company">{job.company}</div>
                                                         <div className="job-description">{job.snipet}</div>
                                                         <div className="job-location">{job.location}</div> Para Jooble*/}
                                                     </a>

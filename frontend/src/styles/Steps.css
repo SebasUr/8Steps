@@ -310,7 +310,8 @@
   display: block;
 }
 .job-card:hover {
-  transform: translateZ(-5px);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.12);
 }
 .job-title {
   font-size: 20px;
@@ -364,7 +365,8 @@
   overflow: hidden;
 }
 .course-card:hover {
-  transform: translateZ(-5px);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
 }
 .course-title {
   font-size: 18px;

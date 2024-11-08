@@ -1,557 +1,563 @@
 [
     {
-        "about_work": false,
-        "title": "Conocer el sector alimentario",
-        "description": "Es importante tener una visi\u00f3n general del sector alimentario, conocimientos b\u00e1sicos sobre la industria, los productos y los procesos involucrados. Esto te permitir\u00e1 entender mejor las oportunidades y desaf\u00edos que se presentan en este campo. Puedes leer libros, art\u00edculos y noticias sobre el sector, as\u00ed como participar en eventos y ferias relacionadas con la alimentaci\u00f3n.",
-        "courses": [
-            "Introducci\u00f3n al sector alimentario",
-            "Tecnolog\u00edas de procesamiento de alimentos"
-        ],
-        "courses_list": [
-            {
-                "title": "Introducci\u00f3n al mundo de la Cerveza",
-                "description": "Tu puerta de entrada al apasionante universo de la Cerveza",
-                "link": "https://www.udemy.com/course/introduccion-al-mundo-de-la-cerveza/"
-            },
-            {
-                "title": "Tecnolog\u00edas de ciberseguridad",
-                "description": "Dise\u00f1o de arquitectura de ciberseguridad.",
-                "link": "https://www.udemy.com/course/tecnologias-de-ciberseguridad/"
-            }
-        ]
-    },
-    {
         "about_work": true,
-        "title": "Asistente de laboratorio",
-        "position-title": "Laboratory Assistant",
-        "description": "Este puesto te permitir\u00e1 obtener experiencia pr\u00e1ctica en un laboratorio de alimentos, donde podr\u00e1s aprender sobre los procedimientos de an\u00e1lisis y control de calidad. Debes estar dispuesto a aprender y a trabajar bajo la supervisi\u00f3n de profesionales experimentados. Es importante desarrollar habilidades como la atenci\u00f3n al detalle y la capacidad de seguir protocolos.",
-        "duration": "6-12 meses",
+        "title": "Analista de datos jr.",
+        "description": "En este puesto, empezar\u00e1s a desarrollar habilidades en an\u00e1lisis de datos y visualizaci\u00f3n, lo que te permitir\u00e1 entender la importancia de la toma de decisiones basadas en datos. Aprender\u00e1s a utilizar herramientas como Excel, SQL y Tableau, y a comunicar resultados a stakeholders. Este paso es fundamental para luego especializarte en Ciencia de Datos.",
+        "position-title": "Data Analyst Jr.",
+        "duration": "6-12 months",
         "requirements": [
-            "Experiencia en un laboratorio",
-            "Conocimientos b\u00e1sicos de qu\u00edmica y biolog\u00eda"
+            "Excel",
+            "SQL",
+            "Tableau",
+            "Comunicaci\u00f3n efectiva"
         ],
         "abilities": [
-            "Atenci\u00f3n al detalle",
-            "Capacidad de seguimiento de protocolos"
-        ],
-        "courses": [
-            "An\u00e1lisis de alimentos",
-            "Seguridad en el laboratorio"
+            "An\u00e1lisis cr\u00edtico",
+            "Comunicaci\u00f3n efectiva"
         ],
         "jobs_list": [
             {
-                "title": "Auxiliar laboratorio de tintas, tintoreria, te\u00f1ido o colorimetrista",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-laboratorio-de-tintas-te-ido-colorimetrista-o-laboratorista-en-tintoreria-c63b8625-435b-42eb-86f4-c1154016ffce?utm_campaign=complementos-humanos&utm_medium=referral",
-                "city": "Itagui"
-            },
-            {
-                "title": "Auxiliar laboratorio de tintas, tintoreria, te\u00f1ido o colorimetrista",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-laboratorio-de-tintas-te-ido-colorimetrista-o-laboratorista-en-tintoreria-c63b8625-435b-42eb-86f4-c1154016ffce?utm_campaign=complementos-humanos&utm_medium=referral",
-                "city": "Medell\u00edn"
-            },
-            {
-                "title": "Auxiliar de laboratorio 4h",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-4h-ebdb69ea-1f76-4af8-b466-7a6545e3e7ae?utm_campaign=viva1a&utm_medium=referral",
-                "city": "Zipaquir\u00e1"
-            },
-            {
-                "title": "Auxiliar de laboratorio 4h Las Americas",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-a3536427-7509-4d82-885b-3af3a1c2ec3d?utm_campaign=viva1a&utm_medium=referral",
-                "city": "Bogot\u00e1, D.C."
-            },
-            {
-                "title": "Auxiliar de laboratorio 6h Iberia",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-6h-f3b81da9-2208-4073-8a95-5e4968704f93?utm_campaign=viva1a&utm_medium=referral",
-                "city": "Bogot\u00e1, D.C."
-            },
-            {
-                "title": "Auxiliar de laboratorio 6h AV Dorado",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-6h-84d84050-2d50-4c8a-8a47-6506d6daf486?utm_campaign=viva1a&utm_medium=referral",
-                "city": "Otra (Bogot\u00e1 D.C.)"
-            },
-            {
-                "title": "Auxiliar de laboratorio 6H",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-0479c3bd-c427-4c56-852e-478e84b5dac9?utm_campaign=viva1a&utm_medium=referral",
-                "city": "Zipaquir\u00e1"
-            },
-            {
-                "title": "Auxiliar de laboratorio/6 horas/Suba  ",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-93435479-af51-4e76-b1a9-e65fd8818736?utm_campaign=viva1a&utm_medium=referral",
-                "city": "Bogot\u00e1, D.C."
-            },
-            {
-                "title": "Auxiliar de laboratorio",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-c4f560d8-967b-4174-96bb-093fa15f3c75?utm_campaign=viva1a&utm_medium=referral",
-                "city": "Bello"
-            },
-            {
-                "title": "Auxiliar de laboratorio - DAVITA Bogot\u00e1",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-davita-bogot-0e6210fb-b4ff-4dde-99dd-c0a519a30813?utm_campaign=viva1a&utm_medium=referral",
-                "city": "Bogot\u00e1, D.C."
-            },
-            {
-                "title": "Auxiliar de laboratorio -Oriente ",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-a588f690-ac77-42fb-b253-86f5c6389014?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "La Ceja"
-            },
-            {
-                "title": "Auxiliar de laboratorio -Oriente ",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-a588f690-ac77-42fb-b253-86f5c6389014?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "Retiro"
-            },
-            {
-                "title": "Auxiliar de laboratorio 4HR",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-4hr-2f2c7ae3-15c4-482a-80ca-31fcceebd0ce?utm_campaign=viva1a&utm_medium=referral",
-                "city": "Medell\u00edn"
-            },
-            {
-                "title": "Auxiliar De Laboratorio - 4hr",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-4hr-d11046af-fd55-42ad-b049-f5c11d84c239?utm_campaign=viva1a&utm_medium=referral",
-                "city": "Manizales"
-            },
-            {
-                "title": "Auxiliar de laboratorio",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-d50bd3e2-283f-4bcc-93e5-c826485dc83e?utm_campaign=viva1a&utm_medium=referral",
-                "city": "Otra (Valle del Cauca)"
-            },
-            {
-                "title": "Auxiliar de laboratorio - 8HR",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-8hr-ee13bbc7-a28e-4dde-b087-7268d3564ee1?utm_campaign=viva1a&utm_medium=referral",
-                "city": "Villavicencio"
-            },
-            {
-                "title": "Auxiliar de laboratorio - 4hr",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-4hr-f44d8620-c05e-4cc9-8ec5-305ad378587f?utm_campaign=viva1a&utm_medium=referral",
-                "city": "Otra (Bogot\u00e1 D.C.)"
-            },
-            {
-                "title": "Auxiliar de laboratorio - Monteria ",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-28f3a338-a5dc-4566-899c-31e91c99216c?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "Monter\u00eda"
-            },
-            {
-                "title": "Auxiliar de Laboratorio con moto - jornada de 6 horas ",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-con-moto-bogota-d2b55d14-48a3-48d5-b8d3-e4c9c62dbc2c?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "Bogot\u00e1, D.C."
-            },
-            {
-                "title": "Auxiliar De Laboratorio - Davita Bogot\u00e1",
-                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-davita-bogot-0c3efcc9-8dd6-4c1e-89ac-4155387cb841?utm_campaign=viva1a&utm_medium=referral",
-                "city": "Bogot\u00e1, D.C."
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "An\u00e1lisis sensorial para industria de alimentos",
-                "description": "An\u00e1lisis sensorial de alimentos",
-                "link": "https://www.udemy.com/course/analisis-sensorial/"
-            },
-            {
-                "title": "PSST Programa de Seguridad y Salud en el Trabajo",
-                "description": "Implementar un Programa de Seguridad y Salud en el Trabajo para empresas en base a la  ISO 45001:2018 SGSST",
-                "link": "https://www.udemy.com/course/psst-programa-de-seguridad-y-salud-en-el-trabajo/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "T\u00e9cnico de calidad",
-        "position-title": "Quality Technician",
-        "description": "En este puesto, ser\u00e1s responsable de garantizar la calidad de los productos alimenticios, realizando pruebas y an\u00e1lisis para detectar posibles defectos. Debes tener habilidades en resoluci\u00f3n de problemas y trabajar bien bajo presi\u00f3n. Es importante desarrollar habilidades como la comunicaci\u00f3n efectiva y la toma de decisiones.",
-        "duration": "1-2 a\u00f1os",
-        "requirements": [
-            "Experiencia en control de calidad",
-            "Conocimientos de normas y regulaciones alimentarias"
-        ],
-        "abilities": [
-            "Resoluci\u00f3n de problemas",
-            "Comunicaci\u00f3n efectiva",
-            "Toma de decisiones"
-        ],
-        "courses": [
-            "Control de calidad en la industria alimentaria",
-            "Regulaciones alimentarias"
-        ],
-        "jobs_list": [
-            {
-                "title": "Asesor de Soporte T\u00e9cnico Medio Tiempo ",
-                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-de-soporte-t-cnico-medio-tiempo-457efd1a-f353-4c16-9889-60e74c27302b?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "Bogot\u00e1, D.C."
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Control de Plagas en la Industria de Alimentos",
-                "description": "Gesti\u00f3n y manejo integral de plagas",
-                "link": "https://www.udemy.com/course/controldeplagas/"
-            },
-            {
-                "title": "Coaching Nutricional + Nutrici\u00f3n Diet\u00e9tica Dietas EM007",
-                "description": "Nutricion Vegetarianas Veganas y Carn\u00edvoras y Detox y Endomorfos y Dietas Deportivas y Al\u00e9rgenos y Hol\u00edstica e Infantil",
-                "link": "https://www.udemy.com/course/master-coaching-nutricional-nutricion-dietetica-dietas-e07/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Ingeniero de procesos",
-        "position-title": "Process Engineer",
-        "description": "En este puesto, ser\u00e1s responsable de dise\u00f1ar y optimizar los procesos de producci\u00f3n de alimentos, garantizando la eficiencia y la calidad. Debes tener habilidades en an\u00e1lisis de datos y modelado de procesos. Es importante desarrollar habilidades como la colaboraci\u00f3n y la liderazgo.",
-        "duration": "2-3 a\u00f1os",
-        "requirements": [
-            "Experiencia en dise\u00f1o de procesos",
-            "Conocimientos de programaci\u00f3n y simulaci\u00f3n"
-        ],
-        "abilities": [
-            "An\u00e1lisis de datos",
-            "Modelado de procesos",
-            "Colaboraci\u00f3n",
-            "Liderazgo"
-        ],
-        "courses": [
-            "Dise\u00f1o de procesos",
-            "Simulaci\u00f3n de procesos",
-            "Liderazgo y colaboraci\u00f3n"
-        ],
-        "jobs_list": [
-            {
-                "title": "Pasante ingeniero de procesos",
-                "redirect_url": "https://www.magneto365.com/co/empleos/pasante-ingeniero-de-procesos-1f28c24c-9c54-4636-805b-1e4442170eb7?utm_campaign=organizaciones-carvajal&utm_medium=referral",
-                "city": "Ciudad Arce"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Gesti\u00f3n de Procesos de Negocio (BPM): un enfoque pr\u00e1ctico",
-                "description": "Identificaci\u00f3n, documentaci\u00f3n, an\u00e1lisis, mejora y seguimiento de procesos",
-                "link": "https://www.udemy.com/course/gestion-de-procesos-de-negocio-bpm-un-enfoque-practico/"
-            },
-            {
-                "title": "Analista de simulaci\u00f3n de procesos con Bizagi",
-                "description": "Aprende a simular procesos de negocio que maximicen los beneficios de tu organizaci\u00f3n",
-                "link": "https://www.udemy.com/course/analista-de-simulacion-de-procesos-con-bizagi/"
-            },
-            {
-                "title": "Resoluci\u00f3n de Conflictos y Liderazgo",
-                "description": "Aprende a prevenir, enfrentar, negociar y convertir los conflictos en oportunidades de crecimiento y colaboraci\u00f3n.",
-                "link": "https://www.udemy.com/course/conflictos/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Supervisor de producci\u00f3n",
-        "position-title": "Production Supervisor",
-        "description": "En este puesto, ser\u00e1s responsable de supervisar la producci\u00f3n de alimentos, garantizando la calidad y la eficiencia. Debes tener habilidades en gesti\u00f3n de personal y resoluci\u00f3n de problemas. Es importante desarrollar habilidades como la comunicaci\u00f3n efectiva y la toma de decisiones.",
-        "duration": "2-3 a\u00f1os",
-        "requirements": [
-            "Experiencia en producci\u00f3n",
-            "Conocimientos de gesti\u00f3n de personal"
-        ],
-        "abilities": [
-            "Gesti\u00f3n de personal",
-            "Resoluci\u00f3n de problemas",
-            "Comunicaci\u00f3n efectiva",
-            "Toma de decisiones"
-        ],
-        "courses": [
-            "Gesti\u00f3n de producci\u00f3n",
-            "Desarrollo de habilidades de liderazgo"
-        ],
-        "jobs_list": [
-            {
-                "title": "Supervisor de producci\u00f3n Textil",
-                "redirect_url": "https://www.magneto365.com/co/empleos/supervisor-de-producci-n-textil-3a17ef81-9195-4093-9d80-a7c2ac42bbaf?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "Cali"
-            },
-            {
-                "title": "Supervisor Produccion Textil",
-                "redirect_url": "https://www.magneto365.com/co/empleos/supervisor-produccion-textil-436c92a3-13f6-4143-b5cc-3a7f852d6836?utm_campaign=manufacturas-eliot-pash&utm_medium=referral",
-                "city": "Cota"
-            },
-            {
-                "title": "Supervisor Produccion Textil",
-                "redirect_url": "https://www.magneto365.com/co/empleos/supervisor-produccion-textil-436c92a3-13f6-4143-b5cc-3a7f852d6836?utm_campaign=manufacturas-eliot-pash&utm_medium=referral",
-                "city": "Funza"
-            },
-            {
-                "title": "Supervisor de Producci\u00f3n",
-                "redirect_url": "https://www.magneto365.com/co/empleos/supervisor-de-producci-n-9c6c5fd8-2575-4ae2-8611-24e51f698a49?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "Yotoco"
-            },
-            {
-                "title": "Supervisor de Producci\u00f3n ",
-                "redirect_url": "https://www.magneto365.com/co/empleos/supervisor-de-producci-n-7933508d-0ca8-4261-8b21-28ff68e12f23?utm_campaign=magneto&utm_medium=referral",
-                "city": "La Estrella"
-            },
-            {
-                "title": "Supervisor de Producci\u00f3n -Soacha Cundinamarca",
-                "redirect_url": "https://www.magneto365.com/co/empleos/supervisor-de-producci-n-soacha-cundinamarca-4f7580e4-19f2-4a30-aa29-d7d9ddb75d82?utm_campaign=magneto&utm_medium=referral",
-                "city": "Soacha"
-            },
-            {
-                "title": "Supervisor de Producci\u00f3n de alimentos ",
-                "redirect_url": "https://www.magneto365.com/co/empleos/supervisor-de-producci-n-de-alimentos-b4232b3d-9174-4cd0-8f1f-b8b3b746305b?utm_campaign=4-investment&utm_medium=referral",
-                "city": "Yumbo"
-            },
-            {
-                "title": "Supervisor de Producci\u00f3n de alimentos ",
-                "redirect_url": "https://www.magneto365.com/co/empleos/supervisor-de-producci-n-de-alimentos-b4232b3d-9174-4cd0-8f1f-b8b3b746305b?utm_campaign=4-investment&utm_medium=referral",
-                "city": "Cali"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
-                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
-                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
-            },
-            {
-                "title": "Desarrollando Habilidades de Liderazgo",
-                "description": "De Experto T\u00e9cnico a L\u00edder: Estrategias para una Transici\u00f3n",
-                "link": "https://www.udemy.com/course/de-experto-tecnico-a-lider-estrategias-para-una-transicion/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Especialista en seguridad alimentaria",
-        "position-title": "Food Safety Specialist",
-        "description": "En este puesto, ser\u00e1s responsable de garantizar la seguridad alimentaria en la producci\u00f3n y distribuci\u00f3n de alimentos, realizando evaluaciones de riesgos y desarrollando planes de acci\u00f3n. Debes tener habilidades en an\u00e1lisis de riesgos y desarrollo de pol\u00edticas. Es importante desarrollar habilidades como la comunicaci\u00f3n efectiva y la toma de decisiones.",
-        "duration": "2-3 a\u00f1os",
-        "requirements": [
-            "Experiencia en seguridad alimentaria",
-            "Conocimientos de normas y regulaciones alimentarias"
-        ],
-        "abilities": [
-            "An\u00e1lisis de riesgos",
-            "Desarrollo de pol\u00edticas",
-            "Comunicaci\u00f3n efectiva",
-            "Toma de decisiones"
-        ],
-        "courses": [
-            "Seguridad alimentaria",
-            "An\u00e1lisis de riesgos",
-            "Desarrollo de pol\u00edticas"
-        ],
-        "jobs_list": [
-            {
-                "description": "Job Description Job Description Job Title: Food Safety & Quality Specialist Location: Woodland, CA Hours: Full-time, onsite Salary Range: $80,000 - $85,000 Summary: We are seeking a dedicated Food Safety & Quality Specialist to manage Quality Management Systems (QMS) . This role ensures all food safety and quality standards are met while promoting a culture of continuous improvement. This hands-on role requires close collaboration with team members, consistent QMS updates, and a proactive appro\u2026",
-                "latitude": 38.683499,
-                "id": "4928381775",
-                "salary_max": 58916.26,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyODM4MTc3NSIsInMiOiJKT0NQc1ktZDd4RzVFeGZudXBYaHN3In0.ipvUd09zgPfo0D3lSULf0WnLCrbo6uc4eNh8v4x0n14",
-                "longitude": -121.856576,
+                "salary_max": 81338.56,
+                "created": "2024-10-15T20:59:36Z",
+                "latitude": 32.926746,
                 "category": {
-                    "label": "Hospitality & Catering Jobs",
-                    "tag": "hospitality-catering-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
                 },
-                "title": "Food Safety & Quality Specialist",
-                "salary_min": 58916.26,
-                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 81338.56,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEhGYm9LQ2Q3eEdoRi1KTU5aX1NvUSIsImkiOiI0OTAzMTc2NDg5In0.gYcuzD_iqgXJYzAKfi9GI-KkGupcqdJPccRnSOtt8fY",
                 "location": {
                     "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Yolo County, California",
+                    "display_name": "Coppell, Dallas",
                     "area": [
                         "US",
-                        "California",
-                        "Yolo County"
+                        "Texas",
+                        "Dallas",
+                        "Coppell"
                     ]
                 },
+                "description": "Data Analyst Jr This role is onsite in Irving, TX. [11442-DIG-C] The Data Analyst Jr will help improve merchant onboarding and payment processes to drive business results. Assist PDMs in managing current merchant onboarding and payout activities and help identify process improvement opportunities. Analyze and share insights to help accelerate business, improve operations, and troubleshoot product-related bugs. Help build and review performance trackers to monitor sales and operational metrics t\u2026",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Data Analyst Jr",
+                "longitude": -96.959684,
+                "redirect_url": "https://www.adzuna.com/details/4903176489?utm_medium=api&utm_source=a60688b4",
+                "id": "4903176489",
                 "salary_is_predicted": "1",
-                "created": "2024-11-06T10:25:07Z",
-                "redirect_url": "https://www.adzuna.com/land/ad/4928381775?se=JOCPsY-d7xG5ExfnupXhsw&utm_medium=api&utm_source=a60688b4&v=89EF3D3736FCFDF89A0FFF7808DD6E931CF57611",
                 "company": {
-                    "display_name": "Nelson Connects",
+                    "display_name": "OscarMike",
                     "__CLASS__": "Adzuna::API::Response::Company"
                 }
             },
             {
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "scientific-qa-jobs",
-                    "label": "Scientific & QA Jobs"
-                },
-                "salary_min": 52370.23,
-                "title": "Food Safety Compliance Specialist",
-                "longitude": -117.895606,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyMzU1MzE5MyIsInMiOiJKT0NQc1ktZDd4RzVFeGZudXBYaHN3In0.8xHqVITRAMfHteWY9wlg_DXb3tCSBnrYiSG3uUKFopU",
-                "id": "4923553193",
-                "salary_max": 52370.23,
-                "latitude": 33.881922,
-                "description": "Job Description Job Description Company Overview Pulmuone\u2019s mission is a company that creates a healthy future for people and the earth with wholesome foods. Pulmuone Foods USA brands include Nasoya, Wildwood, Emerald Valley Kitchen, Monterey Gourmet Foods, and Cibo Naturals. Pulmuone\u2019s family of brands provide our consumers a wide variety of delicious products that are inspired by contemporary flavor palates and encourage a healthy and sustainable lifestyle. Visit www.pulmuonefoodsusa.com to l\u2026",
-                "company": {
-                    "display_name": "Pulmuone Foods USA Inc.",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "redirect_url": "https://www.adzuna.com/land/ad/4923553193?se=JOCPsY-d7xG5ExfnupXhsw&utm_medium=api&utm_source=a60688b4&v=590C638F8FF4E83391B538B2DED8B023283F5A1F",
-                "created": "2024-11-02T13:45:45Z",
                 "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Fullerton, Orange County",
                     "area": [
                         "US",
-                        "California",
-                        "Orange County",
-                        "Fullerton"
-                    ]
+                        "Virginia",
+                        "Arlington County",
+                        "Fort Myer"
+                    ],
+                    "display_name": "Fort Myer, Arlington County",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "description": "Job Family : Digital Consulting Travel Required : None Clearance Required : Ability to Obtain Public Trust What You Will Do : seeking a Junior Data Analyst to join our Defense and Security Segment, where the individual will collect and analyze data to identify trends, develop visualizations in support of organizational and mission goals, and support decision-making for large-scale programs within the Department of Homeland Security (DHS). Responsibilities include, but are not limited to: - Desi\u2026",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Data Analyst Jr",
+                "redirect_url": "https://www.adzuna.com/details/4928975919?utm_medium=api&utm_source=a60688b4",
+                "longitude": -77.090671,
+                "id": "4928975919",
+                "company": {
+                    "display_name": "Guidehouse",
+                    "__CLASS__": "Adzuna::API::Response::Company"
                 },
                 "salary_is_predicted": "1",
-                "__CLASS__": "Adzuna::API::Response::Job"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Higiene y seguridad alimentaria: dise\u00f1a tu sistema APPCC",
-                "description": "Convi\u00e9rtete en un experto en higiene, seguridad alimentaria y APPCC/HACCP, para aplicarlo despu\u00e9s en tu lugar de trabajo",
-                "link": "https://www.udemy.com/course/higiene-y-seguridad-alimentaria-disena-tu-sistema-appcc/"
-            },
-            {
-                "title": "An\u00e1lisis de Riesgos",
-                "description": "Aprende como identificar peligros y evaluar su riesgo de forma practica paso a paso",
-                "link": "https://www.udemy.com/course/identificacion-de-peligros-evaluacion-del-riesgo/"
-            },
-            {
-                "title": "Pol\u00edticas P\u00fablicas de Seguridad",
-                "description": "Estrategias y t\u00e9cnicas para pol\u00edticas p\u00fablicas de seguridad",
-                "link": "https://www.udemy.com/course/politicas-publicas-de-seguridad/"
+                "salary_max": 78136.27,
+                "created": "2024-11-06T15:44:39Z",
+                "latitude": 38.858946,
+                "category": {
+                    "label": "Admin Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "admin-jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEhGYm9LQ2Q3eEdoRi1KTU5aX1NvUSIsImkiOiI0OTI4OTc1OTE5In0.dLMmBSETFB3R1I9h7yR4a9wBHNnkWTdyiaZGQBaFPws",
+                "salary_min": 78136.27
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Ingeniero de alimentos junior",
-        "position-title": "Junior Food Engineer",
-        "description": "En este puesto, ser\u00e1s responsable de trabajar en equipo con ingenieros de alimentos para desarrollar y mejorar procesos y productos. Debes tener habilidades en dise\u00f1o de procesos y an\u00e1lisis de datos. Es importante desarrollar habilidades como la colaboraci\u00f3n y la comunicaci\u00f3n efectiva.",
-        "duration": "1-2 a\u00f1os",
+        "title": "Analista de datos sr.",
+        "description": "En este puesto, seguir\u00e1s desarrollando tus habilidades en an\u00e1lisis de datos y visualizaci\u00f3n, y empezar\u00e1s a liderar proyectos y equipos. Aprender\u00e1s a utilizar herramientas como Python, R y Power BI, y a dise\u00f1ar y implementar soluciones de an\u00e1lisis de datos. Este paso te permitir\u00e1 demostrar tu capacidad para liderar y tomar decisiones.",
+        "position-title": "Data Analyst Sr.",
+        "duration": "1-2 years",
         "requirements": [
-            "Experiencia en dise\u00f1o de procesos",
-            "Conocimientos de programaci\u00f3n y simulaci\u00f3n"
-        ],
-        "abilities": [
-            "Dise\u00f1o de procesos",
-            "An\u00e1lisis de datos",
-            "Colaboraci\u00f3n",
-            "Comunicaci\u00f3n efectiva"
-        ],
-        "courses": [
-            "Dise\u00f1o de procesos",
-            "Simulaci\u00f3n de procesos",
-            "Colaboraci\u00f3n y comunicaci\u00f3n"
-        ],
-        "jobs_list": [],
-        "courses_list": [
-            {
-                "title": "Gesti\u00f3n de Procesos de Negocio (BPM): un enfoque pr\u00e1ctico",
-                "description": "Identificaci\u00f3n, documentaci\u00f3n, an\u00e1lisis, mejora y seguimiento de procesos",
-                "link": "https://www.udemy.com/course/gestion-de-procesos-de-negocio-bpm-un-enfoque-practico/"
-            },
-            {
-                "title": "Analista de simulaci\u00f3n de procesos con Bizagi",
-                "description": "Aprende a simular procesos de negocio que maximicen los beneficios de tu organizaci\u00f3n",
-                "link": "https://www.udemy.com/course/analista-de-simulacion-de-procesos-con-bizagi/"
-            },
-            {
-                "title": "Comunicaci\u00f3n y Liderazgo",
-                "description": "Mejora tus habilidades de comunicaci\u00f3n con esta metodolog\u00eda.",
-                "link": "https://www.udemy.com/course/liderazgo-comunicacion/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Ingeniero de alimentos senior",
-        "position-title": "Senior Food Engineer",
-        "description": "En este puesto, ser\u00e1s responsable de liderar equipos de ingenieros de alimentos para desarrollar y mejorar procesos y productos. Debes tener habilidades en liderazgo y gesti\u00f3n de proyectos. Es importante desarrollar habilidades como la comunicaci\u00f3n efectiva y la toma de decisiones.",
-        "duration": "2-5 a\u00f1os",
-        "requirements": [
-            "Experiencia en liderazgo",
-            "Conocimientos de gesti\u00f3n de proyectos"
+            "Python",
+            "R",
+            "Power BI",
+            "Liderazgo",
+            "Gesti\u00f3n de proyectos"
         ],
         "abilities": [
             "Liderazgo",
             "Gesti\u00f3n de proyectos",
-            "Comunicaci\u00f3n efectiva",
-            "Toma de decisiones"
-        ],
-        "courses": [
-            "Liderazgo y gesti\u00f3n de proyectos",
-            "Desarrollo de habilidades de liderazgo"
+            "Comunicaci\u00f3n efectiva"
         ],
         "jobs_list": [
             {
-                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "4927061911",
+                "redirect_url": "https://www.adzuna.com/land/ad/4927061911?se=fKVYoaCd7xGsfsjnwIj2Ow&utm_medium=api&utm_source=a60688b4&v=AD2045907D13A3950EC8951C7321F2698AED3B39",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyNzA2MTkxMSIsInMiOiJmS1ZZb2FDZDd4R3Nmc2pud0lqMk93In0.bKNMMqFhUFsXCKyoccRgE2DeEz89OSx5f8dbfErjAWA",
+                "title": "Data Security Analyst Sr",
+                "longitude": -111.8418,
+                "created": "2024-11-05T08:54:40Z",
+                "company": {
+                    "display_name": "University of Utah",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "Data Security Analyst Sr Job Summary Ensures compliance with legal, regulatory, and contractual requirements. Develops and maintains plans, documentation, policies, and procedures. Analyzes existing processes to reveal shortcomings and develops plans to address them. This position will lead the information security team for the Center for High Performance Computing at the University of Utah to ensure that CHPC services operate in compliance with U of U policy and applicable regulations, includi\u2026",
+                "latitude": 40.7636,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "salary_max": 109068.51,
                 "location": {
                     "area": [
                         "US",
-                        "California",
-                        "Sacramento County",
-                        "Sacramento"
+                        "Utah",
+                        "Salt Lake County",
+                        "Fort Douglas"
                     ],
                     "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Sacramento, Sacramento County"
+                    "display_name": "Fort Douglas, Salt Lake County"
                 },
+                "contract_time": "part_time",
+                "salary_min": 109068.51,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "1"
+            },
+            {
+                "company": {
+                    "display_name": "PrimeLending",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "created": "2024-09-09T06:27:50Z",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "latitude": 32.872152,
+                "description": "Description Hilltop Holdings is looking for a Senior Data Analyst who will take responsibility for managing our master data set, developing reports, and troubleshooting data issues. Develop and implement data standards, ensuring metadata is captured correctly, and creating methods for monitoring and reporting any data incidents. To do well in this role you need a very fine eye for detail and have a deep understanding of the popular data analysis tools and databases. Responsibilities Managing ma\u2026",
+                "redirect_url": "https://www.adzuna.com/details/4857611174?utm_medium=api&utm_source=a60688b4",
+                "id": "4857611174",
+                "title": "Data Analyst, Sr",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZktWWW9hQ2Q3eEdzZnNqbndJajJPdyIsImkiOiI0ODU3NjExMTc0In0.0UcH3BeQ4evDVbRCR2MVntYTk4Fj8awcg4a5sVepxxA",
+                "longitude": -96.996093,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 93912.16,
                 "salary_is_predicted": "1",
-                "created": "2024-07-27T15:20:21Z",
-                "redirect_url": "https://www.adzuna.com/details/4797748001?utm_medium=api&utm_source=a60688b4",
+                "location": {
+                    "display_name": "Irving, Dallas",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Texas",
+                        "Dallas",
+                        "Irving"
+                    ]
+                },
+                "salary_max": 93912.16,
+                "contract_time": "full_time"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Cient\u00edfico de datos jr.",
+        "description": "En este puesto, empezar\u00e1s a aplicar t\u00e9cnicas de Machine Learning y estad\u00edstica para resolver problemas de negocio. Aprender\u00e1s a utilizar herramientas como scikit-learn, TensorFlow y Keras, y a implementar modelos predictivos. Este paso te permitir\u00e1 empezar a desarrollar tus habilidades en Ciencia de Datos.",
+        "position-title": "Data Scientist Jr.",
+        "duration": "1-2 years",
+        "requirements": [
+            "scikit-learn",
+            "TensorFlow",
+            "Keras",
+            "Machine Learning",
+            "Estad\u00edstica"
+        ],
+        "abilities": [
+            "Pensamiento cr\u00edtico",
+            "Resoluci\u00f3n de problemas"
+        ],
+        "jobs_list": [
+            {
+                "created": "2024-09-20T10:20:30Z",
+                "salary_min": 149483.86,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "SHR Consulting Group, LLC",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "Job Title: Junior-Level Data Scientist Job Category: IT Location: DC-area offices of the Chief Digital and AI Office in Falls Church, Pentagon, Alexandria, and Arlington. Clearance Level: Top Secret SCI or SCI eligible SHR is a premier technology integrator solving our nation\u2019s most complex modernization and readiness challenges across the defense, federal civilian, and intelligence markets. Our robust portfolio of offerings includes high-end solutions in systems engineering and integration; en\u2026",
+                "salary_is_predicted": "1",
+                "latitude": 38.912068,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "id": "4870783592",
+                "salary_max": 149483.86,
+                "redirect_url": "https://www.adzuna.com/details/4870783592?utm_medium=api&utm_source=a60688b4",
+                "location": {
+                    "area": [
+                        "US",
+                        "Washington, D.C.",
+                        "Washington"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Washington, Washington, D.C."
+                },
+                "longitude": -77.019023,
+                "title": "Data Scientist - Jr",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg3MDc4MzU5MiIsInMiOiIxamVkb3FDZDd4R3Nmc2pud0lqMk93In0.nBv-xjU6rKEWtyyz52Bn8Wh6s8v9P_yHUMdsdIibYfQ"
+            },
+            {
                 "company": {
                     "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Oracle"
+                    "display_name": "Brillient Corporation"
                 },
-                "description": "Job Description Provides direction and specialist knowledge in applying the technology/application to client business. Facilitation of customer product/application understanding through presentations demonstrations and benchmarks; provision of support throughout the sell. As a Senior Sales Consultant you will be responsible for providing pre-sales technical / functional support to internal teams, prospective clients, and customers while ensuring stakeholder satisfaction with minimal supervision\u2026",
-                "latitude": 38.57562,
-                "id": "4797748001",
-                "salary_max": 120837.02,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSG5rcHQ0LWQ3eEc1RXhmbnVwWGhzdyIsImkiOiI0Nzk3NzQ4MDAxIn0.QnUq4cmFEPT3xyhvrbEwXCUwoT_KyzNixhMBoMoAdc4",
-                "longitude": -121.46649,
-                "title": "Senior Solution Engineer - Food and Beverage Industry",
+                "created": "2024-08-15T13:45:20Z",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "latitude": 38.90041,
+                "description": "Job Details Experienced VHA: Washington DC - Washington, DC, WA Hybrid Full Time Day Description What makes Brillient a GREAT fit for you? When you join Brillient, you become part of an award-winning Full Spectrum Digital Transformation company focused on helping agencies in the continuum of analog, to digital, to analytics, leading to insight-driven decision making and mission execution. Our mission is to provide value to our clients and our people, operate with the highest integrity as a trus\u2026",
+                "redirect_url": "https://www.adzuna.com/details/4827063130?utm_medium=api&utm_source=a60688b4",
+                "id": "4827063130",
+                "longitude": -77.0344,
+                "title": "Data Scientist Jr",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgyNzA2MzEzMCIsInMiOiIxamVkb3FDZDd4R3Nmc2pud0lqMk93In0.AN0nc2aRm3metgQ0W_S7QXoK1OYIVOK62rNyuaEwsNg",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 85441.65,
+                "salary_is_predicted": "1",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Virginia",
+                        "Arlington County",
+                        "Rosslyn"
+                    ],
+                    "display_name": "Rosslyn, Arlington County"
+                },
+                "salary_max": 85441.65,
+                "contract_time": "full_time"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Cient\u00edfico de datos sr.",
+        "description": "En este puesto, seguir\u00e1s desarrollando tus habilidades en Ciencia de Datos y liderar\u00e1s proyectos y equipos. Aprender\u00e1s a utilizar herramientas como AWS, Spark y Hadoop, y a dise\u00f1ar y implementar soluciones de Machine Learning. Este paso te permitir\u00e1 demostrar tu capacidad para liderar y resolver problemas complejos.",
+        "position-title": "Data Scientist Sr.",
+        "duration": "2-3 years",
+        "requirements": [
+            "AWS",
+            "Spark",
+            "Hadoop",
+            "Liderazgo",
+            "Gesti\u00f3n de proyectos"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Gesti\u00f3n de proyectos",
+            "Comunicaci\u00f3n efectiva"
+        ],
+        "jobs_list": [
+            {
+                "longitude": -122.004179,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwNDIwNTk0NyIsInMiOiJqclRhbzZDZDd4RzVFeGZudXBYaHN3In0.X8HuExi9Lh1T8pCyzLkUA2GrzgA8TlhJqpgzK6ZbGNI",
+                "latitude": 37.564143,
+                "description": "About Weee Weee is the largest and fastest-growing ethnic e-grocer in the United States, operating in one of the largest underserved categories in retail with affordable access to exciting ethnic food. By partnering with local suppliers, redesigning the value chain and leveraging social buying, Weee is reshaping the grocery business entirely. You can read more about us on Business Insider , Reuters and TechCrunch . Weee is headquartered in Fremont, CA, and is currently available coast to coast \u2026",
+                "id": "4904205947",
+                "created": "2024-10-16T12:40:37Z",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Weee"
+                },
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Fremont, Alameda County",
+                    "area": [
+                        "US",
+                        "California",
+                        "Alameda County",
+                        "Fremont"
+                    ]
+                },
+                "category": {
+                    "label": "PR, Advertising & Marketing Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "pr-advertising-marketing-jobs"
+                },
+                "title": "Data Scientist/Sr. Data Scientist",
+                "salary_min": 95000,
+                "salary_max": 145000,
+                "redirect_url": "https://www.adzuna.com/details/4904205947?utm_medium=api&utm_source=a60688b4",
+                "contract_time": "full_time",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "created": "2024-09-28T10:30:34Z",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "BAE Systems"
+                },
+                "location": {
+                    "area": [
+                        "US",
+                        "Missouri",
+                        "Saint Louis County",
+                        "Saint Louis"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Saint Louis, Saint Louis County"
+                },
+                "contract_type": "contract",
+                "longitude": -90.192822,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg4MDM4MDE0MCIsInMiOiJqclRhbzZDZDd4RzVFeGZudXBYaHN3In0.K2Ft3-pL2706CvP0Rlgbu0d5I2SLBaVuOk1OrrZZ5mU",
+                "latitude": 38.630539,
+                "description": "Are you interested in a career in photogrammetry? Do you have a passion for evaluating emerging satellite technologies to improve products, practices, and processes? BAE Systems is seeking a Junior Photogrammetrist to join our team in support of a critical Intelligence Community mission. In this position, you will assist in performing mathematical and statistical analysis on new and current sensors and geolocation systems using photogrammetrically-sound mathematical methods. Key responsibilitie\u2026",
+                "id": "4880380140",
+                "redirect_url": "https://www.adzuna.com/details/4880380140?utm_medium=api&utm_source=a60688b4",
+                "salary_is_predicted": "1",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Data Scientist Sr",
+                "salary_min": 118010.83,
                 "category": {
                     "label": "IT Jobs",
                     "tag": "it-jobs",
                     "__CLASS__": "Adzuna::API::Response::Category"
                 },
-                "salary_min": 120837.02
-            },
+                "salary_max": 118010.83
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "L\u00edder de equipo de Ciencia de Datos",
+        "description": "En este puesto, liderar\u00e1s un equipo de cient\u00edficos de datos y ser\u00e1s responsable de dise\u00f1ar y implementar soluciones de Ciencia de Datos a gran escala. Aprender\u00e1s a utilizar herramientas como Kubernetes y Docker, y a gestionar y evaluar el desempe\u00f1o de tu equipo. Este paso te permitir\u00e1 demostrar tu capacidad para liderar y gestionar equipos.",
+        "position-title": "Data Science Team Lead",
+        "duration": "3-5 years",
+        "requirements": [
+            "Kubernetes",
+            "Docker",
+            "Liderazgo",
+            "Gesti\u00f3n de equipos"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Gesti\u00f3n de equipos",
+            "Comunicaci\u00f3n efectiva"
+        ],
+        "jobs_list": [
             {
-                "id": "4809767356",
-                "salary_max": 101355.95,
-                "description": "Description Provides direction and specialist knowledge in applying the technology/application to client business. Facilitation of customer product/application understanding through presentations demonstrations and benchmarks; provision of support throughout the sell. As a Senior Sales Consultant you will be responsible for providing presales technical / functional support to prospective clients and customers while ensuring customer satisfaction with minimal supervision. Acts as a technical res\u2026",
-                "salary_min": 101355.95,
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs",
-                    "label": "IT Jobs"
-                },
-                "title": "Senior Solution Engineer - Food and Beverage Payments",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSG5rcHQ0LWQ3eEc1RXhmbnVwWGhzdyIsImkiOiI0ODA5NzY3MzU2In0.ik1fJf3E0iX1SkbeLM7p-8Hanfa_olSktB4t3Fz_oNM",
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_is_predicted": "1",
                 "location": {
-                    "area": [
-                        "US"
-                    ],
                     "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "US"
+                    "display_name": "Los Angeles, Los Angeles County",
+                    "area": [
+                        "US",
+                        "California",
+                        "Los Angeles County",
+                        "Los Angeles"
+                    ]
                 },
-                "redirect_url": "https://www.adzuna.com/details/4809767356?utm_medium=api&utm_source=a60688b4",
+                "salary_is_predicted": "0",
+                "created": "2024-11-01T06:15:44Z",
+                "redirect_url": "https://www.adzuna.com/details/4921263534?utm_medium=api&utm_source=a60688b4",
                 "company": {
                     "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "CLBPTS"
+                    "display_name": "Relocity"
                 },
-                "created": "2024-08-04T05:40:31Z"
+                "description": "What Relocity is Doing Relocity is reimagining the global mobility experience. We enable enterprises to attract, retain, and engage talent globally. Powered by our AI-driven workforce mobility platform, we bring together local experts and insightful content in our native mobile app to deliver an excellent user experience for people on the move. Our core values drive us to focus on our customers, innovation, integrity, and excellence. Relocity serves hundreds of cities in more than 40 markets ac\u2026",
+                "salary_max": 200000,
+                "id": "4921263534",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidHNYTXBhQ2Q3eEc1RXhmbnVwWGhzdyIsImkiOiI0OTIxMjYzNTM0In0.miIKBtCbIppYgAjvQyTGLWUBuIBpyExpCqc2crF5fRQ",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_min": 180000,
+                "title": "Data Science Team Lead"
+            },
+            {
+                "salary_is_predicted": "1",
+                "location": {
+                    "display_name": "Chantilly, Fairfax County",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "Virginia",
+                        "Fairfax County",
+                        "Chantilly"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2024-11-02T16:47:27Z",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "CGI Technologies and Solutions, Inc."
+                },
+                "redirect_url": "https://www.adzuna.com/details/4923722830?utm_medium=api&utm_source=a60688b4",
+                "latitude": 38.883702,
+                "description": "Data Science Team Lead US Citizenship REQUIRED Category: Project Management Main location: United States, Virginia, Chantilly Position ID: J1024-2405 Employment Type: Full Time Position Description: CGI Federal is looking for a Team Lead to join our team within our Intel Community. You will be responsible for leading a high-performance team in designing and building data pipelines using Python and AWS cloud infrastructure. This role requires a strong understanding of software development and da\u2026",
+                "salary_max": 190337.7,
+                "id": "4923722830",
+                "longitude": -77.428438,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyMzcyMjgzMCIsInMiOiJ0c1hNcGFDZDd4RzVFeGZudXBYaHN3In0.imVGCOYYNbijkzDp8Un6oR4jcMcp94JaZY1BgUXtRk8",
+                "title": "Data Science Team Lead US Citizenship REQUIRED",
+                "salary_min": 190337.7,
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                }
             }
+        ]
+    },
+    {
+        "about_work": false,
+        "title": "Desarrollar habilidades en Cloud Computing",
+        "description": "Es fundamental tener habilidades en Cloud Computing para trabajar en Amazon. Aprender\u00e1s a utilizar servicios como AWS, Azure y Google Cloud, y a dise\u00f1ar y implementar soluciones en la nube. Busca cursos en l\u00ednea o diplomados para desarrollar estas habilidades.",
+        "courses": [
+            "AWS Certified Cloud Practitioner",
+            "Microsoft Azure Developer Associate"
         ],
         "courses_list": [
             {
-                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
-                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
-                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
+                "title": "[NEW] Ultimate AWS Certified Cloud Practitioner CLF-C02",
+                "description": "Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AWS Cloud Practitioner CLF-C02 exam!",
+                "link": "https://www.udemy.com/course/aws-certified-cloud-practitioner-new/"
             },
             {
-                "title": "Desarrollando Habilidades de Liderazgo",
-                "description": "De Experto T\u00e9cnico a L\u00edder: Estrategias para una Transici\u00f3n",
-                "link": "https://www.udemy.com/course/de-experto-tecnico-a-lider-estrategias-para-una-transicion/"
+                "title": "AZ-204: Course for Developing Solutions for Microsoft Azure",
+                "description": "AZ-204 : Microsoft Certified: Azure Developer Associate course",
+                "link": "https://www.udemy.com/course/azure-certification-1/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Cient\u00edfico de datos en Amazon",
+        "description": "Finalmente, con tus habilidades en Ciencia de Datos y Cloud Computing, podr\u00e1s trabajar en Amazon como Cient\u00edfico de Datos. Aprender\u00e1s a utilizar herramientas como SageMaker y Comprehend, y a dise\u00f1ar y implementar soluciones de Machine Learning a gran escala.",
+        "position-title": "Data Scientist - Amazon",
+        "duration": "Depende de la experiencia",
+        "requirements": [
+            "SageMaker",
+            "Comprehend",
+            "Machine Learning",
+            "Cloud Computing"
+        ],
+        "abilities": [
+            "Pensamiento cr\u00edtico",
+            "Resoluci\u00f3n de problemas",
+            "Liderazgo"
+        ],
+        "jobs_list": [
+            {
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Amazon"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2024-07-30T16:05:41Z",
+                "salary_min": 158640.62,
+                "salary_is_predicted": "1",
+                "latitude": 40.755381,
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "description": "Description Are you excited about the prospect of making it easier for builders to innovate and create great software? If so, Amazon Software Builder Experience (ASBX) may be the place for you. Created in 2022, ASBX has the mission of creating the world's best builder experience across tens of thousands of software engineers across both Amazon and AWS. Builder Insights works at the core of ASBX, shaping what it means to create the world's best software builder experience. How do we reduce frict\u2026",
+                "redirect_url": "https://www.adzuna.com/details/4801062112?utm_medium=api&utm_source=a60688b4",
+                "location": {
+                    "area": [
+                        "US",
+                        "New York",
+                        "New York City",
+                        "Manhattan",
+                        "Grand Central"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Grand Central, Manhattan"
+                },
+                "id": "4801062112",
+                "salary_max": 158640.62,
+                "longitude": -73.978504,
+                "title": "Senior Data Scientist, Amazon Software Builder Insights (ASBI)",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2l4bHFLQ2Q3eEdzZnNqbndJajJPdyIsImkiOiI0ODAxMDYyMTEyIn0.L1UFlVuFu1xPY4mKzFG3jxnoX4APolXMfUz4RrHL7sE"
+            },
+            {
+                "redirect_url": "https://www.adzuna.com/details/4908204052?utm_medium=api&utm_source=a60688b4",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Santa Clara, Santa Clara County",
+                    "area": [
+                        "US",
+                        "California",
+                        "Santa Clara County",
+                        "Santa Clara"
+                    ]
+                },
+                "id": "4908204052",
+                "salary_max": 212800,
+                "longitude": -121.952999,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwODIwNDA1MiIsInMiOiJnaXhscUtDZDd4R3Nmc2pud0lqMk93In0.yFDquEzVFvbsyWVDopEOCtfgXwSwjbYJnK_JgpO-a4Y",
+                "title": "Language Data Scientist, Amazon",
+                "company": {
+                    "display_name": "Amazon",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2024-10-20T12:49:41Z",
+                "salary_min": 125500,
+                "salary_is_predicted": "0",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "latitude": 37.353966,
+                "description": "Description The Shopping Tech Foundation Team is looking for a Language Data Scientist to collaborate in developing solutions for LLM prompt engineering, LLM evaluation/benchmarking, and annotation efficiency. This position is an opportunity to apply your linguistic and data science expertise in a challenging but supportive environment. Do you want to be part of the team developing the future technology that impacts the customer experience of ground-breaking products? Then come join us and make\u2026"
+            }
+        ]
+    },
+    {
+        "about_work": false,
+        "title": "Participar en comunidades de Ciencia de Datos",
+        "description": "Es importante participar en comunidades de Ciencia de Datos para mantenerse actualizado con las \u00faltimas tendencias y tecnolog\u00edas. Busca comunidades en l\u00ednea como Kaggle, Reddit o GitHub, y participa en proyectos y desaf\u00edos para mejorar tus habilidades.",
+        "courses": [
+            "Kaggle Competitions",
+            "Reddit - r/MachineLearning"
+        ],
+        "courses_list": [
+            {
+                "title": "Complete Python for Data Science & Machine Learning from A-Z",
+                "description": "Python with Machine Learning & Data Science, Data Visulation, Numpy & Pandas for Data Analysis, Kaggle projects from A-Z",
+                "link": "https://www.udemy.com/course/complete-python-for-data-science-machine-learning-from-a-z/"
+            },
+            {
+                "title": "The Complete Digital Marketing Guide - 26 Courses in 1",
+                "description": "Digital Marketing, Social Media, ChatGPT, Prompt Engineering, Google Ads, Facebook, SEO, WordPress, Instagram, YouTube.",
+                "link": "https://www.udemy.com/course/digital-marketing-guide/"
             }
         ]
     }

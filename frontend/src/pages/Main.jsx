@@ -58,19 +58,23 @@ function Main() {
     }, [searchType])
 
     useEffect(() => {
-        if (isAuthorized) {
+        const fetchRecommendations = () => {
             api.post("/recommendations/", {
                 username: localStorage.getItem("username")
             })
             .then((res) => res.data)
             .then((data) => {
-                setRecommendedJobs(data.recommendations)
+                setRecommendedJobs(data.recommendations);
             })
             .catch((err) => {
-                console.error(err)
-            })
+                console.error(err);
+            });
+        };
+    
+        if (isAuthorized) {
+            fetchRecommendations();
         }
-    }, [isAuthorized])
+    }, [isAuthorized]);
 
     const handleSubmit = async (e) => {
         e.preventDefault()
@@ -144,34 +148,90 @@ function Main() {
                         <button className="slide" type="submit">&nbsp;</button>
                     </form>
             
-                    <div className="recommended-jobs">
-                        {recommendedJobs.length > 0 && <h2>Trabajos recomendados</h2>}
-                        <div className="jobs">
-                            {
-                                Array.isArray(recommendedJobs) && recommendedJobs.map((job, i) => (
-                                    <div key={i} className="job">
-                                        <div className="job-info">
-                                            <h3>{job.RouteName}</h3>
-                                            <p>{job.Description}</p>
-                                            <button onClick={
-                                                () => {
-                                                    navigate("/steps", { state: { occupation: "", search: job.RouteName } })
-                                                }
-                                            }>Ver trayectoria</button>
-                                        </div>
-                                    </div>
-                                ))
-                            }
+                    <div className="recommended-jobs-main">
+                    {recommendedJobs.length > 0 ? (
+                        <>
+                        <h2>Rutas recomendadas</h2>
+                        <div className="recommended-jobs-main-container">
+                            {Array.isArray(recommendedJobs) &&
+                            recommendedJobs.map((job, i) => (
+                                <div key={i} className="recommended-main-job">
+                                <div className="recommended-main-job-info">
+                                    <h3>{job.RouteName}</h3>
+                                    <p>{job.Description}</p>
+                                    <button
+                                    onClick={() => {
+                                        navigate("/steps", { state: { occupation: "", search: job.RouteName } });
+                                    }}
+                                    >
+                                    Ver trayectoria
+                                    </button>
+                                </div>
+                                </div>
+                            ))}
                         </div>
+                        </>
+                    ) : (
+                        <>
+                        <h2 style={{ filter: 'blur(20px)', display: 'block' }}>Rutas recomendadas</h2>
+                        <div className="recommended-jobs-main-container" style={{ position: 'relative' }}>
+                            
+                            {/* Contenedor para el mensaje centrado */}
+                            <div
+                            style={{
+                                position: 'absolute',
+                                top: '50%',
+                                left: '50%',
+                                transform: 'translate(-50%, -50%)',
+                                zIndex: 1,
+                                padding: '1px',
+                                borderRadius: '5px',
+                            }}
+                            >
+                            <p style={{ fontSize: '20px', textAlign: 'center', zIndex: '99', fontWeight: "300" }}>
+                            <strong>
+                                <a href="/login-register" style={{ color: 'rgb(104 227 150)', textDecoration: 'none' }}>Accede a tu cuenta</a> y/o 
+                                <a href="/user/profile" style={{ color: 'rgb(104 227 150)', textDecoration: 'none' }}> llena tus datos </a>
+                            </strong> 
+                            para poder ver recomendaciones
+                            </p>
+
+                            </div>
+
+                            {/* Contenido principal que se mantiene difuminado */}
+                            <div className="recommended-main-job" style={{ filter: 'blur(20px)', display: 'block' }}>
+                            <div className="recommended-main-job-info">
+                                <h3>Ingeniero de Software Full-Stack</h3>
+                                <p>Desarrollo web con Python y frameworks</p>
+                                <button>Ver trayectoria</button>
+                            </div>
+                            </div>
+                            <div className="recommended-main-job" style={{ filter: 'blur(20px)', display: 'block' }}>
+                            <div className="recommended-main-job-info">
+                                <h3>Desarrollador Python Senior</h3>
+                                <p>Experiencia en desarrollo con Python</p>
+                                <button>Ver trayectoria</button>
+                            </div>
+                            </div>
+                            <div className="recommended-main-job" style={{ filter: 'blur(20px)', display: 'block' }}>
+                            <div className="recommended-main-job-info">
+                                <h3>Especialista en DevOps</h3>
+                                <p>Automatización de procesos de desarrollo</p>
+                                <button>Ver trayectoria</button>
+                            </div>
+                            </div>
+                        </div>
+                        </>
+                    )}
                     </div>
-                    <video id="background-video" autoPlay muted loop>
-                        <source src="/video.mp4" type="video/mp4" />
-                        Your browser does not support the video tag.
-                    </video>
                 </div>
             </div>
+            <a href="https://www.magneto365.com/es" target="_blank" rel="noopener noreferrer" className="fixed-button-magneto">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACzklEQVR4AWIY3GAUjIL/DIzs5xNUWS4mOrFcjHdmvx6nxtDQwARgtRyA5waiMJ4iuEuqQW3bGNe8TWore+1YxbgcdVTbtt2eartBbdv2SzOnubeZvzITv9nvN2+/93Y5j0OKkPLKPtJKjgbaKaFAXe5gq4LZF74yqBRv6FMEkz6F82/qyRv0BW/S6dzl4WXj4UW3dSuqhNXxckS9o0TUv2lnmLyH70sLhdSaWdLmTX0wCHyICzJPg37izaHD5BjpAEJP44Lsk/yAc6yTVaZ4QTs4WrDoH0QQPaUzA5zBf+GCjDNKFnEcAlHADnYWTD3L4uKFwTAYS8j7hCkZma5u9RYEi97FxfBTPtTdW8gb4LNvFymT0Bfs4MDsiIvnB2VTFIEIk0lJAFPfzBIDQz4TreBCuM+HLD12vvlO9GEPHlbB9WQFuH82PN9ke0G9lgJAb6PiFj3CnetdJGWqFCjDmP9wDxbANX9YK52IP9eEl8PqKkbsH26HVsgtPUt/jwD8Ee1BVTPcatJy8sHuqPOd5pMRH+ogQybeYPHS7kBlFwCre4M+ZpWrHNXuYwNyy1pJWDz8O4QDayVcAEN/mwmg32UBKFHtNgowEW+7kIFoXgPcyA4AOD6ExSf8wpv6q+wAQB1fzR6Auhf1wE5SPu6Bl5km1O97AJhsADR+FwoQUit5ANCHHia8hAJsrC3gJiTbsHhxv1Y13oieIhl4ygZQz6MAB5lVsBmLF+JLNIih677HFJzBM9BKYQBsQJvRAbWOCwAtFumCr1B1d8CTKECkXRGGCdeiZbifNHABDPowAwBKkw1AjqIAuwPFGBlbiZZhjDSOm/AgYsI9HlOwFFmELG4il5/RN8Yhi9FTZyvnRlweLPOXaQv+Cm0smEPqQw+o6bmZhEXGH1Wb+UOBJk4alb2da7sGZG9u/ftJY2g8Tf/HR//NXwtaEQ08GAWjAAAs5bldNnXYvgAAAABJRU5ErkJggg==" alt="Logo" className="fixed-button-logo-magneto" />
+            </a>
         </>
     )
+    
 }
 
 export default Main
