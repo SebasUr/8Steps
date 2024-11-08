@@ -149,10 +149,17 @@ function Profile() {
                         {userData.last_trajectory && userData.last_trajectory.length > 0 ? (
                             userData.last_trajectory.map((trajectory, index) => (
                                 <div key={index} className="item-card">
-                                    <span>Ruta {index+1}</span>
-                                    <button onClick={
-                                        () => generatePDF(trajectory)
-                                    }>Descargar</button>
+                                    <div className="content">
+                                        <h4>Ruta {index+1}</h4>
+                                    </div>
+                                    <div className="download-button">
+                                        <img src="/download.png" alt="Descargar" onClick={
+                                            () => generatePDF(trajectory)
+                                        }/>
+                                    </div>
+                                    <div className="delete-button">
+                                            <img src="/delete.png"  alt="ELiminar" />
+                                    </div>
                                 </div>
                             ))
                         ) : (
@@ -169,8 +176,13 @@ function Profile() {
                             {courses.length > 0 ? (
                                 courses.map((course, index) => (
                                     <div key={index} className="item-card">
-                                        <h4>{course.title}</h4>
-                                        <p>{course.description}</p>
+                                        <div className="content">
+                                            <h4>{course.title}</h4>
+                                            <p>{course.description}</p>
+                                        </div>
+                                        <div className="delete-button">
+                                            <img src="/delete.png" alt="ELiminar" />
+                                        </div>
                                     </div>
                                 ))
                             ) : (
@@ -183,13 +195,18 @@ function Profile() {
                     </div>
 
                     <div className="section-card">
-                        <h3><img src="/certificate.png" className="button-icon" />Certificaciones</h3>
+                        <h3><img src="/certificate.png" className="button-icon" />Certificaciones y Títulos</h3>
                         <div className="item-list">
                             {certifications.length > 0 ? (
                                 certifications.map((cert, index) => (
                                     <div key={index} className="item-card">
-                                        <h4>{cert.title}</h4>
-                                        <p>{cert.institution}</p>
+                                        <div className="content">
+                                            <h4>{cert.title}</h4>
+                                            <p>{cert.institution}</p>
+                                        </div>
+                                        <div className="delete-button">
+                                            <img src="/delete.png" alt="ELiminar" />
+                                        </div>
                                     </div>
                                 ))
                             ) : (

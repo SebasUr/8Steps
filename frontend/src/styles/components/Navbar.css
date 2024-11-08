@@ -17,9 +17,8 @@
 }
 
 .site-logo {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
+    position: fixed;
+    margin-left: 40px;
     display: flex;
     align-items: center;
     font-family: 'Oswald', sans-serif;
@@ -103,15 +102,12 @@
 }
 
 .magneto-logo {
-    height: 50px;
+    position: absolute;
+    transform: translateX(-90%) translateY(-10%);
+    height: 300px;
     width: auto;
-    margin-left: 50px;
     vertical-align: middle;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.magneto-logo:hover {
-    transform: scale(1.1);
 }
 
 
@@ -201,6 +197,7 @@
 
     .site-logo {
         left: 50%;
+        margin-left: 0px;
         transform: translateX(-50%);
         font-size: 32px;
     }

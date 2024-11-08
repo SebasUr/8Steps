@@ -48,9 +48,6 @@ function Navbar() {
             </div>
 
             {/* Logo de Magneto a la derecha */}
-            <a href="https://www.magneto365.com/es" className="site-link" target="_blank" rel="noopener noreferrer">
-                <img src="/logo-magneto.svg" alt="Magneto Logo" className="magneto-logo" />
-            </a>
 
             {/* Si estamos en una pantalla móvil, mostramos el botón para desplegar el menú */}
             {isMobile ? (

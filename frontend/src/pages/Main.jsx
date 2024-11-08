@@ -98,43 +98,47 @@ function Main() {
     return (
         <>
             <Navbar />
-            {
-                Array(24).fill(0).map((_, i) => (
-                    <div key={i} className="circle"></div>
-                ))
-            }
-        
-            <div className="wrapper">
+            <div className="main-page">
                 <div className="top-box"></div>
-        
-                <div className="header">
-                    <div className="header-left">
-                        Descubre la ruta a<br /><span>tu trabajo soñado</span>
-                    </div>
-                    <div className="header-right">
-                        
-                    </div>
-                </div>
-        
-                <form onSubmit={handleSubmit} className="form-search-bar">
-                    <div className="search-bar">
-                        <select id="optionSelector" onChange={(e) => setSearchType(e.target.value)}>
-                            <option value="soy">Soy</option>
-                            <option value="busco">Quiero trabajar como</option>
-                        </select>
-                        <div id="searchFields" className="search-fields">
-                            <input type="text" className="input-field" placeholder="Profesión o estudio actual" />
-                            <span id="andText"> y quiero trabajar como</span>
-                            <input type="text" className="input-field" placeholder="Trabajo deseado, puedes añadir en donde!" />
+                <div className="wrapper">
+                    {
+                        Array(24).fill(0).map((_, i) => (
+                            <div key={i} className="circle"></div>
+                        ))
+                    }
+                    
+                    <div className="header">
+                        <div className="header-left">
+                            Descubre la ruta a<br /><span>tu trabajo soñado</span>
+                        </div>
+                        <div className="header-rigth">
+                            <a href="https://www.magneto365.com/es" className="site-link" target="_blank" rel="noopener noreferrer">
+
+                            </a>
+                            <img src="/main-image.png" alt="Magneto Logo" className="magneto-logo" />
                         </div>
                     </div>
-                    <button className="slide" type="submit">&nbsp;</button>
-                </form>
-        
-                <video id="background-video" autoPlay muted loop>
-                    <source src="/video.mp4" type="video/mp4" />
-                    Your browser does not support the video tag.
-                </video>
+            
+                    <form onSubmit={handleSubmit} className="form-search-bar">
+                        <div className="search-bar">
+                            <select id="optionSelector" onChange={(e) => setSearchType(e.target.value)}>
+                                <option value="soy">Soy</option>
+                                <option value="busco">Quiero trabajar como</option>
+                            </select>
+                            <div id="searchFields" className="search-fields">
+                                <input type="text" className="input-field" placeholder="Profesión o estudio actual" />
+                                <span id="andText"> y quiero trabajar como</span>
+                                <input type="text" className="input-field" placeholder="Trabajo deseado, puedes añadir en donde!" />
+                            </div>
+                        </div>
+                        <button className="slide" type="submit">&nbsp;</button>
+                    </form>
+            
+                    <video id="background-video" autoPlay muted loop>
+                        <source src="/video.mp4" type="video/mp4" />
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
             </div>
         </>
     )

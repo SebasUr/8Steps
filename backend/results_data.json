@@ -1,93 +1,99 @@
 [
     {
-<<<<<<< Updated upstream
+        "about_work": false,
+        "title": "Construir proyectos personales de juegos",
+        "description": "Es importante empezar a construir proyectos personales de juegos para desarrollar habilidades y crear un portafolio de trabajo que pueda mostrar a futuros empleadores. Esto te permitir\u00e1 practicar tus habilidades en programaci\u00f3n y dise\u00f1o de juegos, y tambi\u00e9n te dar\u00e1 la oportunidad de experimentar con diferentes tecnolog\u00edas y herramientas. Aseg\u00farate de documentar tu proceso y los resultados en una plataforma como GitHub o Itch.io.",
+        "courses": [
+            "Game Development Fundamentals",
+            "Game Design Principles"
+        ],
+        "courses_list": [
+            {
+                "title": "The Complete Unity C# Game Developer Bootcamp Part 1 of 2",
+                "description": "Master Unity C# to Build 2D, 3D, and AR/VR Games - From Coding Fundamentals to Advanced Game Development Techniques",
+                "link": "https://www.udemy.com/course/the-complete-unity-c-game-developer-bootcamp-part-1-of-2/"
+            },
+            {
+                "title": "Game Design Essentials: Tools, Theories and Techniques",
+                "description": "Harness the power of game design, psychology and systems thinking to understand your players and how games work.",
+                "link": "https://www.udemy.com/course/fun-meaningful-game-design/"
+            }
+        ]
+    },
+    {
         "about_work": true,
-        "title": "Desarrollador Junior de Software",
-        "position-title": "Junior Software Developer",
-        "duration": "1-2 a\u00f1os",
-        "description": "En este puesto, podr\u00e1s aplicar los conceptos aprendidos en la universidad y desarrollar habilidades pr\u00e1cticas en programaci\u00f3n. Ser\u00e1s parte de un equipo de desarrollo y trabajar\u00e1s en proyectos peque\u00f1os a medianos. Este paso es fundamental para ganar experiencia en el desarrollo de software y empezar a construir tu red de contactos en la industria. Aseg\u00farate de participar en reuniones de equipo, leer c\u00f3digo de otros desarrolladores y solicitar retroalimentaci\u00f3n para mejorar.",
+        "title": "Junior Game Tester",
+        "description": "Como Junior Game Tester, tendr\u00e1s la oportunidad de trabajar en un estudio de juegos y aprender de primera mano c\u00f3mo se desarrollan los juegos. Tu trabajo consistir\u00e1 en probar juegos y encontrar bugs, lo que te permitir\u00e1 desarrollar habilidades de atenci\u00f3n al detalle y comunicaci\u00f3n efectiva. Esta experiencia te ser\u00e1 \u00fatil para entender c\u00f3mo funciona la industria de los juegos y c\u00f3mo se desarrollo un juego desde cero.",
+        "position-title": "Junior Game Tester",
+        "duration": "3-6 months",
         "requirements": [
-            "Conocimientos en programaci\u00f3n en lenguajes como Java, Python o C++",
-            "Experiencia con frameworks y bibliotecas populares",
-            "Buenas habilidades de resoluci\u00f3n de problemas"
+            "Prueba",
+            "Gaming console experience"
         ],
         "abilities": [
-            "Comunicaci\u00f3n efectiva",
-            "Trabajo en equipo",
-            "Aprendizaje r\u00e1pido"
+            "Atenci\u00f3n al detalle",
+            "Comunicaci\u00f3n efectiva"
         ],
-        "courses": [
-            "Java Fundamentals",
-            "Python for Beginners",
-            "Agile Development"
+        "jobs_list": []
+    },
+    {
+        "about_work": true,
+        "title": "Game QA Analyst",
+        "description": "Como Game QA Analyst, tendr\u00e1s la responsabilidad de liderar el equipo de pruebas y asegurarte de que los juegos se desarrollen seg\u00fan los est\u00e1ndares de calidad. Tu trabajo consistir\u00e1 en crear planes de pruebas, identificar bugs y trabajar con el equipo de desarrollo para solucionarlos. Esta experiencia te permitir\u00e1 desarrollar habilidades de liderazgo y gesti\u00f3n de proyectos.",
+        "position-title": "Game QA Analyst",
+        "duration": "1-2 years",
+        "requirements": [
+            "Prueba1",
+            "Game development experience"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Gesti\u00f3n de proyectos"
         ],
         "jobs_list": [
             {
-                "salary_max": 83037.16,
-                "company": {
-                    "display_name": "Knovva Academy",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "salary_is_predicted": "1",
-                "category": {
-                    "label": "IT Jobs",
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "id": "4929473673",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyOTQ3MzY3MyIsInMiOiJSdjNTbVMtZDd4R05TbHFiTTVfU29RIn0.Iaq0ra0kKzIrkitaU6HTjWWfAFJQI5Ly07H-42RrWQQ",
-                "salary_min": 83037.16,
-                "__CLASS__": "Adzuna::API::Response::Job",
+                "longitude": -118.29082,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDc5NjU3MzIyNCIsInMiOiJEREJmdTJXZDd4R3Nmc2pud0lqMk93In0.pf9Gpl1EIYPP84ZXMUf4ik8ALhSMpHoKi68TRKRd7yk",
+                "title": "Senior QA Analyst, Night School Game Studio",
                 "location": {
-                    "display_name": "Kendall Square, Middlesex County",
                     "__CLASS__": "Adzuna::API::Response::Location",
                     "area": [
                         "US",
-                        "Massachusetts",
-                        "Middlesex County",
-                        "Kendall Square"
-                    ]
-                },
-                "longitude": -71.085206,
-                "redirect_url": "https://www.adzuna.com/details/4929473673?utm_medium=api&utm_source=a60688b4",
-                "title": "Junior Software Developer",
-                "created": "2024-11-07T02:47:15Z",
-                "description": "Description: About Us: At Epipelagic Ventures, our mission is to foster a vibrant environment that propels ambitious startups forward. We believe that a three-month accelerator is just the beginning. That's why, as a venture studio, we provide the capital, collaboration, and long-term commitment necessary to guide seed-funded startups from inception to their next stage of growth. Job Description: We are seeking a highly motivated and skilled Junior Software Developer to join our IT team. In thi\u2026",
-                "latitude": 42.363596
-            },
-            {
-                "location": {
-                    "area": [
-                        "US",
-                        "Oregon",
-                        "Coos County",
-                        "Remote"
+                        "California",
+                        "Los Angeles County",
+                        "Pico Heights"
                     ],
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Remote, Coos County"
+                    "display_name": "Pico Heights, Los Angeles County"
+                },
+                "redirect_url": "https://www.adzuna.com/details/4796573224?utm_medium=api&utm_source=a60688b4",
+                "id": "4796573224",
+                "salary_max": 67157.23,
+                "salary_is_predicted": "1",
+                "latitude": 34.047977,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "Netflix is one of the world's leading entertainment services with 278 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. The Role ABOUT OUR TEAM We're a group of developers, artists, and storytellers that make games full of wonder, danger, and humor. Everyone at our studio, whether an industry \u2026",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Netflix"
                 },
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_min": 85189.99,
-                "id": "4920468311",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyMDQ2ODMxMSIsInMiOiJSdjNTbVMtZDd4R05TbHFiTTVfU29RIn0.biuCfxvr_o0EQKNUGhfNHQxjN3R3jkeIxrZZ3OAXMr4",
-                "category": {
-                    "label": "IT Jobs",
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "company": {
-                    "display_name": "Horizon Resource Services",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "salary_is_predicted": "1",
-                "salary_max": 85189.99,
-                "latitude": 43.018799,
-                "description": "Job Description Job Description TRANSFORMACTION DYNAMICS, LLC JOB DESCRIPTION - JUNIOR SOFTWARE DEVELOPER TransformAction Dynamics, LLC Our mission is to help federal, municipal, and commercial agencies and businesses courageously pursue and confidently achieve transformational change. For audacious leaders who need insights into technical and financial realities of a successful enterprise transformation, TransformAction Dynamics offers a forensic approach to transformation management. Our cons\u2026",
-                "created": "2024-10-31T23:42:11Z",
-                "redirect_url": "https://www.adzuna.com/land/ad/4920468311?se=Rv3SmS-d7xGNSlqbM5_SoQ&utm_medium=api&utm_source=a60688b4&v=31A48F9112E5ACFA1E33ADA8958549BD4BDEFBBF",
-                "title": "Junior Software Developer",
-                "longitude": -123.884499
+                "created": "2024-07-26T15:17:01Z",
+                "salary_min": 67157.23
             }
+        ]
+    },
+    {
+        "about_work": false,
+        "title": "Desarrollar habilidades en programaci\u00f3n",
+        "description": "Es importante desarrollar habilidades en programaci\u00f3n para ser un desarrollador de juegos completo. Aseg\u00farate de aprender diferentes lenguajes de programaci\u00f3n como Java, C++, Python, etc. y practicar con proyectos personales. Esto te permitir\u00e1 desarrollar habilidades en programaci\u00f3n y prepararte para roles m\u00e1s senior en el futuro.",
+        "courses": [
+            "Java Programming",
+            "C++ Programming",
+            "Python Programming"
         ],
         "courses_list": [
             {
@@ -96,1297 +102,343 @@
                 "link": "https://www.udemy.com/course/java-the-complete-java-developer-course/"
             },
             {
-                "title": "100 Days of Code: The Complete Python Pro Bootcamp",
-                "description": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
-                "link": "https://www.udemy.com/course/100-days-of-code/"
+                "title": "Beginning C++ Programming - From Beginner to Beyond",
+                "description": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered.  C++20 info see below.",
+                "link": "https://www.udemy.com/course/beginning-c-plus-plus-programming/"
             },
             {
-                "title": "Agile Fundamentals: Including Scrum & Kanban",
-                "description": "Master Agile principles, values, approaches, & mindset to help organizations make changes faster and with less expense",
-                "link": "https://www.udemy.com/course/agile-fundamentals-scrum-kanban-scrumban/"
+                "title": "Learn Python Programming - Beginner to Master",
+                "description": "Become a Python Expert. for Both Academics and Industry.  100+ Challenges",
+                "link": "https://www.udemy.com/course/learn-python-with-abdul-bari/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Desarrollador de Software",
-        "position-title": "Software Developer",
-        "duration": "2-3 a\u00f1os",
-        "description": "En este puesto, tendr\u00e1s m\u00e1s responsabilidades y aut\u00f3nom\u00eda en la toma de decisiones sobre el desarrollo de proyectos. Debes seguir mejorando tus habilidades t\u00e9cnicas y aprender a l\u00edderar peque\u00f1os equipos. Aprovecha esta oportunidad para especializarte en un \u00e1rea espec\u00edfica del desarrollo de software, como la inteligencia artificial o el desarrollo web.",
+        "title": "Game Developer",
+        "description": "Como Game Developer, tendr\u00e1s la responsabilidad de desarrollar juegos desde cero. Tu trabajo consistir\u00e1 en dise\u00f1ar y programar juegos, crear assets y trabajar con el equipo de arte y dise\u00f1o para crear un juego cohesionado. Esta experiencia te permitir\u00e1 desarrollar habilidades en programaci\u00f3n y dise\u00f1o de juegos.",
+        "position-title": "Game Developer",
+        "duration": "2-3 years",
         "requirements": [
-            "Experiencia en desarrollo de software",
-            "Conocimientos en dise\u00f1o de patrones y principios de desarrollo",
-            "Buena comprensi\u00f3n de la arquitectura de software"
+            "gokgokgo",
+            "Programming experience"
         ],
         "abilities": [
-            "Liderazgo",
-            "Gesti\u00f3n del tiempo",
-            "Resoluci\u00f3n de conflictos"
-        ],
-        "courses": [
-            "Design Patterns",
-            "Web Development with React",
-            "Machine Learning with Python"
+            "Programaci\u00f3n",
+            "Dise\u00f1o de juegos"
         ],
         "jobs_list": [
             {
-                "title": "APRENDIZ DE ANALISIS Y DESARROLLADOR DE SOFTWARE - ACPA - 232241",
-                "redirect_url": "https://www.magneto365.com/co/empleos/aprendiz-de-analisis-y-desarrollador-de-software-acpa-232241-8bed739b-6a08-4ff1-bb8b-55732c7e6562?utm_campaign=jobs-nutresa&utm_medium=referral",
-                "city": "Barranquilla"
-            },
-            {
-                "title": "Desarrollador de aplicaciones TI",
-                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-de-aplicaciones-ti-5a87138e-6936-441f-b62d-3bbe3f596015?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "Medell\u00edn"
-            },
-            {
-                "title": "Desarrollador de software",
-                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-de-software-7a04d6e8-9ab5-4db5-80dd-3bbe88805e82?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "Medell\u00edn"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Java Design Patterns & SOLID Design Principles",
-                "description": "A master guide to gang of four design patterns & SOLID design principles using Java",
-                "link": "https://www.udemy.com/course/design-patterns-in-java-concepts-hands-on-projects/"
-            },
-            {
-                "title": "The Complete 2024 Web Development Bootcamp",
-                "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps",
-                "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
-            },
-            {
-                "title": "Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]",
-                "description": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
-                "link": "https://www.udemy.com/course/machinelearning/"
-=======
-        "about_work": true,
-        "title": "Ingeniero de sistemas junior",
-        "description": "Como ingeniero de sistemas junior, tendr\u00e1s la oportunidad de desarrollar habilidades en la administraci\u00f3n y configuraci\u00f3n de sistemas operativos, redes y servidores. Esto te permitir\u00e1 entender mejor c\u00f3mo funcionan los sistemas y c\u00f3mo se integran con la parte de desarrollo. Debes buscar oportunidades para trabajar en proyectos que te permitan involucrarte en la implementaci\u00f3n de soluciones tecnol\u00f3gicas y aprender de otros profesionales en el \u00e1rea.",
-        "position-title": "Junior Systems Engineer",
-        "duration": "6-12 months",
-        "requirements": [
-            "Experiencia en administraci\u00f3n de sistemas operativos",
-            "Conocimientos en redes y seguridad"
-        ],
-        "abilities": [
-            "Comunicaci\u00f3n efectiva",
-            "Trabajo en equipo"
-        ],
-        "courses": [
-            "CompTIA Network+",
-            "Linux Fundamentals"
-        ],
-        "jobs_list": [
-            {
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkxOTI5Nzg2MyIsInMiOiJWTWZWMERHZDd4Rzk3NVpkdjRqMk93In0.l4v2rQv6fcpcjpJpjsid5Q7kobZGBWtZNknzr53aQb0",
-                "description": "This position is for a person passionate about space exploration, who is self-motivated and capable of assisting team members with planning and integration of validation and testing products as a Gateway Program Systems Engineer. The Gateway, a vital component of NASA\u2019s Artemis program, will serve as a multi-purpose outpost orbiting the Moon that provides essential support for long-term human return to the lunar surface and serves as a staging point for deep space exploration. NASA is working w\u2026",
-                "salary_min": 66373.88,
-                "created": "2024-10-30T21:22:37Z",
-                "id": "4919297863",
-                "company": {
-                    "display_name": "METECS",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "salary_max": 66373.88,
-                "location": {
-                    "display_name": "Houston, Harris County",
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "Texas",
-                        "Harris County",
-                        "Houston"
-                    ]
-                },
-                "redirect_url": "https://www.adzuna.com/details/4919297863?utm_medium=api&utm_source=a60688b4",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_is_predicted": "1",
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "engineering-jobs",
-                    "label": "Engineering Jobs"
-                },
-                "title": "Junior Systems Engineer",
-                "contract_type": "permanent"
-            },
-            {
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_is_predicted": "0",
-                "title": "Junior Systems Engineer",
-                "category": {
-                    "label": "Engineering Jobs",
-                    "tag": "engineering-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "contract_time": "full_time",
-                "description": "The Defense Systems Sector within Leidos, is seeking a talented Junior Systems Engineer to join a diverse team to create unique solutions for complex problems. With offices across the United States engaging in the defense, space, cyber and commercial fields, Leidos-Dynetics provides responsive, cost-effective engineering, scientific and IT solutions. The Junior Systems Engineer will work in a matrixed organization at Leidos-Dynetics, supporting the Enduring Shield Program on a team consisting o\u2026",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg4NjMyNzg4MyIsInMiOiJWTWZWMERHZDd4Rzk3NVpkdjRqMk93In0.0sU4ToIkfPeGmuE72qyosPTeTwvJSyMySctULialbU8",
-                "salary_min": 53950,
-                "created": "2024-10-02T16:31:33Z",
+                "created": "2024-10-22T11:40:08Z",
+                "redirect_url": "https://www.adzuna.com/land/ad/4910287742?se=lqHYvmWd7xG5ExfnupXhsw&utm_medium=api&utm_source=a60688b4&v=EAA5F0E1C5388672B8E6340BC5CAFC7707132370",
                 "company": {
                     "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Dynetics"
-                },
-                "id": "4886327883",
-                "salary_max": 97525,
-                "location": {
-                    "display_name": "US",
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US"
-                    ]
-                },
-                "redirect_url": "https://www.adzuna.com/details/4886327883?utm_medium=api&utm_source=a60688b4"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "CompTIA Network+ (N10-009) Full Course & Practice Exam",
-                "description": "CompTIA Network+ (N10-009) Bootcamp - Certification preparation course on the most popular networking certification!",
-                "link": "https://www.udemy.com/course/comptia-network-009/"
-            },
-            {
-                "title": "Complete Linux Training Course to Get Your Dream IT Job 2024",
-                "description": "The BEST Linux Administration course for corporate jobs and RHCSA, RHCE, LFCS, LPIC and CompTIA Linux+ certifications",
-                "link": "https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Desarrollador backend junior",
-        "description": "En esta posici\u00f3n, podr\u00e1s desarrollar habilidades en programaci\u00f3n y comenzar a aprender frameworks y tecnolog\u00edas relacionadas con el desarrollo backend. Debes buscar proyectos que te permitan trabajar con bases de datos y APIs, lo que te ayudar\u00e1 a entender mejor c\u00f3mo se integran con la parte frontend.",
-        "position-title": "Junior Backend Developer",
-        "duration": "6-12 months",
-        "requirements": [
-            "Conocimientos en programaci\u00f3n en lenguajes como Python, Java o C#",
-            "Experiencia con bases de datos"
-        ],
-        "abilities": [
-            "Resoluci\u00f3n de problemas",
-            "Aprendizaje r\u00e1pido"
-        ],
-        "courses": [
-            "Python for Everybody",
-            "Java Programming Basics"
-        ],
-        "jobs_list": [
-            {
-                "id": "4914887895",
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Great Falls, Fairfax County",
-                    "area": [
-                        "US",
-                        "Virginia",
-                        "Fairfax County",
-                        "Great Falls"
-                    ]
-                },
-                "latitude": 38.998173,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_is_predicted": "1",
-                "longitude": -77.288307,
-                "contract_time": "full_time",
-                "title": "Junior Backend Developer",
-                "salary_min": 84802.45,
-                "created": "2024-10-26T07:34:59Z",
-                "company": {
-                    "display_name": "Lateral Insights",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "description": "Role: Junior Backend Developer Location: Hyrbid Only Role based in VA Please note : Candidate will need to have physical 4 years of work expeirence in the US and this role will have to undergo Federal Background Investigation. Java Developer with experience in developing J2EE applications using REST/JSON, Spring, SpringBoot, J2EE. Designs, develops, and implements web-based Java applications to support business requirements. Follows approved Agile life cycle methodologies, creates design docume\u2026",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkxNDg4Nzg5NSIsInMiOiJ0S3p4MHpHZDd4Rzk3NVpkdjRqMk93In0.KKpYpZNelulD8QhiLrZ5JsfRlDzHtcbIymOMTFf9ucA",
-                "redirect_url": "https://www.adzuna.com/details/4914887895?utm_medium=api&utm_source=a60688b4",
-                "salary_max": 84802.45,
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs",
-                    "tag": "it-jobs"
-                }
-            },
-            {
-                "redirect_url": "https://www.adzuna.com/details/4924345475?utm_medium=api&utm_source=a60688b4",
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Chicago, Cook County",
-                    "area": [
-                        "US",
-                        "Illinois",
-                        "Cook County",
-                        "Chicago"
-                    ]
-                },
-                "salary_max": 102232.57,
-                "company": {
-                    "display_name": "Hallow",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "id": "4924345475",
-                "salary_min": 102232.57,
-                "created": "2024-11-03T06:40:49Z",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEt6eDB6R2Q3eEc5NzVaZHY0ajJPdyIsImkiOiI0OTI0MzQ1NDc1In0.wLYGlZIDbaexUoqlBoiiMarRGnjTvIfJwP2cPdbVJ6M",
-                "description": "Who we are We're building a prayer and meditation app. One that is authentically Christian and Catholic, while at the same time a resource for anyone looking to grow deeper in a relationship with God. We believe that people are hungry for peace, and that there is no surer way to find it than by learning to sit in silence with Christ: \u201cCome to me, all you that are weary and are carrying heavy burdens, and I will give you rest\u201d (Mt 11:28). Our goal is to build something truly great. Something tha\u2026",
-                "contract_time": "full_time",
-                "category": {
-                    "tag": "it-jobs",
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "title": "Junior Backend Developer",
-                "salary_is_predicted": "1",
-                "__CLASS__": "Adzuna::API::Response::Job"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "100 Days of Code: The Complete Python Pro Bootcamp",
-                "description": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
-                "link": "https://www.udemy.com/course/100-days-of-code/"
-            },
-            {
-                "title": "Java 17 Masterclass: Start Coding in 2024",
-                "description": "Acquire Key Java Skills: From Basics to Advanced Programming and Certification - Start Your Dev Career",
-                "link": "https://www.udemy.com/course/java-the-complete-java-developer-course/"
->>>>>>> Stashed changes
-            }
-        ]
-    },
-    {
-        "about_work": true,
-<<<<<<< Updated upstream
-        "title": "L\u00edder de Equipo de Desarrollo",
-        "position-title": "Team Lead, Software Development",
-        "duration": "3-5 a\u00f1os",
-        "description": "En este puesto, ser\u00e1s responsable de liderar un equipo de desarrolladores y tomar decisiones cr\u00edticas sobre el desarrollo de proyectos. Debes desarrollar habilidades de liderazgo y gesti\u00f3n, y aprender a comunicarte efectivamente con stakeholders. Aprovecha esta oportunidad para mejorar tus habilidades en la gesti\u00f3n de proyectos y la planificaci\u00f3n.",
-        "requirements": [
-            "Experiencia en liderazgo de equipo",
-            "Conocimientos en gesti\u00f3n de proyectos",
-            "Buena comprensi\u00f3n de la arquitectura de software"
-        ],
-        "abilities": [
-            "Liderazgo efectivo",
-            "Gesti\u00f3n del cambio",
-            "Toma de decisiones informadas"
-        ],
-        "courses": [
-            "Scrum Master Certification",
-            "Project Management with Agile",
-            "Leadership and Communication"
-        ],
-        "jobs_list": [
-            {
-                "title": "Team Lead - Software Developer",
-                "longitude": -119.6853,
-                "contract_time": "full_time",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "latitude": 39.53868,
-                "salary_is_predicted": "0",
-                "location": {
-                    "area": [
-                        "US",
-                        "Nevada",
-                        "Washoe County",
-                        "Tracy-Clark"
-                    ],
-                    "display_name": "Tracy-Clark, Washoe County",
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "id": "4924978420",
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs",
-                    "label": "IT Jobs"
-                },
-                "salary_max": 100000,
-                "redirect_url": "https://www.adzuna.com/details/4924978420?utm_medium=api&utm_source=a60688b4",
-                "description": "Tellworks Logistics, headquartered in Atlanta, Georgia with locations throughout the United States, is a leading provider of supply chain services. Our company offers warehouse and logistics services as well as value added services and supply chain consulting for companies who depend on service excellence and require a personalized, rather than one-size-fits-all, approach to their materials management requirements. In conjunction with affiliated companies Makt-Trans Freight and AIMSPlus  Softwa\u2026",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUxCTW9pLWQ3eEc5NzVaZHY0ajJPdyIsImkiOiI0OTI0OTc4NDIwIn0.nFc11yanah8ua9I0udXMzH5EWHY6rL4FKYZvVgt3U8w",
-                "salary_min": 80000,
-                "created": "2024-11-03T10:03:55Z",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Tellworks Communications"
-                }
-            },
-            {
-                "salary_min": 99880.55,
-                "created": "2024-08-04T05:44:57Z",
-                "id": "4809803033",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Roberts Recruiting"
-                },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwOTgwMzAzMyIsInMiOiJJTEJNb2ktZDd4Rzk3NVpkdjRqMk93In0.JL3ZpnwpJnAFMtFbxjqXiA0_dm6mI2yRe4u6vTL3y-c",
-                "description": "Develop cutting edge technology solutions for a fast-changing healthcare landscape. Our products are built on top of a cloud-based multi-tenanted environment. Develop, design, and integrate ElasticSearch, an open source full-text search engine. Develop and Implement software as specified in technical specifications/software design documentation. Maintain platform stability and performance. Troubleshoot production issues, implement short term break/fix solutions, and participate in continual imp\u2026",
-                "redirect_url": "https://www.adzuna.com/details/4809803033?utm_medium=api&utm_source=a60688b4",
-                "salary_max": 99880.55,
-                "location": {
-                    "area": [
-                        "US",
-                        "Massachusetts",
-                        "Middlesex County",
-                        "Lexington"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Lexington, Middlesex County"
+                    "display_name": "Global SaaS Provider"
                 },
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "latitude": 42.460908,
-                "salary_is_predicted": "1",
-                "longitude": -71.222083,
-                "title": "Team Lead- Software Development",
-                "category": {
-                    "label": "IT Jobs",
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                }
-=======
-        "title": "Desarrollador frontend junior",
-        "description": "En esta posici\u00f3n, podr\u00e1s desarrollar habilidades en programaci\u00f3n y comenzar a aprender frameworks y tecnolog\u00edas relacionadas con el desarrollo frontend. Debes buscar proyectos que te permitan trabajar con HTML, CSS y JavaScript, lo que te ayudar\u00e1 a entender mejor c\u00f3mo se integran con la parte backend.",
-        "position-title": "Junior Frontend Developer",
-        "duration": "6-12 months",
-        "requirements": [
-            "Conocimientos en programaci\u00f3n en lenguajes como JavaScript, HTML y CSS",
-            "Experiencia con frameworks frontend"
-        ],
-        "abilities": [
-            "Dise\u00f1o visual",
-            "Aprendizaje r\u00e1pido"
-        ],
-        "courses": [
-            "HTML, CSS and JavaScript",
-            "React Fundamentals"
-        ],
-        "jobs_list": [
-            {
-                "latitude": 42.354856,
-                "description": "Technology: Mobile Developer (Urgent hiring) Location: Atlanta, GA (Onsite Must) (Stay & Relocation assistance will be provided) Employment type: Fulltime Training period: 8 weeks Duration: 2 years Experience required: 1 years (Entry level) Educational Qualification: Bachelor\u2019s/Master\u2019s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field. What This Role Requires: 1-2 years of experience in software development using Java after yo\u2026",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "location": {
-                    "display_name": "Boston, Suffolk County",
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "Massachusetts",
-                        "Suffolk County",
-                        "Boston"
-                    ]
-                },
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Tech Consulting"
-                },
-                "salary_min": 66747.44,
-                "category": {
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs"
-                },
-                "title": "Junior Frontend Developer",
-                "created": "2024-10-31T01:41:45Z",
-                "id": "4919405617",
-                "redirect_url": "https://www.adzuna.com/land/ad/4919405617?se=Isoc1zGd7xGfr6mhuZXhsw&utm_medium=api&utm_source=a60688b4&v=02AFB32DF44921B6541C6FBFBA6D4891AF1F9780",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXNvYzF6R2Q3eEdmcjZtaHVaWGhzdyIsImkiOiI0OTE5NDA1NjE3In0.AwBg9FDDOR2OT21C96CvfsdlNDtDX9vE_cun4fTr08g",
-                "longitude": -71.066119,
-                "salary_is_predicted": "1",
-                "salary_max": 66747.44
-            },
-            {
-                "description": "Urgent Hiring - Need to join immediately Job Title: Jr.Software Developer(React Native)(Urgent hiring) Only W2 Employment type: Fulltime Duration: 2 years Exp: 1-2 years(Entry level) Educational Qualification: Bachelor\u2019s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field. Are you excited about taking your technical career to new heights with a full-time, W-2 role as a consultant in a dynamic and rapidly growing company? If you a\u2026",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "latitude": 31.709263,
-                "title": "Junior Frontend Developer",
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "Texas"
-                    ],
-                    "display_name": "Texas, US"
-                },
-                "company": {
-                    "display_name": "Tech Consulting",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs",
-                    "tag": "it-jobs"
-                },
-                "salary_min": 65911.83,
-                "created": "2024-10-31T01:40:47Z",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXNvYzF6R2Q3eEdmcjZtaHVaWGhzdyIsImkiOiI0OTE5NDA0Njg0In0.BFjqFIZL-prbQokLlMn7PG1hWtngIEebKv2kfFhgNvs",
-                "redirect_url": "https://www.adzuna.com/details/4919404684?utm_medium=api&utm_source=a60688b4",
-                "id": "4919404684",
-                "salary_max": 65911.83,
-                "longitude": -98.656775,
-                "salary_is_predicted": "1"
->>>>>>> Stashed changes
-            }
-        ],
-        "courses_list": [
-            {
-<<<<<<< Updated upstream
-                "title": "Scrum Master y Product Owner Certificaci\u00f3n. Temario completo",
-                "description": "Todo para Certificarte de Manera Exitosa en cualquiera de las principales Certificadoras Internacionales de Scrum",
-                "link": "https://www.udemy.com/course/certificate-scrum-master-y-product-owner-ano-2021/"
-            },
-            {
-                "title": "The Complete Agile & Scrum Project Management Course",
-                "description": "Master Agile and Scrum through an immersive, real-world case study to become a world-class project manager",
-                "link": "https://www.udemy.com/course/the-complete-agile-scrum-project-management-course/"
-            },
-            {
-                "title": "Communication, Leadership & Management - 3 in 1 Masterclass",
-                "description": "Learn Communication &amp; Leadership Skills For Inspiration, Success In Life, Work PLUS Management Skills For Career Success",
-                "link": "https://www.udemy.com/course/high-impact-communication-skills/"
-=======
-                "title": "HTML, CSS, JavaScript, ReactJS, NodeJS from Zero to Expert",
-                "description": "A-Z all in one fullstack web development course, HTML, CSS, JavaScript, Node.js, React.js and a big production grade app",
-                "link": "https://www.udemy.com/course/html-css-javascript-reactjs-nodejs-from-zero-to-expert/"
-            },
-            {
-                "title": "React - The Complete Guide 2024 (incl. Next.js, Redux)",
-                "description": "Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router, Next.js, Best Practices and way more!",
-                "link": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/"
->>>>>>> Stashed changes
-            }
-        ]
-    },
-    {
-        "about_work": true,
-<<<<<<< Updated upstream
-        "title": "Arquitecto de Software",
-        "position-title": "Software Architect",
-        "duration": "5-7 a\u00f1os",
-        "description": "En este puesto, ser\u00e1s responsable de dise\u00f1ar la arquitectura de software para proyectos complejos. Debes desarrollar habilidades en el dise\u00f1o de sistemas y la planificaci\u00f3n a largo plazo. Aprovecha esta oportunidad para mejorar tus habilidades en la resoluci\u00f3n de problemas complejos y la toma de decisiones informadas.",
-        "requirements": [
-            "Experiencia en dise\u00f1o de arquitectura de software",
-            "Conocimientos en patrones de dise\u00f1o y principios de desarrollo",
-            "Buena comprensi\u00f3n de la tecnolog\u00eda emergente"
-        ],
-        "abilities": [
-            "An\u00e1lisis cr\u00edtico",
-            "Dise\u00f1o sistem\u00e1tico",
-            "Comunicaci\u00f3n efectiva"
-        ],
-        "courses": [
-            "Software Architecture",
-            "Cloud Computing",
-            "DevOps and Continuous Integration"
-        ],
-        "jobs_list": [
-            {
-                "title": "Software Architect",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Kavaliro"
-                },
-                "category": {
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs"
-                },
-                "salary_min": 115420.88,
-=======
-        "title": "Desarrollador full stack junior",
-        "description": "En esta posici\u00f3n, podr\u00e1s integrar tus habilidades en desarrollo backend y frontend para crear aplicaciones completas. Debes buscar proyectos que te permitan trabajar en todo el stack tecnol\u00f3gico, lo que te ayudar\u00e1 a entender mejor c\u00f3mo se integran todas las partes.",
-        "position-title": "Junior Full Stack Developer",
-        "duration": "6-12 months",
-        "requirements": [
-            "Experiencia en desarrollo backend y frontend",
-            "Conocimientos en frameworks y tecnolog\u00edas relacionadas"
-        ],
-        "abilities": [
-            "Comunicaci\u00f3n efectiva",
-            "Trabajo en equipo",
-            "Resoluci\u00f3n de problemas"
-        ],
-        "courses": [
-            "Full Stack Development with Python",
-            "MEAN Stack Development"
-        ],
-        "jobs_list": [
-            {
-                "salary_is_predicted": "1",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Trusted Tech Team"
-                },
-                "salary_max": 74471.52,
-                "category": {
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs"
-                },
-                "salary_min": 74471.52,
-                "id": "4907845716",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0ZCODJqR2Q3eEdOU2xxYk01X1NvUSIsImkiOiI0OTA3ODQ1NzE2In0.e7ojgq8RrrpTcvVSRN6vWhnC07pSdt2eNWQek0fz9xM",
-                "__CLASS__": "Adzuna::API::Response::Job",
->>>>>>> Stashed changes
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-<<<<<<< Updated upstream
-                        "Florida",
-                        "Orange County",
-                        "Orlando"
-=======
-                        "California",
-                        "Orange County",
-                        "Irvine"
->>>>>>> Stashed changes
-                    ],
-                    "display_name": "Orlando, Orange County"
-                },
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "description": "Our client is seeking a Software Architect in Orlando, FL. The Software Architect will play a critical role in designing and developing high-quality, scalable software solutions aligned with business goals. As a technical leader, you will guide the development team through the software development lifecycle, from concept and design to deployment and maintenance. You will be responsible for ensuring that all architectural solutions meet both technical and business requirements and adhere to best\u2026",
-                "latitude": 28.541666,
-                "salary_max": 115420.88,
-                "salary_is_predicted": "1",
-                "longitude": -81.375686,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWw5VnBpLWQ3eEdmcjZtaHVaWGhzdyIsImkiOiI0OTI4OTUxMTU2In0.KpYJsh-8plpITBM_tdV7MoPU9iuUfJvVmxjC3z-haS0",
-                "id": "4928951156",
-                "redirect_url": "https://www.adzuna.com/land/ad/4928951156?se=ql9Vpi-d7xGfr6mhuZXhsw&utm_medium=api&utm_source=a60688b4&v=A7107C51BFEA1E8E30BDC5171078ACB1A5CE23A0",
-                "created": "2024-11-06T15:32:05Z"
-            },
-            {
-                "location": {
-                    "display_name": "Atlanta, Fulton County",
-                    "__CLASS__": "Adzuna::API::Response::Location",
-<<<<<<< Updated upstream
-                    "area": [
-                        "US",
-                        "Georgia",
-                        "Fulton County",
-                        "Atlanta"
-                    ]
-                },
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Tata Consultancy Services"
-                },
-                "category": {
-                    "tag": "it-jobs",
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "salary_min": 110545.14,
-                "title": "Software Architect",
-                "latitude": 33.755711,
-                "description": "Job Title: MuleSoft Architect /MuleSoft Developer Location: Location : Atlanta GA/Chicago IL Roles & Responsibilities Overall 10 years of overall exp with Minimum 5 years of experience working as Mule Architect 3 years of Design and Development experience with Mule 4.x Must have development experience implementing flows using Oracle, Hadoop, SQL, Kafka, .NET connectors etc. Must have experience in secure API development Understanding of MuleSoft Development best practices with respect to using \u2026",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "longitude": -84.388372,
-                "salary_is_predicted": "1",
-                "salary_max": 110545.14,
-                "created": "2024-10-21T05:22:54Z",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwODcxNjM0MSIsInMiOiJxbDlWcGktZDd4R2ZyNm1odVpYaHN3In0.pU-3G4nxGjvD5BDdw3kfIGDw1qNZ5UvetyyGXVX6IgM",
-                "id": "4908716341",
-                "redirect_url": "https://www.adzuna.com/land/ad/4908716341?se=ql9Vpi-d7xGfr6mhuZXhsw&utm_medium=api&utm_source=a60688b4&v=CC53F6F386C5D63E3C5C47D96366DFE8CDAD61F2"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Software Architecture & Design of Modern Large Scale Systems",
-                "description": "Become a Software Architect or Technical Lead by Mastering Software Architecture, System Design &amp; Big Data Processing.",
-                "link": "https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/"
-            },
-            {
-                "title": "[NEW] Ultimate AWS Certified Cloud Practitioner CLF-C02",
-                "description": "Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AWS Cloud Practitioner CLF-C02 exam!",
-                "link": "https://www.udemy.com/course/aws-certified-cloud-practitioner-new/"
-            },
-            {
-                "title": "DevOps, CI/CD(Continuous Integration/Delivery) for Beginners",
-                "description": "Learn about CI/CD, DevOps, the concepts of Continuous Integration, Continuous Delivery / Deployment, DevOps pipeline",
-                "link": "https://www.udemy.com/course/ci-cd-devops/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Ingeniero de Software S\u00e9nior",
-        "position-title": "Senior Software Engineer",
-        "duration": "7-10 a\u00f1os",
-        "description": "En este puesto, ser\u00e1s un experto en el desarrollo de software y tendr\u00e1s un papel clave en la toma de decisiones t\u00e9cnicas. Debes desarrollar habilidades en el liderazgo y la mentor\u00eda, y aprender a comunicarte efectivamente con stakeholders. Aprovecha esta oportunidad para mejorar tus habilidades en la resoluci\u00f3n de problemas complejos y la toma de decisiones informadas.",
-        "requirements": [
-            "Experiencia en desarrollo de software",
-            "Conocimientos en dise\u00f1o de patrones y principios de desarrollo",
-            "Buena comprensi\u00f3n de la tecnolog\u00eda emergente"
-        ],
-        "abilities": [
-            "Liderazgo efectivo",
-            "Mentor\u00eda",
-            "Comunicaci\u00f3n efectiva"
-        ],
-        "courses": [
-            "Technical Leadership",
-            "Cloud Native Applications",
-            "Artificial Intelligence and Machine Learning"
-        ],
-        "jobs_list": [
-            {
-                "longitude": -77.47599,
-                "salary_is_predicted": "1",
-                "salary_max": 184028.28,
-                "created": "2024-09-04T11:00:13Z",
-                "id": "4851692474",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia29vQ3FpLWQ3eEdmcjZtaHVaWGhzdyIsImkiOiI0ODUxNjkyNDc0In0.OywWWeKLayemt2RK2X-RTZcOzklM3RCqH8s1HensAB8",
-                "redirect_url": "https://www.adzuna.com/land/ad/4851692474?se=kooCqi-d7xGfr6mhuZXhsw&utm_medium=api&utm_source=a60688b4&v=995BBA6E8212343A5FF40D620A94BA98387D6149",
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "Virginia",
-                        "Prince William County",
-                        "Manassas"
-                    ],
-                    "display_name": "Manassas, Prince William County"
-                },
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "General Dynamics Mission Systems"
-                },
-                "salary_min": 184028.28,
-                "category": {
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs"
-                },
-                "title": "Senior Software Engineer",
-                "latitude": 38.74793,
-                "description": "Requires a Bachelor\u2019s degree in Software Engineering, or a related Science, Engineering or Mathematics field. Also requires 2 years of job-related experience or a Master's degree. Agile experience preferred. Need to have experience with C++ or Java. CLEARANCE REQUIREMENTS: Department of Defense Secret security clearance is required within a reasonable period of time. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access\u2026",
-                "__CLASS__": "Adzuna::API::Response::Job"
-            },
-            {
-                "location": {
-                    "display_name": "Tempe, Maricopa County",
-=======
-                    "display_name": "Irvine, Orange County"
-                },
-                "redirect_url": "https://www.adzuna.com/land/ad/4907845716?se=wFB82jGd7xGNSlqbM5_SoQ&utm_medium=api&utm_source=a60688b4&v=EFFC7B4EFE3B1FEFC1956222C79AFC7EF05AB3C9",
-                "title": "Junior Full Stack Developer",
-                "longitude": -117.75493,
-                "description": "Who We Are: Trusted Tech Team is a leading Microsoft Cloud Solutions Provider (CSP) specializing in Microsoft Cloud services, Microsoft perpetual licensing, and Professional and Security Services for medium and enterprise-sized businesses. Their robust team of in-house, U.S-based Microsoft architects and engineers are certified in all 6/6 Microsoft Solutions Partner Designations in the Microsoft Cloud Partner Program. Prioritizing a people-centric mission, Trusted Tech Team has transformed the \u2026",
-                "created": "2024-10-19T21:20:42Z",
-                "latitude": 33.751486
-            },
-            {
-                "redirect_url": "https://www.adzuna.com/land/ad/4926443274?se=wFB82jGd7xGNSlqbM5_SoQ&utm_medium=api&utm_source=a60688b4&v=BE5711F39CB10031CCC62D163829B56E05D39C40",
-                "title": "Junior Full-stack developer",
-                "longitude": -80.231357,
-                "description": "Since 2010 and almost 14 years SynergisticIT has helped Jobseekers get employed in the tech Job market by providing candidates the requisite skills, experience and technical competence to outperform at interviews and at clients. Post Covid the tech Layoffs have been massive In 2022 there were 165,269 tech layoffs, In 2023 there were 264,220 tech layoffs and so far in 2024 there have been 126,382 tech layoffs. (Source Layoffs.fyi ) -Total layoffs as per this 555,871 tech layoffs. Client, Dell an\u2026",
-                "contract_time": "full_time",
-                "salary_is_predicted": "1",
-                "company": {
-                    "display_name": "SynergisticIT",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "salary_min": 53397.8,
-                "id": "4926443274",
-                "location": {
->>>>>>> Stashed changes
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "The Acreage, Palm Beach County",
-                    "area": [
-                        "US",
-<<<<<<< Updated upstream
-                        "Arizona",
-                        "Maricopa County",
-                        "Tempe"
-                    ]
-                },
-                "company": {
-                    "display_name": "General Dynamics Mission Systems",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "category": {
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs"
-                },
-                "salary_min": 114890.67,
-                "title": "Senior Software Engineer",
-                "latitude": 33.468392,
-                "description": "Requires a Bachelor\u2019s degree in Software Engineering, or a related Science, Engineering or Mathematics field. Also requires 8 years of job-related experience, or a Master's degree plus 6 years of job-related experience. Agile experience preferred. CLEARANCE REQUIREMENTS: Ability to obtain Department of Defense Secret security clearance is required at time of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to\u2026",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "longitude": -111.918478,
-                "salary_is_predicted": "1",
-                "salary_max": 114890.67,
-                "created": "2024-10-29T12:21:22Z",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia29vQ3FpLWQ3eEdmcjZtaHVaWGhzdyIsImkiOiI0OTE3Njc2NjMxIn0.XeEEHTyQLr90s2d8Eecg7ygrfSb9uJ1jnGluINr5dCs",
-                "redirect_url": "https://www.adzuna.com/land/ad/4917676631?se=kooCqi-d7xGfr6mhuZXhsw&utm_medium=api&utm_source=a60688b4&v=3812FD2B0A30F1F143DE5563D403C6B1493375C2",
-                "id": "4917676631"
-=======
-                        "Florida",
-                        "Palm Beach County",
-                        "The Acreage"
-                    ]
-                },
-                "created": "2024-11-04T19:20:18Z",
-                "latitude": 26.79292,
-                "salary_max": 53397.8,
-                "category": {
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs"
-                },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid0ZCODJqR2Q3eEdOU2xxYk01X1NvUSIsImkiOiI0OTI2NDQzMjc0In0.GyFvBhTkNN78_w2y2iMyuZdL5buwK0USJv8gRwmEsLk",
-                "__CLASS__": "Adzuna::API::Response::Job"
->>>>>>> Stashed changes
-            }
-        ],
-        "courses_list": [
-            {
-<<<<<<< Updated upstream
-                "title": "Leadership: Practical Leadership Skills",
-                "description": "Master leadership skills and leadership techniques with this highly practical advice and training",
-                "link": "https://www.udemy.com/course/practical-leadership/"
-            },
-            {
-                "title": "Master Cloud Native Applications Architecture Best Practices",
-                "description": "2023 Trends, Architecture, and Best Practices related to Microservices, Containers, Cloud and Data Pipelines",
-                "link": "https://www.udemy.com/course/cloud-native-applications-architecture-and-best-practices/"
-            },
-            {
-                "title": "Complete A.I. & Machine Learning, Data Science Bootcamp",
-                "description": "Learn Data Science, Data Analysis, Machine Learning (Artificial Intelligence) and Python with Tensorflow, Pandas &amp; more!",
-                "link": "https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/"
-=======
-                "title": "Full stack web development and AI with Python (Django)",
-                "description": "HTML, CSS, JavaScript, Python, Django, Pandas, Sklearn, Keras, Git, Linux - Full stack web development /data science/ AI",
-                "link": "https://www.udemy.com/course/unaicorn/"
-            },
-            {
-                "title": "Angular & NodeJS - The MEAN Stack Guide [2024 Edition]",
-                "description": "Learn how to connect your Angular Frontend to a NodeJS &amp; Express &amp; MongoDB Backend by building a real Application",
-                "link": "https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/"
->>>>>>> Stashed changes
-            }
-        ]
-    },
-    {
-        "about_work": true,
-<<<<<<< Updated upstream
-        "title": "Experto en Tecnolog\u00eda",
-        "position-title": "Technical Consultant",
-        "duration": "10-15 a\u00f1os",
-        "description": "En este puesto, ser\u00e1s un experto en tecnolog\u00eda y trabajar\u00e1s con clientes para entender sus necesidades y desarrollar soluciones personalizadas. Debes desarrollar habilidades en la comunicaci\u00f3n efectiva y la relaci\u00f3n con clientes. Aprovecha esta oportunidad para mejorar tus habilidades en el an\u00e1lisis de requisitos y la planificaci\u00f3n.",
-        "requirements": [
-            "Experiencia en consultor\u00eda t\u00e9cnica",
-            "Conocimientos en tecnolog\u00edas emergentes",
-            "Buena comprensi\u00f3n de la industria"
-        ],
-        "abilities": [
-            "Comunicaci\u00f3n efectiva",
-            "An\u00e1lisis de requisitos",
-            "Relaci\u00f3n con clientes"
-        ],
-        "courses": [
-            "Technical Sales and Consulting",
-            "Industry Trends and Analysis",
-            "Communication and Presentation"
-        ],
-        "jobs_list": [
-            {
-                "title": "Consultor t\u00e9cnico compresores M\u00e9xico",
-                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-t-cnico-compresores-m-xico-71790e58-39c3-4909-9c56-949b14054e19?utm_campaign=marble&utm_medium=referral",
-                "city": "San Luis Potos\u00ed"
-            },
-            {
-                "title": "Consultor t\u00e9cnico compresores M\u00e9xico",
-                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-t-cnico-compresores-m-xico-71790e58-39c3-4909-9c56-949b14054e19?utm_campaign=marble&utm_medium=referral",
-                "city": "Ac\u00e1mbaro"
-            },
-            {
-                "title": "Consultor T\u00e9cnico Comercial - Porcicultura",
-                "redirect_url": "https://www.magneto365.com/co/empleos/consultor-t-cnico-comercial-porcicultura-a300d715-8df9-426c-9c26-e055c7e7f0f9?utm_campaign=magneto&utm_medium=referral",
-                "city": "Pereira"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Management Consulting Essential Training",
-                "description": "Everything you need to know about the techniques of world\u2019s top management consulting firms to land 6-figure job offer",
-                "link": "https://www.udemy.com/course/management-consulting-problem-solving/"
-            },
-            {
-                "title": "The Complete Financial Analyst Course 2024",
-                "description": "Excel, Accounting, Financial Statement Analysis, Business Analysis, Financial Math, PowerPoint: Everything is Included!",
-                "link": "https://www.udemy.com/course/the-complete-financial-analyst-course/"
-            },
-            {
-                "title": "Complete Presentation Skills Masterclass for Every Occasion",
-                "description": "Presentation Skills - Public Speaking - Communication Skills - Storytelling Skills for Every Situation and Skill Level",
-                "link": "https://www.udemy.com/course/complete-presentation-skills-masterclass-for-every-occasion/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Ingeniero de Software S\u00e9nior en Google",
-        "position-title": "Senior Software Engineer, Google",
-        "duration": "15+ a\u00f1os",
-        "description": "En este puesto, ser\u00e1s parte del equipo de desarrollo de software de Google y trabajar\u00e1s en proyectos innovadores y complejos. Debes desarrollar habilidades en el liderazgo y la colaboraci\u00f3n, y aprender a comunicarte efectivamente con stakeholders. Aprovecha esta oportunidad para mejorar tus habilidades en la resoluci\u00f3n de problemas complejos y la toma de decisiones informadas.",
-        "requirements": [
-            "Experiencia en desarrollo de software",
-            "Conocimientos en dise\u00f1o de patrones y principios de desarrollo",
-            "Buena comprensi\u00f3n de la tecnolog\u00eda emergente"
-        ],
-        "abilities": [
-            "Liderazgo efectivo",
-            "Colaboraci\u00f3n",
-            "Comunicaci\u00f3n efectiva"
-        ],
-        "courses": [
-            "Google Cloud Platform",
-            "Artificial Intelligence and Machine Learning",
-            "Technical Leadership and Innovation"
-        ],
-        "jobs_list": [
-            {
-                "salary_is_predicted": "1",
-                "latitude": 47.677395,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "category": {
-                    "label": "IT Jobs",
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "title": "Senior Software Engineer, Google Cloud AI",
-                "longitude": -122.179938,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ3N2b3NDLWQ3eEc5NzVaZHY0ajJPdyIsImkiOiI0OTI3NTc1NDY0In0.x-SIYJ0tjgJ0DDBNKuje3N2erAi346XR_MG7ltImoZQ",
-                "description": "Minimum qualifications: - Bachelor's degree or equivalent practical experience. - 5 years of experience with software development in one or more programming languages, and with data structures/algorithms. - 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. Preferred qualifications: - Master's degree or PhD in Computer Science or related technical field. - 1 year of experience in a technical leadership role\u2026",
-                "id": "4927575464",
-                "company": {
-                    "display_name": "Google",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "salary_min": 185973.23,
-                "created": "2024-11-05T15:47:23Z",
-                "location": {
-                    "area": [
-                        "US",
-                        "Washington",
-                        "King County",
-                        "Kirkland"
-                    ],
-                    "display_name": "Kirkland, King County",
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "salary_max": 185973.23,
-                "redirect_url": "https://www.adzuna.com/details/4927575464?utm_medium=api&utm_source=a60688b4"
-            },
-            {
-                "description": "Minimum qualifications: - Bachelor's degree or equivalent practical experience. - 5 years of experience with software development in one or more programming languages, and with data structures/algorithms. - 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. Preferred qualifications: - Master's degree or PhD in Computer Science or related technical field. - 1 year of experience in a technical leadership role\u2026",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwNzc2MzMzNCIsInMiOiJnc3Zvc0MtZDd4Rzk3NVpkdjRqMk93In0.lxCpC3bW9is4m-ZesHRlHSiaIo-3kU0vmVACJaLTS8k",
-                "id": "4907763334",
-                "company": {
-                    "display_name": "Google",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "salary_min": 190913.81,
-                "created": "2024-10-19T16:38:25Z",
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Kirkland, King County",
-                    "area": [
-                        "US",
-                        "Washington",
-                        "King County",
-                        "Kirkland"
-                    ]
-                },
-                "salary_max": 190913.81,
-                "redirect_url": "https://www.adzuna.com/details/4907763334?utm_medium=api&utm_source=a60688b4",
-                "salary_is_predicted": "1",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "latitude": 47.677395,
-                "title": "Senior Software Engineer, Google Cloud Platforms",
-                "category": {
-                    "label": "IT Jobs",
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "longitude": -122.179938
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "GCP Associate Cloud Engineer - Google Cloud Certification",
-                "description": "GCP ACE - Google Cloud Associate Cloud Engineer certification. Begin your Google Cloud Platform - GCP journey!",
-                "link": "https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/"
-            },
-            {
-                "title": "Complete A.I. & Machine Learning, Data Science Bootcamp",
-                "description": "Learn Data Science, Data Analysis, Machine Learning (Artificial Intelligence) and Python with Tensorflow, Pandas &amp; more!",
-                "link": "https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/"
-            },
-            {
-                "title": "Leadership & Management Skills: 18 Leadership Courses In 1",
-                "description": "Become A Truly Exceptional Leader With This All-in-One Leadership And Management Skills Course Taught By Global Experts",
-                "link": "https://www.udemy.com/course/leadership-management-skills/"
-=======
-        "title": "Desarrollador full stack",
-        "description": "En esta posici\u00f3n, podr\u00e1s liderar proyectos y trabajar en todo el stack tecnol\u00f3gico. Debes buscar oportunidades para mejorar tus habilidades en desarrollo y liderazgo, y buscar mentores que te ayuden a crecer profesionalmente.",
-        "position-title": "Full Stack Developer",
-        "duration": "1-2 years",
-        "requirements": [
-            "Experiencia en desarrollo full stack",
-            "Conocimientos en frameworks y tecnolog\u00edas relacionadas",
-            "Habilidades de liderazgo"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Comunicaci\u00f3n efectiva",
-            "Trabajo en equipo"
-        ],
-        "courses": [
-            "Leadership and Team Management",
-            "Advanced Full Stack Development"
-        ],
-        "jobs_list": [
-            {
-                "title": "Desarrollador FullStack - PHP, Node.js, React.js",
-                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-fullstack-php-node-js-react-js-5565b7c3-2ac5-4114-b1a1-c7478bbf987f?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "Bogot\u00e1, D.C."
-            },
-            {
-                "title": "Desarrollador FullStack - PHP, Node.js, React.js",
-                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-fullstack-php-node-js-react-js-5565b7c3-2ac5-4114-b1a1-c7478bbf987f?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "Cajic\u00e1"
-            },
-            {
-                "title": "Desarrollador FullStack - PHP, Node.js, React.js",
-                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-fullstack-php-node-js-react-js-5565b7c3-2ac5-4114-b1a1-c7478bbf987f?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "Ch\u00eda"
-            },
-            {
-                "title": "Desarrollador full stack ",
-                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-full-stack-2bbd3fd8-10fc-45c6-8f74-2201100859da?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "Bogot\u00e1, D.C."
-            },
-            {
-                "title": "Developer Full stack",
-                "redirect_url": "https://www.magneto365.com/co/empleos/developer-full-stack-739cb821-fd8f-4fa5-b617-ef6222fef6ce?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "Bogot\u00e1, D.C."
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Management Skills - Team Leadership Skills Masterclass",
-                "description": "Leadership & Management Skills - Change Management- Lean BPM Management Skills - Team Management - Team Building",
-                "link": "https://www.udemy.com/course/leadership-and-lean-management-masterclass/"
-            },
-            {
-                "title": "The Complete 2024 Web Development Bootcamp",
-                "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps",
-                "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Arquitecto de software",
-        "description": "En esta posici\u00f3n, podr\u00e1s liderar la dise\u00f1o y desarrollo de aplicaciones y sistemas. Debes buscar oportunidades para mejorar tus habilidades en dise\u00f1o y arquitectura de software, y buscar mentores que te ayuden a crecer profesionalmente.",
-        "position-title": "Software Architect",
-        "duration": "1-2 years",
-        "requirements": [
-            "Experiencia en desarrollo full stack",
-            "Conocimientos en dise\u00f1o y arquitectura de software",
-            "Habilidades de liderazgo"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Comunicaci\u00f3n efectiva",
-            "Trabajo en equipo"
-        ],
-        "courses": [
-            "Software Architecture",
-            "Design Patterns"
-        ],
-        "jobs_list": [
-            {
-                "redirect_url": "https://www.adzuna.com/land/ad/4928951156?se=iAtY4DGd7xGfr6mhuZXhsw&utm_medium=api&utm_source=a60688b4&v=A7107C51BFEA1E8E30BDC5171078ACB1A5CE23A0",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyODk1MTE1NiIsInMiOiJpQXRZNERHZDd4R2ZyNm1odVpYaHN3In0.eQXWjZiF_9wTU-tIKqf_uKo4AAP53_DBpJMqt-4PFdU",
-                "id": "4928951156",
-                "created": "2024-11-06T15:32:05Z",
-                "salary_max": 115420.88,
-                "salary_is_predicted": "1",
-                "longitude": -81.375686,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "description": "Our client is seeking a Software Architect in Orlando, FL. The Software Architect will play a critical role in designing and developing high-quality, scalable software solutions aligned with business goals. As a technical leader, you will guide the development team through the software development lifecycle, from concept and design to deployment and maintenance. You will be responsible for ensuring that all architectural solutions meet both technical and business requirements and adhere to best\u2026",
-                "latitude": 28.541666,
-                "title": "Software Architect",
-                "salary_min": 115420.88,
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Kavaliro"
-                },
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs",
-                    "tag": "it-jobs"
-                },
-                "location": {
-                    "display_name": "Orlando, Orange County",
-                    "area": [
-                        "US",
-                        "Florida",
-                        "Orange County",
-                        "Orlando"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                }
-            },
-            {
-                "redirect_url": "https://www.adzuna.com/land/ad/4908716341?se=iAtY4DGd7xGfr6mhuZXhsw&utm_medium=api&utm_source=a60688b4&v=CC53F6F386C5D63E3C5C47D96366DFE8CDAD61F2",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUF0WTRER2Q3eEdmcjZtaHVaWGhzdyIsImkiOiI0OTA4NzE2MzQxIn0.H8D8PN3zXqp7wPOdu7aA3J1nfl4SyQgGNi1H23lk5sA",
-                "id": "4908716341",
-                "created": "2024-10-21T05:22:54Z",
-                "salary_max": 110545.14,
-                "salary_is_predicted": "1",
-                "longitude": -84.388372,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "description": "Job Title: MuleSoft Architect /MuleSoft Developer Location: Location : Atlanta GA/Chicago IL Roles & Responsibilities Overall 10 years of overall exp with Minimum 5 years of experience working as Mule Architect 3 years of Design and Development experience with Mule 4.x Must have development experience implementing flows using Oracle, Hadoop, SQL, Kafka, .NET connectors etc. Must have experience in secure API development Understanding of MuleSoft Development best practices with respect to using \u2026",
-                "latitude": 33.755711,
-                "title": "Software Architect",
-                "salary_min": 110545.14,
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Tata Consultancy Services"
-                },
-                "category": {
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs"
-                },
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "Georgia",
-                        "Fulton County",
-                        "Atlanta"
-                    ],
-                    "display_name": "Atlanta, Fulton County"
-                }
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Software Architecture & Design of Modern Large Scale Systems",
-                "description": "Become a Software Architect or Technical Lead by Mastering Software Architecture, System Design &amp; Big Data Processing.",
-                "link": "https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/"
-            },
-            {
-                "title": "Java Design Patterns & SOLID Design Principles",
-                "description": "A master guide to gang of four design patterns & SOLID design principles using Java",
-                "link": "https://www.udemy.com/course/design-patterns-in-java-concepts-hands-on-projects/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Desarrollador full stack senior",
-        "description": "En esta posici\u00f3n, podr\u00e1s liderar proyectos y equipos de desarrollo, y trabajar en todo el stack tecnol\u00f3gico. Debes buscar oportunidades para mejorar tus habilidades en desarrollo y liderazgo, y buscar mentores que te ayuden a crecer profesionalmente.",
-        "position-title": "Senior Full Stack Developer",
-        "duration": "1-2 years",
-        "requirements": [
-            "Experiencia en desarrollo full stack",
-            "Conocimientos en frameworks y tecnolog\u00edas relacionadas",
-            "Habilidades de liderazgo"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Comunicaci\u00f3n efectiva",
-            "Trabajo en equipo"
-        ],
-        "courses": [
-            "Advanced Full Stack Development",
-            "Leadership and Team Management"
-        ],
-        "jobs_list": [
-            {
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkxNDc1MTgzMyIsInMiOiJibDJWNHpHZDd4Rzk3NVpkdjRqMk93In0.TDmdVyjvfqh_i4LPfeOZd-OC0_BJudbJcAsdMr5IIaI",
-                "description": "Job Description Job Description Senior Full-Stack Developer My client is seeking a Senior Full-Stack Developer to join their team for a full time permanent position. This will be a hybrid position. Required Skills and Competencies: Proven Technical Expertise Hands-on experience in designing, developing, and deploying cloud-native applications (mobile, web, IoT) on Azure or AWS. Deep understanding of full-stack development, including microservices, APIs, React Native, Node.js, and database techn\u2026",
-                "company": {
-                    "display_name": "Liberty Personnel Services, Inc",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "id": "4914751833",
-                "salary_min": 97563.28,
-                "created": "2024-10-26T03:47:06Z",
-                "location": {
-                    "area": [
-                        "US",
-                        "Pennsylvania",
-                        "Montgomery County",
-                        "Plymouth Meeting"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Plymouth Meeting, Montgomery County"
-                },
-                "salary_max": 97563.28,
-                "redirect_url": "https://www.adzuna.com/land/ad/4914751833?se=bl2V4zGd7xG975Zdv4j2Ow&utm_medium=api&utm_source=a60688b4&v=EEB820563BF5BEFCF2555902B03794F1C1D88E61",
-                "salary_is_predicted": "1",
-                "latitude": 40.102332,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs",
-                    "label": "IT Jobs"
-                },
-                "title": "Senior Full-Stack Developer",
-                "longitude": -75.274347
-            },
-            {
-                "latitude": 33.646966,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_is_predicted": "1",
-                "longitude": -117.689218,
-                "category": {
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs",
-                    "tag": "it-jobs"
-                },
-                "title": "Senior Full Stack Developer",
-                "salary_min": 122742.39,
-                "created": "2024-10-24T11:21:00Z",
-                "id": "4912481179",
-                "company": {
-                    "display_name": "PropStream",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkxMjQ4MTE3OSIsInMiOiJibDJWNHpHZDd4Rzk3NVpkdjRqMk93In0.GShuR2ZLMb7jD23-GCcdbHheSv8yYOa-ZyJErfBOsss",
-                "description": "Job Description Job Description Analyze the existing backend legacy code built on Java / J2EE, JSP, JSF, Servlets, JPA, and Hibernate . Independently working toward the front-end application that was built on React, Node.js, TypeScript, and JavaScript . Expertise in database knowledge of PostgreSQL/NOSQL, Stored Procedures, Views, Triggers , and Database functions. Expertise in third-party applications integration utilizing REST/SOAP/Flat file. Maintain the newly built modern applications in th\u2026",
-                "redirect_url": "https://www.adzuna.com/land/ad/4912481179?se=bl2V4zGd7xG975Zdv4j2Ow&utm_medium=api&utm_source=a60688b4&v=5BD010508273932E28B5869C619F8BF3012FB485",
-                "salary_max": 122742.39,
                 "location": {
                     "area": [
                         "US",
                         "California",
-                        "Orange County",
-                        "Lake Forest"
+                        "San Diego County",
+                        "San Diego"
                     ],
-                    "display_name": "Lake Forest, Orange County",
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                }
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "The Complete 2024 Web Development Bootcamp",
-                "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps",
-                "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "San Diego, San Diego County"
+                },
+                "salary_is_predicted": "1",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibHFIWXZtV2Q3eEc1RXhmbnVwWGhzdyIsImkiOiI0OTEwMjg3NzQyIn0.nNvZqZ29amqYskuM6QqCJlsg8VU9cdPN6v-HQbyVyRI",
+                "longitude": -117.164709,
+                "title": "Unity Game Developer",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "salary_min": 86454.74,
+                "description": "Job Description Job Description Must live in San Diego or surrounding area or be willing to relocate to San Diego or surrounding area This is an in-office position San Diego CA 92127- work from home Fridays after initial onboarding period We are looking to bring on an experienced Unity Developer to our growing team developing cutting-edge industry training. Salary is negotiable depending on experience; we are looking for talent and willing to pay for it We are workplace training professionals a\u2026",
+                "latitude": 32.726967,
+                "id": "4910287742",
+                "salary_max": 86454.74
             },
             {
-                "title": "Management Skills - Team Leadership Skills Masterclass",
-                "description": "Leadership & Management Skills - Change Management- Lean BPM Management Skills - Team Management - Team Building",
-                "link": "https://www.udemy.com/course/leadership-and-lean-management-masterclass/"
+                "title": "Game Developer",
+                "salary_min": 70280.91,
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "longitude": -120.943179,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibHFIWXZtV2Q3eEc1RXhmbnVwWGhzdyIsImkiOiI0OTA2NTA0MTkzIn0.gnpozIoKIzfw9GYYht2uQ0vMlqI9JeLGaeYBqFCEraE",
+                "salary_max": 70280.91,
+                "id": "4906504193",
+                "latitude": 37.928543,
+                "description": "Plato is a social games platform made by the creators of Yahoo Games and backed by early investors of WhatsApp. We have over 50 million players who spend more than 1 billion minutes in our app every month (growing mainly through word of mouth). We love going against the grain and charting our own path to success. As an example, we\u2019re making a stand to reject the current advertising industrial complex - https://platoteam.medium.com/killing-ads-e0e12073a923. Role We are looking for an experienced\u2026",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Plato"
+                },
+                "redirect_url": "https://www.adzuna.com/details/4906504193?utm_medium=api&utm_source=a60688b4",
+                "created": "2024-10-18T12:01:38Z",
+                "salary_is_predicted": "1",
+                "location": {
+                    "display_name": "California, US",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "US",
+                        "California"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Desarrollador full stack expert",
-        "description": "En esta posici\u00f3n, podr\u00e1s liderar proyectos y equipos de desarrollo, y trabajar en todo el stack tecnol\u00f3gico. Debes buscar oportunidades para mejorar tus habilidades en desarrollo y liderazgo, y buscar mentores que te ayuden a crecer profesionalmente.",
-        "position-title": "Full Stack Expert",
-        "duration": "2-5 years",
+        "title": "Senior Game Developer",
+        "description": "Como Senior Game Developer, tendr\u00e1s la responsabilidad de liderar el equipo de desarrollo y asegurarte de que los proyectos se desarrollen seg\u00fan los est\u00e1ndares de calidad. Tu trabajo consistir\u00e1 en dise\u00f1ar y programar juegos, crear assets y trabajar con el equipo de arte y dise\u00f1o para crear un juego cohesionado. Esta experiencia te permitir\u00e1 desarrollar habilidades de liderazgo y gesti\u00f3n de proyectos.",
+        "position-title": "Senior Game Developer",
+        "duration": "3-5 years",
         "requirements": [
-            "Experiencia en desarrollo full stack",
-            "Conocimientos en frameworks y tecnolog\u00edas relacionadas",
-            "Habilidades de liderazgo"
+            "Prueba2",
+            "Game development experience"
         ],
         "abilities": [
             "Liderazgo",
-            "Comunicaci\u00f3n efectiva",
-            "Trabajo en equipo"
-        ],
-        "courses": [
-            "Advanced Full Stack Development",
-            "Leadership and Team Management"
+            "Gesti\u00f3n de proyectos"
         ],
         "jobs_list": [
             {
-                "id": "4816770416",
+                "contract_time": "full_time",
+                "latitude": 37.798085,
+                "redirect_url": "https://www.adzuna.com/details/4816732782?utm_medium=api&utm_source=a60688b4",
+                "id": "4816732782",
+                "company": {
+                    "display_name": "Argus Labs",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
                 "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Chantilly, Fairfax County",
+                    "display_name": "San Francisco, California",
                     "area": [
                         "US",
-                        "Virginia",
-                        "Fairfax County",
-                        "Chantilly"
-                    ]
+                        "California",
+                        "San Francisco"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
                 },
-                "latitude": 38.883702,
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_is_predicted": "1",
-                "title": "Full Stack Developer - Expert",
-                "contract_time": "full_time",
-                "longitude": -77.428438,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgxNjc3MDQxNiIsInMiOiJub0RHNWpHZDd4Rzk3NVpkdjRqMk93In0.XJo44DviTqgiJsFe-1mU7rajcNJmtvNlV-MCtnttzrk",
-                "description": "Job Details Chantilly, VA Full Time Bachelor's Degree Intelligence Operations Support People -Focused. Mission -Obsessed. Tired of the same old corporate grind? Welcome to RenXTech, where we\u2019ve ditched the status quo to carve our own path to success. We believe that happy, well-supported employees lead to exceptional results. Our culture thrives on creativity, innovation, and an unorthodox approach where you're not just a cog in the machine \u2013 you're the engine driving success. At RenXTech, we'r\u2026",
-                "salary_min": 132062.8,
-                "created": "2024-08-08T09:32:31Z",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Buchanan And Edwards Group"
-                },
-                "salary_max": 132062.8,
-                "redirect_url": "https://www.adzuna.com/details/4816770416?utm_medium=api&utm_source=a60688b4",
                 "category": {
                     "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs",
-                    "label": "IT Jobs"
-                }
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "salary_min": 118652.15,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOUIyT3dHV2Q3eEdoRi1KTU5aX1NvUSIsImkiOiI0ODE2NzMyNzgyIn0.An8OoRrTdNzILdvRFcMwKkJTlAKGcMi794vkSyNSesI",
+                "created": "2024-08-08T09:29:46Z",
+                "salary_max": 118652.15,
+                "longitude": -122.466538,
+                "salary_is_predicted": "1",
+                "description": "Argus Labs is building the next generation of massively multiplayer online (MMO) games by empowering players with the extensive freedom to build, extend, and influence the game worlds they inhabit. Our approach is centered around World Engine, our state-of-the-art onchain game server framework. World Engine leverages a novel sharded rollup blockchain architecture, which allows games to use smart contracts for user-generated content (UGC) while scaling to tens of thousands of concurrent users wi\u2026",
+                "title": "Senior Game Developer"
             },
             {
                 "contract_time": "full_time",
+                "latitude": 37.798085,
+                "redirect_url": "https://www.adzuna.com/details/4805345724?utm_medium=api&utm_source=a60688b4",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Argus Labs"
+                },
+                "id": "4805345724",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "San Francisco, California",
+                    "area": [
+                        "US",
+                        "California",
+                        "San Francisco"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwNTM0NTcyNCIsInMiOiI5QjJPd0dXZDd4R2hGLUpNTlpfU29RIn0.GnfmjubByUzjpYdIQQxYlNUNHtkbXzax6lN8TElh4QI",
+                "salary_min": 74732.41,
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "created": "2024-08-01T10:55:20Z",
+                "salary_max": 74732.41,
+                "longitude": -122.466538,
+                "salary_is_predicted": "1",
+                "description": "Argus Labs is building the next generation of massively multiplayer online (MMO) games by empowering players with the extensive freedom to build, extend, and influence the game worlds they inhabit. Our approach is centered around World Engine, our state-of-the-art onchain game server framework. World Engine leverages a novel sharded rollup blockchain architecture, which allows games to use smart contracts for user-generated content (UGC) while scaling to tens of thousands of concurrent users wi\u2026",
+                "title": "Senior Game Developer (LATAM)"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Lead Game Developer",
+        "description": "Como Lead Game Developer, tendr\u00e1s la responsabilidad de liderar el equipo de desarrollo y asegurarte de que los proyectos se desarrollen seg\u00fan los est\u00e1ndares de calidad. Tu trabajo consistir\u00e1 en dise\u00f1ar y programar juegos, crear assets y trabajar con el equipo de arte y dise\u00f1o para crear un juego cohesionado. Esta experiencia te permitir\u00e1 desarrollar habilidades de liderazgo y gesti\u00f3n de proyectos.",
+        "position-title": "Lead Game Developer",
+        "duration": "5-7 years",
+        "requirements": [
+            "go go go",
+            "Game development experience"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Gesti\u00f3n de proyectos"
+        ],
+        "jobs_list": [
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "San Francisco, California",
+                    "area": [
+                        "US",
+                        "California",
+                        "San Francisco"
+                    ]
+                },
+                "redirect_url": "https://www.adzuna.com/details/4811314411?utm_medium=api&utm_source=a60688b4",
+                "company": {
+                    "display_name": "Argus Labs",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "4811314411",
+                "contract_time": "full_time",
+                "latitude": 37.798085,
+                "description": "Argus Labs is building the next generation of massively multiplayer online (MMO) games by empowering players with the extensive freedom to build, extend, and influence the game worlds they inhabit. Our approach is centered around World Engine, our state-of-the-art onchain game server framework. World Engine leverages a novel sharded rollup blockchain architecture, which allows games to use smart contracts for user-generated content (UGC) while scaling to tens of thousands of concurrent users wi\u2026",
+                "title": "Lead Game Developer",
+                "longitude": -122.466538,
+                "salary_is_predicted": "1",
+                "salary_max": 113996.15,
+                "created": "2024-08-05T11:05:09Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgxMTMxNDQxMSIsInMiOiJKR2M3d21XZDd4R2hGLUpNTlpfU29RIn0.ydehS7HZFQtnA7GwTsBRdbhKp_rGk9a1hef1cXyDJSU",
+                "salary_min": 113996.15,
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                }
+            },
+            {
+                "salary_min": 111016.23,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwNjUwMjk2NyIsInMiOiJKR2M3d21XZDd4R2hGLUpNTlpfU29RIn0.addjr813j8zZm5m-oK4FYy6BbITjdDEM3QRtbm9O1nM",
                 "category": {
                     "tag": "it-jobs",
                     "label": "IT Jobs",
                     "__CLASS__": "Adzuna::API::Response::Category"
                 },
-                "title": "Application Cloud Full Stack Developer Expert",
+                "latitude": 37.928543,
+                "salary_max": 111016.23,
+                "created": "2024-10-18T12:01:34Z",
                 "salary_is_predicted": "1",
+                "company": {
+                    "display_name": "Skyrocket Ventures",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "4906502967",
+                "longitude": -120.943179,
+                "redirect_url": "https://www.adzuna.com/details/4906502967?utm_medium=api&utm_source=a60688b4",
+                "title": "Lead Game Developer / Engineer - Social Gaming",
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "redirect_url": "https://www.adzuna.com/details/4928188917?utm_medium=api&utm_source=a60688b4",
+                "location": {
+                    "area": [
+                        "US",
+                        "California"
+                    ],
+                    "display_name": "California, US",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "description": "Lead Game Developer / Engineer - Social Gaming Location: you can either work remotely or in the company's office in San Jose. Engineers at the company work an average of roughly 45 hours/week; it is not a sweat shop like stereotypical gaming companies, but it is not a 9-5 job either. The company is founded by industry leaders in the gaming space who previously created one of the largest online gaming platforms in the world. The company\u2019s product focuses on community, chat / text messaging, and \u2026"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Game Development Team Lead",
+        "description": "Como Game Development Team Lead, tendr\u00e1s la responsabilidad de liderar el equipo de desarrollo y asegurarte de que los proyectos se desarrollen seg\u00fan los est\u00e1ndares de calidad. Tu trabajo consistir\u00e1 en dise\u00f1ar y programar juegos, crear assets y trabajar con el equipo de arte y dise\u00f1o para crear un juego cohesionado. Esta experiencia te permitir\u00e1 desarrollar habilidades de liderazgo y gesti\u00f3n de proyectos.",
+        "position-title": "Game Development Team Lead",
+        "duration": "7-10 years",
+        "requirements": [
+            "go go go",
+            "Game development experience"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Gesti\u00f3n de proyectos"
+        ],
+        "jobs_list": [
+            {
+                "salary_min": 69462.64,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "1",
+                "salary_max": 69462.64,
                 "location": {
                     "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "US",
                     "area": [
-                        "US"
-                    ]
+                        "US",
+                        "California",
+                        "Orange County",
+                        "South Main"
+                    ],
+                    "display_name": "South Main, Orange County"
                 },
-                "salary_max": 109891.55,
-                "id": "4928188917",
+                "contract_time": "full_time",
+                "created": "2024-11-03T06:44:25Z",
                 "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Cordova"
+                    "display_name": "Ringling College of Art and Design",
+                    "__CLASS__": "Adzuna::API::Response::Company"
                 },
-                "salary_min": 109891.55,
-                "created": "2024-11-06T05:19:12Z",
-                "description": "Connecting People and Technology Expert Applications Developer We are looking for an Expert Applications Developer/Java & React who will lead the design, development, and deployment of microservices and React applications. The right candidate will mentor junior developers, collaborate with cross-functional teams, and design and implement scalable databases. Additionally, they will conduct rigorous testing, document technical solutions, and lead projects. This role requires strong technical skil\u2026",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm9ERzVqR2Q3eEc5NzVaZHY0ajJPdyIsImkiOiI0OTI4MTg4OTE3In0.53qCOpDt8MWTzqOFzWcjX6G8lunBVfdZV2n_IKNpsGg"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "The Complete 2024 Web Development Bootcamp",
-                "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps",
-                "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+                "description": "APPLICATION INSTRUCTIONS: Current Ringling Employees - Apply for jobs internally using the Workday \"Jobs Hub\" App from Global Navigation Menu on Workday Home Page. External Applicants - Click the \"Apply\" button to complete the external application. Job Description Summary Job Description Beginning August 2025 Game Art Department Head Full-Time Faculty Appointment with Benefits Job Summary/Basic Function Ringling College of Art and Design is seeking an experienced faculty member to provide leade\u2026",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Teaching Jobs",
+                    "tag": "teaching-jobs"
+                },
+                "latitude": 33.711189,
+                "id": "4924352841",
+                "redirect_url": "https://www.adzuna.com/details/4924352841?utm_medium=api&utm_source=a60688b4",
+                "longitude": -117.871202,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3F6encyV2Q3eEdzZnNqbndJajJPdyIsImkiOiI0OTI0MzUyODQxIn0.gX7qUGrICW_fD3SYHmhaYpLIJfu7eVlQRfIY4tBKOSU",
+                "title": "Game Art Department Head, Full-Time Faculty Appointment with Benefits"
             },
             {
-                "title": "Management Skills - Team Leadership Skills Masterclass",
-                "description": "Leadership & Management Skills - Change Management- Lean BPM Management Skills - Team Management - Team Building",
-                "link": "https://www.udemy.com/course/leadership-and-lean-management-masterclass/"
->>>>>>> Stashed changes
+                "id": "4857666427",
+                "salary_max": 73514.53,
+                "location": {
+                    "area": [
+                        "US",
+                        "North Carolina",
+                        "Wake County",
+                        "Cary"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Cary, Wake County"
+                },
+                "redirect_url": "https://www.adzuna.com/details/4857666427?utm_medium=api&utm_source=a60688b4",
+                "longitude": -78.781622,
+                "title": "Senior Audio Designer",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3F6encyV2Q3eEdzZnNqbndJajJPdyIsImkiOiI0ODU3NjY2NDI3In0.9m_g1rz91OEnZ5ByHJd5zFgQmxVG2InZTXvl5qfdsVI",
+                "created": "2024-09-09T07:22:51Z",
+                "salary_min": 73514.53,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Epic Games"
+                },
+                "description": "WHAT MAKES US EPIC? At the core of Epic\u2019s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it\u2019s building award-winning games or crafting engine technology that enables others to make visually stunning interactive experiences, we\u2019re always innovating. Being Epic means being a part of a team that continually strives to do right by our community and users. We\u2019re constantly innovating to raise the bar of engine and\u2026",
+                "salary_is_predicted": "1",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "latitude": 35.769804
             }
         ]
     }
