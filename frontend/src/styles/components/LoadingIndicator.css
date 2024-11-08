@@ -26,17 +26,16 @@
     height: 100%;
     text-align: center;
     position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
   }
   
-  .loader-left {
-    width: 30%;
-    height: 100%;
-    display: inline-block;
-  }
+  .loader-left,
   .loader-right {
-    width: 49%;
-    height: 100%;
-    display: inline-block;
+      width: 40%; /* Adjust to take half of the space each */
+      height: 100%;
   }
   
   /* loader */
@@ -51,8 +50,8 @@
 
   }
   #loader svg {
-    width: 60%;
-    height: 60%;
+    width: 70%;
+    height: 70%;
     margin-top: 10%;
   }
   .triangle {
@@ -138,3 +137,45 @@
     }
   }
   
+  @media (max-width: 600px) {
+    .loader-parent {
+        flex-direction: column; /* Stack elements vertically on smaller screens */
+        align-items: center;
+        gap: 10px; /* Reduce spacing between items */
+    }
+
+    #loader {
+      border-right: none;
+    }
+
+    .loader-left,
+    .loader-right {
+        width: 100%;
+        height: auto;
+        border-right: none;
+        margin: 0; /* Remove margin to save space */
+        margin-left: 40px;
+        border-right: 0px  rgb(255, 255, 255);
+    }
+
+    .loader-right {
+      transform: translateY(-40%);
+    }
+
+    .hint-title h3 {
+        font-size: 6vw;
+        width: 400px;
+    }
+
+    .hint-description p {
+        font-size: 4vw;
+        line-height: 3.5vw;
+        transform: translateY(-5%);
+        margin-top: 10px; /* Remove extra margin */
+    }
+
+    #loader svg {
+        width: 100%; /* Reduce SVG size slightly */
+        height: 100%;
+    }
+}

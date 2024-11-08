@@ -108,6 +108,9 @@ function Steps() {
                     <div className="navbar-steps-logo">
                         <img src="/logosvg.svg" alt="Logo" className="logo" onClick={() => navigate("/")} />
                     </div>
+                    <div className="navbar-steps-download">
+                        <img src="/save.png" onClick={saveToProfile} alt="Descargar" className="descarga" />
+                    </div>
                     <ul className="navbar-steps-menu"></ul>
                 </div>
                 {
@@ -125,17 +128,6 @@ function Steps() {
                         </div>
                     )) : null
                 }
-                {/* Bloque de Resumen */}
-                {jobs.length > 0 && (
-                    <div
-                        className="block init"
-                        data-block-section={jobs.length + 1}
-                        data-href="summary"
-                    >
-                        <div className="block__title">Resumen</div>
-                        <div className="block__number">{jobs.length + 1}</div>
-                    </div>
-                )}
             </div>
     
             <main data-scroll-container ref={scrollContainerRef}>
@@ -165,13 +157,6 @@ function Steps() {
                                             </ul>
                                         </div>
                                     )} <br></br>
-                                    {
-                                        index === jobs.length - 1 ? (
-                                            <button onClick={saveToProfile} className="register-button">
-                                                Guardar en mi perfil 
-                                            </button>
-                                        ) : null
-                                    }
                                     {
                                         job.jobs_list && (
                                             <>
@@ -223,23 +208,6 @@ function Steps() {
                             </section>
                         )) : null
                     }
-                    <section
-                        className="section resumen"
-                        data-block-section={jobs.length + 1}
-                        id="summary"
-                    >
-                        <div className="main-section-container">
-                            <h2>Resumen de Trabajos</h2>
-                            <ul>
-                                {jobs.map((job, index) => (
-                                    <li key={index}>
-                                        <h3>{job.title}</h3>
-                                        <p>{job.description}</p>
-                                    </li>
-                                ))}
-                            </ul>
-                        </div>
-                    </section>
                 </div>
             </main>
         </>

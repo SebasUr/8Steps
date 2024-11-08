@@ -1,673 +1,557 @@
 [
     {
         "about_work": false,
-        "title": "Desarrollar habilidades fundamentales",
-        "description": "Antes de ingresar al mercado laboral, es esencial desarrollar habilidades fundamentales en programaci\u00f3n, como una s\u00f3lida comprensi\u00f3n de algoritmos, estructuras de datos y dise\u00f1o de patrones. Esto te permitir\u00e1 tener una base s\u00f3lida para enfrentar desaf\u00edos futuros. Aprovecha este tiempo para practicar mediante proyectos personales o katas de programaci\u00f3n. Tambi\u00e9n es recomendable leer libros y art\u00edculos sobre desarrollo de software y aprender de los errores de otros.",
+        "title": "Conocer el sector alimentario",
+        "description": "Es importante tener una visi\u00f3n general del sector alimentario, conocimientos b\u00e1sicos sobre la industria, los productos y los procesos involucrados. Esto te permitir\u00e1 entender mejor las oportunidades y desaf\u00edos que se presentan en este campo. Puedes leer libros, art\u00edculos y noticias sobre el sector, as\u00ed como participar en eventos y ferias relacionadas con la alimentaci\u00f3n.",
         "courses": [
-            "Algoritmos y estructuras de datos",
-            "Dise\u00f1o de patrones"
+            "Introducci\u00f3n al sector alimentario",
+            "Tecnolog\u00edas de procesamiento de alimentos"
         ],
         "courses_list": [
             {
-                "title": "Algoritmos, Estructuras de Datos y Entrevistas Programaci\u00f3n",
-                "description": "+50 ejercicios de entrevistas programaci\u00f3n. Big O, algoritmos y estructuras de datos. L\u00f3gica programaci\u00f3n. Mejora tu CV.",
-                "link": "https://www.udemy.com/course/algoritmos-estructuras-de-datos-y-entrevistas-programacion/"
+                "title": "Introducci\u00f3n al mundo de la Cerveza",
+                "description": "Tu puerta de entrada al apasionante universo de la Cerveza",
+                "link": "https://www.udemy.com/course/introduccion-al-mundo-de-la-cerveza/"
             },
             {
-                "title": "Patrones de dise\u00f1o de software y principios SOLID.",
-                "description": "Descubre los design patterns y los principios SOLID que te permitir\u00e1n construir aplicaciones m\u00e1s profesionales en Java.",
-                "link": "https://www.udemy.com/course/patrones-de-diseno-y-principios-solid/"
+                "title": "Tecnolog\u00edas de ciberseguridad",
+                "description": "Dise\u00f1o de arquitectura de ciberseguridad.",
+                "link": "https://www.udemy.com/course/tecnologias-de-ciberseguridad/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Desarrollador junior de software",
-        "position-title": "Junior Software Developer",
-        "description": "Este es tu primer paso en el mundo laboral. Como desarrollador junior de software, trabajar\u00e1s en equipo para desarrollar aplicaciones y sistemas software. Aprender\u00e1s a trabajar con diferentes tecnolog\u00edas y frameworks, y a interactuar con otros desarrolladores y stakeholders. Aprovecha este tiempo para aprender de tus colegas y mentores, y para desarrollar tus habilidades blandas.",
+        "title": "Asistente de laboratorio",
+        "position-title": "Laboratory Assistant",
+        "description": "Este puesto te permitir\u00e1 obtener experiencia pr\u00e1ctica en un laboratorio de alimentos, donde podr\u00e1s aprender sobre los procedimientos de an\u00e1lisis y control de calidad. Debes estar dispuesto a aprender y a trabajar bajo la supervisi\u00f3n de profesionales experimentados. Es importante desarrollar habilidades como la atenci\u00f3n al detalle y la capacidad de seguir protocolos.",
+        "duration": "6-12 meses",
+        "requirements": [
+            "Experiencia en un laboratorio",
+            "Conocimientos b\u00e1sicos de qu\u00edmica y biolog\u00eda"
+        ],
+        "abilities": [
+            "Atenci\u00f3n al detalle",
+            "Capacidad de seguimiento de protocolos"
+        ],
+        "courses": [
+            "An\u00e1lisis de alimentos",
+            "Seguridad en el laboratorio"
+        ],
+        "jobs_list": [
+            {
+                "title": "Auxiliar laboratorio de tintas, tintoreria, te\u00f1ido o colorimetrista",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-laboratorio-de-tintas-te-ido-colorimetrista-o-laboratorista-en-tintoreria-c63b8625-435b-42eb-86f4-c1154016ffce?utm_campaign=complementos-humanos&utm_medium=referral",
+                "city": "Itagui"
+            },
+            {
+                "title": "Auxiliar laboratorio de tintas, tintoreria, te\u00f1ido o colorimetrista",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-laboratorio-de-tintas-te-ido-colorimetrista-o-laboratorista-en-tintoreria-c63b8625-435b-42eb-86f4-c1154016ffce?utm_campaign=complementos-humanos&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Auxiliar de laboratorio 4h",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-4h-ebdb69ea-1f76-4af8-b466-7a6545e3e7ae?utm_campaign=viva1a&utm_medium=referral",
+                "city": "Zipaquir\u00e1"
+            },
+            {
+                "title": "Auxiliar de laboratorio 4h Las Americas",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-a3536427-7509-4d82-885b-3af3a1c2ec3d?utm_campaign=viva1a&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Auxiliar de laboratorio 6h Iberia",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-6h-f3b81da9-2208-4073-8a95-5e4968704f93?utm_campaign=viva1a&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Auxiliar de laboratorio 6h AV Dorado",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-6h-84d84050-2d50-4c8a-8a47-6506d6daf486?utm_campaign=viva1a&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "Auxiliar de laboratorio 6H",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-0479c3bd-c427-4c56-852e-478e84b5dac9?utm_campaign=viva1a&utm_medium=referral",
+                "city": "Zipaquir\u00e1"
+            },
+            {
+                "title": "Auxiliar de laboratorio/6 horas/Suba  ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-93435479-af51-4e76-b1a9-e65fd8818736?utm_campaign=viva1a&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Auxiliar de laboratorio",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-c4f560d8-967b-4174-96bb-093fa15f3c75?utm_campaign=viva1a&utm_medium=referral",
+                "city": "Bello"
+            },
+            {
+                "title": "Auxiliar de laboratorio - DAVITA Bogot\u00e1",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-davita-bogot-0e6210fb-b4ff-4dde-99dd-c0a519a30813?utm_campaign=viva1a&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Auxiliar de laboratorio -Oriente ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-a588f690-ac77-42fb-b253-86f5c6389014?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "La Ceja"
+            },
+            {
+                "title": "Auxiliar de laboratorio -Oriente ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-a588f690-ac77-42fb-b253-86f5c6389014?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Retiro"
+            },
+            {
+                "title": "Auxiliar de laboratorio 4HR",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-4hr-2f2c7ae3-15c4-482a-80ca-31fcceebd0ce?utm_campaign=viva1a&utm_medium=referral",
+                "city": "Medell\u00edn"
+            },
+            {
+                "title": "Auxiliar De Laboratorio - 4hr",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-4hr-d11046af-fd55-42ad-b049-f5c11d84c239?utm_campaign=viva1a&utm_medium=referral",
+                "city": "Manizales"
+            },
+            {
+                "title": "Auxiliar de laboratorio",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-d50bd3e2-283f-4bcc-93e5-c826485dc83e?utm_campaign=viva1a&utm_medium=referral",
+                "city": "Otra (Valle del Cauca)"
+            },
+            {
+                "title": "Auxiliar de laboratorio - 8HR",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-8hr-ee13bbc7-a28e-4dde-b087-7268d3564ee1?utm_campaign=viva1a&utm_medium=referral",
+                "city": "Villavicencio"
+            },
+            {
+                "title": "Auxiliar de laboratorio - 4hr",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-4hr-f44d8620-c05e-4cc9-8ec5-305ad378587f?utm_campaign=viva1a&utm_medium=referral",
+                "city": "Otra (Bogot\u00e1 D.C.)"
+            },
+            {
+                "title": "Auxiliar de laboratorio - Monteria ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-28f3a338-a5dc-4566-899c-31e91c99216c?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Monter\u00eda"
+            },
+            {
+                "title": "Auxiliar de Laboratorio con moto - jornada de 6 horas ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-con-moto-bogota-d2b55d14-48a3-48d5-b8d3-e4c9c62dbc2c?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            },
+            {
+                "title": "Auxiliar De Laboratorio - Davita Bogot\u00e1",
+                "redirect_url": "https://www.magneto365.com/co/empleos/auxiliar-de-laboratorio-davita-bogot-0c3efcc9-8dd6-4c1e-89ac-4155387cb841?utm_campaign=viva1a&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
+            }
+        ],
+        "courses_list": [
+            {
+                "title": "An\u00e1lisis sensorial para industria de alimentos",
+                "description": "An\u00e1lisis sensorial de alimentos",
+                "link": "https://www.udemy.com/course/analisis-sensorial/"
+            },
+            {
+                "title": "PSST Programa de Seguridad y Salud en el Trabajo",
+                "description": "Implementar un Programa de Seguridad y Salud en el Trabajo para empresas en base a la  ISO 45001:2018 SGSST",
+                "link": "https://www.udemy.com/course/psst-programa-de-seguridad-y-salud-en-el-trabajo/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "T\u00e9cnico de calidad",
+        "position-title": "Quality Technician",
+        "description": "En este puesto, ser\u00e1s responsable de garantizar la calidad de los productos alimenticios, realizando pruebas y an\u00e1lisis para detectar posibles defectos. Debes tener habilidades en resoluci\u00f3n de problemas y trabajar bien bajo presi\u00f3n. Es importante desarrollar habilidades como la comunicaci\u00f3n efectiva y la toma de decisiones.",
         "duration": "1-2 a\u00f1os",
         "requirements": [
-            "Conocimientos en programaci\u00f3n",
-            "Experiencia con frameworks y tecnolog\u00edas espec\u00edficas"
+            "Experiencia en control de calidad",
+            "Conocimientos de normas y regulaciones alimentarias"
         ],
         "abilities": [
+            "Resoluci\u00f3n de problemas",
             "Comunicaci\u00f3n efectiva",
-            "Trabajo en equipo",
-            "Aprendizaje r\u00e1pido"
+            "Toma de decisiones"
         ],
         "courses": [
-            "Desarrollo web con React",
-            "Introducci\u00f3n a Agile"
+            "Control de calidad en la industria alimentaria",
+            "Regulaciones alimentarias"
         ],
         "jobs_list": [
             {
-                "category": {
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs"
-                },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyOTQ3MzY3MyIsInMiOiJWaUp6OFdhZDd4R2hGLUpNTlpfU29RIn0.NU41um3tfQy5zopCaCp4P6EuAd053lRWy-OLGUAn_CM",
-                "salary_min": 83037.16,
-                "created": "2024-11-07T02:47:15Z",
-                "salary_max": 83037.16,
-                "latitude": 42.363596,
-                "redirect_url": "https://www.adzuna.com/details/4929473673?utm_medium=api&utm_source=a60688b4",
-                "longitude": -71.085206,
-                "id": "4929473673",
-                "salary_is_predicted": "1",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Knovva Academy"
-                },
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "Massachusetts",
-                        "Middlesex County",
-                        "Kendall Square"
-                    ],
-                    "display_name": "Kendall Square, Middlesex County"
-                },
-                "description": "Description: About Us: At Epipelagic Ventures, our mission is to foster a vibrant environment that propels ambitious startups forward. We believe that a three-month accelerator is just the beginning. That's why, as a venture studio, we provide the capital, collaboration, and long-term commitment necessary to guide seed-funded startups from inception to their next stage of growth. Job Description: We are seeking a highly motivated and skilled Junior Software Developer to join our IT team. In thi\u2026",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "title": "Junior Software Developer"
-            },
-            {
-                "latitude": 41.303647,
-                "salary_max": 68355.73,
-                "created": "2024-11-07T17:12:59Z",
-                "salary_min": 68355.73,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkzMDUyMDYzMyIsInMiOiJWaUp6OFdhZDd4R2hGLUpNTlpfU29RIn0.fRZJJAmGA-eV05FzVXh6O0Vsmum57eJh_hxm8Iu37dQ",
-                "category": {
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs"
-                },
-                "title": "Junior Software Developer",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "location": {
-                    "display_name": "Cambridge, Henry County",
-                    "area": [
-                        "US",
-                        "Illinois",
-                        "Henry County",
-                        "Cambridge"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "description": "Job Description Job Description Description: About Us: At Epipelagic Ventures, our mission is to foster a vibrant environment that propels ambitious startups forward. We believe that a three-month accelerator is just the beginning. That's why, as a venture studio, we provide the capital, collaboration, and long-term commitment necessary to guide seed-funded startups from inception to their next stage of growth. Job Description: We are seeking a highly motivated and skilled Junior Software Devel\u2026",
-                "salary_is_predicted": "1",
-                "company": {
-                    "display_name": "Knovva Academy",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "id": "4930520633",
-                "redirect_url": "https://www.adzuna.com/land/ad/4930520633?se=ViJz8Wad7xGhF-JMNZ_SoQ&utm_medium=api&utm_source=a60688b4&v=975422B12C8393D5343908728B5FE1BB466CF769",
-                "longitude": -90.192897
+                "title": "Asesor de Soporte T\u00e9cnico Medio Tiempo ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/asesor-de-soporte-t-cnico-medio-tiempo-457efd1a-f353-4c16-9889-60e74c27302b?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Bogot\u00e1, D.C."
             }
         ],
         "courses_list": [
             {
-                "title": "Master en React: Aprender ReactJS, Hooks, MERN, NodeJS, JWT+",
-                "description": "Aprende React JS con Hooks desde cero y desarrolla aplicaciones web con el MERN Stack (Portafolio, Blog y Red Social)",
-                "link": "https://www.udemy.com/course/master-en-react-aprender-reactjs-hooks-mern-nodejs-jwt/"
+                "title": "Control de Plagas en la Industria de Alimentos",
+                "description": "Gesti\u00f3n y manejo integral de plagas",
+                "link": "https://www.udemy.com/course/controldeplagas/"
             },
             {
-                "title": "Scrum Master y Product Owner Certificaci\u00f3n. Temario completo",
-                "description": "Todo para Certificarte de Manera Exitosa en cualquiera de las principales Certificadoras Internacionales de Scrum",
-                "link": "https://www.udemy.com/course/certificate-scrum-master-y-product-owner-ano-2021/"
+                "title": "Coaching Nutricional + Nutrici\u00f3n Diet\u00e9tica Dietas EM007",
+                "description": "Nutricion Vegetarianas Veganas y Carn\u00edvoras y Detox y Endomorfos y Dietas Deportivas y Al\u00e9rgenos y Hol\u00edstica e Infantil",
+                "link": "https://www.udemy.com/course/master-coaching-nutricional-nutricion-dietetica-dietas-e07/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Desarrollador de software",
-        "position-title": "Software Developer",
-        "description": "En este papel, tendr\u00e1s m\u00e1s responsabilidades y autonom\u00eda. Debes ser capaz de desarrollar caracter\u00edsticas y sistemas software de alta calidad, y asegurarte de que se ajusten a los est\u00e1ndares de la empresa. Aprender\u00e1s a trabajar de manera independiente y a tomar decisiones t\u00e9cnicas informadas.",
+        "title": "Ingeniero de procesos",
+        "position-title": "Process Engineer",
+        "description": "En este puesto, ser\u00e1s responsable de dise\u00f1ar y optimizar los procesos de producci\u00f3n de alimentos, garantizando la eficiencia y la calidad. Debes tener habilidades en an\u00e1lisis de datos y modelado de procesos. Es importante desarrollar habilidades como la colaboraci\u00f3n y la liderazgo.",
         "duration": "2-3 a\u00f1os",
         "requirements": [
-            "Experiencia como desarrollador junior de software",
-            "Conocimientos en dise\u00f1o de patrones y arquitectura de software"
+            "Experiencia en dise\u00f1o de procesos",
+            "Conocimientos de programaci\u00f3n y simulaci\u00f3n"
         ],
         "abilities": [
-            "An\u00e1lisis de problemas",
-            "Tomar decisiones informadas",
-            "Trabajo bajo presi\u00f3n"
+            "An\u00e1lisis de datos",
+            "Modelado de procesos",
+            "Colaboraci\u00f3n",
+            "Liderazgo"
         ],
         "courses": [
-            "Dise\u00f1o de patrones avanzados",
-            "Arquitectura de software"
+            "Dise\u00f1o de procesos",
+            "Simulaci\u00f3n de procesos",
+            "Liderazgo y colaboraci\u00f3n"
         ],
         "jobs_list": [
             {
-                "title": "APRENDIZ DE ANALISIS Y DESARROLLADOR DE SOFTWARE - ACPA - 232241",
-                "redirect_url": "https://www.magneto365.com/co/empleos/aprendiz-de-analisis-y-desarrollador-de-software-acpa-232241-8bed739b-6a08-4ff1-bb8b-55732c7e6562?utm_campaign=jobs-nutresa&utm_medium=referral",
-                "city": "Barranquilla"
-            },
-            {
-                "title": "Desarrollador de aplicaciones TI",
-                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-de-aplicaciones-ti-5a87138e-6936-441f-b62d-3bbe3f596015?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "Medell\u00edn"
-            },
-            {
-                "title": "Desarrollador de software",
-                "redirect_url": "https://www.magneto365.com/co/empleos/desarrollador-de-software-7a04d6e8-9ab5-4db5-80dd-3bbe88805e82?utm_campaign=magneto-pymes&utm_medium=referral",
-                "city": "Medell\u00edn"
+                "title": "Pasante ingeniero de procesos",
+                "redirect_url": "https://www.magneto365.com/co/empleos/pasante-ingeniero-de-procesos-1f28c24c-9c54-4636-805b-1e4442170eb7?utm_campaign=organizaciones-carvajal&utm_medium=referral",
+                "city": "Ciudad Arce"
             }
         ],
         "courses_list": [
             {
-                "title": "Patrones de Dise\u00f1o en JavaScript y TypeScript",
-                "description": "Aprende a implementar patrones de dise\u00f1o con JavaScript y Typescript, as\u00ed como a utilizarlos en casos reales",
-                "link": "https://www.udemy.com/course/patrones-de-diseno-en-javascript-y-typescript/"
+                "title": "Gesti\u00f3n de Procesos de Negocio (BPM): un enfoque pr\u00e1ctico",
+                "description": "Identificaci\u00f3n, documentaci\u00f3n, an\u00e1lisis, mejora y seguimiento de procesos",
+                "link": "https://www.udemy.com/course/gestion-de-procesos-de-negocio-bpm-un-enfoque-practico/"
             },
             {
-                "title": "Ingenier\u00eda de Software y Arquitectura de Software",
-                "description": "Aprende Sobre Ingenier\u00eda de Software, Ingenier\u00eda de requisitos, Arquitectura de Software , Software Testing y mas!",
-                "link": "https://www.udemy.com/course/ingenieria-de-software-y-principios-de-arquitectura/"
+                "title": "Analista de simulaci\u00f3n de procesos con Bizagi",
+                "description": "Aprende a simular procesos de negocio que maximicen los beneficios de tu organizaci\u00f3n",
+                "link": "https://www.udemy.com/course/analista-de-simulacion-de-procesos-con-bizagi/"
+            },
+            {
+                "title": "Resoluci\u00f3n de Conflictos y Liderazgo",
+                "description": "Aprende a prevenir, enfrentar, negociar y convertir los conflictos en oportunidades de crecimiento y colaboraci\u00f3n.",
+                "link": "https://www.udemy.com/course/conflictos/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "L\u00edder de equipo de desarrollo de software",
-        "position-title": "Software Development Team Lead",
-        "description": "En este papel, ser\u00e1s responsable de liderar un equipo de desarrolladores de software. Debes ser capaz de planificar y gestionar proyectos, y asegurarte de que el equipo est\u00e9 trabajando de manera efectiva. Aprender\u00e1s a delegar tareas, a resolver conflictos y a tomar decisiones t\u00e9cnicas y de negocio.",
-        "duration": "3-4 a\u00f1os",
+        "title": "Supervisor de producci\u00f3n",
+        "position-title": "Production Supervisor",
+        "description": "En este puesto, ser\u00e1s responsable de supervisar la producci\u00f3n de alimentos, garantizando la calidad y la eficiencia. Debes tener habilidades en gesti\u00f3n de personal y resoluci\u00f3n de problemas. Es importante desarrollar habilidades como la comunicaci\u00f3n efectiva y la toma de decisiones.",
+        "duration": "2-3 a\u00f1os",
         "requirements": [
-            "Experiencia como desarrollador de software",
-            "Habilidades de liderazgo y comunicaci\u00f3n"
+            "Experiencia en producci\u00f3n",
+            "Conocimientos de gesti\u00f3n de personal"
         ],
         "abilities": [
-            "Liderazgo",
+            "Gesti\u00f3n de personal",
+            "Resoluci\u00f3n de problemas",
             "Comunicaci\u00f3n efectiva",
-            "Resoluci\u00f3n de conflictos"
+            "Toma de decisiones"
         ],
         "courses": [
-            "Liderazgo y gesti\u00f3n de equipos",
-            "Gesti\u00f3n de proyectos Agile"
+            "Gesti\u00f3n de producci\u00f3n",
+            "Desarrollo de habilidades de liderazgo"
         ],
         "jobs_list": [
             {
-                "description": "Please note this position requires the applicant to come into into our Vancouver, WA office one day per week. Position Description: The Software Developer Team Lead oversees the development team in all aspects of the software development life cycle, including design, development, coding, testing, and debugging, to deliver high-quality solutions. The Software Developer Team Lead is a problem solver, able to remove roadblocks, and operates in a team environment building comprehensive solutions an\u2026",
-                "latitude": 45.643289,
-                "salary_max": 90000,
-                "id": "4576894485",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDU3Njg5NDQ4NSIsInMiOiJ2SENXOW1hZDd4RzVFeGZudXBYaHN3In0.oHeqlvBcuOT12-aq0pLdAToMTPV59tW2cImwvOOx69U",
-                "longitude": -122.623848,
-                "category": {
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs"
-                },
-                "title": "Software Developer Team Lead",
-                "salary_min": 85000,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "location": {
-                    "display_name": "Salmon Creek, Clark County",
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "Washington",
-                        "Clark County",
-                        "Salmon Creek"
-                    ]
-                },
-                "salary_is_predicted": "0",
-                "created": "2024-02-21T09:44:25Z",
-                "redirect_url": "https://www.adzuna.com/details/4576894485?utm_medium=api&utm_source=a60688b4",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Infinity Solar USA"
-                }
+                "title": "Supervisor de producci\u00f3n Textil",
+                "redirect_url": "https://www.magneto365.com/co/empleos/supervisor-de-producci-n-textil-3a17ef81-9195-4093-9d80-a7c2ac42bbaf?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Cali"
             },
             {
-                "location": {
-                    "area": [
-                        "US",
-                        "Ohio",
-                        "Cuyahoga County",
-                        "Strongsville"
-                    ],
-                    "display_name": "Strongsville, Cuyahoga County",
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Union Home Mortgage"
-                },
-                "created": "2024-10-19T06:16:25Z",
-                "id": "4907340588",
-                "description": "Job Details Strongsville OH - Strongsville, OH Full Time Description The Software Development Team Lead directly manages a team of software developers and front-end specialists and is responsible for the coordination of development assets in completing known work, identifying, and repairing bugs, providing technical feedback, and supporting business partners and IT teams. The Software Development Team Lead works closely with peer Team Leads and IT Leadership to ensure project expectations are k\u2026",
-                "latitude": 41.31288,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidkhDVzltYWQ3eEc1RXhmbnVwWGhzdyIsImkiOiI0OTA3MzQwNTg4In0.sZ87Ncg_9Nd0vpLv2djNxAmiT6x900L-7UC5aqHd5lg",
-                "longitude": -81.83472,
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "salary_is_predicted": "1",
-                "contract_time": "full_time",
-                "redirect_url": "https://www.adzuna.com/details/4907340588?utm_medium=api&utm_source=a60688b4",
-                "salary_max": 95170.98,
-                "title": "Software Development Team Lead",
-                "salary_min": 95170.98,
-                "category": {
-                    "label": "IT Jobs",
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                }
+                "title": "Supervisor Produccion Textil",
+                "redirect_url": "https://www.magneto365.com/co/empleos/supervisor-produccion-textil-436c92a3-13f6-4143-b5cc-3a7f852d6836?utm_campaign=manufacturas-eliot-pash&utm_medium=referral",
+                "city": "Cota"
+            },
+            {
+                "title": "Supervisor Produccion Textil",
+                "redirect_url": "https://www.magneto365.com/co/empleos/supervisor-produccion-textil-436c92a3-13f6-4143-b5cc-3a7f852d6836?utm_campaign=manufacturas-eliot-pash&utm_medium=referral",
+                "city": "Funza"
+            },
+            {
+                "title": "Supervisor de Producci\u00f3n",
+                "redirect_url": "https://www.magneto365.com/co/empleos/supervisor-de-producci-n-9c6c5fd8-2575-4ae2-8611-24e51f698a49?utm_campaign=magneto-pymes&utm_medium=referral",
+                "city": "Yotoco"
+            },
+            {
+                "title": "Supervisor de Producci\u00f3n ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/supervisor-de-producci-n-7933508d-0ca8-4261-8b21-28ff68e12f23?utm_campaign=magneto&utm_medium=referral",
+                "city": "La Estrella"
+            },
+            {
+                "title": "Supervisor de Producci\u00f3n -Soacha Cundinamarca",
+                "redirect_url": "https://www.magneto365.com/co/empleos/supervisor-de-producci-n-soacha-cundinamarca-4f7580e4-19f2-4a30-aa29-d7d9ddb75d82?utm_campaign=magneto&utm_medium=referral",
+                "city": "Soacha"
+            },
+            {
+                "title": "Supervisor de Producci\u00f3n de alimentos ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/supervisor-de-producci-n-de-alimentos-b4232b3d-9174-4cd0-8f1f-b8b3b746305b?utm_campaign=4-investment&utm_medium=referral",
+                "city": "Yumbo"
+            },
+            {
+                "title": "Supervisor de Producci\u00f3n de alimentos ",
+                "redirect_url": "https://www.magneto365.com/co/empleos/supervisor-de-producci-n-de-alimentos-b4232b3d-9174-4cd0-8f1f-b8b3b746305b?utm_campaign=4-investment&utm_medium=referral",
+                "city": "Cali"
             }
         ],
         "courses_list": [
-            {
-                "title": "Liderazgo y Gesti\u00f3n de equipos | Certificaci\u00f3n",
-                "description": "Aprend\u00e9 a gestionar y liderar tu equipo de trabajo. (Incluye trabajo remoto e h\u00edbrido)",
-                "link": "https://www.udemy.com/course/liderazgo-y-gestion-de-equipos-certificacion-2018/"
-            },
             {
                 "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
                 "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
                 "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
+            },
+            {
+                "title": "Desarrollando Habilidades de Liderazgo",
+                "description": "De Experto T\u00e9cnico a L\u00edder: Estrategias para una Transici\u00f3n",
+                "link": "https://www.udemy.com/course/de-experto-tecnico-a-lider-estrategias-para-una-transicion/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Arquitecto de software",
-        "position-title": "Software Architect",
-        "description": "En este papel, ser\u00e1s responsable de dise\u00f1ar y planificar la arquitectura de los sistemas software. Debes ser capaz de tomar decisiones t\u00e9cnicas informadas y asegurarte de que la arquitectura sea escalable y segura. Aprender\u00e1s a trabajar con stakeholders para entender los requisitos del negocio y a dise\u00f1ar soluciones que se ajusten a ellos.",
-        "duration": "4-5 a\u00f1os",
+        "title": "Especialista en seguridad alimentaria",
+        "position-title": "Food Safety Specialist",
+        "description": "En este puesto, ser\u00e1s responsable de garantizar la seguridad alimentaria en la producci\u00f3n y distribuci\u00f3n de alimentos, realizando evaluaciones de riesgos y desarrollando planes de acci\u00f3n. Debes tener habilidades en an\u00e1lisis de riesgos y desarrollo de pol\u00edticas. Es importante desarrollar habilidades como la comunicaci\u00f3n efectiva y la toma de decisiones.",
+        "duration": "2-3 a\u00f1os",
         "requirements": [
-            "Experiencia como l\u00edder de equipo de desarrollo de software",
-            "Conocimientos en arquitectura de software y dise\u00f1o de patrones"
+            "Experiencia en seguridad alimentaria",
+            "Conocimientos de normas y regulaciones alimentarias"
         ],
         "abilities": [
-            "An\u00e1lisis de problemas",
-            "Tomar decisiones informadas",
-            "Comunicaci\u00f3n efectiva"
+            "An\u00e1lisis de riesgos",
+            "Desarrollo de pol\u00edticas",
+            "Comunicaci\u00f3n efectiva",
+            "Toma de decisiones"
         ],
         "courses": [
-            "Arquitectura de software avanzada",
-            "Dise\u00f1o de patrones y principios"
+            "Seguridad alimentaria",
+            "An\u00e1lisis de riesgos",
+            "Desarrollo de pol\u00edticas"
         ],
         "jobs_list": [
             {
-                "title": "Software Architect",
+                "description": "Job Description Job Description Job Title: Food Safety & Quality Specialist Location: Woodland, CA Hours: Full-time, onsite Salary Range: $80,000 - $85,000 Summary: We are seeking a dedicated Food Safety & Quality Specialist to manage Quality Management Systems (QMS) . This role ensures all food safety and quality standards are met while promoting a culture of continuous improvement. This hands-on role requires close collaboration with team members, consistent QMS updates, and a proactive appro\u2026",
+                "latitude": 38.683499,
+                "id": "4928381775",
+                "salary_max": 58916.26,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyODM4MTc3NSIsInMiOiJKT0NQc1ktZDd4RzVFeGZudXBYaHN3In0.ipvUd09zgPfo0D3lSULf0WnLCrbo6uc4eNh8v4x0n14",
+                "longitude": -121.856576,
+                "category": {
+                    "label": "Hospitality & Catering Jobs",
+                    "tag": "hospitality-catering-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "title": "Food Safety & Quality Specialist",
+                "salary_min": 58916.26,
+                "__CLASS__": "Adzuna::API::Response::Job",
                 "location": {
                     "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Yolo County, California",
                     "area": [
                         "US",
-                        "Florida",
+                        "California",
+                        "Yolo County"
+                    ]
+                },
+                "salary_is_predicted": "1",
+                "created": "2024-11-06T10:25:07Z",
+                "redirect_url": "https://www.adzuna.com/land/ad/4928381775?se=JOCPsY-d7xG5ExfnupXhsw&utm_medium=api&utm_source=a60688b4&v=89EF3D3736FCFDF89A0FFF7808DD6E931CF57611",
+                "company": {
+                    "display_name": "Nelson Connects",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                }
+            },
+            {
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "scientific-qa-jobs",
+                    "label": "Scientific & QA Jobs"
+                },
+                "salary_min": 52370.23,
+                "title": "Food Safety Compliance Specialist",
+                "longitude": -117.895606,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyMzU1MzE5MyIsInMiOiJKT0NQc1ktZDd4RzVFeGZudXBYaHN3In0.8xHqVITRAMfHteWY9wlg_DXb3tCSBnrYiSG3uUKFopU",
+                "id": "4923553193",
+                "salary_max": 52370.23,
+                "latitude": 33.881922,
+                "description": "Job Description Job Description Company Overview Pulmuone\u2019s mission is a company that creates a healthy future for people and the earth with wholesome foods. Pulmuone Foods USA brands include Nasoya, Wildwood, Emerald Valley Kitchen, Monterey Gourmet Foods, and Cibo Naturals. Pulmuone\u2019s family of brands provide our consumers a wide variety of delicious products that are inspired by contemporary flavor palates and encourage a healthy and sustainable lifestyle. Visit www.pulmuonefoodsusa.com to l\u2026",
+                "company": {
+                    "display_name": "Pulmuone Foods USA Inc.",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "redirect_url": "https://www.adzuna.com/land/ad/4923553193?se=JOCPsY-d7xG5ExfnupXhsw&utm_medium=api&utm_source=a60688b4&v=590C638F8FF4E83391B538B2DED8B023283F5A1F",
+                "created": "2024-11-02T13:45:45Z",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Fullerton, Orange County",
+                    "area": [
+                        "US",
+                        "California",
                         "Orange County",
-                        "Orlando"
-                    ],
-                    "display_name": "Orlando, Orange County"
-                },
-                "description": "Our client is seeking a Software Architect in Orlando, FL. The Software Architect will play a critical role in designing and developing high-quality, scalable software solutions aligned with business goals. As a technical leader, you will guide the development team through the software development lifecycle, from concept and design to deployment and maintenance. You will be responsible for ensuring that all architectural solutions meet both technical and business requirements and adhere to best\u2026",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "id": "4928951156",
-                "salary_is_predicted": "1",
-                "company": {
-                    "display_name": "Kavaliro",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "longitude": -81.375686,
-                "redirect_url": "https://www.adzuna.com/land/ad/4928951156?se=ylJE-Wad7xGhF-JMNZ_SoQ&utm_medium=api&utm_source=a60688b4&v=A7107C51BFEA1E8E30BDC5171078ACB1A5CE23A0",
-                "latitude": 28.541666,
-                "created": "2024-11-06T15:32:05Z",
-                "salary_max": 115420.88,
-                "category": {
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs"
-                },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyODk1MTE1NiIsInMiOiJ5bEpFLVdhZDd4R2hGLUpNTlpfU29RIn0.TaQJIopOjE-Sb3ecBHFKRiccelea8D7sMSvCvF6SusQ",
-                "salary_min": 115420.88
-            },
-            {
-                "description": "Job Title: MuleSoft Architect /MuleSoft Developer Location: Location : Atlanta GA/Chicago IL Roles & Responsibilities Overall 10 years of overall exp with Minimum 5 years of experience working as Mule Architect 3 years of Design and Development experience with Mule 4.x Must have development experience implementing flows using Oracle, Hadoop, SQL, Kafka, .NET connectors etc. Must have experience in secure API development Understanding of MuleSoft Development best practices with respect to using \u2026",
-                "location": {
-                    "display_name": "Atlanta, Fulton County",
-                    "area": [
-                        "US",
-                        "Georgia",
-                        "Fulton County",
-                        "Atlanta"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "title": "Software Architect",
-                "redirect_url": "https://www.adzuna.com/land/ad/4908716341?se=ylJE-Wad7xGhF-JMNZ_SoQ&utm_medium=api&utm_source=a60688b4&v=CC53F6F386C5D63E3C5C47D96366DFE8CDAD61F2",
-                "longitude": -84.388372,
-                "id": "4908716341",
-                "salary_is_predicted": "1",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Tata Consultancy Services"
-                },
-                "salary_max": 110545.14,
-                "created": "2024-10-21T05:22:54Z",
-                "latitude": 33.755711,
-                "category": {
-                    "tag": "it-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "IT Jobs"
-                },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieWxKRS1XYWQ3eEdoRi1KTU5aX1NvUSIsImkiOiI0OTA4NzE2MzQxIn0.7sdxRtQbPO65vb40ZWzchNS8Pl7Ao9Da7U7g6MA3LUY",
-                "salary_min": 110545.14
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Ingenier\u00eda de Software y Arquitectura de Software",
-                "description": "Aprende Sobre Ingenier\u00eda de Software, Ingenier\u00eda de requisitos, Arquitectura de Software , Software Testing y mas!",
-                "link": "https://www.udemy.com/course/ingenieria-de-software-y-principios-de-arquitectura/"
-            },
-            {
-                "title": "Patrones de dise\u00f1o de software y principios SOLID.",
-                "description": "Descubre los design patterns y los principios SOLID que te permitir\u00e1n construir aplicaciones m\u00e1s profesionales en Java.",
-                "link": "https://www.udemy.com/course/patrones-de-diseno-y-principios-solid/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Ingeniero de software s\u00e9nior",
-        "position-title": "Senior Software Engineer",
-        "description": "En este papel, ser\u00e1s un experto en desarrollo de software y liderar\u00e1s proyectos y equipos. Debes ser capaz de dise\u00f1ar y desarrollar sistemas software complejos y de alta calidad. Aprender\u00e1s a trabajar con diferentes tecnolog\u00edas y frameworks, y a mentorar a otros desarrolladores.",
-        "duration": "5-6 a\u00f1os",
-        "requirements": [
-            "Experiencia como arquitecto de software",
-            "Conocimientos en m\u00faltiples tecnolog\u00edas y frameworks"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Mentor\u00eda",
-            "An\u00e1lisis de problemas"
-        ],
-        "courses": [
-            "Dise\u00f1o de patrones y principios avanzados",
-            "Gesti\u00f3n de proyectos Agile"
-        ],
-        "jobs_list": [
-            {
-                "salary_is_predicted": "1",
-                "category": {
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs"
-                },
-                "latitude": 38.74793,
-                "description": "Requires a Bachelor\u2019s degree in Software Engineering, or a related Science, Engineering or Mathematics field. Also requires 2 years of job-related experience or a Master's degree. Agile experience preferred. Need to have experience with C++ or Java. CLEARANCE REQUIREMENTS: Department of Defense Secret security clearance is required within a reasonable period of time. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access\u2026",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "General Dynamics Mission Systems"
-                },
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "created": "2024-09-04T11:00:13Z",
-                "salary_min": 184028.28,
-                "longitude": -77.47599,
-                "title": "Senior Software Engineer",
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiLU1NQl9HYWQ3eEdzZnNqbndJajJPdyIsImkiOiI0ODUxNjkyNDc0In0.W02HClDd5c6Iras-Thpkxa-aNVh9WTcExpWz8NOmxWE",
-                "redirect_url": "https://www.adzuna.com/land/ad/4851692474?se=-MMB_Gad7xGsfsjnwIj2Ow&utm_medium=api&utm_source=a60688b4&v=995BBA6E8212343A5FF40D620A94BA98387D6149",
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "area": [
-                        "US",
-                        "Virginia",
-                        "Prince William County",
-                        "Manassas"
-                    ],
-                    "display_name": "Manassas, Prince William County"
-                },
-                "id": "4851692474",
-                "salary_max": 184028.28
-            },
-            {
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkxNzY3NjYzMSIsInMiOiItTU1CX0dhZDd4R3Nmc2pud0lqMk93In0.GsXf9mWn8aUfAzOUfR69RFM6sW_YmHq8PFkuvpbPVuQ",
-                "title": "Senior Software Engineer",
-                "longitude": -111.918478,
-                "salary_max": 114890.67,
-                "id": "4917676631",
-                "redirect_url": "https://www.adzuna.com/land/ad/4917676631?se=-MMB_Gad7xGsfsjnwIj2Ow&utm_medium=api&utm_source=a60688b4&v=3812FD2B0A30F1F143DE5563D403C6B1493375C2",
-                "location": {
-                    "area": [
-                        "US",
-                        "Arizona",
-                        "Maricopa County",
-                        "Tempe"
-                    ],
-                    "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Tempe, Maricopa County"
-                },
-                "description": "Requires a Bachelor\u2019s degree in Software Engineering, or a related Science, Engineering or Mathematics field. Also requires 8 years of job-related experience, or a Master's degree plus 6 years of job-related experience. Agile experience preferred. CLEARANCE REQUIREMENTS: Ability to obtain Department of Defense Secret security clearance is required at time of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to\u2026",
-                "latitude": 33.468392,
-                "category": {
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "tag": "it-jobs"
+                        "Fullerton"
+                    ]
                 },
                 "salary_is_predicted": "1",
-                "salary_min": 114890.67,
-                "created": "2024-10-29T12:21:22Z",
-                "company": {
-                    "display_name": "General Dynamics Mission Systems",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
                 "__CLASS__": "Adzuna::API::Response::Job"
             }
         ],
         "courses_list": [
             {
-                "title": "Patrones de dise\u00f1o de software y principios SOLID.",
-                "description": "Descubre los design patterns y los principios SOLID que te permitir\u00e1n construir aplicaciones m\u00e1s profesionales en Java.",
-                "link": "https://www.udemy.com/course/patrones-de-diseno-y-principios-solid/"
+                "title": "Higiene y seguridad alimentaria: dise\u00f1a tu sistema APPCC",
+                "description": "Convi\u00e9rtete en un experto en higiene, seguridad alimentaria y APPCC/HACCP, para aplicarlo despu\u00e9s en tu lugar de trabajo",
+                "link": "https://www.udemy.com/course/higiene-y-seguridad-alimentaria-disena-tu-sistema-appcc/"
             },
             {
-                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
-                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
-                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
+                "title": "An\u00e1lisis de Riesgos",
+                "description": "Aprende como identificar peligros y evaluar su riesgo de forma practica paso a paso",
+                "link": "https://www.udemy.com/course/identificacion-de-peligros-evaluacion-del-riesgo/"
+            },
+            {
+                "title": "Pol\u00edticas P\u00fablicas de Seguridad",
+                "description": "Estrategias y t\u00e9cnicas para pol\u00edticas p\u00fablicas de seguridad",
+                "link": "https://www.udemy.com/course/politicas-publicas-de-seguridad/"
             }
         ]
     },
     {
         "about_work": true,
-        "title": "Ingeniero de software principal",
-        "position-title": "Principal Software Engineer",
-        "description": "En este papel, ser\u00e1s un experto en desarrollo de software y liderar\u00e1s proyectos y equipos a nivel de empresa. Debes ser capaz de dise\u00f1ar y desarrollar sistemas software complejos y de alta calidad, y de influir en la direcci\u00f3n t\u00e9cnica de la empresa. Aprender\u00e1s a trabajar con ejecutivos y stakeholders para entender los requisitos del negocio y a dise\u00f1ar soluciones que se ajusten a ellos.",
-        "duration": "6-7 a\u00f1os",
+        "title": "Ingeniero de alimentos junior",
+        "position-title": "Junior Food Engineer",
+        "description": "En este puesto, ser\u00e1s responsable de trabajar en equipo con ingenieros de alimentos para desarrollar y mejorar procesos y productos. Debes tener habilidades en dise\u00f1o de procesos y an\u00e1lisis de datos. Es importante desarrollar habilidades como la colaboraci\u00f3n y la comunicaci\u00f3n efectiva.",
+        "duration": "1-2 a\u00f1os",
         "requirements": [
-            "Experiencia como ingeniero de software s\u00e9nior",
-            "Conocimientos en m\u00faltiples tecnolog\u00edas y frameworks, liderazgo y comunicaci\u00f3n"
+            "Experiencia en dise\u00f1o de procesos",
+            "Conocimientos de programaci\u00f3n y simulaci\u00f3n"
         ],
         "abilities": [
-            "Liderazgo",
-            "Influencia",
+            "Dise\u00f1o de procesos",
+            "An\u00e1lisis de datos",
+            "Colaboraci\u00f3n",
             "Comunicaci\u00f3n efectiva"
         ],
         "courses": [
-            "Liderazgo y gesti\u00f3n de equipos avanzados",
-            "Gesti\u00f3n de cambio y innovaci\u00f3n"
+            "Dise\u00f1o de procesos",
+            "Simulaci\u00f3n de procesos",
+            "Colaboraci\u00f3n y comunicaci\u00f3n"
+        ],
+        "jobs_list": [],
+        "courses_list": [
+            {
+                "title": "Gesti\u00f3n de Procesos de Negocio (BPM): un enfoque pr\u00e1ctico",
+                "description": "Identificaci\u00f3n, documentaci\u00f3n, an\u00e1lisis, mejora y seguimiento de procesos",
+                "link": "https://www.udemy.com/course/gestion-de-procesos-de-negocio-bpm-un-enfoque-practico/"
+            },
+            {
+                "title": "Analista de simulaci\u00f3n de procesos con Bizagi",
+                "description": "Aprende a simular procesos de negocio que maximicen los beneficios de tu organizaci\u00f3n",
+                "link": "https://www.udemy.com/course/analista-de-simulacion-de-procesos-con-bizagi/"
+            },
+            {
+                "title": "Comunicaci\u00f3n y Liderazgo",
+                "description": "Mejora tus habilidades de comunicaci\u00f3n con esta metodolog\u00eda.",
+                "link": "https://www.udemy.com/course/liderazgo-comunicacion/"
+            }
+        ]
+    },
+    {
+        "about_work": true,
+        "title": "Ingeniero de alimentos senior",
+        "position-title": "Senior Food Engineer",
+        "description": "En este puesto, ser\u00e1s responsable de liderar equipos de ingenieros de alimentos para desarrollar y mejorar procesos y productos. Debes tener habilidades en liderazgo y gesti\u00f3n de proyectos. Es importante desarrollar habilidades como la comunicaci\u00f3n efectiva y la toma de decisiones.",
+        "duration": "2-5 a\u00f1os",
+        "requirements": [
+            "Experiencia en liderazgo",
+            "Conocimientos de gesti\u00f3n de proyectos"
+        ],
+        "abilities": [
+            "Liderazgo",
+            "Gesti\u00f3n de proyectos",
+            "Comunicaci\u00f3n efectiva",
+            "Toma de decisiones"
+        ],
+        "courses": [
+            "Liderazgo y gesti\u00f3n de proyectos",
+            "Desarrollo de habilidades de liderazgo"
         ],
         "jobs_list": [
             {
-                "latitude": 40.758931,
-                "created": "2024-09-09T08:04:48Z",
-                "salary_max": 210108.17,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmxHYl9tYWQ3eEdoRi1KTU5aX1NvUSIsImkiOiI0ODU3NzMzMzk5In0.zG4iZ93oCGvnkkNSos6jG3tDhzktm9D1ORgY6rsbumU",
-                "salary_min": 210108.17,
-                "category": {
-                    "tag": "engineering-jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category",
-                    "label": "Engineering Jobs"
-                },
-                "title": "Principal Software Engineer",
                 "__CLASS__": "Adzuna::API::Response::Job",
-                "description": "Disney Entertainment & ESPN Technology On any given day at Disney Entertainment & ESPN Technology, we\u2019re reimagining ways to create magical viewing experiences for the world\u2019s most beloved stories while also transforming Disney\u2019s media business for the future. Whether that\u2019s evolving our streaming and digital products in new and immersive ways, powering worldwide advertising and distribution to maximize flexibility and efficiency, or delivering Disney\u2019s unmatched entertainment and sports conten\u2026",
                 "location": {
-                    "area": [
-                        "US",
-                        "New York",
-                        "New York City",
-                        "Manhattan",
-                        "Greeley Square"
-                    ],
-                    "display_name": "Greeley Square, Manhattan",
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "salary_is_predicted": "1",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Disney Entertainment & ESPN Technology"
-                },
-                "id": "4857733399",
-                "longitude": -73.988611,
-                "redirect_url": "https://www.adzuna.com/land/ad/4857733399?se=BlGb_mad7xGhF-JMNZ_SoQ&utm_medium=api&utm_source=a60688b4&v=B2E99C2D980665FF74F57777D1214C9466D45B89"
-            },
-            {
-                "salary_max": 201096.7,
-                "created": "2024-11-07T08:46:49Z",
-                "latitude": 32.957035,
-                "salary_min": 201096.7,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmxHYl9tYWQ3eEdoRi1KTU5aX1NvUSIsImkiOiI0OTI5ODg4Mjk2In0.YGBHYe-IpwgU4bp_Oqr09ndieo629dADoYDRDGAcwkU",
-                "category": {
-                    "tag": "it-jobs",
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "description": "Job Title: 80553 - Principal Software Engineer Job Location: San Diego CA 92121 Onsite Requirements: Looking for someone with end-to-end ownership of the software development process Engineers to be responsible for building, testing, deploying, and operating the services they develop Someone with strong Python skills Need for in-depth AWS experience, including building, deploying, running, and testing AWS services Building greenfield AWS solutions from scratch The focus is on backend systems de\u2026",
-                "location": {
-                    "__CLASS__": "Adzuna::API::Response::Location",
                     "area": [
                         "US",
                         "California",
-                        "San Diego County",
-                        "Del Mar"
+                        "Sacramento County",
+                        "Sacramento"
                     ],
-                    "display_name": "Del Mar, San Diego County"
-                },
-                "title": "Principal Software Engineer",
-                "longitude": -117.252528,
-                "redirect_url": "https://www.adzuna.com/land/ad/4929888296?se=BlGb_mad7xGhF-JMNZ_SoQ&utm_medium=api&utm_source=a60688b4&v=2F7208C63C91AF9F317DE1BCAA031C6D6788A14C",
-                "salary_is_predicted": "1",
-                "company": {
-                    "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Softworld Inc"
-                },
-                "id": "4929888296"
-            }
-        ],
-        "courses_list": [
-            {
-                "title": "Liderazgo y gesti\u00f3n de equipos - Nivel avanzado",
-                "description": "Aprend\u00e9 sobre motivaci\u00f3n, evaluaciones de desempe\u00f1o, inteligencia emocional y mucho m\u00e1s de lo que implica el liderazgo.",
-                "link": "https://www.udemy.com/course/liderazgo-y-gestion-de-equipos-nivel-avanzado/"
-            },
-            {
-                "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
-                "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
-                "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
-            }
-        ]
-    },
-    {
-        "about_work": true,
-        "title": "Ingeniero de software senior en Google",
-        "position-title": "Senior Software Engineer at Google",
-        "description": "En este papel, ser\u00e1s parte del equipo de ingenieros de software de Google. Debes ser capaz de dise\u00f1ar y desarrollar sistemas software complejos y de alta calidad, y de trabajar con otros equipos para resolver problemas t\u00e9cnicos complejos. Aprender\u00e1s a trabajar con las \u00faltimas tecnolog\u00edas y a influir en la direcci\u00f3n t\u00e9cnica de la empresa.",
-        "duration": "> 7 a\u00f1os",
-        "requirements": [
-            "Experiencia como ingeniero de software principal",
-            "Conocimientos en m\u00faltiples tecnolog\u00edas y frameworks, liderazgo y comunicaci\u00f3n"
-        ],
-        "abilities": [
-            "Liderazgo",
-            "Influencia",
-            "Comunicaci\u00f3n efectiva"
-        ],
-        "courses": [
-            "Liderazgo y gesti\u00f3n de equipos avanzados",
-            "Gesti\u00f3n de cambio y innovaci\u00f3n"
-        ],
-        "jobs_list": [
-            {
-                "latitude": 47.677395,
-                "salary_max": 185973.23,
-                "created": "2024-11-05T15:47:23Z",
-                "category": {
-                    "tag": "it-jobs",
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "salary_min": 185973.23,
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibEdZeEFXZWQ3eEdoRi1KTU5aX1NvUSIsImkiOiI0OTI3NTc1NDY0In0.QDaxa6WL0aTN6uqG0TbLkRhNowe5YsSiEw7XTbXEbNA",
-                "title": "Senior Software Engineer, Google Cloud AI",
-                "location": {
-                    "area": [
-                        "US",
-                        "Washington",
-                        "King County",
-                        "Kirkland"
-                    ],
-                    "display_name": "Kirkland, King County",
-                    "__CLASS__": "Adzuna::API::Response::Location"
-                },
-                "description": "Minimum qualifications: - Bachelor's degree or equivalent practical experience. - 5 years of experience with software development in one or more programming languages, and with data structures/algorithms. - 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. Preferred qualifications: - Master's degree or PhD in Computer Science or related technical field. - 1 year of experience in a technical leadership role\u2026",
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "id": "4927575464",
-                "company": {
-                    "display_name": "Google",
-                    "__CLASS__": "Adzuna::API::Response::Company"
-                },
-                "salary_is_predicted": "1",
-                "longitude": -122.179938,
-                "redirect_url": "https://www.adzuna.com/details/4927575464?utm_medium=api&utm_source=a60688b4"
-            },
-            {
-                "salary_max": 190913.81,
-                "created": "2024-10-19T16:38:25Z",
-                "latitude": 47.677395,
-                "category": {
-                    "tag": "it-jobs",
-                    "label": "IT Jobs",
-                    "__CLASS__": "Adzuna::API::Response::Category"
-                },
-                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwNzc2MzMzNCIsInMiOiJsR1l4QVdlZDd4R2hGLUpNTlpfU29RIn0.DfB43XXI-wddLecGNjOxySrKoTWNNzgoZrRJLgPiu_s",
-                "salary_min": 190913.81,
-                "description": "Minimum qualifications: - Bachelor's degree or equivalent practical experience. - 5 years of experience with software development in one or more programming languages, and with data structures/algorithms. - 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. Preferred qualifications: - Master's degree or PhD in Computer Science or related technical field. - 1 year of experience in a technical leadership role\u2026",
-                "location": {
                     "__CLASS__": "Adzuna::API::Response::Location",
-                    "display_name": "Kirkland, King County",
-                    "area": [
-                        "US",
-                        "Washington",
-                        "King County",
-                        "Kirkland"
-                    ]
+                    "display_name": "Sacramento, Sacramento County"
                 },
-                "__CLASS__": "Adzuna::API::Response::Job",
-                "title": "Senior Software Engineer, Google Cloud Platforms",
-                "longitude": -122.179938,
-                "redirect_url": "https://www.adzuna.com/details/4907763334?utm_medium=api&utm_source=a60688b4",
-                "id": "4907763334",
+                "salary_is_predicted": "1",
+                "created": "2024-07-27T15:20:21Z",
+                "redirect_url": "https://www.adzuna.com/details/4797748001?utm_medium=api&utm_source=a60688b4",
                 "company": {
                     "__CLASS__": "Adzuna::API::Response::Company",
-                    "display_name": "Google"
+                    "display_name": "Oracle"
                 },
-                "salary_is_predicted": "1"
+                "description": "Job Description Provides direction and specialist knowledge in applying the technology/application to client business. Facilitation of customer product/application understanding through presentations demonstrations and benchmarks; provision of support throughout the sell. As a Senior Sales Consultant you will be responsible for providing pre-sales technical / functional support to internal teams, prospective clients, and customers while ensuring stakeholder satisfaction with minimal supervision\u2026",
+                "latitude": 38.57562,
+                "id": "4797748001",
+                "salary_max": 120837.02,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSG5rcHQ0LWQ3eEc1RXhmbnVwWGhzdyIsImkiOiI0Nzk3NzQ4MDAxIn0.QnUq4cmFEPT3xyhvrbEwXCUwoT_KyzNixhMBoMoAdc4",
+                "longitude": -121.46649,
+                "title": "Senior Solution Engineer - Food and Beverage Industry",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_min": 120837.02
+            },
+            {
+                "id": "4809767356",
+                "salary_max": 101355.95,
+                "description": "Description Provides direction and specialist knowledge in applying the technology/application to client business. Facilitation of customer product/application understanding through presentations demonstrations and benchmarks; provision of support throughout the sell. As a Senior Sales Consultant you will be responsible for providing presales technical / functional support to prospective clients and customers while ensuring customer satisfaction with minimal supervision. Acts as a technical res\u2026",
+                "salary_min": 101355.95,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "title": "Senior Solution Engineer - Food and Beverage Payments",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSG5rcHQ0LWQ3eEc1RXhmbnVwWGhzdyIsImkiOiI0ODA5NzY3MzU2In0.ik1fJf3E0iX1SkbeLM7p-8Hanfa_olSktB4t3Fz_oNM",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "1",
+                "location": {
+                    "area": [
+                        "US"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "US"
+                },
+                "redirect_url": "https://www.adzuna.com/details/4809767356?utm_medium=api&utm_source=a60688b4",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "CLBPTS"
+                },
+                "created": "2024-08-04T05:40:31Z"
             }
         ],
         "courses_list": [
             {
-                "title": "Liderazgo y gesti\u00f3n de equipos - Nivel avanzado",
-                "description": "Aprend\u00e9 sobre motivaci\u00f3n, evaluaciones de desempe\u00f1o, inteligencia emocional y mucho m\u00e1s de lo que implica el liderazgo.",
-                "link": "https://www.udemy.com/course/liderazgo-y-gestion-de-equipos-nivel-avanzado/"
-            },
-            {
                 "title": "Planificaci\u00f3n y Gesti\u00f3n de Proyectos: PMBOK y Agile Scrum",
                 "description": "Project Management, Gesti\u00f3n de Proyecto, Microsoft Project, Excel, Project Manager, Scrum Master, CSM, PMI, PMBOK, PMP",
                 "link": "https://www.udemy.com/course/planificacion-y-gestion-de-proyectos-cascada-y-agile-scrum/"
+            },
+            {
+                "title": "Desarrollando Habilidades de Liderazgo",
+                "description": "De Experto T\u00e9cnico a L\u00edder: Estrategias para una Transici\u00f3n",
+                "link": "https://www.udemy.com/course/de-experto-tecnico-a-lider-estrategias-para-una-transicion/"
             }
         ]
     }

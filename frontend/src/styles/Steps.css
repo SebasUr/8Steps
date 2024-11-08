@@ -13,7 +13,6 @@
   overflow-x: auto;
 }
 
-
 .wrap {
   display: flex;
   height: 100%;
@@ -202,24 +201,53 @@
   transform: scale(1.1); /* El botón se mueve hacia arriba */
 }
 
+.logo {
+  width: 3rem;
+  height: auto;
+
+}
 
 .navbar-steps-download {
+  height: 50px;
+  width: 40px;
   margin-top: auto; /* Esto lo empuja al final de la barra */
   filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(0%) contrast(100%);
   cursor: pointer;
   pointer-events: all;
   z-index: 9999999999999999;
   transition: transform 0.3s ease;
+  position: relative;
 }
 
 .navbar-steps-download:hover {
   transform: translateY(-5px); /* El botón se mueve hacia arriba */
 }
 
-.logo {
-  width: 3rem;
-  height: auto;
+.navbar-steps-download::after {
+  content: "Guardar trayectoria"; /* Mensaje del tooltip */
+  position: absolute;
+  right: 100%;
+  background-color: rgba(255, 255, 255, 0.1); /* Fondo con transparencia */
+  color: #fff; /* Color del texto del tooltip */
+  padding: 5px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  white-space: nowrap;
+  box-shadow: 0 2px 5px rgba(255, 255, 255, 0.3); /* Sombra para dar profundidad */
+  opacity: 0; /* Oculto por defecto */
+  transition: opacity 0.3s ease-in-out; /* Efecto de desvanecimiento */
+  pointer-events: none; /* Evita interferencia con el cursor */
+  z-index: 10; /* Asegura que esté por encima de otros elementos */
+  font-family: Arial, sans-serif;
+}
 
+.navbar-steps-download:hover::after {
+  opacity: 1; /* Muestra el tooltip al pasar el cursor */
+}
+
+.descarga {
+  width: 2.5rem;
+  height: auto;
 }
 
 .navbar-steps-menu {
@@ -354,4 +382,113 @@
   -webkit-line-clamp: 4;
   line-clamp: 4;
   -webkit-box-orient: vertical;
+}
+
+@media (max-width: 1000px) {
+  /* Cambiar el contenedor principal a scroll vertical */
+  .wrap {
+      display: block; /* Para que las secciones se apilen verticalmente */
+      overflow: auto;
+  }
+
+  /* Ajustar las secciones para diseño vertical */
+  .section {
+      height: auto; /* Dejar que el contenido determine la altura */
+      width: 100%; /* Ocupa todo el ancho en móviles */
+      position: relative;
+      margin-top: 20px; /* Añadir espacio entre secciones */
+      overflow: auto;
+      left: 0;
+  }
+
+  .block {
+    display: none;
+  }
+
+  /* Navbar en vertical */
+  .navbar-steps {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 4rem;
+    width: 100%;
+  }
+
+  .navbar-steps-logo {
+    width: 30px;
+    height: auto;
+    cursor: pointer;
+    order: 1;
+    margin-top: 40px;
+    margin-left: 20px;
+  }
+
+  /* Menú de navegación en columna */
+  .navbar-steps-menu {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    align-items: center;
+    width: 100%;
+    order: 2;
+  }
+
+  /* Icono de descarga en la parte inferior */
+  .navbar-steps-download {
+    width: 30px;
+    height: auto;
+    cursor: pointer;
+    order: 3;
+    margin-right: 30px;
+  }
+
+  /* Ajustes para las tarjetas de trabajo (Job Cards) */
+  .job-card-container {
+      display: flex;
+      flex-direction: column; /* Apilar verticalmente */
+      gap: 10px;
+  }
+
+  .job-card {
+      width: 100%; /* Expandir al ancho completo */
+      padding: 15px;
+  }
+
+  /* Ajustes para las tarjetas de cursos (Course Cards) */
+  .course-card-container {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+  }
+
+  .course-card {
+      width: 100%;
+      padding: 15px;
+  }
+
+  /* Ajustes para el contenedor principal de cada sección */
+  .main-section-container {
+      width: 90%; /* Ocupa casi todo el ancho en móviles */
+      margin: 0 auto;
+      font-size: 1rem;
+  }
+
+  /* Ajustes para el título del trabajo */
+  .main-job-title {
+      font-size: 1.5rem;
+  }
+
+  /* Reducir tamaño de texto en las tarjetas */
+  .job-title, .course-title {
+      font-size: 1.2rem;
+  }
+
+  .job-description, .course-description {
+      font-size: 0.9rem;
+  }
+
+  .wrap {
+    padding-top: 60px;
+  }
 }
